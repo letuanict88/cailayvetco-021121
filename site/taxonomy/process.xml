@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ec5b</objectGroupId>
+	<objectId>ec5be8fd-ef29-66a5-39bc-be04a8a1ea0a</objectId>
+	<items item-list="true">	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value>Chăn nuôi - Chăm sóc Phòng bệnh Gia súc - Gia cầm</value>
+	</item>	<item>	<key>banh-thuy-san</key>
+	<value>Chăn nuôi - Chăm sóc Phòng bệnh Thủy sản</value>
+	</item>	<item>	<key>benh-thu-cung</key>
+	<value>Chăn nuôi - Chăm sóc Phòng bệnh Thú cưng</value>
+	</item></items>
+	<internal-name>Quy trình chăn nuôi - chăm sóc - phòng bệnh</internal-name>
+	<file-name>process.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-07-28T09:01:45.052Z</createdDate>
+	<createdDate_dt>2020-07-28T09:01:45.052Z</createdDate_dt>
+	<lastModifiedDate>2020-07-28T09:01:45.052Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T09:01:45.052Z</lastModifiedDate_dt>
+</component>

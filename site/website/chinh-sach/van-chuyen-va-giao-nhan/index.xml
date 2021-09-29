@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsach</content-type>
+	<display-template>/templates/web/page/chinhsach.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8773a0b1</objectGroupId>
+	<objectId>8773a0b1-ee74-4da9-87fb-d9380ea19b43</objectId>
+	<internal-name>Vận chuyển và giao nhận</internal-name>
+	<navLabel>Vận chuyển và giao nhận</navLabel>
+	<title_s>Vận chuyển và giao nhận</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>van-chuyen-va-giao-nhan</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<imageBanner_s>/static-assets/images/news/img-chinh-sach.jpg</imageBanner_s>
+	<content_html>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Phương thức vận chuyển:&lt;/strong&gt; Vận chuyển bằng xe, t&amp;agrave;u, khi h&amp;agrave;ng h&amp;oacute;a được giao đến kho kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; chờ nhận th&amp;ocirc;ng tin kiểm tra.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thời hạn giao h&amp;agrave;ng&lt;/strong&gt;: C&amp;ocirc;ng ty thực hiện đ&amp;uacute;ng thỏa thuận về thời gian giao h&amp;agrave;ng cho kh&amp;aacute;ch h&amp;agrave;ng được giao kết trong hợp đồng, c&amp;aacute;c trường hợp thay đổi thời gian sẽ th&amp;ocirc;ng b&amp;aacute;o với kh&amp;aacute;ch h&amp;agrave;ng;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Giới hạn địa l&amp;yacute;:&lt;/strong&gt; Kh&amp;ocirc;ng giới hạn về địa l&amp;yacute; giao h&amp;agrave;ng, t&amp;ugrave;y theo v&amp;ugrave;ng, miền m&amp;agrave; c&amp;oacute; kế hoạch giao hoặc gửi h&amp;agrave;ng ph&amp;ugrave; hợp.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-08-04T09:05:19.209Z</createdDate>
+	<createdDate_dt>2020-08-04T09:05:19.209Z</createdDate_dt>
+	<lastModifiedDate>2020-09-24T02:58:41.293Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-24T02:58:41.293Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>973a85f5-2cc7-77ec-0870-b31e0631e669</key>
+	<value>Slide</value>
+<component id="973a85f5-2cc7-77ec-0870-b31e0631e669">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>973a</objectGroupId>
+	<objectId>973a85f5-2cc7-77ec-0870-b31e0631e669</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>973a85f5-2cc7-77ec-0870-b31e0631e669.xml</file-name>
+	<createdDate>2020-08-04T09:06:47.487Z</createdDate>
+	<createdDate_dt>2020-08-04T09:06:47.487Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T09:06:47.487Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T09:06:47.487Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+</page>

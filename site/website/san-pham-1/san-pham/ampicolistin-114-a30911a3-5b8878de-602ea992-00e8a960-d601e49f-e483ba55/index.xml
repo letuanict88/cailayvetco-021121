@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>60f2ad4f</objectGroupId>
+	<objectId>60f2ad4f-fbe1-4e83-9157-f3f131919fc8</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114-a30911a3-5b8878de-602ea992-00e8a960-d601e49f-e483ba55</folder-name>
+	<internal-name>PENCIN</internal-name>
+	<navLabel>PENCIN</navLabel>
+	<productName_s>PENCIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/19 PENCINA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.2173%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần: Trong 1 lọ chứa&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;T&amp;iacute;nh cho lọ 4g&lt;/p&gt;
+&lt;p&gt;Penicillin Procain 4.000.000UI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Điều trị c&amp;aacute;c bệnh vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m tử cung, bệnh dấu son, nhiễm tr&amp;ugrave;ng huyết, nhiệt th&amp;aacute;n, vi&amp;ecirc;m khớp, nhọt mủ,&amp;hellip;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.77527%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.0073%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;H&amp;ograve;a đều nước cất hay sinh l&amp;yacute; mặn 9&amp;permil; v&amp;agrave;o lọ thuốc bột.&lt;/p&gt;
+&lt;p&gt;Lắc kỹ. Ti&amp;ecirc;m bắp hoặc ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, ngựa: 10.000-15.000UI/kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- Heo, d&amp;ecirc;: 15.000-20.000UI/kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y ti&amp;ecirc;m 1 lần. D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-22&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:15:46.737Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:15:46.737Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

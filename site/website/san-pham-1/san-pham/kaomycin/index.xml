@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b67e</objectGroupId>
+	<objectId>b67ebc0f-6fa0-9cf7-86c9-984503478122</objectId>
+	<internal-name>KAOMYCIN</internal-name>
+	<navLabel>KAOMYCIN</navLabel>
+	<productName_s>KAOMYCIN</productName_s>
+	<isHot_b>false</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>kaomycin</folder-name>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/94 KAOMYCIN HOP 10GA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.941%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sulfadimidin sodium 16,25g&lt;/p&gt;
+&lt;p&gt;Streptomycin sulfate 8,75g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; được vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ograve;, d&amp;ecirc;: đặc trị c&amp;aacute;c bệnh nhiễm tr&amp;ugrave;ng đường ruột,&amp;nbsp;hội chứng ti&amp;ecirc;u chảy dẫn đến mất nước, hồng lỵ.&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: cầu tr&amp;ugrave;ng, thương h&amp;agrave;n, bệnh do E.coli, ti&amp;ecirc;u&amp;nbsp;chảy, bạch lỵ.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.36096%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.6979%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn cho ăn hay pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;* Liều trị: 1g thuốc/2,5kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;Ph&amp;acirc;n liều th&amp;agrave;nh 2 lần/ng&amp;agrave;y. D&amp;ugrave;ng 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;* Liều ph&amp;ograve;ng: d&amp;ugrave;ng 1/2 liều trị.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-47&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:09:21.330Z</createdDate>
+	<createdDate_dt>2020-08-03T04:09:21.330Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:47:42.978Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:47:42.978Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:09:21.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

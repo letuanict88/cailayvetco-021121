@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3368</objectGroupId>
+	<objectId>33686ab6-2867-148e-dd12-9c5aff096408</objectId>
+	<items item-list="true">	<item>	<key>announcement</key>
+	<value>Công bố thông tin</value>
+	</item>	<item>	<key>shareholders</key>
+	<value>Đại hội đồng cổ đông</value>
+	</item></items>
+	<file-name>quan-he-co-dong.xml</file-name>
+	<folder-name/>
+	<internal-name>Quan hệ cổ đông</internal-name>
+	<createdDate>2020-07-07T02:44:40.893Z</createdDate>
+	<createdDate_dt>2020-07-07T02:44:40.893Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T03:45:14.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T03:45:14.139Z</lastModifiedDate_dt>
+</component>

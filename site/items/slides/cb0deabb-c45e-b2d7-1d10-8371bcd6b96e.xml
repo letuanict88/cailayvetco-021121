@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cb0d</objectGroupId>
+	<objectId>cb0deabb-c45e-b2d7-1d10-8371bcd6b96e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 195.png</image_s>
+	</item></slide_o>
+	<file-name>cb0deabb-c45e-b2d7-1d10-8371bcd6b96e.xml</file-name>
+	<internal-name>Header Tin tức chi tiết</internal-name>
+	<createdDate>2020-06-23T03:44:18.790Z</createdDate>
+	<createdDate_dt>2020-06-23T03:44:18.790Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T03:44:18.790Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:44:18.790Z</lastModifiedDate_dt>
+</component>

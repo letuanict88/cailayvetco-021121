@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/ennewsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4103</objectGroupId>
+	<objectId>4103116a-5453-e5a7-2ba4-19117eaeb683</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-2</folder-name>
+	<internal-name>Intensive training on 3-layer Protection Packages</internal-name>
+	<navLabel>Intensive training on 3-layer Protection Packages</navLabel>
+	<title_s>Intensive training on 3-layer Protection Packages</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/fa249ec2-3939-7ea9-8369-868670e7aea1.xml</key>
+	<value>Header - Test 2</value>
+	<include>/site/items/slides/fa249ec2-3939-7ea9-8369-868670e7aea1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Layer 192.png</image_s>
+	<content_html>&lt;p&gt;On February 21 and 22, 2020, sales staff of Cai Lay Veterinary Pharmacy Joint Stock Company attended a training course on Mavin Group's 3-layer Protection Package at Mavin Austfeed Dong Thap Factory.&lt;/p&gt;
+&lt;p&gt;The content of the training program:&lt;/p&gt;
+&lt;p&gt;1. Post-treatment plan for ASF and re-stocking instructions&lt;/p&gt;
+&lt;p&gt;2. Introduction of 3-layer Protection Packages (CL-Tylva 50, Glucanvita, Formavet)&lt;/p&gt;
+&lt;p&gt;3. Nutrition of pig bran&lt;/p&gt;
+&lt;p&gt;4. Successful Repetition Program with Mavin&lt;/p&gt;
+&lt;p&gt;In addition to the training program, staff also participated in the exchange program to connect the team spirit including: football match, team meetings...&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T04:57:14.126Z</createdDate>
+	<createdDate_dt>2020-02-24T05:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:06:17.820Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:06:17.820Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

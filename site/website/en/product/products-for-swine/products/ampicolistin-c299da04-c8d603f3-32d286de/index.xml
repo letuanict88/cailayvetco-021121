@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c53dfdd0</objectGroupId>
+	<objectId>c53dfdd0-b205-47a6-90b4-9ead2e3f224b</objectId>
+	<internal-name>MEKOSAL</internal-name>
+	<navLabel>MEKOSAL</navLabel>
+	<productName_s>MEKOSAL</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-c299da04-c8d603f3-32d286de</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/245852d2-bebb-574b-c3e3-eb533742b888.xml</key>
+	<value>Slide</value>
+	<include>/site/items/245852d2-bebb-574b-c3e3-eb533742b888.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Group of fostering drugs increases resistance</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/8 MEKOSAL 2 NewA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 33.3333%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Butaphosphane 15g&lt;/p&gt;
+&lt;p&gt;Vitamin B12 15mg&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Prevention of metabolic disorders helps increase resistance resistance, reduced mortality, morbidity, anti-asthenia, rickets piles, poor appetite, anemia, polio, convulsions in buffalos, cows, pigs, goat, sheep, dog, cat, poultry.&lt;/p&gt;
+&lt;p&gt;- Increase milk secretion, support, help speed up recovery to treatment course.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 33.3333%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 33.3333%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular, subcutaneous injection. Can be mixed in water to drink.&lt;/p&gt;
+&lt;p&gt;* Cattle used for 3 consecutive days, then repeated injections once a week.&lt;/p&gt;
+&lt;p&gt;* Poultry for continuous&amp;nbsp; drinking 1 week, then for 2 days / week.&lt;/p&gt;
+&lt;p&gt;- Buffalos, cows, pigs, goats, sheep: 1ml / 15-20kg weight&lt;/p&gt;
+&lt;p&gt;- Poultry: 1ml / 3-5kg weight&lt;/p&gt;
+&lt;p&gt;- Dogs and cats: 0.5-5ml / head&lt;/p&gt;
+&lt;p&gt;Depending on body weight.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-294&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-07-13T07:04:20.649Z</createdDate>
+	<createdDate_dt>2020-07-13T07:04:20.649Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:42:45.214Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:42:45.214Z</lastModifiedDate_dt>
+	<createddate_dt>2020-07-13T04:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
+	<isHot_b>true</isHot_b>
+</page>

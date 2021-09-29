@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>514d</objectGroupId>
+	<objectId>514d302d-48aa-ab09-dac3-b7ca15cf8b67</objectId>
+	<file-name>514d302d-48aa-ab09-dac3-b7ca15cf8b67.xml</file-name>
+	<internal-name>Water treatment and environmental improvement</internal-name>
+	<productgrouplevel1_s>thuoc-cho-tom-ca</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-xu-ly-nuoc-cai-tao-moi-truong</productgrouplevel2_s>
+	<createdDate>2020-08-05T05:01:19.723Z</createdDate>
+	<createdDate_dt>2020-08-05T05:01:19.723Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T05:01:19.723Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:01:19.723Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enjobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b605</objectGroupId>
+	<objectId>b6051b02-bf49-9b7d-bd58-a6c5da4861fb</objectId>
+	<internal-name> Director of Mavin Duckfarm </internal-name>
+	<navLabel>Director of Mavin Duckfarm </navLabel>
+	<jobTitle_s> Director of Mavin Duckfarm </jobTitle_s>
+	<file-name>index.xml</file-name>
+	<folder-name>director-of-mavin-duck-farm-1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>2de55976-8a07-9838-c041-286a5799022d</key>
+	<value>Slide</value>
+<component id="2de55976-8a07-9838-c041-286a5799022d">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2de5</objectGroupId>
+	<objectId>2de55976-8a07-9838-c041-286a5799022d</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>2de55976-8a07-9838-c041-286a5799022d.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T08:56:47.193Z</createdDate>
+	<createdDate_dt>2020-07-13T08:56:47.193Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T08:56:47.193Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:56:47.193Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;Number of recruitment: 1 person&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job description:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Managing, supervising and operating the production and business activities of Duck-Farm segment at Dong Thap branch&lt;/p&gt;
+&lt;p&gt;- Making plan to develop processing breeding system&lt;/p&gt;
+&lt;p&gt;- Market organization - promote and introduce breeding ducks&lt;/p&gt;
+&lt;p&gt;- Managing and operating the hamlet&lt;/p&gt;
+&lt;p&gt;- Trading in accordance with regulations and effective development&lt;/p&gt;
+&lt;p&gt;- Organizing to build and orient the system development, administrative and personnel organization in branch activities, creating environment, conditions and motivation for staff development&lt;/p&gt;
+&lt;p&gt;- Be responsible to the company for the business results of the area in which they are responsible&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirement:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Graduated Veterinarian, Breeding Engineer, Agricultural Engineer, preferred Veterinarians, Livestock Engineer&lt;/p&gt;
+&lt;p&gt;- Experience in equivalent positions from 3 to less than 5 years&lt;/p&gt;
+&lt;p&gt;- Be creative in management and business&lt;/p&gt;
+&lt;p&gt;- Having leadership skills and organizational connection&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefit:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Income from 20 to 40 million / month, enjoy bonus according to the Company's regulations&lt;/p&gt;
+&lt;p&gt;- Enjoy all benefits of social insurance, health insurance, voluntary holidays, Tet according to current law&lt;/p&gt;
+&lt;p&gt;- Health care company (BHSK) 24/24&lt;/p&gt;
+&lt;p&gt;- Join and enjoy the rights of a union.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Profile request:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Job application, certificate of conduct, health certificate (within 6 months).&lt;/p&gt;
+&lt;p&gt;- Identity card, household registration book (copy).&lt;/p&gt;
+&lt;p&gt;- Relevant diplomas and certificates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Apply directly at the company.&lt;/p&gt;
+&lt;p&gt;- Candidates applying by email please scan diplomas, certificates, transcripts, CV and relevant documents sent to the Company Email: tuyendung@cailayvetco.com&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-07-13T08:55:18.477Z</createdDate>
+	<createdDate_dt>2020-07-13T08:55:18.477Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:41:58.789Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:41:58.789Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-07-31T07:53:16.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2aa9</objectGroupId>
+	<objectId>2aa92fff-51a7-a810-a09a-c248b76417c2</objectId>
+	<internal-name>Hội chứng giảm đẻ trên vịt</internal-name>
+	<navLabel>Hội chứng giảm đẻ trên vịt</navLabel>
+	<diseaseName_s>Hội chứng giảm đẻ trên vịt - Bệnh do Tembusu virus gây ra</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true"/>
+	<file-name>index.xml</file-name>
+	<folder-name>hoi-chung-giam-de</folder-name>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;Bệnh do Tembusu virus g&amp;acirc;y ra Hội chứng giảm đẻ tr&amp;ecirc;n vịt do một chủng flavivirus mới g&amp;acirc;y ra, c&amp;oacute; t&amp;ecirc;n l&amp;agrave; Tembusu virus. Bệnh đang g&amp;acirc;y ảnh hưởng to lớn tới ng&amp;agrave;nh vịt của c&amp;aacute;c nước Trung Quốc v&amp;agrave; Đ&amp;ocirc;ng Nam &amp;Aacute;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Một số th&amp;ocirc;ng tin:&lt;/p&gt;
+&lt;p&gt;- Tembusu virus c&amp;oacute; thể được truyền qua chim v&amp;agrave; muỗi&lt;/p&gt;
+&lt;p&gt;- Cũng c&amp;oacute; thể l&amp;acirc;y truyền qua &amp;ocirc; nhiễm ph&amp;acirc;n, m&amp;ocirc;i trường,...&lt;/p&gt;
+&lt;p&gt;Triệu chứng:&lt;/p&gt;
+&lt;p&gt;- Vịt con: vi&amp;ecirc;m n&amp;atilde;o&lt;/p&gt;
+&lt;p&gt;- Vịt đẻ: giảm năng suất trứng, ti&amp;ecirc;u chảy&lt;/p&gt;
+&lt;p&gt;Biện ph&amp;aacute;p ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p&gt;- Thực hiện nghi&amp;ecirc;m ngặt chương tr&amp;igrave;nh văc xin tr&amp;ecirc;n vịt đẻ&lt;/p&gt;
+&lt;p&gt;- Tăng cường trợ sức, trợ lực cho đ&amp;agrave;n vịt&lt;/p&gt;
+&lt;p&gt;- Điều trị dự ph&amp;ograve;ng c&amp;aacute;c bệnh nhiễm khuẩn khi thời tiết thay đổi&lt;/p&gt;
+&lt;p&gt;- Thực hiện tốt an to&amp;agrave;n sinh học trong chăn nu&amp;ocirc;i&lt;/p&gt;
+&lt;p&gt;Tham khảo chi tiết về bệnh v&amp;agrave; c&amp;aacute;ch ph&amp;ograve;ng chống tại link sau: &lt;em&gt;&lt;strong&gt;&lt;a href="https://issuu.com/tapdoanmavin/docs/hoi_chung_giam_de_o_vit_update"&gt;Hội chứng giảm đẻ tr&amp;ecirc;n vịt - Bệnh do Tembusu virus.&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Li&amp;ecirc;n hệ khi cần tư vấn: Mr. Nguyễn Văn Minh - 0975 515 383&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-08-10T07:48:46.744Z</createdDate>
+	<createdDate_dt>2020-08-10T07:48:47.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:48:46.744Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:48:46.744Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

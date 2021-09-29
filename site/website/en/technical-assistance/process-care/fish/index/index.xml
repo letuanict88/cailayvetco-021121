@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3aaf</objectGroupId>
+	<objectId>3aaf417f-99fe-3273-5f43-73954186bb2a</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>c9ba88fc-cdf3-009d-1ce2-0e2657c5afcd</key>
+	<value>Slide</value>
+<component id="c9ba88fc-cdf3-009d-1ce2-0e2657c5afcd">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c9ba</objectGroupId>
+	<objectId>c9ba88fc-cdf3-009d-1ce2-0e2657c5afcd</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>c9ba88fc-cdf3-009d-1ce2-0e2657c5afcd.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T03:48:54.969Z</createdDate>
+	<createdDate_dt>2020-07-29T03:48:54.969Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:48:54.969Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:48:54.969Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>0fde038b-6ea6-2b6f-ced5-c5cc571ae47d</key>
+	<value>FISH CARE</value>
+<component id="0fde038b-6ea6-2b6f-ced5-c5cc571ae47d">
+	<content-type>/component/listprocessEn</content-type>
+	<display-template>/templates/web/component/list-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0fde</objectGroupId>
+	<objectId>0fde038b-6ea6-2b6f-ced5-c5cc571ae47d</objectId>
+	<file-name>0fde038b-6ea6-2b6f-ced5-c5cc571ae47d.xml</file-name>
+	<internal-name>FISH CARE</internal-name>
+	<title_s>FISH CARE</title_s>
+	<processType_s>banh-thuy-san</processType_s>
+	<createdDate>2020-07-29T03:53:07.475Z</createdDate>
+	<createdDate_dt>2020-07-29T03:53:07.475Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:49:36.148Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:49:36.148Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>FISH CARE</internal-name>
+	<navLabel>FISH CARE</navLabel>
+	<t_s>FISH CARE</t_s>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<createdDate>2020-07-29T03:48:22.705Z</createdDate>
+	<createdDate_dt>2020-07-29T03:48:22.705Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:49:15.174Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:49:15.174Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c116</objectGroupId>
+	<objectId>c11694bb-20e3-b38c-aaaf-776092b8d3ba</objectId>
+	<internal-name>MKV-BROM POWDER</internal-name>
+	<navLabel>MKV-BROM POWDER</navLabel>
+	<productName_s>MKV-BROM POWDER</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-brom-powder</folder-name>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/MKV Brom powder.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bromhexin HCl 2g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm ho, long đờm, ti&amp;ecirc;u chất nh&amp;agrave;y trong c&amp;aacute;c bệnh vi&amp;ecirc;m&amp;nbsp;phế quản, vi&amp;ecirc;m phổi ở gia s&amp;uacute;c, gia cầm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kết hợp với kh&amp;aacute;ng sinh gi&amp;uacute;p tăng sự x&amp;acirc;m nhập của&amp;nbsp;kh&amp;aacute;ng sinh v&amp;agrave;o phổi, tăng t&amp;aacute;c dụng điều trị nhiễm khuẩn.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.05157%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.3167%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha nước cho uống hoặc trộn thức ăn cho ăn.&lt;/p&gt;
+&lt;p&gt;- Gia cầm: 1g/5-10kg thể trọng/ng&amp;agrave;y hay 1g/1-2l&amp;iacute;t nước&amp;nbsp;cho uống.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, ngựa, heo: 1g/10-20kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Kết hợp với kh&amp;aacute;ng sinh trong điều trị bệnh nhiễm tr&amp;ugrave;ng&amp;nbsp;đường h&amp;ocirc; hấp c&amp;oacute; đờm.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-341&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T07:27:31.272Z</createdDate>
+	<createdDate_dt>2020-08-03T07:27:31.272Z</createdDate_dt>
+	<lastModifiedDate>2020-08-29T06:58:54.557Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T06:58:54.557Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T07:27:31.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

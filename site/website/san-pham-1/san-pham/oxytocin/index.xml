@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bf1b</objectGroupId>
+	<objectId>bf1b269b-5978-f86c-b677-4d1320276317</objectId>
+	<internal-name>OXYTOCIN</internal-name>
+	<navLabel>OXYTOCIN</navLabel>
+	<productName_s>OXYTOCIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>oxytocin</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Oxytocin 2ml.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.8029%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oxytocin 1.000UI&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tăng cường trương lực cơ trơn tử cung: giục đẻ, k&amp;iacute;ch&amp;nbsp;th&amp;iacute;ch ra nhau sớm, k&amp;iacute;ch th&amp;iacute;ch tiết sữa, tăng cường co b&amp;oacute;p&amp;nbsp;đẩy c&amp;aacute;c chất dơ bẩn hoặc ổ vi&amp;ecirc;m h&amp;oacute;a mủ trong tử cung&amp;nbsp;ra ngo&amp;agrave;i ở tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu, heo, ch&amp;oacute;, m&amp;egrave;o.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.49906%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.6979%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp. D&amp;ugrave;ng ti&amp;ecirc;m tĩnh mạch khi th&amp;uacute; nu&amp;ocirc;i con k&amp;eacute;m&amp;nbsp;sữa, mất sữa.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 2-6ml/con&lt;/p&gt;
+&lt;p&gt;- Heo: 1-2ml/con&lt;/p&gt;
+&lt;p&gt;- D&amp;ecirc;, cừu: 0,3-2ml/con&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 0,2-1ml/con&lt;/p&gt;
+&lt;p&gt;Kh&amp;ocirc;ng qu&amp;aacute; 4 lần ti&amp;ecirc;m/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-69&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T07:07:41.331Z</createdDate>
+	<createdDate_dt>2020-08-03T07:07:41.331Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:44:31.342Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:44:31.342Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T07:07:41.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

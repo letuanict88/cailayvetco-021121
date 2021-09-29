@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f325</objectGroupId>
+	<objectId>f325bd65-0b15-3b5c-c990-62026748e3eb</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/quan-he.png</image_s>
+	</item></slide_o>
+	<file-name>f325bd65-0b15-3b5c-c990-62026748e3eb.xml</file-name>
+	<internal-name>Header - Quan hệ cổ đông </internal-name>
+	<createdDate>2020-07-07T07:17:43.993Z</createdDate>
+	<createdDate_dt>2020-07-07T07:17:43.993Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T07:17:43.993Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T07:17:43.993Z</lastModifiedDate_dt>
+</component>

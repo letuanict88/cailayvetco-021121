@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5c55</objectGroupId>
+	<objectId>5c55647d-fad4-a2f1-7193-53e3b620bbab</objectId>
+	<internal-name>MEKOMEC</internal-name>
+	<navLabel>MEKOMEC</navLabel>
+	<productName_s>MEKOMEC</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mekomec</folder-name>
+	<isHot_b>true</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true"/>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value_smv>Nhóm thuốc sát trùng nấm, cầu trùng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/108 MEKOMECA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.4935%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ivermectin 50mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 10ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều trị c&amp;aacute;c bệnh nhiễm k&amp;yacute; sinh tr&amp;ugrave;ng như: ve, ghẻ, bọ ch&amp;eacute;t,&amp;nbsp;mạt, &amp;hellip; tr&amp;ecirc;n heo, b&amp;ograve;, d&amp;ecirc;, cừu, ch&amp;oacute;, m&amp;egrave;o.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thuốc ngấm v&amp;agrave;o tế b&amp;agrave;o nang quanh lỗ ch&amp;acirc;n l&amp;ocirc;ng, ph&amp;oacute;ng&amp;nbsp;th&amp;iacute;ch từ từ n&amp;ecirc;n c&amp;oacute; t&amp;aacute;c dụng sau 3-5 ng&amp;agrave;y sử dụng v&amp;agrave; k&amp;eacute;o&amp;nbsp;d&amp;agrave;i tr&amp;ecirc;n 1 th&amp;aacute;ng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.18967%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.3167%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ch&amp;oacute;, m&amp;egrave;o: vạch l&amp;ocirc;ng tr&amp;ecirc;n sống lưng rồi nhỏ thuốc l&amp;ecirc;n..&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ograve;, d&amp;ecirc;, cừu: đổ thuốc dọc theo sống lưng.&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 1ml/ 8-10kg thể trọng hay 4-5 giọt/kg TT.&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ograve;, d&amp;ecirc;, cừu: 1ml/10kg thể trọng hay 4 giọt/kg TT.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng 1 lần/th&amp;aacute;ng hoặc lặp lại sau 7 ng&amp;agrave;y khi cần thiết.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-291&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T08:47:52.724Z</createdDate>
+	<createdDate_dt>2020-08-03T08:47:52.724Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:29:39.066Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:29:39.066Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:47:53.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

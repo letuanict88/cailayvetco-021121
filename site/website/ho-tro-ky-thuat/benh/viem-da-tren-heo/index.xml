@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3dd3</objectGroupId>
+	<objectId>3dd3dfd2-c64b-20f1-6e2f-3bf29e2ef584</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Chứng viêm da trên heo</internal-name>
+	<navLabel>Chứng viêm da trên heo</navLabel>
+	<diseaseName_s>Chứng viêm da trên heo</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<file-name>index.xml</file-name>
+	<folder-name>viem-da-tren-heo</folder-name>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;1. HIỆN TRẠNG&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c trại chăn nu&amp;ocirc;i thường hay gặp t&amp;igrave;nh trạng vi&amp;ecirc;m da tr&amp;ecirc;n heo rất kh&amp;oacute; điều trị, người chăn nu&amp;ocirc;i thường nghĩ rằng heo bệnh l&amp;agrave; do:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thiếu vitamine A, thiếu kẽm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ghẻ, nấm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dị ứng &amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhưng khi xem x&amp;eacute;t th&amp;igrave; cho thấy đ&amp;atilde; chủng ngừa đầy đủ, đ&amp;atilde; s&amp;aacute;t tr&amp;ugrave;ng chuồng trại thường xuy&amp;ecirc;n bổ t&amp;uacute;c kh&amp;aacute;ng sinh, vitamine &amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. NGUY&amp;Ecirc;N NH&amp;Acirc;N&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chủ yếu:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Do nhiễm Circovirus, thường thấy t&amp;igrave;nh trạng vi&amp;ecirc;m da từ sau cai sữa trở đi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thứ yếu:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Do nhiễm Staphylococcus hyicus, vi khuẩn n&amp;agrave;y g&amp;acirc;y ra chứng vi&amp;ecirc;m da xuất tiết (GREASY PIG DISEASE - EXUDATIVE EPIDERMITIS) cho heo ngay từ v&amp;agrave;i ng&amp;agrave;y tuổi đầu ti&amp;ecirc;n. Nhiễm khuẩn thường k&amp;eacute;m sau khi da bị trầy, cắn hay bị xước do rơm l&amp;oacute;t, m&amp;ugrave;n cưa cứng v&amp;agrave; bẩn g&amp;acirc;y tổn thương da&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. TRIỆU CHỨNG&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;VI&amp;Ecirc;M DA DO CIRCOVIRUS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vi&amp;ecirc;m da l&amp;agrave; những giai đoạn bệnh kh&amp;aacute;c nhau do c&amp;ugrave;ng 1 nguy&amp;ecirc;n nh&amp;acirc;n: nhiễm CIRCOVIRUS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Virus nhiễm rất sớm cho heo sơ sinh nhưng qu&amp;aacute; tr&amp;igrave;nh bệnh l&amp;yacute; thường xảy ra muộn: từ sau khi heo cai sữa. C&amp;oacute; 2 giai đoạn bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;PMWS (hội chứng c&amp;ograve;i cọc sau cai sữa) hay xảy ra trong giai đoạn 6 &amp;ndash; 9 tuần tuổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;PDNS (hội chứng vi&amp;ecirc;m da &amp;ndash; suy thận) gặp tr&amp;ecirc;n heo tr&amp;ecirc;n 9 tuần tuổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;aacute;c nh&amp;acirc;n g&amp;acirc;y bệnh ch&amp;iacute;nh l&amp;agrave; PORCINE CIRCOVIRUS TYPE 2 (PCV2)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;aacute;c t&amp;aacute;c nh&amp;acirc;n đồng nhiễm như:&amp;nbsp; PPV (porcine parvovirus), PRRSV (porcine respiratory - reproduction syndrome virus), SIV (swine influenza virus), Mycoplasma spp.; APP, Heamophilus parasuis&amp;hellip;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh quan trọng kh&amp;ocirc;ng phải l&amp;agrave; tỉ lệ chết m&amp;agrave; l&amp;agrave;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Giảm nghi&amp;ecirc;m trọng năng suất chăn nu&amp;ocirc;i&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Dẫn đến chẩn đo&amp;aacute;n lầm với c&amp;aacute;c bệnh kh&amp;aacute;c&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Tốn k&amp;eacute;m chi ph&amp;iacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Ph&amp;aacute;t sinh th&amp;ecirc;m nhiều bệnh kh&amp;aacute;c&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;VI&amp;Ecirc;M DA TRONG PMWS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sốt 41 - 42oC, đột tử, c&amp;oacute; thể xuất hiện những triệu chứng thần kinh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sụt c&amp;acirc;n, hốc h&amp;aacute;c, l&amp;ocirc;ng th&amp;ocirc; r&amp;aacute;p, da t&amp;aacute;i nhợt th&amp;ocirc; r&amp;aacute;p, x&amp;ugrave; x&amp;igrave;, đ&amp;oacute;ng vảy, đ&amp;ocirc;i khi bị v&amp;agrave;ng da, chậm ph&amp;aacute;t triển (giai đoạn 6-8 tuần tuổi) v&amp;agrave; tai bị đổi m&amp;agrave;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số trường hợp, bệnh thường k&amp;egrave;m với một số triệu chứng về h&amp;ocirc; hấp (kh&amp;oacute; thở do vi&amp;ecirc;m phổi) v&amp;agrave; ti&amp;ecirc;u h&amp;oacute;a (30% trường hợp bị ti&amp;ecirc;u chảy v&amp;agrave; lo&amp;eacute;t dạ d&amp;agrave;y).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hạch bạch huyết ngoại vi sưng to, đặc biệt l&amp;agrave; giữa hai ch&amp;acirc;n sau của heo. Nếu kh&amp;aacute;m kỷ th&amp;igrave; c&amp;oacute; thể thấy hạch bẹn sưng lớn như một quả banh golf.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Da heo sần s&amp;ugrave;i, đ&amp;oacute;ng vảy trong PMWS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thiệt hại về kinh tế:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Giả sử mức độ tổn thương l&amp;agrave; 25% &amp;agrave;&amp;nbsp; tăng trọng giảm 15%&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Heo c&amp;oacute; tăng trọng 700g/ con/ ng&amp;agrave;y &amp;agrave; mất 150g/con/ ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trong 3 th&amp;aacute;ng mỗi heo mất: 90 x 150 = 13.500g ~ 13,5kg&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Nếu trại c&amp;oacute; 100 heo thịt &amp;agrave; thiệt hại 1350kg&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Số tiền tổn thất &amp;agrave; 45.000/kg x 1350kg = 60.750.000 vnđ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;VI&amp;Ecirc;M DA TRONG PDNS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thường ph&amp;aacute;t hiện triệu chứng vi&amp;ecirc;m da suy thận (PDNS) trong những đ&amp;agrave;n bị PMWS.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tỉ lệ heo cai sữa chết khoảng từ 6-10% nhưng th&amp;ocirc;ng thường cao hơn (20%). Tỉ lệ chết ở heo lớn hơn c&amp;oacute; thể l&amp;ecirc;n đến 10%.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n da xuất hiện c&amp;aacute;c dấu đỏ tr&amp;ocirc;ng như nhũng vết xuất huyết của bệnh dịch tả hay ph&amp;oacute; thương h&amp;agrave;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những ca bệnh c&amp;oacute; thể k&amp;eacute;o d&amp;agrave;i trong một đ&amp;agrave;n nhiều th&amp;aacute;ng. Ch&amp;uacute;ng thường đạt đến đỉnh điểm sau 6-12 th&amp;aacute;ng v&amp;agrave; sau đ&amp;oacute; giảm từ từ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;aacute;c heo gầy v&amp;agrave; da v&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;L&amp;aacute;ch v&amp;agrave; nhiều hạch bạch huyết sưng to. Tuy nhi&amp;ecirc;n, vẫn phải đặt nghi vấn trong những trường hợp h&amp;igrave;nh ảnh tuyến bạch huyết sưng to.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;acirc;n bị sưng phồng với những đốm trắng nhỏ c&amp;oacute; thể quan s&amp;aacute;t bằng mắt từ bề mặt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Phổi thường d&amp;iacute;nh, c&amp;oacute; đốm ph&amp;ugrave; nề, c&amp;oacute; vằn v&amp;agrave; dai&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngực, m&amp;ocirc; v&amp;agrave; cơ quan ổ bụng bị ph&amp;ugrave; nề hay &amp;uacute;ng nước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Heo bị đỏ da trong PDNS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;VI&amp;Ecirc;M DA DO Staphylococcus&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh thường thấy ở heo khoảng 7 ng&amp;agrave;y đến 5 tuần tuổi. L&amp;uacute;c đầu, tr&amp;ecirc;n da ở v&amp;ugrave;ng m&amp;aacute;, m&amp;ocirc;ng, đầu gối do cọ hay quỳ xuống nến, xuất hiện những nốt lốm đốm mảnh, n&amp;acirc;u nhạt. Trong v&amp;ograve;ng 3-5 ng&amp;agrave;y, những nốt n&amp;agrave;y lan ra khắp bụng, n&amp;aacute;ch rồi trở n&amp;ecirc;n th&amp;acirc;m t&amp;iacute;m, c&amp;oacute; khi đen. Bề mặt da lở lo&amp;eacute;t v&amp;agrave; bao phủ một lớp dịch rỉ nhờn nhờn, sau đ&amp;ocirc;ng kh&amp;ocirc; d&amp;iacute;nh bết l&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;acirc;n nhiệt kh&amp;ocirc;ng tăng v&amp;agrave; con vật kh&amp;ocirc;ng ngứa g&amp;atilde;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vi&amp;ecirc;m lở lo&amp;eacute;t da c&amp;oacute; khi chỉ một v&amp;agrave;i đ&amp;agrave;n, nhưng c&amp;oacute; khi bị tất cả ở đ&amp;agrave;n lợn. Heo c&amp;agrave;ng&amp;nbsp; nhỏ bị bệnh nặng trầm trọng hơn chiếm tới 90% v&amp;agrave; g&amp;acirc;y chết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những đ&amp;aacute;m lở c&amp;oacute; thể thấy ở lợn lớn, dịch rỉ nhờn nhờn sau đ&amp;oacute; lo&amp;eacute;t ở v&amp;ugrave;ng lưng, m&amp;ocirc;ng, tai bị teo. Lợn bệnh đau đớn da nhăn nheo, gầy yếu, giảm c&amp;acirc;n, chết. Bệnh c&amp;oacute; thể khỏi, song để lại những sẹo lớn tr&amp;ecirc;n th&amp;acirc;n thể.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. GIẢI PH&amp;Aacute;P&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;TRƯỜNG HỢP NHIỄM CIRCVIRUS&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Giải ph&amp;aacute;p trước mắt: kh&amp;ocirc;ng mang lại kết quả mong muốn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng trại; hạn chế nhập bầy&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Loại bỏ heo qu&amp;aacute; suy nhược&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;aacute;ch ri&amp;ecirc;ng heo c&amp;oacute; dấu hiệu bệnh l&amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng MKV-Growth New + Vimilac Plus 2 trộn v&amp;agrave;o thức ăn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;m Mekosal + Mekozym + Vitamin ADE&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;ograve;ng phụ nhiễm với Cl-Speclinject (hay Erytetrasone hay Spiracolis)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Giải ph&amp;aacute;p to&amp;agrave;n diện:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Quản l&amp;iacute; trại cai sữa:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Khu vực nu&amp;ocirc;i n&amp;aacute;i đẻ phải l&amp;agrave; khu biệt lập&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ &amp;Aacute;p dụng c&amp;ugrave;ng v&amp;agrave;o c&amp;ugrave;ng ra cho heo con mới nhập chuồng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Kh&amp;ocirc;ng nu&amp;ocirc;i với mật độ cao (duy tr&amp;igrave; 1m2 dưới 3 con).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Tăng độ rộng m&amp;aacute;ng c&amp;aacute;m (tối thiểu một con 7 cm)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Duy tr&amp;igrave; th&amp;ocirc;ng tho&amp;aacute;ng kh&amp;iacute; trong trại (NH3 dưới 10ppm, CO2 dưới 15%).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Duy tr&amp;igrave; nhiệt độ tối ưu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Cấm nu&amp;ocirc;i chung heo con kh&amp;aacute;c nh&amp;oacute;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Quản l&amp;iacute; trại đẻ:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ &amp;Aacute;p dụng triệt để &amp;ldquo;c&amp;ugrave;ng v&amp;agrave;o c&amp;ugrave;ng ra&amp;rdquo; , sau khi một nh&amp;oacute;m đẻ xong phải tiến h&amp;agrave;nh ti&amp;ecirc;u độc khử tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trước khi bước v&amp;agrave;o mỗi ngăn chuồng cần s&amp;aacute;t tr&amp;ugrave;ng tay ch&amp;acirc;n người chăm s&amp;oacute;c (d&amp;ugrave;ng Thuốc s&amp;aacute;t tr&amp;ugrave;ng chuồng trại &amp;ndash; MEKOVET)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Dụng cụ th&amp;uacute; y, chăn nu&amp;ocirc;i d&amp;ugrave;ng ri&amp;ecirc;ng cho từng ngăn chuồng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trước khi đẻ, phải điều trị bệnh v&amp;agrave; ph&amp;ograve;ng ngừa k&amp;iacute; sinh tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trường hợp nhất định phải gh&amp;eacute;p bầy heo con th&amp;igrave; chỉ n&amp;ecirc;n gh&amp;eacute;p trong 24h sau khi đẻ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Vấn đề chủng ngừa:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giải ph&amp;aacute;p tối ưu l&amp;agrave; &amp;aacute;p dụng chương tr&amp;igrave;nh ti&amp;ecirc;m chủng ph&amp;ugrave; hợp cho đ&amp;agrave;n n&amp;aacute;i sinh sản &amp; con: bao gồm ph&amp;ograve;ng c&amp;aacute;c bệnh ch&amp;iacute;nh v&amp;agrave; bệnh đồng nhiễm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng INGELVAC PRRS MLV (Boerhinger) khống chế PRRS cho đ&amp;agrave;n n&amp;aacute;i, ti&amp;ecirc;m kh&amp;ocirc;ng loại trừ (3 th&amp;aacute;ng/lần cho năm đầu v&amp;agrave; 4 th&amp;aacute;ng /lần cho c&amp;aacute;c năm sau)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng JXA 1 khống chế PRRS cho heo lứa (ti&amp;ecirc;m sau cai sữa)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng SUISHOT CIRCO ONE khống chế Circovirus (ti&amp;ecirc;m cho n&amp;aacute;i 3 tuần trước sinh v&amp;agrave; ti&amp;ecirc;m cho heo con l&amp;uacute;c 20 ng&amp;agrave;y tuổi)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng RHINANVAC&amp;reg;CERDOS khống chế đồng nhiễm (l&amp;uacute;c 7 ng&amp;agrave;y tuổi)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;TRƯỜNG HỢP NHIỄM Staphylococcus&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tương đối kh&amp;oacute; trị liệu v&amp;igrave; kh&amp;oacute; t&amp;igrave;m kh&amp;aacute;ng sinh th&amp;iacute;ch hợp cho vi khuẩn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tắm cho heo bằng dung dịch thuốc t&amp;iacute;m 0,2 &amp;ndash; 0,4%, lau kh&amp;ocirc;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ocirc;i hỗn hợp Kẽm oxyde + bột talc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;aacute;ng sinh ưu ti&amp;ecirc;n chọn l&amp;agrave; dicloxacillin, hoặc c&amp;oacute; thể&amp;nbsp; thay thế bằng Spiramycin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e268e064-069d-1038-c3a3-ac2dd976e5a3</key>
+	<value>slide</value>
+<component id="e268e064-069d-1038-c3a3-ac2dd976e5a3">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e268</objectGroupId>
+	<objectId>e268e064-069d-1038-c3a3-ac2dd976e5a3</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg-gioithieuchung.png</image_s>
+	</item></slide_o>
+	<file-name>e268e064-069d-1038-c3a3-ac2dd976e5a3.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-31T10:12:09.872Z</createdDate>
+	<createdDate_dt>2020-07-31T10:12:09.872Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:12:09.872Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:12:09.872Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-31T10:09:58.860Z</createdDate>
+	<createdDate_dt>2020-07-31T10:10:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:09:58.860Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:09:58.860Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fee18fdd</objectGroupId>
+	<objectId>fee18fdd-74cd-42e9-86bb-b0d39c4ecc6e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>nhan-vien-kinh-doanh</folder-name>
+	<internal-name>Tuyển nhân viên kinh doanh Đồng Nai</internal-name>
+	<navLabel>Tuyển nhân viên kinh doanh Đồng Nai</navLabel>
+	<jobTitle_s>Tuyển nhân viên kinh doanh Đồng Nai</jobTitle_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</key>
+	<value>Job Slide</value>
+<component id="de4d6544-37a0-6bce-d2b5-fcdebfa0405f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de4d</objectGroupId>
+	<objectId>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>de4d6544-37a0-6bce-d2b5-fcdebfa0405f.xml</file-name>
+	<internal-name>Job Slide</internal-name>
+	<createdDate>2020-06-29T07:28:12.532Z</createdDate>
+	<createdDate_dt>2020-06-29T07:28:12.532Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:48:12.296Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:48:12.296Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;Số lượng tuyển: 2 người&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Quản l&amp;yacute; v&amp;agrave; ph&amp;aacute;t triển hệ thống kh&amp;aacute;ch h&amp;agrave;ng tại khu vực được giao&lt;/p&gt;
+&lt;p&gt;- Tiếp cận, tư vấn giải ph&amp;aacute;p nhằm đề xuất k&amp;yacute; kết hợp đồng với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;- Chăm s&amp;oacute;c v&amp;agrave; tạo mối quan hệ hợp t&amp;aacute;c bền vững với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;- Duy tr&amp;igrave; c&amp;aacute;c mối quan hệ kh&amp;aacute;ch h&amp;agrave;ng; thiết lập được hệ thống b&amp;aacute;n h&amp;agrave;ng v&amp;agrave; thực thi tốt việc kinh doanh trong khu vực&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Giới t&amp;iacute;nh: Nam&lt;/p&gt;
+&lt;p&gt;- Tốt nghiệp trung cấp/cao đẳng/đại học chuy&amp;ecirc;n ng&amp;agrave;nh Th&amp;uacute; Y/ Chăn nu&amp;ocirc;i th&amp;uacute; y/ thủy sản. &lt;span style="background-color: #ffffff; color: #3598db;"&gt;&lt;strong&gt;Ưu ti&amp;ecirc;n sinh vi&amp;ecirc;n mới ra trường&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;- Giao tiếp v&amp;agrave; tr&amp;igrave;nh b&amp;agrave;y hiệu quả&lt;/p&gt;
+&lt;p&gt;- X&amp;acirc;y dựng mối quan hệ hợp t&amp;aacute;c bền vững với kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;- Thương lượng v&amp;agrave; giải quyết tốt vấn đề&lt;/p&gt;
+&lt;p&gt;- Khả năng l&amp;agrave;m việc độc lập, nh&amp;oacute;m&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thu nhập từ 10 đến 30 triệu đồng/th&amp;aacute;ng&lt;/p&gt;
+&lt;p&gt;- Hưởng tất c&amp;aacute;c c&amp;aacute;c quyền lợi về BHXH,YT,TN, c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của Ph&amp;aacute;p luật hiện h&amp;agrave;nh.&lt;/p&gt;
+&lt;p&gt;- C&amp;ocirc;ng ty tham gia BHTN 24/24&lt;/p&gt;
+&lt;p&gt;- Gia nhập v&amp;agrave; hưởng quyền lợi của c&amp;ocirc;ng đo&amp;agrave;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu hồ sơ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/p&gt;
+&lt;p&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c văn bằng, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-Nộp hồ sơ trực tiếp tại c&amp;ocirc;ng ty - SĐT: 02733710769. Hoặc&lt;/p&gt;
+&lt;p&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng&amp;nbsp; CV v&amp;agrave; c&amp;aacute;c giấy tờ c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o Email C&amp;ocirc;ng ty: &lt;strong&gt;&lt;a href="mailto:tuyendung@cailayvetco.com"&gt;tuyendung@cailayvetco.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-06-29T07:27:00.149Z</createdDate>
+	<createdDate_dt>2020-06-29T07:27:00.149Z</createdDate_dt>
+	<lastModifiedDate>2021-07-22T09:15:41.271Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-22T09:15:41.271Z</lastModifiedDate_dt>
+	<jobDuration_dt>2021-03-10T08:34:33.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>

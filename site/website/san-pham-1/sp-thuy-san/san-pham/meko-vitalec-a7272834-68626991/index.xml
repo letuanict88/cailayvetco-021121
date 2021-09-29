@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a02eb086</objectGroupId>
+	<objectId>a02eb086-2b86-45d5-ac14-9557bbfd298b</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>MEKO.FLOR 20%</internal-name>
+	<navLabel>MEKO.FLOR 20%</navLabel>
+	<productName_s>MEKO.FLOR 20%</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-a7272834-68626991</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-phong-tri-benh</key>
+	<value_smv>Nhóm thuốc Phòng, trị bệnh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MEKO.FLOR 20.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3113%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Florfenicol: 20g&lt;/p&gt;
+&lt;p&gt;- Dung m&amp;ocirc;i vđ: 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trị bệnh nhiễm tr&amp;ugrave;ng đường ruột do vi khuẩn Edwardsiella ictaluri tr&amp;ecirc;n c&amp;aacute; tra, c&amp;aacute; ba sa.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;- 1ml thuốc/1kg thức ăn (100ml trộn với 100kg thức ăn).&lt;/p&gt;
+&lt;p&gt;- Cho ăn li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.40764%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.281%;"&gt;
+&lt;p&gt;C&amp;oacute; thể phối hợp Meko-Sulfan để tăng hiệu quả điều trị bệnh nhiễm tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;Ngưng d&amp;ugrave;ng thuốc 12 ng&amp;agrave;y trước khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:17:14.898Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:17:14.898Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

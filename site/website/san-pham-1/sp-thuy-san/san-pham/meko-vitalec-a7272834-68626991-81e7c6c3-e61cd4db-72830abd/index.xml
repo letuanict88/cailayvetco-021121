@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ac8fa73</objectGroupId>
+	<objectId>9ac8fa73-5ead-423a-8e1a-43e035f91a56</objectId>
+	<isHot_b>true</isHot_b>
+	<internal-name>MEKODINE-FORT 300 (CÁ)</internal-name>
+	<navLabel>MEKODINE-FORT 300 (CÁ)</navLabel>
+	<productName_s>MEKODINE-FORT 300 (CÁ)</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-a7272834-68626991-81e7c6c3-e61cd4db-72830abd</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<value_smv>Nhóm thuốc xử lý nước, cải tạo môi trường</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MEKODINE-FORT 300 CA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0357%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PVP lodine&amp;nbsp; 300g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ&amp;nbsp; 1l&amp;iacute;t&lt;/p&gt;
+&lt;p&gt;C&amp;Ocirc;NG DỤNG&lt;/p&gt;
+&lt;p&gt;Diệt vi khuẩn, khống chế ti&amp;ecirc;u diệt c&amp;aacute;c loại nấm, nguy&amp;ecirc;n sinh động vật g&amp;acirc;y bệnh c&amp;oacute; trong nước&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;H&amp;ograve;a tan MEKODINE-FORT 300 v&amp;agrave;o nước, sau đ&amp;oacute; tạt đều khắp ao. Sử dụng v&amp;agrave;o buổi chiều tối sẽ đạt hiệu quả cao nhất.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.75483%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.2093%;"&gt;
+&lt;p&gt;- Diệt khuẩn nước ao nu&amp;ocirc;i (ph&amp;ograve;ng bệnh): 1 l&amp;iacute;t/6.000-8.000m3 nước. Định kỳ 10-15 ng&amp;agrave;y sử dụng 1 lần.&lt;/p&gt;
+&lt;p&gt;- Diệt khuẩn nước ao nu&amp;ocirc;i bị bệnh (trị bệnh): 1 l&amp;iacute;t/3.000-4.000m3 nước.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng bể ương, nu&amp;ocirc;i v&amp;agrave; vệ sinh dụng cụ: 1 l&amp;iacute;t/6m3 nước.&lt;/p&gt;
+&lt;p&gt;Ngưng d&amp;ugrave;ng thuốc 3 ng&amp;agrave;y trước khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:35:35.769Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:35:35.769Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>02a90a90</objectGroupId>
+	<objectId>02a90a90-21f2-4e17-a450-676bb5d6a2b7</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>MKV-VIMILAC (sữa cá)</internal-name>
+	<navLabel>MKV-VIMILAC (sữa cá)</navLabel>
+	<productName_s>MKV-VIMILAC (sữa cá)</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-894bc654-83471513</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MKV-VIMILAC CA 100g.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.449%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Protein (min): 30 %&lt;/p&gt;
+&lt;p&gt;Chất b&amp;eacute;o (min-max) : 1-2%&lt;/p&gt;
+&lt;p&gt;Lysine (min): 28g&lt;/p&gt;
+&lt;p&gt;Methionine (min): 16g&lt;/p&gt;
+&lt;p&gt;Threonine (min): 4g&lt;/p&gt;
+&lt;p&gt;Cystein (min): 4g&lt;/p&gt;
+&lt;p&gt;Inositol (min): 500mg&lt;/p&gt;
+&lt;p&gt;Vitamin A (min): 20.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 (min): 7.000 UI&lt;/p&gt;
+&lt;p&gt;Vitamin E (min): 115mg&lt;/p&gt;
+&lt;p&gt;Lactose vđ: 1kg&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.58124%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.9697%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cung cấp c&amp;aacute;c chất dinh dưỡng cao cấp gi&amp;uacute;p c&amp;aacute;, ếch, lươn,&amp;hellip;.khỏe mạnh, mau lớn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cho ăn trực tiếp hoặc trộn thức ăn cho ăn.&lt;/p&gt;
+&lt;p&gt;Liều chung: 1kg/5-10kg thức ăn.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng thường xuy&amp;ecirc;n trong suốt vụ nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:19:18.718Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:19:18.718Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>625f</objectGroupId>
+	<objectId>625f52d8-dd1f-3ef2-7014-fbc9111e9111</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>lien-he</folder-name>
+	<internal-name>Liên hệ</internal-name>
+	<navLabel>Liên hệ</navLabel>
+	<title_s>Liên hệ</title_s>
+	<description_t>Liên hệ</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/e83e2400-9f89-31ed-c196-792d5b9c6d5b.xml</key>
+	<value>Slide liên hệ</value>
+	<include>/site/items/slides/e83e2400-9f89-31ed-c196-792d5b9c6d5b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>983bba25-dfd8-9a7a-3a21-5d8def007014</key>
+	<value>Liên hệ</value>
+<component id="983bba25-dfd8-9a7a-3a21-5d8def007014">
+	<content-type>/component/componentlinh</content-type>
+	<display-template>/templates/web/component/contact.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>983b</objectGroupId>
+	<objectId>983bba25-dfd8-9a7a-3a21-5d8def007014</objectId>
+	<file-name>983bba25-dfd8-9a7a-3a21-5d8def007014.xml</file-name>
+	<internal-name>Liên hệ</internal-name>
+	<title_s>Liên hệ</title_s>
+	<companyName_s>CÔNG TY CỔ PHẦN DƯỢC THÚ Y CAI LẬY</companyName_s>
+	<companyHeadquater_s>Khu phố 1, phường 5, thị xã Cai Lậy, tỉnh Tiền Giang</companyHeadquater_s>
+	<phoneNumber_s>(0273) 3826462 - 3710769</phoneNumber_s>
+	<fax_s>3826363</fax_s>
+	<email_s>info@cailayvetco.com</email_s>
+	<maps_html>&lt;p&gt;&amp;lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.248708068223!2d106.12818241433428!3d10.40181086884179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a979441a9d87b%3A0x3d68e34c580e97a3!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gRMaw4bujYyBUaMO6IHkgQ2FpIEzhuq15!5e0!3m2!1svi!2s!4v1594369299594!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;</maps_html>
+	<createdDate>2020-07-10T08:17:08.791Z</createdDate>
+	<createdDate_dt>2020-07-10T08:17:08.791Z</createdDate_dt>
+	<lastModifiedDate>2020-07-10T08:54:00.366Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-10T08:54:00.366Z</lastModifiedDate_dt>
+	<mapsFrame_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.248708068223!2d106.12818241433428!3d10.40181086884179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a979441a9d87b%3A0x3d68e34c580e97a3!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gRMaw4bujYyBUaMO6IHkgQ2FpIEzhuq15!5e0!3m2!1svi!2s!4v1594369299594!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"&gt;&lt;/iframe&gt;</mapsFrame_s>
+</component>
+	</item></sections_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-10T08:15:43.534Z</createdDate>
+	<createdDate_dt>2020-07-10T08:15:43.534Z</createdDate_dt>
+	<lastModifiedDate>2020-07-10T08:59:49.107Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-10T08:59:49.107Z</lastModifiedDate_dt>
+</page>

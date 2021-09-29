@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>084d</objectGroupId>
+	<objectId>084dc809-576c-9981-4797-1d8bcf243c72</objectId>
+	<productgrouplevel1_s>thuoc-cho-trau-bo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-boi-duong-tang-suc-de-khang</productgrouplevel2_s>
+	<file-name>084dc809-576c-9981-4797-1d8bcf243c72.xml</file-name>
+	<internal-name>Test</internal-name>
+	<createdDate>2020-06-23T08:15:50.920Z</createdDate>
+	<createdDate_dt>2020-06-23T08:15:50.920Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T07:22:37.040Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:22:37.040Z</lastModifiedDate_dt>
+</component>

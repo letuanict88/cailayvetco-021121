@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>832fc65e</objectGroupId>
+	<objectId>832fc65e-03b7-4dfb-98e8-dddb25ddef4a</objectId>
+	<internal-name>Hướng dẫn kỹ thuật nuôi chó cái giống sinh sản</internal-name>
+	<navLabel>Hướng dẫn kỹ thuật nuôi chó cái giống sinh sản</navLabel>
+	<processName_s>Hướng dẫn kỹ thuật nuôi chó cái giống sinh sản</processName_s>
+	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thuy-san</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>f51ae207-6d30-88d4-6c78-889a78074430</key>
+	<value>Slide</value>
+<component id="f51ae207-6d30-88d4-6c78-889a78074430">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f51a</objectGroupId>
+	<objectId>f51ae207-6d30-88d4-6c78-889a78074430</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>index.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T03:11:52.133Z</createdDate>
+	<createdDate_dt>2020-07-29T03:11:52.133Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:11:52.133Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:11:52.133Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-trinh-cham-soc-cho-ngao-tay-tang-01e16159-79a1b833</folder-name>
+	<processType_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Thú cưng</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;Nu&amp;ocirc;i ch&amp;oacute; v&amp;agrave; dạy ch&amp;oacute;, đấy l&amp;agrave; cả một nghệ thuật. Với những ai sắp sửa nu&amp;ocirc;i v&amp;agrave; đ&amp;atilde; nu&amp;ocirc;i h&amp;atilde;y d&amp;agrave;nh thời gian chăm s&amp;oacute;c ch&amp;oacute; v&amp;agrave; tham khảo một số kinh nghiệm nu&amp;ocirc;i của những người đi trước để c&amp;oacute; thể nu&amp;ocirc;i được con ch&amp;oacute; như &amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Chọn giống&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chọn lọc theo phương ph&amp;aacute;p nghi&amp;ecirc;n cứu họ phả, nghĩa l&amp;agrave; chọn ch&amp;oacute; bố mẹ l&amp;agrave;m giống phải tốt, đạt c&amp;aacute;c ti&amp;ecirc;u chuẩn thể chất, ngoại h&amp;igrave;nh theo &amp;yacute; muốn của người nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Muốn c&amp;oacute; ch&amp;oacute; đạt c&amp;aacute;c chỉ ti&amp;ecirc;u thể chất v&amp;agrave; ngoại h&amp;igrave;nh như thế n&amp;agrave;o, th&amp;igrave; phải chọn ch&amp;oacute; bố mẹ c&amp;oacute; chỉ ti&amp;ecirc;u thể chất, ngoại h&amp;igrave;nh như vậy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;iacute; dụ : Đối với ch&amp;oacute; x&amp;ugrave; Nhật Bản như thị hiếu hiện nay th&amp;igrave; phải chọn ch&amp;oacute; c&amp;aacute;i sinh sản c&amp;oacute; bộ l&amp;ocirc;ng x&amp;ugrave; trắng to&amp;agrave;n th&amp;acirc;n hoặc chỉ đốm n&amp;acirc;u chai tai, l&amp;ocirc;ng d&amp;agrave;i v&amp;agrave; lượn s&amp;oacute;ng (x&amp;ugrave; xoăn), mặt g&amp;atilde;y, m&amp;otilde;m ngắn, mũi n&amp;acirc;u hoặc đen, c&amp;oacute; chia th&amp;ugrave;y, tai cụp c&amp;oacute; l&amp;ocirc;ng d&amp;agrave;i x&amp;otilde;a ra hai b&amp;ecirc;n tr&amp;aacute;n, tr&amp;ecirc;n mắt c&amp;oacute; l&amp;ocirc;ng x&amp;ugrave; x&amp;ograve;a ra trước mặt, ch&amp;acirc;n đều c&amp;oacute; l&amp;ocirc;ng x&amp;ugrave; d&amp;agrave;i, gọi l&amp;agrave; &amp;ldquo;đi ủng&amp;rdquo;, đu&amp;ocirc;i cong hoặc duỗi ra ph&amp;iacute;a sau, nhưng phải c&amp;oacute; l&amp;ocirc;ng x&amp;ugrave; d&amp;agrave;i tr&amp;ugrave;m ph&amp;iacute;a m&amp;ocirc;ng, ch&amp;acirc;n thấp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Chăm s&amp;oacute;c ch&amp;oacute; c&amp;aacute;i sinh sản&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; con sinh ra được một tuần ta c&amp;oacute; thể chọn l&amp;agrave;m giống, tập trung chăm s&amp;oacute;c. Nu&amp;ocirc;i dưỡng tốt hơn ngay từ đầu, phải cho ch&amp;oacute; n&amp;agrave;y b&amp;uacute; nhiều hơn c&amp;aacute;c con ch&amp;oacute; kh&amp;aacute;c trong đ&amp;agrave;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; c&amp;aacute;i giống tr&amp;aacute;nh nu&amp;ocirc;i qu&amp;aacute; b&amp;eacute;o hoặc qu&amp;aacute; gầy, ch&amp;uacute; &amp;yacute; cho ăn đầy đủ chất dinh dưỡng trong khẩu phần ăn như chất đạm, bột đường, chất kho&amp;aacute;ng v&amp;agrave; c&amp;aacute;c vitamin để bộ khung xương ph&amp;aacute;t triển đầy đủ v&amp;agrave; đảm bảo thể chất, ngoại h&amp;igrave;nh ho&amp;agrave;n chỉnh như mong muốn của chủ nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thường xuy&amp;ecirc;n cho ch&amp;oacute; c&amp;aacute;i dạo chơi vận động thoải m&amp;aacute;i trong m&amp;ocirc;i trường kh&amp;ocirc;ng kh&amp;iacute; trong l&amp;agrave;nh, tắm nắng hợp l&amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khả năng sinh sản của ch&amp;oacute; c&amp;aacute;i xuất hiện v&amp;agrave;o khoảng 8 - 10 th&amp;aacute;ng tuổi, c&amp;aacute; biệt c&amp;oacute; con sớm hơn (nếu nu&amp;ocirc;i tốt c&amp;oacute; con muộn hơn), l&amp;uacute;c n&amp;agrave;y c&amp;aacute;c tế b&amp;agrave;o sinh dục c&amp;aacute;i đ&amp;atilde; ph&amp;acirc;n chia, tế b&amp;agrave;o trứng đ&amp;atilde; trưởng th&amp;agrave;nh, mặc d&amp;ugrave; ở con c&amp;aacute;i đ&amp;atilde; xuất hiện khả năng sinh dục, nhưng tầm v&amp;oacute;c v&amp;agrave; sự ph&amp;aacute;t triển thể lực của cơ thể c&amp;ograve;n đang tiếp tục ph&amp;aacute;t triển. Cho n&amp;ecirc;n cho giao phối ở tuổi n&amp;agrave;y l&amp;agrave; kh&amp;ocirc;ng hợp l&amp;yacute;. Những ch&amp;oacute; con ở tuổi n&amp;agrave;y sinh ra khả năng sống v&amp;agrave; ph&amp;aacute;t triển rất thấp. Tuổi th&amp;iacute;ch hợp cho ch&amp;oacute; c&amp;aacute;i giao phối v&amp;agrave;o l&amp;uacute;c 10 th&amp;aacute;ng tuổi, nghĩa l&amp;agrave; phải bỏ qua một lần động dục đầu, m&amp;agrave; phải lần thứ hai mới cho phối giống, thời gian n&amp;agrave;y sự ph&amp;aacute;t triển của con c&amp;aacute;i đ&amp;atilde; ho&amp;agrave;n thiện hơn. Cũng như ch&amp;oacute; đực, khi ch&amp;oacute; c&amp;aacute;i chuẩn bị cho phối giống cần bồi dưỡng trước kỳ l&amp;agrave; 15 ng&amp;agrave;y, cho ăn đủ chất đạm v&amp;agrave; c&amp;aacute;c loại sinh tố, c&amp;aacute;c chất gi&amp;agrave;u kho&amp;aacute;ng đa v&amp;agrave; vi lượng cần thiết cho sự ph&amp;aacute;t triển của b&amp;agrave;o thai. Chuồng nu&amp;ocirc;i phải kh&amp;ocirc; r&amp;aacute;o, sạch, tho&amp;aacute;ng m&amp;aacute;t, đủ nước sạch cho ch&amp;oacute; uống thường xuy&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi nu&amp;ocirc;i dưỡng chăm s&amp;oacute;c ch&amp;oacute; nếu ph&amp;aacute;t hiện ch&amp;oacute; c&amp;aacute;i động dục cần phải mở sổ ghi ch&amp;eacute;p giờ ng&amp;agrave;y bắt đầu động dục (t&amp;iacute;nh từ ng&amp;agrave;y chảy m&amp;aacute;u ở &amp;acirc;m hộ đầu ti&amp;ecirc;n) v&amp;agrave; cũng từ đ&amp;oacute; theo d&amp;otilde;i chặt sự thay đổi m&amp;agrave;u sắc ở &amp;acirc;m hộ con c&amp;aacute;i, ch&amp;uacute; &amp;yacute; cả chất nhầy thải ra, qua kinh nghiệm m&amp;agrave; cho đực phối đ&amp;uacute;ng ng&amp;agrave;y, đ&amp;uacute;ng kỳ. Về mặt sinh l&amp;yacute; ch&amp;oacute;, thường từ ng&amp;agrave;y thứ 9 trở đi đ&amp;atilde; c&amp;oacute; khả năng chịu đực.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;iacute;nh ng&amp;agrave;y, kết hợp với theo d&amp;otilde;i m&amp;agrave;u sắc, chất thải ở cơ quan sinh dục c&amp;aacute;i, ta quyết định cho nhảy ch&amp;iacute;nh x&amp;aacute;c, khả năng thụ thai sẽ cao v&amp;agrave; số con đẻ ra sẽ nhiều.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Chăm s&amp;oacute;c ch&amp;oacute; c&amp;aacute;i mang thai&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sau khi cho giao phối, dự đo&amp;aacute;n ch&amp;oacute; c&amp;oacute; thể c&amp;oacute; chửa, phải nu&amp;ocirc;i dưỡng tốt. Ngo&amp;agrave;i khẩu phần ăn b&amp;igrave;nh thường, cần bồi dưỡng th&amp;ecirc;m. Mỗi ng&amp;agrave;y c&amp;oacute; thể cho ăn th&amp;ecirc;m từ 50 - 60 gam thịt nạc, hoặc 1 quả trứng v&amp;agrave; sữa tươi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong 30 ng&amp;agrave;y đầu, thai chưa r&amp;otilde;, chỉ từ th&amp;aacute;ng 2 trở đi mới thấy r&amp;otilde; c&amp;aacute;c hiện tượng ở con c&amp;aacute;i như : trọng lượng tăng nhanh, th&amp;acirc;n h&amp;igrave;nh to ra, bầu v&amp;uacute; căng dần.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thời gian mang thai trung b&amp;igrave;nh của ch&amp;oacute; l&amp;agrave; 60 - 62 ng&amp;agrave;y, c&amp;oacute; thể sớm hơn hoặc k&amp;eacute;o d&amp;agrave;i đến 65 ng&amp;agrave;y. Việc nu&amp;ocirc;i ch&amp;oacute; c&amp;aacute;i đ&amp;uacute;ng đắn, với đầy đủ chất dinh dưỡng c&amp;oacute; &amp;yacute; nghĩa to lớn. Trong nửa thời kỳ đầu mang thai cho ch&amp;oacute; ăn mỗi ng&amp;agrave;y 3 bữa, thời kỳ sau mỗi ng&amp;agrave;y 4 bữa, nhưng mỗi bữa giảm khối lượng (vẫn đảm bảo chất lượng).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Đẻ con&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dựa v&amp;agrave;o sổ phối giống để chuẩn bị cho ch&amp;oacute; đẻ, thường từ ng&amp;agrave;y thứ 58 trở đi phải chuẩn bị ổ đẻ v&amp;agrave; trực thường xuy&amp;ecirc;n để gi&amp;uacute;p đỡ ch&amp;oacute; đẻ. Trước khi đẻ 1 ng&amp;agrave;y ch&amp;oacute; c&amp;aacute;i bỏ ăn, đi lại li&amp;ecirc;n tục quanh chuồng, t&amp;igrave;m chỗ đẻ, h&amp;ocirc; hấp nhanh hơn, d&amp;aacute;ng điệu kh&amp;oacute; nhọc, ch&amp;oacute; r&amp;ecirc;n rỉ, nhất l&amp;agrave; l&amp;uacute;c chuyển dạ, sự đau đớn tăng l&amp;ecirc;n, chất nhầy từ &amp;acirc;m hộ chảy ra nhiều c&amp;oacute; con lọt ra ngo&amp;agrave;i theo c&amp;aacute;i bọc, l&amp;uacute;c đ&amp;oacute; ch&amp;oacute; mẹ cắn r&amp;aacute;ch bọc để ch&amp;oacute; con chui ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; con sinh ra, c&amp;ograve;n d&amp;iacute;nh với d&amp;acirc;y rốn v&amp;agrave; nhao, sau đ&amp;oacute; ch&amp;oacute; mẹ cắn đứt d&amp;acirc;y rốn, v&amp;agrave; liếm kh&amp;ocirc; ch&amp;oacute; con. Tiếp tục l&amp;agrave; sự chuyển dạ để đẩy c&amp;aacute;c ch&amp;oacute; con c&amp;ograve;n trong bụng ra ngo&amp;agrave;i. Thường thường, khoảng c&amp;aacute;ch giữa trước v&amp;agrave; sau một khoảng thời gian l&amp;agrave; 20 ph&amp;uacute;t, c&amp;oacute; thể k&amp;eacute;o d&amp;agrave;i từ 1 - 1,5 giờ. Trong khi ch&amp;oacute; đẻ phải quan s&amp;aacute;t đề ph&amp;ograve;ng đẻ kh&amp;oacute;, ch&amp;oacute; con đẻ ra yếu v&amp;agrave; bị ngạt (khi đ&amp;oacute; phải c&amp;oacute; sự hỗ trợ ngay của c&amp;aacute;n bộ kỹ thuật). Thời gian đẻ của ch&amp;oacute; nhanh chậm t&amp;ugrave;y số lượng ch&amp;oacute; con, t&amp;ugrave;y sức khỏe ch&amp;oacute; mẹ v&amp;agrave; c&amp;aacute;c điều kiện kh&amp;aacute;c, nhưng thường từ 4 - 10 giờ mới kết th&amp;uacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khi ch&amp;oacute; đẻ xong, cần cho ch&amp;oacute; mẹ uống sữa hoặc nước đường, v&amp;agrave; nghỉ ngơi khoảng 6 - 8 giờ mới cho ăn ch&amp;aacute;o thịt h&amp;acirc;m n&amp;oacute;ng. Chế độ n&amp;agrave;y duy tr&amp;igrave; trong 24 giờ đầu. Những ng&amp;agrave;y sau, mỗi ng&amp;agrave;y cho ăn từ 3 - 5 bữa. Sau lần cho ăn đầu ti&amp;ecirc;n, cần thay đệm cho ch&amp;oacute; con, v&amp;agrave; sau đ&amp;oacute; mỗi ng&amp;agrave;y thay đệm 1 lần.&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-29T03:11:04.619Z</createdDate>
+	<createdDate_dt>2020-07-31T07:55:04.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:24:30.534Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:24:30.534Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

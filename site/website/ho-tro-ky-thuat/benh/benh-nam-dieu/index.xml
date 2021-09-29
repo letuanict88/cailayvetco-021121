@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5603</objectGroupId>
+	<objectId>5603ae11-5092-3a02-71ef-38c9b45b9349</objectId>
+	<internal-name>Bệnh nấm diều</internal-name>
+	<navLabel>Bệnh nấm diều</navLabel>
+	<diseaseName_s>Bệnh nấm diều</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-nam-dieu</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>3c5225f7-1859-db92-f2f9-a2df11ab5377</key>
+	<value>slide</value>
+<component id="3c5225f7-1859-db92-f2f9-a2df11ab5377">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3c52</objectGroupId>
+	<objectId>3c5225f7-1859-db92-f2f9-a2df11ab5377</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg-gioithieuchung.png</image_s>
+	</item></slide_o>
+	<file-name>3c5225f7-1859-db92-f2f9-a2df11ab5377.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-31T10:14:43.065Z</createdDate>
+	<createdDate_dt>2020-07-31T10:14:43.065Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:14:43.065Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:14:43.065Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;TỔNG QUAN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nấm diều l&amp;agrave; một bệnh cơ hội thường gặp tr&amp;ecirc;n gia cầm con (bồ c&amp;acirc;u, g&amp;agrave;)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;NGUY&amp;Ecirc;N NH&amp;Acirc;N&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;aacute;c nh&amp;acirc;n g&amp;acirc;y bệnh l&amp;agrave; nấm men Candia albicans; một loại nấm men sống hoại sinh thường xuy&amp;ecirc;n tr&amp;ecirc;n ni&amp;ecirc;m mạc đường ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; g&amp;acirc;y bệnh c&amp;oacute; t&amp;iacute;nh chất cơ hội khi đ&amp;aacute;p ứng miễn dịch cơ thể bị suy giảm.&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Candida trong bệnh phẩm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Candida trong m&amp;ocirc;i trường nu&amp;ocirc;i cấy&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DỊCH TỂ HỌC&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Do hệ thống dụng cụ đựng nước v&amp;agrave; nước uống kh&amp;ocirc;ng được vệ sinh, bị nhiễm nấm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Do d&amp;ugrave;ng kh&amp;aacute;ng sinh (loại phổ rộng như cyclines, phenicol, penicilline b&amp;aacute;n tổng hợp A) trộn thức ăn hay nước uống k&amp;eacute;o d&amp;agrave;i l&amp;agrave;m cho nấm ph&amp;aacute;t triển ngay trong đường ti&amp;ecirc;u h&amp;oacute;a. D&amp;ugrave;ng c&amp;aacute;c steroids d&amp;agrave;i hạn cũng l&amp;agrave; cơ hội cho nấm ph&amp;aacute;t triển&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Do kế ph&amp;aacute;t một số bệnh đường ti&amp;ecirc;u h&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Do thức ăn bị nhiễm nấm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;TRIỆU CHỨNG&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;G&amp;agrave; c&amp;agrave;ng nhỏ tuổi (2 &amp;ndash; 4 tuần) tỉ lệ bệnh c&amp;agrave;ng cao v&amp;agrave; dể thấy dấu hiệu bệnh l&amp;yacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với những triệu chứng đặc trưng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;ocirc;n ộc ra thức ăn c&amp;oacute; chất nhầy h&amp;ocirc;i thối, c&amp;oacute; m&amp;ugrave;i chua&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- K&amp;egrave;m theo ti&amp;ecirc;u chảy ph&amp;acirc;n sống,&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- G&amp;agrave; chậm lớn nhưng tỷ lệ chết thấp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;BỆNH T&amp;Iacute;CH&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ni&amp;ecirc;m mạc miệng v&amp;agrave; thực quản đ&amp;ocirc;i khi cũng lo&amp;eacute;t&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ni&amp;ecirc;m mạc ở diều d&amp;agrave;y l&amp;ecirc;n với những mụn hơi trắng. Đ&amp;ocirc;i khi c&amp;oacute; m&amp;agrave;ng giả ở diều. Trong diều chứa nhiều nước nhầy h&amp;ocirc;i chua.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dạ d&amp;agrave;y tuyến sưng hoặc xuất huyết ni&amp;ecirc;m mạc. Tr&amp;ecirc;n ni&amp;ecirc;m mạc c&amp;oacute; dịch vi&amp;ecirc;m nhầy v&amp;agrave; c&amp;aacute;c khối mụn trắng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ni&amp;ecirc;m mạc ruột non cũng bị vi&amp;ecirc;m cata với nhiều dịch nhầy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;CHẨN ĐO&amp;Aacute;N&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Căn cứ v&amp;agrave;o bệnh t&amp;iacute;ch khi mổ kh&amp;aacute;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Tuy nhi&amp;ecirc;n khi chưa đủ điều kiện kết luận bệnh th&amp;igrave; n&amp;ecirc;n ph&amp;acirc;n lập v&amp;agrave; gi&amp;aacute;m định đặc t&amp;iacute;nh của nấm bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Cần ph&amp;acirc;n biệt với bệnh vi&amp;ecirc;m phế quản truyền nhiễm (IB): g&amp;agrave; cũng n&amp;ocirc;n nước ra li&amp;ecirc;n tục nhưng kh&amp;ocirc;ng c&amp;oacute; m&amp;ugrave;i h&amp;ocirc;i thối; ngo&amp;agrave;i n&amp;ocirc;n nước ra g&amp;agrave; c&amp;ograve;n kh&amp;oacute; thở kh&amp;ograve; kh&amp;egrave;. C&amp;ograve;n bệnh do nấm Candida th&amp;igrave; kh&amp;ocirc;ng thở kh&amp;oacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;ĐIỀU TRỊ BỆNH&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;ecirc;n thực hiện ki&amp;ecirc;n tr&amp;igrave; v&amp;agrave; to&amp;agrave;n diện&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cải tạo m&amp;ocirc;i trường chăn nu&amp;ocirc;i:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Chuyển đ&amp;agrave;n gia cầm sang chuồng nu&amp;ocirc;i mới đ&amp;atilde; được ti&amp;ecirc;u độc kỷ (tối ưu)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Dọn dẹp chuồng trại, thi&amp;ecirc;u hủy chất độn chuồng, s&amp;aacute;t tr&amp;ugrave;ng chuồng trại &amp;iacute;t nhất 2 lần (với lần 1 d&amp;ugrave;ng CuSO4&amp;nbsp; nồng độ 0,5% phun to&amp;agrave;n bộ chuồng trại; lần 2 d&amp;ugrave;ng MEKODINE FORT 100 20ml/l&amp;iacute;t nước phun to&amp;agrave;n bộ chuồng trại)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;acirc;ng cao sức đề kh&amp;aacute;ng cơ thể:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng MEKOZYM + MEKOSAL pha v&amp;agrave;o nước uống li&amp;ecirc;n tục 1 tuần&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng MEN TI&amp;Ecirc;U H&amp;Oacute;A trộn v&amp;agrave;o thức ăn li&amp;ecirc;n tục 1 tuần&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Khi đ&amp;agrave;n g&amp;agrave; hồi phục d&amp;ugrave;ng MKV-MEKOVIT&amp;nbsp; pha v&amp;agrave;o nước uống suốt qu&amp;aacute; tr&amp;igrave;nh nu&amp;ocirc;i&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng thuốc kh&amp;aacute;ng nấm (chọn d&amp;ugrave;ng một trong c&amp;aacute;c hoạt chất sau):&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Nystatin: d&amp;ugrave;ng dung dịch hay huyễn dịch 100,000 IU/ml; pha v&amp;agrave;o nước uống hay trộn v&amp;agrave;o thức ăn theo liều 1.5ml/kg bw;&amp;nbsp; d&amp;ugrave;ng li&amp;ecirc;n tục 7 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Ketoconazole: d&amp;ugrave;ng theo liều&amp;nbsp; 10 - 20 mg/kg bw&amp;nbsp; pha v&amp;agrave;o nước uống hay trộn v&amp;agrave;o thức ăn d&amp;ugrave;ng li&amp;ecirc;n tục 10 - 15 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MỘT SỐ THUỐC D&amp;Ugrave;NG CỦA MEKOVET:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-31T10:14:10.100Z</createdDate>
+	<createdDate_dt>2020-07-31T10:14:10.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:14:10.100Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:14:10.100Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

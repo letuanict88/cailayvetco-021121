@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0202</objectGroupId>
+	<objectId>02022b63-50f4-12ac-c1a2-b8b82f6a6bc3</objectId>
+	<internal-name>Nhóm Thuốc kháng sinh </internal-name>
+	<navLabel>Nhóm Thuốc kháng sinh</navLabel>
+	<title_s>Nhóm Thuốc kháng sinh</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<file-name>index.xml</file-name>
+	<folder-name>khang-sinh</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>9b8411e4-515c-b9a3-6bd0-0cfc5545e5ba</key>
+	<value>Slide</value>
+<component id="9b8411e4-515c-b9a3-6bd0-0cfc5545e5ba">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b84</objectGroupId>
+	<objectId>9b8411e4-515c-b9a3-6bd0-0cfc5545e5ba</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>9b8411e4-515c-b9a3-6bd0-0cfc5545e5ba.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T08:29:46.076Z</createdDate>
+	<createdDate_dt>2020-08-03T08:29:46.076Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:29:46.076Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:29:46.076Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/210e8cee-289b-1505-c88f-15cafe6d9882.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/210e8cee-289b-1505-c88f-15cafe6d9882.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T08:28:03.739Z</createdDate>
+	<createdDate_dt>2020-08-03T08:28:03.739Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:28:03.739Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:28:03.739Z</lastModifiedDate_dt>
+</page>

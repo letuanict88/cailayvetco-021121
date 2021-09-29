@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>63724a2a</objectGroupId>
+	<objectId>63724a2a-cd2a-4f54-97dc-8bd58fef0104</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-cho-heo</folder-name>
+	<internal-name>Các Nhóm Sản phẩm dành cho heo</internal-name>
+	<navLabel>Sản phẩm dành cho heo</navLabel>
+	<t_s>Sản phẩm dành cho heo</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>5e240c4e-2b7d-4147-b1ce-21eed1a3380b</key>
+	<value>Slide</value>
+<component id="5e240c4e-2b7d-4147-b1ce-21eed1a3380b">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5e24</objectGroupId>
+	<objectId>5e240c4e-2b7d-4147-b1ce-21eed1a3380b</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/Layer 186.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>5e240c4e-2b7d-4147-b1ce-21eed1a3380b.xml</file-name>
+	<createdDate>2020-06-29T14:47:24.427Z</createdDate>
+	<createdDate_dt>2020-06-29T14:47:24.427Z</createdDate_dt>
+	<lastModifiedDate>2020-07-20T02:17:45.950Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T02:17:45.950Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>d08725b0-77c9-06ad-2193-779ecbcf1770</key>
+	<value>Sản phẩm dành cho heo</value>
+<component id="d08725b0-77c9-06ad-2193-779ecbcf1770">
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d087</objectGroupId>
+	<objectId>d08725b0-77c9-06ad-2193-779ecbcf1770</objectId>
+	<file-name>d08725b0-77c9-06ad-2193-779ecbcf1770.xml</file-name>
+	<internal-name>Sản phẩm dành cho heo</internal-name>
+	<title_s>Sản phẩm dành cho heo</title_s>
+	<groupProductImg1_s>/static-assets/images/products/San pham (cho Heo ANH).png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Heo NHOM).png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc/tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 1).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 2).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/khang-sinh</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 3).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 4).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/Thuốc dùng ngoài</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 5).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ/sinh sản và hỗ trợ khác</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Heo 6).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-06-23T04:34:45.063Z</createdDate>
+	<createdDate_dt>2020-06-23T04:34:45.063Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T07:31:37.912Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T07:31:37.912Z</lastModifiedDate_dt>
+	<rightTitle_s>Sản phẩm dành cho Heo</rightTitle_s>
+</component>
+	</item></section_o>
+	<createdDate>2020-06-23T04:34:08.542Z</createdDate>
+	<createdDate_dt>2020-06-23T04:34:08.542Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T07:31:31.326Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T07:31:31.326Z</lastModifiedDate_dt>
+</page>

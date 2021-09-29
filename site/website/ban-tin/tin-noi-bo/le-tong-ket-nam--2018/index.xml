@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c1a3</objectGroupId>
+	<objectId>c1a3bec9-2164-4fec-f1d9-0346f41efb49</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>le-tong-ket-nam--2018</folder-name>
+	<internal-name>Lễ tổng kết năm 2018, Định hướng chiến lược và Hội nghị người lao động 2019</internal-name>
+	<navLabel>Lễ tổng kết năm 2018, Định hướng chiến lược và Hội</navLabel>
+	<title_s>Lễ tổng kết năm 2018, Định hướng chiến lược và Hội nghị người lao động 2019</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/cailayvetco_41.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Với kh&amp;ocirc;ng kh&amp;iacute; rộn r&amp;agrave;ng, vui tươi trước thềm năm mới (xu&amp;acirc;n Kỷ Hợi 2019), C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy - CAILAYVETCO đ&amp;atilde; long trọng tổ chức lễ "Tổng kết năm 2018 - Định hướng chiến lược v&amp;agrave; Hội nghị người lao động năm 2019" ng&amp;agrave;y 26 th&amp;aacute;ng 01 năm 2019 tại nh&amp;agrave; h&amp;agrave;ng Victoria.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại buổi lễ, &amp;Ocirc;ng Th&amp;acirc;n Văn Dũng &amp;ndash; TP. SX thay mặt ban l&amp;atilde;nh đạo c&amp;ocirc;ng ty đ&amp;atilde; b&amp;aacute;o c&amp;aacute;o về t&amp;igrave;nh h&amp;igrave;nh hoạt động sản xuất kinh doanh của c&amp;ocirc;ng ty trong năm 2018.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;"Năm 2018 đ&amp;atilde; qua, với những định hướng chiến lược s&amp;aacute;ng suốt, l&amp;atilde;nh đạo s&amp;aacute;t sao của HĐQT v&amp;agrave; Ban l&amp;atilde;nh đạo. C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy-CAILAYVETCO đ&amp;atilde; nổ lực biến kh&amp;oacute; khăn, th&amp;aacute;ch thức th&amp;agrave;nh cơ hội để thực hiện th&amp;agrave;nh c&amp;ocirc;ng mục ti&amp;ecirc;u đề ra, đời sống người lao động được cải thiện, C&amp;ocirc;ng ty ph&amp;aacute;t triển v&amp;agrave; ổn định&amp;rdquo; - &amp;Ocirc;ng Th&amp;acirc;n Văn Dũng ph&amp;aacute;t biểu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chủ tịch HĐQT C&amp;ocirc;ng ty &amp;ndash; &amp;Ocirc;ng Đ&amp;agrave;o Mạnh Lương đ&amp;atilde; ghi nhận những th&amp;agrave;nh tựu, đ&amp;aacute;nh gi&amp;aacute; những hạn chế c&amp;ograve;n tồn đọng trong c&amp;ocirc;ng t&amp;aacute;c tổ chức - hoạt động sản xuất kinh doanh 2018. Từ đ&amp;oacute;, vạch ra những giải ph&amp;aacute;p khắc phục, hoạch định phương hướng chiến lược cho năm 2019.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;ldquo;Năm 2019, với những th&amp;aacute;ch thức v&amp;agrave; bất ổn của biến đổi kh&amp;iacute; hậu, chi ph&amp;iacute; sản xuất cao v&amp;agrave; c&amp;aacute;c ti&amp;ecirc;u chuẩn an to&amp;agrave;n thực phẩm nghi&amp;ecirc;m ngặt;&amp;hellip; nhưng ch&amp;uacute;ng ta vẫn lu&amp;ocirc;n tự tin rằng tiềm năng của ng&amp;agrave;nh chăn nu&amp;ocirc;i Việt Nam n&amp;oacute;i chung, đặc biệt trong lĩnh vực th&amp;uacute; y n&amp;oacute;i ri&amp;ecirc;ng l&amp;agrave; v&amp;ocirc; c&amp;ugrave;ng lớn.&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trước khi kh&amp;eacute;p lại chương tr&amp;igrave;nh l&amp;agrave; bữa Tiệc tất ni&amp;ecirc;n v&amp;agrave; Chương tr&amp;igrave;nh văn nghệ - Bốc thăm may mắn diễn ra trong kh&amp;ocirc;ng kh&amp;iacute; đầm ấm, vui tươi của tập thể nh&amp;acirc;n vi&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhiều phần qu&amp;agrave; hấp dẫn trong Chương tr&amp;igrave;nh Bốc thăm d&amp;agrave;nh tặng cho CB-CNV&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Xen kẽ với t&amp;acirc;m trạng hồi hộp chờ đợi được xướng t&amp;ecirc;n trong những lần Ban tổ chức c&amp;ocirc;ng bố người may mắn nhận c&amp;aacute;c giải thưởng l&amp;agrave; nhiều ca kh&amp;uacute;c vui tươi, rộn r&amp;agrave;ng sắc xu&amp;acirc;n &amp;ndash; Mỗi giọng ca g&amp;oacute;p vui chương tr&amp;igrave;nh văn nghệ sẽ được nhận 1 bao l&amp;igrave; x&amp;igrave; may mắn khiến cho mọi người c&amp;agrave;ng n&amp;ocirc; nức với kh&amp;ocirc;ng kh&amp;iacute; Tết đang đến gần.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những phần qu&amp;agrave; may mắn của Chương tr&amp;igrave;nh như th&amp;ocirc;ng điệp sẽ gặt h&amp;aacute;i được những th&amp;agrave;nh c&amp;ocirc;ng mới hơn trong năm tới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chủ tịch HĐQT C&amp;ocirc;ng ty - &amp;Ocirc;ng Đ&amp;agrave;o Mạnh Lương bốc thăm v&amp;agrave; trao phần qu&amp;agrave; đặc biệt cho người may mắn tr&amp;uacute;ng giải nhất&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Anh Đo&amp;agrave;n Thanh Sang gửi lời cảm ơn đến BLĐ c&amp;ocirc;ng ty khi may mắn nhận được giải đặc biệt của Chương tr&amp;igrave;nh &amp;ldquo;Bốc thăm may mắn&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Buổi lễ tổng kết v&amp;agrave; hội nghị đ&amp;atilde; th&amp;agrave;nh c&amp;ocirc;ng rực rỡ với nhiều tiếng cười v&amp;agrave; niềm vui c&amp;ugrave;ng sự nhất tr&amp;iacute;, quyết t&amp;acirc;m cao của ban l&amp;atilde;nh đạo v&amp;agrave; tập thể c&amp;ocirc;ng nh&amp;acirc;n vi&amp;ecirc;n hứa hẹn 1 năm mới với nhiều thắng lợi mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nh&amp;acirc;n dịp năm mới, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy - CAILAYVETCO xin gửi lời ch&amp;uacute;c đến Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng, tập thể CB-CNV của c&amp;ocirc;ng ty một năm mới AN KHANG &amp;ndash; THỊNH VƯỢNG &amp;ndash; PH&amp;Aacute;T T&amp;Agrave;I - PH&amp;Aacute;T LỘC.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:55:09.146Z</createdDate>
+	<createdDate_dt>2020-07-31T05:55:10.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:55:09.146Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:55:09.146Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

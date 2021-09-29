@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/ennewsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b3d4</objectGroupId>
+	<objectId>b3d41ce8-60d8-ff36-b23e-41a0f20fba13</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-2</folder-name>
+	<internal-name>Mavin recognized for sustainable operations</internal-name>
+	<navLabel>Mavin recognized for sustainable operations</navLabel>
+	<title_s>Mavin recognized for sustainable operations</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/7e7ee9ff-4c43-3d73-cafb-4dccb951ad12.xml</key>
+	<value>Header - Test 2</value>
+	<include>/site/items/slides/7e7ee9ff-4c43-3d73-cafb-4dccb951ad12.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/OUB_4219-2-003-300x257.jpg</image_s>
+	<content_html>&lt;p&gt;&lt;img src="/static-assets/images/news/Mavin-recognized-for-sustainable-operations-1.png" alt="" width="800" height="1131" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/static-assets/images/news/Mavin-recognized-for-sustainable-operations-2.png" alt="" width="800" height="1131" /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T06:42:09.566Z</createdDate>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:10:54.854Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:10:54.854Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

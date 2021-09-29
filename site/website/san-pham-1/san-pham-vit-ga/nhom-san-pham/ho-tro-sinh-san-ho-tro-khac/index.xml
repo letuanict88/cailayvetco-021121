@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c3ef</objectGroupId>
+	<objectId>c3ef34f5-5693-410c-714a-de27ed37b1aa</objectId>
+	<internal-name>Nhóm Thuốc Hỗ trợ sinh sản và hỗ trợ khác</internal-name>
+	<navLabel>Nhóm Thuốc Hỗ trợ sinh sản và hỗ trợ khác</navLabel>
+	<title_s>Nhóm Thuốc Hỗ trợ sinh sản và hỗ trợ khác</title_s>
+	<rightTitle_s>MEKO.BROM INJ</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ho-tro-sinh-san-ho-tro-khac</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/43 MEKO.BROM INJA.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4e66bc1a-316d-6577-991e-a546730d6d60</key>
+	<value>Slide</value>
+<component id="4e66bc1a-316d-6577-991e-a546730d6d60">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e66</objectGroupId>
+	<objectId>4e66bc1a-316d-6577-991e-a546730d6d60</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>4e66bc1a-316d-6577-991e-a546730d6d60.xml</file-name>
+	<createdDate>2020-08-03T08:22:27.295Z</createdDate>
+	<createdDate_dt>2020-08-03T08:22:27.295Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:22:27.295Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:22:27.295Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/2475c828-d20d-4876-e3ea-2060c0b7e489.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/2475c828-d20d-4876-e3ea-2060c0b7e489.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T08:21:03.505Z</createdDate>
+	<createdDate_dt>2020-08-03T08:21:03.505Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:03:40.146Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:03:40.146Z</lastModifiedDate_dt>
+</page>

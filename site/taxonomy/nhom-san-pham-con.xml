@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6c43</objectGroupId>
+	<objectId>6c4319ba-70a9-976f-ed5f-a9256868f72e</objectId>
+	<items item-list="true">	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value>
+	</item>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value>Nhóm thuốc kháng sinh</value>
+	</item>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value>Nhóm thuốc sát trùng nấm, cầu trùng</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
+	<value>Nhóm thuốc sát trùng thuốc dùng ngoài</value>
+	</item>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value>
+	</item>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value>
+	</item>	<item>	<key>nhom-thuoc-phong-tri-benh</key>
+	<value>Nhóm thuốc Phòng, trị bệnh</value>
+	</item>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<value>Nhóm thuốc xử lý nước, cải tạo môi trường</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value>Nhóm thuốc sát trùng, dầu tằm</value>
+	</item>	<item>	<key>nhom-ho-tro-khac</key>
+	<value>Nhóm thuốc hỗ trợ khác</value>
+	</item></items>
+	<file-name>nhom-san-pham-con.xml</file-name>
+	<folder-name/>
+	<internal-name>Nhóm sản phẩm con</internal-name>
+	<createdDate>2020-06-22T06:50:07.471Z</createdDate>
+	<createdDate_dt>2020-06-22T06:50:07.471Z</createdDate_dt>
+	<lastModifiedDate>2020-07-28T08:23:58.273Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:23:58.273Z</lastModifiedDate_dt>
+</component>

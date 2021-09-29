@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetailEn</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a974</objectGroupId>
+	<objectId>a9741e78-16f6-4edc-c31f-14bc5e086ae3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>poisoning-caused-by-e-coli</folder-name>
+	<internal-name>Swine diarrhea due to Balantidium Coli</internal-name>
+	<diseaseName_s>Swine diarrhea due to Balantidium Coli</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>c87c7c18-cb03-8aec-24e1-8a2da903d33d</key>
+	<value>Slide</value>
+<component id="c87c7c18-cb03-8aec-24e1-8a2da903d33d">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c87c</objectGroupId>
+	<objectId>c87c7c18-cb03-8aec-24e1-8a2da903d33d</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	</item></slide_o>
+	<file-name>c87c7c18-cb03-8aec-24e1-8a2da903d33d.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T08:09:07.130Z</createdDate>
+	<createdDate_dt>2020-07-13T08:09:07.130Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T08:09:07.130Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:09:07.130Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p&gt;The disease is a concern of many farms, causing pigs to reduce weight gain and affect the economic efficiency of farmers.&lt;/p&gt;
+&lt;p&gt;Invite people to consult Mavin Animal Health's advice on:&lt;/p&gt;
+&lt;p&gt;- Overview, mechanism of disease&lt;/p&gt;
+&lt;p&gt;- Identify the disease&lt;/p&gt;
+&lt;p&gt;- Diagnostic&lt;/p&gt;
+&lt;p&gt;- Prevention and treatment of diseases&lt;/p&gt;
+&lt;p&gt;View detail Documents &lt;a href="https://issuu.com/tapdoanmavin/docs/benh_do_balantidium_coli_mavinfarm"&gt;HERE.&lt;/a&gt;&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-13T08:08:14.457Z</createdDate>
+	<createdDate_dt>2020-07-13T08:08:14.457Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:23:13.776Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:23:13.776Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Poultry disease</value_smv>
+	</item></technicalAssistance_o>
+	<parentURL_s>/en/technical-assistance/group-sick/poultry-disease/index</parentURL_s>
+	<createdDate_dt_dt>2020-08-05T04:11:16.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
+</page>

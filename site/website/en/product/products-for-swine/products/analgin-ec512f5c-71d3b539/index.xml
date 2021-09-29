@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>756f8daf</objectGroupId>
+	<objectId>756f8daf-8b48-4cd2-8371-5743f5e25c90</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>analgin-ec512f5c-71d3b539</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value_smv>Analgesic, antipyretic and anti-inflammatory </value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/53 Nor-Agin 100mlA.png</productImage_s>
+	<internal-name>NOR-ALGIN</internal-name>
+	<navLabel>NOR-ALGIN</navLabel>
+	<productName_s>NOR-ALGIN</productName_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 33.3333%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Noramidopyrine (Analgin) 50g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antipyretic, analgesic. Combining antibiotics in the treatment of infections.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 33.3333%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 33.3333%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular.&lt;/p&gt;
+&lt;p&gt;Buffalos, cows, horses: 1ml / 40-50kg weight / time&lt;/p&gt;
+&lt;p&gt;Pig, goat, sheep: 1ml / 30-50kg weight / time&lt;/p&gt;
+&lt;p&gt;Dogs and cats: 1ml / 15-20kg weight / time&lt;/p&gt;
+&lt;p&gt;Chicken, duck: 1ml / 10-15kg weight / time&lt;/p&gt;
+&lt;p&gt;Depending on the fever, it can be injected 2-3 times / day&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-93&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T08:09:42.675Z</createdDate>
+	<createdDate_dt>2020-08-05T08:09:42.675Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:15:16.419Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:15:16.419Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

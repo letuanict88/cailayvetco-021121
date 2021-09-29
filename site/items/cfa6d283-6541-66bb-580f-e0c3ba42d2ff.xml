@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cfa6</objectGroupId>
+	<objectId>cfa6d283-6541-66bb-580f-e0c3ba42d2ff</objectId>
+	<file-name>cfa6d283-6541-66bb-580f-e0c3ba42d2ff.xml</file-name>
+	<internal-name>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</internal-name>
+	<productgrouplevel1_s>thuoc-cho-tom-ca</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-dinh-duong-khoang-tang-suc-de-khang</productgrouplevel2_s>
+	<createdDate>2020-07-03T07:54:41.539Z</createdDate>
+	<createdDate_dt>2020-07-03T07:54:41.539Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T07:54:41.539Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:54:41.539Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsach</content-type>
+	<display-template>/templates/web/page/chinhsach.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>812974e6</objectGroupId>
+	<objectId>812974e6-9801-4767-8b44-dc220811d3ff</objectId>
+	<internal-name> Điều kiện giao dịch chung</internal-name>
+	<navLabel> Điều kiện giao dịch chung</navLabel>
+	<title_s> Điều kiện giao dịch chung</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>dieu-kien-giao-dich-chung</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<imageBanner_s>/static-assets/images/news/img-chinh-sach.jpg</imageBanner_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;ĐIỀU KIỆN GIAO DỊCH CHUNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Phạm vi ph&amp;acirc;n phối sản phẩm:&lt;/strong&gt; MEKOVET cung cấp sản phẩm tr&amp;ecirc;n to&amp;agrave;n quốc v&amp;agrave; c&amp;aacute;c nước l&amp;acirc;n cận (L&amp;agrave;o, Campuchia, Myanmar&amp;hellip;).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Ti&amp;ecirc;u chuẩn dịch vụ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cung cấp c&amp;aacute;c sản phẩm chất lượng tốt, hiệu quả cao v&amp;agrave; gi&amp;aacute; th&amp;agrave;nh hợp l&amp;yacute;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;ocirc;ng ngừng n&amp;acirc;ng cao chất lượng phục vụ, đ&amp;aacute;p ứng sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lu&amp;ocirc;n c&amp;oacute; đội ngũ tư vấn để giải đ&amp;aacute;p thắc mắc cho kh&amp;aacute;ch h&amp;agrave;ng kịp thời, nhanh ch&amp;oacute;ng;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ch&amp;uacute;ng t&amp;ocirc;i cam kết kinh doanh minh bạch, sản phẩm chất lượng, c&amp;oacute; nguồn gốc r&amp;otilde; r&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Hướng dẫn mua h&amp;agrave;ng:&lt;/strong&gt; Qu&amp;yacute; Kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể chọn một trong hai c&amp;aacute;ch sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;aacute;ch 1: Gọi điện thoại đến số điện thoại của c&amp;ocirc;ng ty, c&amp;ocirc;ng ty sẽ tư vấn v&amp;agrave; hỗ trợ cho kh&amp;aacute;ch h&amp;agrave;ng tất cả c&amp;aacute;c th&amp;ocirc;ng tin về sản phẩm v&amp;agrave; dịch vụ v&amp;agrave; hướng dẫn điểm đại l&amp;yacute;/cửa h&amp;agrave;ng ph&amp;acirc;n phối sản phẩm. Th&amp;ocirc;ng tin li&amp;ecirc;n hệ:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;Ocirc;NG TY CỔ PHẦN DƯỢC TH&amp;Uacute; Y CAI LẬY&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Trụ sở ch&amp;iacute;nh: Khu phố 1, phường 5, thị x&amp;atilde; Cai Lậy, tỉnh Tiền Giang&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Điện thoại: (0273) 3826462 - 3710769 -&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Hotline: 0976732277&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;aacute;ch 2: Li&amp;ecirc;n hệ với c&amp;aacute;c Đại l&amp;yacute; của C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy tr&amp;ecirc;n to&amp;agrave;n quốc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. Nghĩa vụ của c&amp;aacute;c b&amp;ecirc;n trong giao dịch mua b&amp;aacute;n:&lt;/strong&gt; B&amp;ecirc;n b&amp;aacute;n, b&amp;ecirc;n mua tu&amp;acirc;n thủ thực hiện c&amp;aacute;c thỏa thuận đ&amp;atilde; k&amp;yacute; (Hợp đồng mua b&amp;aacute;n, hợp đồng nguy&amp;ecirc;n tắc).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. C&amp;ocirc;ng nghệ v&amp;agrave; bảo h&amp;agrave;nh:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;ocirc;ng nghệ sản xuất: Sản phẩm MEKOVET được sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền thiết bị đạt chuẩn WHO- GMP. C&amp;ocirc;ng nghệ của MEKOVET thuộc sở hữu của ch&amp;uacute;ng t&amp;ocirc;i bao gồm kh&amp;ocirc;ng giới hạn về thiết kế bao b&amp;igrave;, ti&amp;ecirc;u chuẩn nguy&amp;ecirc;n liệu, c&amp;ocirc;ng thức pha chế,&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;aacute;ch h&amp;agrave;ng kh&amp;ocirc;ng được ph&amp;eacute;p cung cấp/ b&amp;aacute;n/ chuyển giao th&amp;ocirc;ng tin về quy tr&amp;igrave;nh c&amp;ocirc;ng nghệ của MEKOVET cho bất kỳ b&amp;ecirc;n thứ ba n&amp;agrave;o m&amp;agrave; kh&amp;ocirc;ng c&amp;oacute; sự cho ph&amp;eacute;p bằng văn bản của ch&amp;uacute;ng t&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;aacute;ch h&amp;agrave;ng phải đền b&amp;ugrave; c&amp;aacute;c thiệt hại cho MEKOVET nếu xảy ra việc tiết lộ hay kh&amp;ocirc;ng bảo đảm b&amp;iacute; mật c&amp;ocirc;ng nghệ của MEKOVET.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- MEKOVET bảo h&amp;agrave;nh sản phẩm theo thời hạn sử dụng được in tr&amp;ecirc;n bao b&amp;igrave; h&amp;agrave;ng h&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trong thời gian bảo h&amp;agrave;nh, MEKOVET sẽ thanh to&amp;aacute;n tất cả c&amp;aacute;c chi ph&amp;iacute; li&amp;ecirc;n quan đến việc bảo h&amp;agrave;nh kỹ thuật sản phẩm (bao gồm cả đổi, trả h&amp;agrave;ng).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. Ch&amp;iacute;nh s&amp;aacute;ch ho&amp;agrave;n trả:&lt;/strong&gt; H&amp;agrave;ng sẽ được đổi ngay khi c&amp;oacute; dấu hiệu về lỗi kỹ thuật, C&amp;ocirc;ng ty sẽ thanh to&amp;aacute;n to&amp;agrave;n bộ chi ph&amp;iacute; đổi h&amp;agrave;ng cho đối t&amp;aacute;c bằng tiền mặt hoặc trừ tr&amp;ecirc;n h&amp;oacute;a đơn b&amp;aacute;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;7. Trường hợp Bất khả kh&amp;aacute;ng:&lt;/strong&gt; Sự kiện bất khả kh&amp;aacute;ng l&amp;agrave; sự kiện xảy ra mang t&amp;iacute;nh kh&amp;aacute;ch quan v&amp;agrave; nằm ngo&amp;agrave;i tầm kiểm so&amp;aacute;t của c&amp;aacute;c b&amp;ecirc;n như, động đất, b&amp;atilde;o, lũ lụt, lốc, s&amp;eacute;t đ&amp;aacute;nh, s&amp;oacute;ng thần, lở đất, hoả hoạn, chiến tranh hoặc c&amp;oacute; nguy cơ xảy ra chiến tranh v&amp;agrave; c&amp;aacute;c thảm hoạ kh&amp;aacute;c kh&amp;ocirc;ng lường trước được, hoặc việc thay đổi ch&amp;iacute;nh s&amp;aacute;ch hay ngăn cấm của cơ quan c&amp;oacute; thẩm quyền tại Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8. Giải quyết tranh chấp:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trong qu&amp;aacute; tr&amp;igrave;nh thực hiện giao kết theo Hợp đồng giữa 2 b&amp;ecirc;n, nếu c&amp;oacute; bất kỳ tranh chấp, vướng mắc n&amp;agrave;o nảy sinh, c&amp;aacute;c B&amp;ecirc;n phải th&amp;ocirc;ng b&amp;aacute;o cho nhau bằng văn bản v&amp;agrave; nỗ lực b&amp;agrave;n bạc để th&amp;aacute;o gỡ v&amp;agrave; giải quyết trước bằng biện ph&amp;aacute;p thương lượng tr&amp;ecirc;n tinh thần hợp t&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trường hợp hai B&amp;ecirc;n kh&amp;ocirc;ng thể giải quyết được tranh chấp bằng h&amp;igrave;nh thức n&amp;ecirc;u tr&amp;ecirc;n th&amp;igrave; vụ việc tranh chấp sẽ được đưa ra To&amp;agrave; &amp;aacute;n c&amp;oacute; thẩm quyền tại Tiền Giang để giải quyết theo Luật định. To&amp;agrave;n bộ &amp;aacute;n ph&amp;iacute; sẽ do B&amp;ecirc;n thua chịu tr&amp;aacute;ch nhiệm thanh to&amp;aacute;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;9. Điều khoản kh&amp;aacute;c:&lt;/strong&gt; MEKOVET c&amp;oacute; quyền thu hồi sản phẩm nếu Kh&amp;aacute;ch h&amp;agrave;ng chưa thanh to&amp;aacute;n hết hoặc do hợp đồng chấm dứt trước thời hạn, khi đ&amp;oacute; MEKOVET chỉ phải trả lại Kh&amp;aacute;ch h&amp;agrave;ng một phần số tiền m&amp;agrave; Kh&amp;aacute;ch h&amp;agrave;ng đ&amp;atilde; thanh to&amp;aacute;n trước đ&amp;oacute; sau khi đ&amp;atilde; khấu trừ những thiệt hại vật chất của hệ thống v&amp;agrave; chi ph&amp;iacute; vận chuyển.&lt;/p&gt;</content_html>
+	<createdDate>2020-08-04T09:05:19.209Z</createdDate>
+	<createdDate_dt>2020-08-04T09:05:19.209Z</createdDate_dt>
+	<lastModifiedDate>2020-09-24T02:54:21.933Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-24T02:54:21.933Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>973a85f5-2cc7-77ec-0870-b31e0631e669</key>
+	<value>Slide</value>
+<component id="973a85f5-2cc7-77ec-0870-b31e0631e669">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>973a</objectGroupId>
+	<objectId>973a85f5-2cc7-77ec-0870-b31e0631e669</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>973a85f5-2cc7-77ec-0870-b31e0631e669.xml</file-name>
+	<createdDate>2020-08-04T09:06:47.487Z</createdDate>
+	<createdDate_dt>2020-08-04T09:06:47.487Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T09:06:47.487Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T09:06:47.487Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+</page>

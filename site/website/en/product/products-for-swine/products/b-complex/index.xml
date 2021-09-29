@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ebe3</objectGroupId>
+	<objectId>ebe3ed92-0a2d-cf45-493e-47f85d1012d1</objectId>
+	<internal-name>B.COMPLEX</internal-name>
+	<navLabel>B.COMPLEX</navLabel>
+	<productName_s>B.COMPLEX</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>b-complex</folder-name>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/1 B.Complex 3A.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Increasing resistance</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.7391%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin B1 HCl 2.5g&lt;/p&gt;
+&lt;p&gt;Vitamin PP 2.5g&lt;/p&gt;
+&lt;p&gt;Vitamin B6 500mg&lt;/p&gt;
+&lt;p&gt;Vitamin B2 Na.phosphate 100mg&lt;/p&gt;
+&lt;p&gt;Calcium Pantothenate 100mg&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Supplementing vitamins in group B-deficient diseases&lt;/p&gt;
+&lt;p&gt;Help the buffalo, cows, pigs, dogs, chickens and ducks eat and stimulate growth&lt;/p&gt;
+&lt;p&gt;Chief, anti-malnutrition, anemia, fostering&amp;nbsp;in bacterial and parasitic diseases.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.07193%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.1889%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular or intravenous injection.&lt;/p&gt;
+&lt;p&gt;- Cattle: 1ml / 15-20kg weight / day&lt;/p&gt;
+&lt;p&gt;- Pigs, dogs: 1ml / 10kg weight / day&lt;/p&gt;
+&lt;p&gt;- Chicken, duck: 1ml / 5-10kg weight / day&lt;/p&gt;
+&lt;p&gt;Continuous injections 5-6 days in 1 course of treatment.&lt;/p&gt;
+&lt;p&gt;Inject injection for 1-2 weeks / time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-78&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T06:10:13.215Z</createdDate>
+	<createdDate_dt>2020-08-05T06:10:13.215Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:10:13.215Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:10:13.215Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

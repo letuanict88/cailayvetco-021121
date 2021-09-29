@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fbcd</objectGroupId>
+	<objectId>fbcdbb0f-b643-8153-e9d7-706355e80681</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-10</folder-name>
+	<internal-name>VIMILAC-PLUS 2</internal-name>
+	<navLabel>VIMILAC-PLUS 2</navLabel>
+	<productName_s>VIMILAC-PLUS 2</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/77 VIMILAC PLUS 2 M1 1kgA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3112%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất ch&amp;iacute;nh:&lt;/p&gt;
+&lt;p&gt;Protein th&amp;ocirc; (min) 19%&lt;/p&gt;
+&lt;p&gt;B&amp;eacute;o th&amp;ocirc; (min-max) 6-10%&lt;/p&gt;
+&lt;p&gt;Xơ th&amp;ocirc; (max) 2,1%&lt;/p&gt;
+&lt;p&gt;Lysine HCl (min) 1,5%&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất kh&amp;aacute;c:&lt;/p&gt;
+&lt;p&gt;Canxi (min-max) 0,6-0,9%&lt;/p&gt;
+&lt;p&gt;Phospho (min-max) 0,3-0,6%&lt;/p&gt;
+&lt;p&gt;Sodium (min-max) 0,2-0,4%&lt;/p&gt;
+&lt;p&gt;Threonin (min) 1%&lt;/p&gt;
+&lt;p&gt;Methionin + Cystein (min) 0,8%&lt;/p&gt;
+&lt;p&gt;Vitamin A (min) 34.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 (min) 5.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E (min) 120mg&lt;/p&gt;
+&lt;p&gt;Vitamin B1 HCl (min) 12mg&lt;/p&gt;
+&lt;p&gt;Vitamin B2 (min) 4mg&lt;/p&gt;
+&lt;p&gt;Vitamin B6 (min) 2mg&lt;/p&gt;
+&lt;p&gt;Fe (min-max) 200-250mg&lt;/p&gt;
+&lt;p&gt;Zn (min-max) 2-3g&lt;/p&gt;
+&lt;p&gt;Cu (min-max) 200-250mg&lt;/p&gt;
+&lt;p&gt;Mn (min-max) 100-150mg&lt;/p&gt;
+&lt;p&gt;Chất mang (bột sữa) vđ 1kg&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.30577%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.3829%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sữa tập ăn d&amp;ugrave;ng cho heo con.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng thay thế sữa mẹ từ ng&amp;agrave;y tuổi thứ 5.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sữa trộn với thức ăn căn bản cho heo đến khi lẻ bầy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;uacute;p tăng trọng nhanh l&amp;uacute;c cai sữa v&amp;agrave; khi t&amp;aacute;ch bầy, th&amp;uacute; c&amp;ograve;i cọc, chậm lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng khi th&amp;uacute; non bị bệnh, ti&amp;ecirc;u chảy&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cung cấp c&amp;aacute;c dưỡng chất cần thiết cho th&amp;uacute; non v&amp;agrave; th&amp;uacute; c&amp;ograve;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;uacute;p heo n&amp;aacute;i nu&amp;ocirc;i con tốt, tiết sữa nhiều, mau lại sức sau khi sinh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nguồn thức ăn sữa cho d&amp;ecirc;, b&amp;ecirc;, cừu non.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn, hoặc cho ăn trực tiếp.&lt;/p&gt;
+&lt;p&gt;- Bổ sung v&amp;agrave;o thức ăn cho heo con từ khi tập ăn đến cai sữa tỷ lệ 5% (1kg/20kg thức ăn). Nếu đ&amp;agrave;n heo ốm suy, mới hết bệnh bổ sung tỷ lệ 10% (1kg/10kg thức ăn).&lt;/p&gt;
+&lt;p&gt;- Sử dụng cho những đ&amp;agrave;n heo đang bệnh, đang trong giai đoạn phục hồi th&amp;igrave; thay thế thức ăn bằng Vimilac-plus 2 hay bổ sung tỷ lệ 10%.&lt;/p&gt;
+&lt;p&gt;- Sử dụng tr&amp;ecirc;n những heo đang bệnh ti&amp;ecirc;u chảy, ho nhưng vẫn c&amp;ograve;n ăn. Tỷ lệ 5-10% t&amp;ugrave;y t&amp;igrave;nh trạng bệnh.&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng trộn v&amp;agrave;o thức ăn cho n&amp;aacute;i đang bệnh vi&amp;ecirc;m tử cung, sốt, ăn &amp;iacute;t, mất sữa, sản lượng sữa giảm ở giai đoạn cuối.&lt;/p&gt;
+&lt;p&gt;Tỷ lệ 5-10% t&amp;ugrave;y t&amp;igrave;nh trạng bệnh.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 16:2010/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:54:19.000Z</createddate_dt>
+	<createdDate>2020-07-31T09:52:30.412Z</createdDate>
+	<createdDate_dt>2020-07-31T09:52:30.412Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:33:00.641Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:33:00.641Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

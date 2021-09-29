@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>96a7</objectGroupId>
+	<objectId>96a7b570-2007-6066-95f5-4c025c5f2aa5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>duoc-thu-y-cai-lay-cung-cap-bo-3-sp</folder-name>
+	<internal-name>Dược thú y Cai Lậy cung cấp bộ 3 sản phẩm giúp tái đàn heo thành công</internal-name>
+	<navLabel>Dược thú y Cai Lậy cung cấp bộ 3 sản phẩm giúp tái</navLabel>
+	<title_s>Dược thú y Cai Lậy cung cấp bộ 3 sản phẩm giúp tái đàn heo thành công</title_s>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/news/mekovet_bo__sp.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vừa qua, C&amp;ocirc;ng ty Cổ phần Dược th&amp;uacute; y Cai Lậy - một th&amp;agrave;nh vi&amp;ecirc;n của Tập đo&amp;agrave;n Mavin đ&amp;atilde; ch&amp;iacute;nh thức cung cấp ra thị trường Giải ph&amp;aacute;p bộ 3 sản phẩm thuốc th&amp;uacute; y mới với mục ti&amp;ecirc;u gi&amp;uacute;p người n&amp;ocirc;ng d&amp;acirc;n t&amp;aacute;i đ&amp;agrave;n lợn th&amp;agrave;nh c&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giải ph&amp;aacute;p của Dược th&amp;uacute; y Cai Lậy bao gồm 3 sản phẩm được v&amp;iacute; như 3 lớp bảo vệ cho đ&amp;agrave;n heo gồm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lớp bảo vệ 1 - FORMAVET: phun s&amp;aacute;t tr&amp;ugrave;ng, đảm bảo an to&amp;agrave;n sinh học. FORMAVET thế hệ mới của Mavin c&amp;oacute; đặc điểm giải ph&amp;oacute;ng chậm, &amp;iacute;t hăng cay, ti&amp;ecirc;u diệt nhanh mầm bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lớp bảo vệ 2 - GLUCANVITA: n&amp;acirc;ng cao sức đề kh&amp;aacute;ng, tăng cường miễn dịch tự nhi&amp;ecirc;n. GLUCANVITA của Mavin c&amp;oacute; chứa Beta &amp;ndash; Glucan v&amp;agrave; c&amp;aacute;c vitamin k&amp;iacute;ch th&amp;iacute;ch hệ miễn dịch tự nhi&amp;ecirc;n th&amp;ocirc;ng qua c&amp;aacute;c đại thực b&amp;agrave;o, v&amp;agrave; c&amp;aacute;c th&amp;agrave;nh phần miễn dịch kh&amp;aacute;c, nhằm n&amp;acirc;ng cao đề kh&amp;aacute;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lớp bảo vệ 3 - CL-TYLVA 50: kh&amp;aacute;ng sinh, ức chế hoạt động virus. CL-TYLVA 50 chứa kh&amp;aacute;ng sinh Tylvalosin ức chế, k&amp;igrave;m h&amp;atilde;m sự nh&amp;acirc;n l&amp;ecirc;n của virus g&amp;acirc;y bệnh, ti&amp;ecirc;u diệt c&amp;aacute;c mầm bệnh cơ hội.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giải ph&amp;aacute;p bộ 3 lớp bảo vệ đ&amp;atilde; được Tập đo&amp;agrave;n Mavin nghi&amp;ecirc;n cứu v&amp;agrave; ứng dụng hiệu quả trong hệ thống trang trại chăn nu&amp;ocirc;i heo của Mavin tr&amp;ecirc;n to&amp;agrave;n quốc, c&amp;oacute; vai tr&amp;ograve; quan trọng gi&amp;uacute;p Mavin bảo to&amp;agrave;n th&amp;agrave;nh c&amp;ocirc;ng hơn 30.000 heo n&amp;aacute;i trong bối cảnh Dịch tả heo Ch&amp;acirc;u Phi b&amp;ugrave;ng ph&amp;aacute;t. Giải ph&amp;aacute;p n&amp;agrave;y đ&amp;atilde; ch&amp;iacute;nh thức được Tập đo&amp;agrave;n Mavin v&amp;agrave; Dược th&amp;uacute; y Cai Lậy ph&amp;acirc;n phối rộng r&amp;atilde;i tr&amp;ecirc;n thị trường từ đầu năm 2020 th&amp;ocirc;ng qua hệ thống đại l&amp;yacute; của Cai Lậy tr&amp;ecirc;n to&amp;agrave;n quốc với mục ti&amp;ecirc;u gi&amp;uacute;p người n&amp;ocirc;ng d&amp;acirc;n t&amp;aacute;i đ&amp;agrave;n lợn th&amp;agrave;nh c&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy đ&amp;atilde; c&amp;oacute; hơn 30 năm th&amp;agrave;nh lập v&amp;agrave; ph&amp;aacute;t triển, l&amp;agrave; một trong những thương hiệu thuốc th&amp;uacute; y phổ biến, được ưa chuộng nhất tại Việt Nam. C&amp;ocirc;ng ty sở hữu Nh&amp;agrave; m&amp;aacute;y sản xuất thuốc th&amp;uacute; y theo ti&amp;ecirc;u chuẩn WHO - GMP của tổ chức Y tế Thế giới tại Cai Lậy tỉnh Tiền Giang, gồm 4 d&amp;acirc;y chuyền sản xuất ho&amp;agrave;n to&amp;agrave;n tự động c&amp;aacute;c loại thuốc ti&amp;ecirc;m, thuốc uống v&amp;agrave; thuốc bột với tổng đầu tư tr&amp;ecirc;n 90 tỷ đồng, đ&amp;acirc;y l&amp;agrave; nền tảng đảm bảo c&amp;aacute;c sản phẩm của Dược th&amp;yacute; y Cai Lậy đạt c&amp;aacute;c ti&amp;ecirc;u chuẩn cao nhất về chất lượng, đảm bảo hiệu quả cho người chăn nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tham khảo th&amp;ecirc;m về Chương tr&amp;igrave;nh khuyến mại của Tập đo&amp;agrave;n Mavin:&amp;nbsp;&lt;em&gt;&lt;a href="https://mavin-group.com/vi/tin-tuc--su-kien/mua-cam-heo-mavin-tang-thuoc-sat-trung.html"&gt;Mua c&amp;aacute;m Mavin, tặng ngay thuốc s&amp;aacute;t tr&amp;ugrave;ng FORMAVET!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:50:16.551Z</createdDate>
+	<createdDate_dt>2020-07-31T07:50:16.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T08:16:11.292Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:16:11.292Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

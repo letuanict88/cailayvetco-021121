@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f65ad749</objectGroupId>
+	<objectId>f65ad749-358d-4e80-8ebe-0532a529d07f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114-a30911a3-5b8878de-602ea992-00e8a960-d601e49f-e483ba55-7a6780a8-7836278d-b2e8e7f1</folder-name>
+	<internal-name>CEFTIFUR 5%</internal-name>
+	<navLabel>CEFTIFUR 5%</navLabel>
+	<productName_s>CEFTIFUR 5%</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/44 CEFTIFUR 5A.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ceftiofur 5g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ: 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Điều trị c&amp;aacute;c bệnh vi&amp;ecirc;m phổi, vi&amp;ecirc;m xoang, vi&amp;ecirc;m não, vi&amp;ecirc;m đa thanh mạc, vi&amp;ecirc;m đa khớp, vi&amp;ecirc;m m&amp;oacute;ng do Haemophilus&amp;nbsp;parasuis g&amp;acirc;y ra v&amp;agrave; c&amp;aacute;c bệnh ph&amp;oacute; thương h&amp;agrave;n, tụ huyếttr&amp;ugrave;ng, MMA (vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m tử cung, mất sữa) tr&amp;ecirc;n b&amp;ograve;, heo.&lt;/p&gt;
+&lt;p&gt;Thuốc an to&amp;agrave;n tr&amp;ecirc;n th&amp;uacute; mang thai.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 1.97975%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.3885%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp. Lắc đều trước khi sử dụng.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve; sữa: 1-2ml/40-50kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- Heo: 1ml/10-15kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-320&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:07:57.699Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:07:57.699Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

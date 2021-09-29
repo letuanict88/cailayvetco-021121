@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7224</objectGroupId>
+	<objectId>72242a3a-80b4-8aaa-56f6-90fb1a99bcda</objectId>
+	<internal-name>Nhóm bồi dưỡng tăng sức đề kháng</internal-name>
+	<navLabel>Nhóm bồi dưỡng tăng sức đề kháng</navLabel>
+	<title_s>Nhóm thuốc bồi dưỡng tăng sức đề kháng</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>a51a3e0d-533a-db20-0532-ad339d317d75</key>
+	<value>Slide</value>
+<component id="a51a3e0d-533a-db20-0532-ad339d317d75">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a51a</objectGroupId>
+	<objectId>a51a3e0d-533a-db20-0532-ad339d317d75</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>a51a3e0d-533a-db20-0532-ad339d317d75.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-03T07:26:25.619Z</createdDate>
+	<createdDate_dt>2020-07-03T07:26:25.619Z</createdDate_dt>
+	<lastModifiedDate>2020-07-20T02:18:02.992Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T02:18:02.992Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/7df960a6-356e-6923-d5a2-5afeb110f887.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/7df960a6-356e-6923-d5a2-5afeb110f887.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>boi-duong-tang-suc-de-khang</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/Glucanvita.png</rightimage_s>
+	<createdDate>2020-07-03T07:24:57.914Z</createdDate>
+	<createdDate_dt>2020-07-03T07:24:57.914Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:31:11.787Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:31:11.787Z</lastModifiedDate_dt>
+	<rightTitle_s>GLUCANVITA</rightTitle_s>
+</page>

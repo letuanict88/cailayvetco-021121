@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/nhomsanphamcha</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0f27</objectGroupId>
+	<objectId>0f27abdc-a3c9-aa4b-c133-12130888d348</objectId>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>THUỐC CHO TRÂU - BÒ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO HEO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO GÀ - VỊT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO CHÓ - MÈO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO TÔM - CÁ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>THUỐC CHO LOÀI VẬT KHÁC</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	</item></groupProduct_o>
+	<file-name>0f27abdc-a3c9-aa4b-c133-12130888d348.xml</file-name>
+	<internal-name>Nhóm sản phẩm</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<createdDate>2020-06-22T08:05:40.975Z</createdDate>
+	<createdDate_dt>2020-06-22T08:05:40.975Z</createdDate_dt>
+	<lastModifiedDate>2020-06-22T08:05:40.975Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-22T08:05:40.975Z</lastModifiedDate_dt>
+</component>

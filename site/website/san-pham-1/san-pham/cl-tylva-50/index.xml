@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c867</objectGroupId>
+	<objectId>c867259b-06c2-e37e-7c83-e5d6d9613613</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cl-tylva-50</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>CL-TYLVA 50</internal-name>
+	<navLabel>CL-TYLVA 50</navLabel>
+	<productName_s>CL-TYLVA 50</productName_s>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/CL TYLVA 50 moi.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.8029%;"&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tylvalosin tartrate 5g&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tylvalosin tartrate l&amp;agrave; kh&amp;aacute;ng sinh thế hệ mới của nh&amp;oacute;mMacrolid,&amp;nbsp;hiệu quả hơn tylosin, tilmicosin, tiamulin tr&amp;ecirc;n Mycoplasma, c&amp;oacute;&amp;nbsp;phổ t&amp;aacute;c dụng rộng với vi khuẩn gram &amp;acirc;m, gram dương v&amp;agrave; ức&amp;nbsp;chế virus g&amp;acirc;y bệnh c&amp;oacute; vỏ bọc do sự k&amp;iacute;ch hoạt, tăng cường khả&amp;nbsp;năng hoạt động của đại thực b&amp;agrave;o&amp;hellip;Thuốc c&amp;oacute; t&amp;aacute;c dụng điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Heo: vi&amp;ecirc;m phổi, suyễn, vi&amp;ecirc;m hồi manh tr&amp;agrave;ng, đại tr&amp;agrave;ng, hồng&amp;nbsp;lỵ,&amp;hellip;c&amp;aacute;c bệnh kế ph&amp;aacute;t do virus như: dịch tả heo Ch&amp;acirc;u Phi (ASF), tai&amp;nbsp;xanh (PRRS), ti&amp;ecirc;u chảy cấp (PED), lở mồm long m&amp;oacute;ng (FMD),&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gia cầm: CRD, bệnh do c&amp;aacute;c lo&amp;agrave;i Mycoplasma g&amp;acirc;y ra, hen&amp;nbsp;gh&amp;eacute;p E.coli, hen gh&amp;eacute;p bạch lỵ, ti&amp;ecirc;u chảy do trực khuẩn&amp;nbsp;Clostridium, vi&amp;ecirc;m ruột hoại tử, ORT, bệnh do tụ cầu khuẩn, li&amp;ecirc;n cầu khuẩn, E.coli, Salmonella,&amp;hellip;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.7753%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.4217%;"&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Pha v&amp;agrave;o nước cho uống hoặc trộn thức ăn cho ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Heo:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Ph&amp;ograve;ng bệnh: 1-2g/ l&amp;iacute;t nước uống hay 1kg/ tấn thức ăn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trị bệnh: 1-2kg/ tấn thức ăn hay 1g/8-10kg thể trọng/ ng&amp;agrave;y.&amp;nbsp;D&amp;ugrave;ng li&amp;ecirc;n tục 5-10 ng&amp;agrave;y v&amp;agrave; lặp lại khi cần thiết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Đối với heo đang giảm ăn cần phải tăng liều l&amp;ecirc;n để đảm&amp;nbsp;bảo đủ liều lượng thuốc cho cơ thể.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gia cầm: 1-2kg/ tấn thức ăn hay 1g/4-6kg thể trọng/ ng&amp;agrave;y&amp;nbsp;hay 2-3g/ l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng trong 7 ng&amp;agrave;y đầu hoặc li&amp;ecirc;n tục 5-7 ng&amp;agrave;y trong suốt&amp;nbsp;thời gian bị stress&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;ograve;ng bệnh: 1/2 liều trị.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-354&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:01:14.922Z</createdDate>
+	<createdDate_dt>2020-08-03T04:01:14.922Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:55:10.883Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:55:10.883Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:01:15.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

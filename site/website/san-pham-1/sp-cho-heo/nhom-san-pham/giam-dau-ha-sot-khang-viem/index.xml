@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d8d8</objectGroupId>
+	<objectId>d8d8a496-22bc-5a2b-ceba-a8e0418e21dd</objectId>
+	<internal-name>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</internal-name>
+	<navLabel>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</navLabel>
+	<title_s>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</title_s>
+	<rightTitle_s>VITAMIN K3</rightTitle_s>
+	<file-name>index.xml</file-name>
+	<folder-name>giam-dau-ha-sot-khang-viem</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/13 Vitamin K3A.png</rightimage_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e2b77d49-dd88-8d1b-fa54-326cb06fd383</key>
+	<value>Slide</value>
+<component id="e2b77d49-dd88-8d1b-fa54-326cb06fd383">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e2b7</objectGroupId>
+	<objectId>e2b77d49-dd88-8d1b-fa54-326cb06fd383</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>e2b77d49-dd88-8d1b-fa54-326cb06fd383.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T06:57:03.128Z</createdDate>
+	<createdDate_dt>2020-08-03T06:57:03.128Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T06:57:03.128Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T06:57:03.128Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/45d63f23-5712-22ee-2512-5d5dbf21cbb5.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/45d63f23-5712-22ee-2512-5d5dbf21cbb5.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T06:54:45.261Z</createdDate>
+	<createdDate_dt>2020-08-03T06:54:45.261Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:31:52.737Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:31:52.737Z</lastModifiedDate_dt>
+</page>

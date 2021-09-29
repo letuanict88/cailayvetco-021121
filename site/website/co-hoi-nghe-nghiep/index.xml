@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/job-page</content-type>
+	<display-template>/templates/web/page/job-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8f48</objectGroupId>
+	<objectId>8f4800c9-12e9-99a4-e90b-ce441b62987d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>co-hoi-nghe-nghiep</folder-name>
+	<internal-name>Cơ hội nghề nghiệp</internal-name>
+	<navLabel>Cơ hội nghề nghiệp</navLabel>
+	<title_s>Cơ hội nghề nghiệp</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>a756a8f6-0e8c-930e-9a0d-76e13e5118b0</key>
+	<value>Job slide</value>
+<component id="a756a8f6-0e8c-930e-9a0d-76e13e5118b0">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a756</objectGroupId>
+	<objectId>a756a8f6-0e8c-930e-9a0d-76e13e5118b0</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>a756a8f6-0e8c-930e-9a0d-76e13e5118b0.xml</file-name>
+	<internal-name>Job slide</internal-name>
+	<createdDate>2020-06-29T07:57:24.631Z</createdDate>
+	<createdDate_dt>2020-06-29T07:57:24.631Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:43:16.730Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:43:16.730Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>2cae7693-42cd-fd51-d477-620a23b5c9eb</key>
+	<value>Danh sách tin tuyển dụng &amp;amp; CSNS</value>
+<component id="2cae7693-42cd-fd51-d477-620a23b5c9eb">
+	<content-type>/component/jobs</content-type>
+	<display-template>/templates/web/component/jobs.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2cae</objectGroupId>
+	<objectId>2cae7693-42cd-fd51-d477-620a23b5c9eb</objectId>
+	<file-name>2cae7693-42cd-fd51-d477-620a23b5c9eb.xml</file-name>
+	<contentLeftImage_s>/static-assets/images/policies/Layer 201.png</contentLeftImage_s>
+	<contentRightImage_s>/static-assets/images/policies/Layer 202.png</contentRightImage_s>
+	<internal-name>Danh sách tin tuyển dụng &amp; CSNS</internal-name>
+	<title1_s>Tin tuyển dụng</title1_s>
+	<title2_s>Chính sách nhân sự</title2_s>
+	<contentLeftTitle_s>Đào tạo và phát triển</contentLeftTitle_s>
+	<contentLeftDesc_s>Mekovet đặc biệt chú trọng đến công tác phát triển nguồn nhân lực thông qua việc triển khai hiệu quả chính sách đào tạo, nâng cao hiểu biết, trình độ nghiệp vụ cho CBNV. </contentLeftDesc_s>
+	<contentLeftURL_s>/co-hoi/dao-tao-phat-trien</contentLeftURL_s>
+	<contentRightTitle_s>Chế độ đãi ngộ và phúc lợi</contentRightTitle_s>
+	<contentRightDesc_s>Khi tham gia vào đại gia đình Mekovet, mỗi cán bộ nhân viên sẽ được hưởng những đãi ngộ xứng đáng với đóng góp của mình cho sự phát triển của Công ty. </contentRightDesc_s>
+	<contentRightURL_s>/co-hoi/che-do-dai-ngo</contentRightURL_s>
+	<createdDate>2020-06-29T07:57:46.997Z</createdDate>
+	<createdDate_dt>2020-06-29T07:57:46.997Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:08:59.866Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:08:59.866Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-06-29T07:56:45.886Z</createdDate>
+	<createdDate_dt>2020-06-29T07:56:45.886Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:08:51.203Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:08:51.203Z</lastModifiedDate_dt>
+</page>

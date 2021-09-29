@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b7f8</objectGroupId>
+	<objectId>b7f8be76-153c-ef72-77b4-36228c881bf9</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>analgin</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value_smv>Analgesic, antipyretic and anti-inflammatory </value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/51 ANALGINA.png</productImage_s>
+	<internal-name>ANALGIN</internal-name>
+	<navLabel>ANALGIN</navLabel>
+	<productName_s>ANALGIN</productName_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0142%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Analgin 25g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Reducing fever and reducing pain in buffalos, cows, horses, goats, sheep, pigs, dogs, cats, chickens and ducks.&lt;/p&gt;
+&lt;p&gt;- Coordinate with antibiotics in treating infections in pets.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.79683%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.1889%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular.&lt;/p&gt;
+&lt;p&gt;- Buffalos, cows, horses: 1ml / 20-30kg weight&lt;/p&gt;
+&lt;p&gt;- Pigs, goats, sheep: 1ml / 10-15kg weight&lt;/p&gt;
+&lt;p&gt;- Dogs and cats: 1ml / 8-10kg weight&lt;/p&gt;
+&lt;p&gt;- Chickens and ducks: 1ml / 8-10kg weight&lt;/p&gt;
+&lt;p&gt;Cattle not injected more than: 10ml / head / time.&lt;/p&gt;
+&lt;p&gt;Use continuously for 3 days.&lt;/p&gt;
+&lt;p&gt;Depending on the fever, it can be injected 2-3 times / day&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-36&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T08:09:42.675Z</createdDate>
+	<createdDate_dt>2020-08-05T08:09:42.675Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:09:42.675Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:09:42.675Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

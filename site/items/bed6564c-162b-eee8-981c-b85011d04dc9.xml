@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bed6</objectGroupId>
+	<objectId>bed6564c-162b-eee8-981c-b85011d04dc9</objectId>
+	<internal-name>Reproductive Medicine</internal-name>
+	<file-name>bed6564c-162b-eee8-981c-b85011d04dc9.xml</file-name>
+	<productgrouplevel1_s>thuoc-cho-cho-meo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</productgrouplevel2_s>
+	<createdDate>2020-08-05T07:32:36.802Z</createdDate>
+	<createdDate_dt>2020-08-05T07:32:36.802Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:32:36.802Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:32:36.802Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>34aa</objectGroupId>
+	<objectId>34aa6f1b-4ce1-d96b-040d-850da039adc6</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/quan-he-co-dong.png</image_s>
+	</item></slide_o>
+	<file-name>34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</file-name>
+	<internal-name>Header - Detail Quan hệ cổ đông</internal-name>
+	<createdDate>2020-07-07T03:31:42.512Z</createdDate>
+	<createdDate_dt>2020-07-07T03:31:42.512Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T03:31:42.512Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T03:31:42.512Z</lastModifiedDate_dt>
+</component>

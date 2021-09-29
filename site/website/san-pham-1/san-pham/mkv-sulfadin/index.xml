@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3fc5</objectGroupId>
+	<objectId>3fc55671-f1f8-537b-1ff7-e11b18c1e648</objectId>
+	<internal-name>MKV-SULFADIN</internal-name>
+	<navLabel>MKV-SULFADIN</navLabel>
+	<productName_s>MKV-SULFADIN</productName_s>
+	<isHot_b>false</isHot_b>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-sulfadin</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sulfadimidine sodium 40g&lt;/p&gt;
+&lt;p&gt;Trimethoprim 8g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh nhiễm tr&amp;ugrave;ng đường ti&amp;ecirc;u h&amp;oacute;a, h&amp;ocirc;&amp;nbsp;hấp, tiết niệu,&amp;hellip;do vi khuẩn nhạy cảm với Sulfadimidine&amp;nbsp;v&amp;agrave; Trimethoprim ở gia s&amp;uacute;c, gia cầm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- G&amp;agrave;, vịt, thỏ: ti&amp;ecirc;u chảy do E.coli, Salmonella, chướng diều, bỏ&amp;nbsp;ăn, vi&amp;ecirc;m ruột, tụ huyết tr&amp;ugrave;ng, vi&amp;ecirc;m rốn, bạch lỵ, thương h&amp;agrave;n,&amp;nbsp;vi&amp;ecirc;m phổi, kh&amp;ograve; kh&amp;egrave;, CRD,&amp;hellip;c&amp;aacute;c nhiễm tr&amp;ugrave;ng huyết kh&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tr&amp;acirc;u, b&amp;ograve;, b&amp;ecirc;, ngh&amp;eacute;, d&amp;ecirc;, cừu, heo: ti&amp;ecirc;u chảy, tụ huyết&amp;nbsp;tr&amp;ugrave;ng, vi&amp;ecirc;m phổi, vi&amp;ecirc;m đường sinh dục, tiết niệu, nhiễm&amp;nbsp;tr&amp;ugrave;ng huyết, vi&amp;ecirc;m teo mũi, vi&amp;ecirc;m m&amp;oacute;ng, vi&amp;ecirc;m khớp, nhiễm&amp;nbsp;tr&amp;ugrave;ng vết thương.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ch&amp;oacute;, m&amp;egrave;o: vi&amp;ecirc;m phổi, vi&amp;ecirc;m phế quản, nhiễm tr&amp;ugrave;ng&amp;nbsp;đường sinh dục, nhiễm tr&amp;ugrave;ng huyết sau sinh-hậu phẫu,&amp;nbsp;ti&amp;ecirc;u chảy, vi&amp;ecirc;m ruột, &amp;aacute;p xe.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.32777%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.3167%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống hay trộn v&amp;agrave;o thức ăn cho ăn&lt;/p&gt;
+&lt;p&gt;- Gia cầm: 1-2g/ l&amp;iacute;t nước uống hoặc 1-2g/kg thức ăn.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng liều gấp đ&amp;ocirc;i trong những ng&amp;agrave;y điều trị đầu ti&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;- Heo v&amp;agrave; c&amp;aacute;c lo&amp;agrave;i gia s&amp;uacute;c kh&amp;aacute;c: 1g/10kg thể trọng.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-350&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/MKV Sulfadin.png</productImage_s>
+	<createdDate>2020-08-03T04:26:58.101Z</createdDate>
+	<createdDate_dt>2020-08-03T04:26:58.101Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:06:54.200Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:06:54.200Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:26:58.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

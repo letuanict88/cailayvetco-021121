@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4f5bf9b1</objectGroupId>
+	<objectId>4f5bf9b1-3d80-4c6d-bf5b-94607c36fb8c</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>MEKOBENXIDE 80 (TÔM)</internal-name>
+	<navLabel>MEKOBENXIDE 80</navLabel>
+	<productName_s>MEKOBENXIDE 80 (BKC 80%) TÔM</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-a7272834-68626991-81e7c6c3-a862559c</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<value_smv>Nhóm thuốc xử lý nước, cải tạo môi trường</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/BKC TOM.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 47.9339%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Benzalkonium chloride 80%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diệt khuẩn, khống chế sự ph&amp;aacute;t triển của vi sinh vật trong nước&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;H&amp;ograve;a tan 1l&amp;iacute;t thuốc với 20-30 l&amp;iacute;t nước, t&amp;aacute;t đều xuống ao, mở m&amp;aacute;y quạt nước.&lt;/p&gt;
+&lt;p&gt;* Vệ sinh dụng cụ, bể ương nu&amp;ocirc;i: 3-5ml/m3 nước, ng&amp;acirc;m từ 10-12 giờ xả sạch.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.71893%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.3471%;"&gt;
+&lt;p&gt;* Ph&amp;ograve;ng bệnh cho t&amp;ocirc;m: 1l&amp;iacute;t/1.500m3 nước, 2 tuần xử l&amp;yacute; 1 lần.&lt;/p&gt;
+&lt;p&gt;* Xử l&amp;yacute; m&amp;ocirc;i trường để ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p&gt;- Diệt mầm bệnh l&amp;uacute;c chuẩn bị ao: 1l&amp;iacute;t/1.000m3 nước, để y&amp;ecirc;n 4-5 ng&amp;agrave;y trước khi thả nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;- Diệt mầm bệnh l&amp;uacute;c t&amp;ocirc;m mắc bệnh: 1l&amp;iacute;t/1.200m3 nước, 3 ng&amp;agrave;y xử l&amp;yacute; 1 lần.&lt;/p&gt;
+&lt;p&gt;- Diệt bớt c&amp;aacute;c lo&amp;agrave;i tảo, gi&amp;uacute;p ổn định độ trong: 1l&amp;iacute;t/2.000m3 nước, l&amp;uacute;c trời nắng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:57:36.322Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:57:36.322Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

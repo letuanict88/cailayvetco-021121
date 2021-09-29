@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c99</objectGroupId>
+	<objectId>8c99ab63-835c-ebf9-b2b7-669f9823c912</objectId>
+	<file-name>8c99ab63-835c-ebf9-b2b7-669f9823c912.xml</file-name>
+	<internal-name>Antiseptics</internal-name>
+	<productgrouplevel1_s>thuoc-cho-heo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-sat-trung-thuoc-dung-ngoai</productgrouplevel2_s>
+	<createdDate>2020-08-05T07:37:01.844Z</createdDate>
+	<createdDate_dt>2020-08-05T07:37:01.844Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:37:01.844Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:37:01.844Z</lastModifiedDate_dt>
+</component>

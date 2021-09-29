@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetailEn</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>06e7</objectGroupId>
+	<objectId>06e73b63-51bd-7f65-b8d0-7817a71189e9</objectId>
+	<internal-name>Common diseases in small dogs everyone has to know</internal-name>
+	<diseaseName_s>Common diseases in small dogs everyone has to know</diseaseName_s>
+	<parentURL_s>/en/technical-assistance/group-sick/pet-disease/index</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>treatment-of-scabies-in-dogs-and-cats</folder-name>
+	<technicalAssistance_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Pet disease</value_smv>
+	</item></technicalAssistance_o>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>c91b96c0-2ac3-3d7b-57bb-1b65660040d5</key>
+	<value>Slide</value>
+<component id="c91b96c0-2ac3-3d7b-57bb-1b65660040d5">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c91b</objectGroupId>
+	<objectId>c91b96c0-2ac3-3d7b-57bb-1b65660040d5</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/quan-he.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>c91b96c0-2ac3-3d7b-57bb-1b65660040d5.xml</file-name>
+	<createdDate>2020-07-17T08:23:31.647Z</createdDate>
+	<createdDate_dt>2020-07-17T08:23:31.647Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:23:31.647Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:23:31.647Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;Small dogs such as chihuahua, hoot, Japanese dog ... are very susceptible to some diseases, so when raising small dogs if you do not know how to take care of them properly, their health is very vulnerable.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Those who love animals and pets certainly want to keep indoor dogs. Like all other domestic pets, dogs are also susceptible to many diseases, especially small dogs like chihuahua, Japanese dogs or Peking dogs. So how do you know if your puppies are sick and how to care for and treat common diseases in small dogs? Check out the information in this article to gain more experience!&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Cardiac problems&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cardiovascular is a common health problem encountered by small dogs. Because the circulatory system and the cardiovascular system are constantly moving, you need to pay special attention to your dog's diet and diet. Do not give your dog greasy foods to lower blood cholesterol, which helps keep the heart healthy. In addition, every day you also need to exercise with your dog to improve health.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Osteoarthritis diseases&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Many small dogs like dogs, chihuahua ... or suffer from bone and joint diseases. Therefore, you should pay attention to adding calcium to dog diets, limiting foods containing fatty acids that can make bones porous, rheumatism and fracture easily if exercised fast. In addition, the dog should be regularly walked and exercised.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Dogs are prone to obesity&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;It is small and quite lazy, so you need to pay attention to diet and nutrition because dogs are also prone to obesity. You should limit foods high in fat, do not give them too much. If obesity lasts for long, it will be very harmful to their health.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Dental diseases&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Unlike large dogs, small dogs often have teeth that are not really strong. So you need to take extra care, do not let small dogs chew on the bones, their teeth may be damaged and it is also very likely to choke.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Dogs are susceptible to respiratory diseases&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The cold tolerance of puppies is often quite poor, so they are easily susceptible to respiratory diseases such as pneumonia, bronchitis, dog kennels ... If puppies are usually active, wheezing, you You need to clean your nose and eyes regularly.&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-17T08:22:30.714Z</createdDate>
+	<createdDate_dt>2020-07-17T08:22:30.714Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:25:41.513Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:25:41.513Z</lastModifiedDate_dt>
+	<createdDate_dt_dt>2020-08-05T04:25:41.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
+</page>

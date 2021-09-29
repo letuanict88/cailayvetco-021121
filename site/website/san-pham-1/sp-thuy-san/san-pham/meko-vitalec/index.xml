@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9220</objectGroupId>
+	<objectId>9220ec70-1805-6a58-2cd5-1b842191e4c6</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>MEKO.VITALEC</internal-name>
+	<navLabel>MEKO.VITALEC</navLabel>
+	<productName_s>MEKO.VITALEC</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MEKO.VITALEC CA 1kg.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.449%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin A (min)&amp;nbsp; 3.000.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3(min) 1.000.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E (min)&amp;nbsp; &amp;nbsp;5g&lt;/p&gt;
+&lt;p&gt;Vitamin B1 (min)&amp;nbsp; 1g&lt;/p&gt;
+&lt;p&gt;Vitamin B2 (min)&amp;nbsp; 2g&lt;/p&gt;
+&lt;p&gt;Vitamin B6 (min)&amp;nbsp; 1g&lt;/p&gt;
+&lt;p&gt;Vitamin K3 (min)&amp;nbsp; &amp;nbsp;1g&lt;/p&gt;
+&lt;p&gt;Vitamin C (min) 10g&lt;/p&gt;
+&lt;p&gt;Vitamin PP (min)&amp;nbsp; 5g&lt;/p&gt;
+&lt;p&gt;Vitamin H (min)&amp;nbsp; &amp;nbsp;40mg&lt;/p&gt;
+&lt;p&gt;Folic Acid (min)&amp;nbsp; 1g&lt;/p&gt;
+&lt;p&gt;Calcium pantothenate (min)&amp;nbsp; &amp;nbsp;2g&lt;/p&gt;
+&lt;p&gt;Sodium (min - max) 9-18g&lt;/p&gt;
+&lt;p&gt;Potassium&amp;nbsp; (min - max) 8-14g&lt;/p&gt;
+&lt;p&gt;Chất mang vđ&amp;nbsp; &amp;nbsp;1kg&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.71898%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.8319%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cung cấp c&amp;aacute;c vitamin, kho&amp;aacute;ng chất thiết yếu gi&amp;uacute;p c&amp;aacute; sinh trưởng v&amp;agrave; ph&amp;aacute;t triển tốt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;1-2g/1kg thức ăn.&lt;/p&gt;
+&lt;p&gt;N&amp;ecirc;n cho c&amp;aacute; ăn li&amp;ecirc;n tục trong suốt qu&amp;aacute; tr&amp;igrave;nh nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:16:56.995Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:16:56.995Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

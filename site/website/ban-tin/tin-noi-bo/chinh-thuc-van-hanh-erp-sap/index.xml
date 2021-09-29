@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de0c</objectGroupId>
+	<objectId>de0c691b-09f7-68fc-9b1e-582c6708e143</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chinh-thuc-van-hanh-erp-sap</folder-name>
+	<internal-name>Dược thú y Cai Lậy chính thức số hóa với Hệ thống ERP SAP S/4HANA</internal-name>
+	<navLabel>Dược thú y Cai Lậy chính thức số hóa với Hệ thống </navLabel>
+	<title_s>Dược thú y Cai Lậy chính thức số hóa với Hệ thống ERP SAP S/4HANA</title_s>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</key>
+	<value>Header - Home Page</value>
+	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/ERP MKV 5.4.2021.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 5/4/2021, tại Tiền Giang &amp;ndash; C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy (Mekovet) đ&amp;atilde; ch&amp;iacute;nh thức vận h&amp;agrave;nh (Go-live) Hệ thống Quản trị nguồn lực doanh nghiệp ERP SAP S/4HANA.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với tầm nh&amp;igrave;n n&amp;acirc;ng cao hiệu quả sản xuất kinh doanh v&amp;agrave; n&amp;acirc;ng tầm doanh nghiệp tr&amp;ecirc;n thị trường Dược Th&amp;uacute; y, Mekovet đ&amp;atilde; ch&amp;iacute;nh thức khởi động Dự &amp;aacute;n ERP SAP S/4HANA từ ng&amp;agrave;y 23/11/2020. Sau 133 ng&amp;agrave;y nỗ lực, tập trung, quyết liệt, Mekovet đ&amp;atilde; ch&amp;iacute;nh thức vận h&amp;agrave;nh th&amp;agrave;nh c&amp;ocirc;ng Hệ thống từ 7h30 ng&amp;agrave;y 5/4/2021, đ&amp;aacute;nh dấu bước chuyển m&amp;igrave;nh của doanh nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mekovet l&amp;agrave; đơn vị thứ 3 của Tập đo&amp;agrave;n Mavin được số h&amp;oacute;a với việc ứng dụng Hệ thống quản trị nguồn lực doanh nghiệp ti&amp;ecirc;n tiến nhất thế giới hiện nay ERP SAP S/4HANA (trước đ&amp;oacute; l&amp;agrave; ng&amp;agrave;nh Thức ăn chăn nu&amp;ocirc;i Feed v&amp;agrave; Thực phẩm chế biến Foods). Ứng dụng ERP SAP S/4HANA đối với ng&amp;agrave;nh Dược th&amp;uacute; y của Mavin hướng đến c&amp;aacute;c mục ti&amp;ecirc;u:&lt;/p&gt;
+&lt;p&gt;- N&amp;acirc;ng cao kỹ năng nghiệp vụ tiệm cận ti&amp;ecirc;u chuẩn quốc tế;&lt;/p&gt;
+&lt;p&gt;- Tăng t&amp;iacute;nh hợp t&amp;aacute;c, phối hợp giữa c&amp;aacute;c bộ phận;&lt;/p&gt;
+&lt;p&gt;- Hoạt động chuẩn mực, th&amp;ocirc;ng tin minh bạch, ch&amp;iacute;nh x&amp;aacute;c, kịp thời;&lt;/p&gt;
+&lt;p&gt;- N&amp;acirc;ng cao hiệu quả sản xuất kinh doanh;&lt;/p&gt;
+&lt;p&gt;- Chuẩn mực số h&amp;oacute;a mang lại lợi &amp;iacute;ch cho kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo &amp;ocirc;ng Đ&amp;agrave;o Mạnh Lương, Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin, Chủ tịch HĐQT Mekovet, Dự &amp;aacute;n đ&amp;atilde; khởi đầu đ&amp;uacute;ng v&amp;agrave;o giai đoạn b&amp;ugrave;ng ph&amp;aacute;t v&amp;agrave; l&amp;acirc;y lan rộng của dịch Covid-19, dẫn tới kh&amp;oacute; khăn cho c&amp;aacute;n bộ Nh&amp;agrave; m&amp;aacute;y tiếp nhận đ&amp;agrave;o tạo, hướng dẫn trực tiếp từ Ban Dự &amp;aacute;n v&amp;agrave; đối t&amp;aacute;c tư vấn, phần lớn thời gian phải tương t&amp;aacute;c từ xa, trực tuyến. Tuy nhi&amp;ecirc;n, bằng những cố gắng nỗ lực kh&amp;ocirc;ng biết mệt, vượt qua ch&amp;iacute;nh m&amp;igrave;nh của to&amp;agrave;n thể th&amp;agrave;nh vi&amp;ecirc;n Ban Dự &amp;aacute;n, Mekovet đ&amp;atilde; đưa Dự &amp;aacute;n ho&amp;agrave;n th&amp;agrave;nh đ&amp;uacute;ng tiến độ, triển khai th&amp;agrave;nh c&amp;ocirc;ng một hệ thống ERP hiện đại, nhiều ph&amp;acirc;n hệ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tổng Gi&amp;aacute;m đốc Mavin cũng gửi lời cảm ơn đối t&amp;aacute;c Deloitte Consulting &amp;ndash; đơn vị tư vấn triển khai ERP SAP, ghi nhận vai tr&amp;ograve; to lớn của đối t&amp;aacute;c đối với th&amp;agrave;nh c&amp;ocirc;ng của 3 Dự &amp;aacute;n số h&amp;oacute;a của Mavin vừa qua v&amp;agrave; khẳng định sự phối hợp ng&amp;agrave;y c&amp;agrave;ng nhuần nhuyễn giữa hai b&amp;ecirc;n l&amp;agrave; nh&amp;acirc;n tố quan trọng cho th&amp;agrave;nh c&amp;ocirc;ng của c&amp;aacute;c Dự &amp;aacute;n, đ&amp;acirc;y cũng l&amp;agrave; sự khởi đầu, nền tảng cho quan hệ chiến lược trong h&amp;agrave;nh tr&amp;igrave;nh chuyển đổi số của Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong Lễ ghi nhận Go-live Hệ thống ERP của Mekovet, &amp;ocirc;ng Pankaj Rathi, Gi&amp;aacute;m đốc Deloitte Consulting Việt Nam cho biết, mặc d&amp;ugrave; c&amp;oacute; nhiều kh&amp;oacute; khăn do ảnh hưởng của dịch bệnh Covid-19, nhưng Dự &amp;aacute;n đ&amp;atilde; đạt được 3 mục ti&amp;ecirc;u quan trọng theo ti&amp;ecirc;u chuẩn của đối t&amp;aacute;c đ&amp;oacute; l&amp;agrave;: Đ&amp;agrave;o tạo v&amp;agrave; ph&amp;aacute;t triển kỹ năng của người d&amp;ugrave;ng; Dữ liệu của c&amp;aacute;c ng&amp;agrave;nh được ghi nhận tr&amp;ecirc;n c&amp;ugrave;ng một hệ thống; Quy tr&amp;igrave;nh được kiểm so&amp;aacute;t, ph&amp;ecirc; duyệt tập trung. &amp;ldquo;Deloitte Consulting Việt Nam rất vinh dự đồng h&amp;agrave;nh với Mavin qua c&amp;aacute;c Dự &amp;aacute;n chuyển đổi số ng&amp;agrave;nh Feed, Foods, VET v&amp;agrave; trong tương lai l&amp;agrave; ng&amp;agrave;nh Farm. Ch&amp;uacute;ng t&amp;ocirc;i đ&amp;aacute;nh gi&amp;aacute; cao quyết t&amp;acirc;m chuyển đổi số của Tập đo&amp;agrave;n Mavin v&amp;agrave; cho rằng đ&amp;oacute; l&amp;agrave; sự cần thiết để Mavin ph&amp;aacute;t triển mạnh mẽ trong tương lai. Ch&amp;uacute;ng t&amp;ocirc;i cam kết sẽ lu&amp;ocirc;n hỗ trợ Mavin trong to&amp;agrave;n bộ qu&amp;aacute; tr&amp;igrave;nh quan trọng n&amp;agrave;y, l&amp;agrave; đối t&amp;aacute;c tin cậy v&amp;agrave; tận t&amp;acirc;m của Mavin&amp;rdquo;, &amp;ocirc;ng Pankaj ph&amp;aacute;t biểu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dược Th&amp;uacute; y Cai Lậy (Mekovet) l&amp;agrave; thương hiệu thuốc th&amp;uacute; y hơn 30 năm tuổi của Việt Nam v&amp;agrave; hiện đang l&amp;agrave; mắt x&amp;iacute;ch quan trọng trong chuỗi gi&amp;aacute; trị &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; của Tập đo&amp;agrave;n Mavin. Mekovet cũng l&amp;agrave; 1 trong số &amp;iacute;t c&amp;aacute;c c&amp;ocirc;ng ty sản xuất thuốc th&amp;uacute; y tại Việt Nam đầu tư Nh&amp;agrave; m&amp;aacute;y sản xuất thuốc th&amp;uacute; y theo ti&amp;ecirc;u chuẩn WHO - GMP của tổ chức Y tế Thế giới. Sản phẩm của Mekovet kh&amp;ocirc;ng những đạt c&amp;aacute;c ti&amp;ecirc;u chuẩn cao nhất về chất lượng, hiệu quả cho người chăn nu&amp;ocirc;i trong nước, nh&amp;agrave; m&amp;aacute;y đạt chuẩn cũng th&amp;uacute;c đẩy hoạt động xuất khẩu đi c&amp;aacute;c nước trong khu vực.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với việc triển khai Hệ thống quản trị nguồn lực doanh nghiệp h&amp;agrave;ng đầu thế giới ERP SAP S/4HANA, Mekovet l&amp;agrave; một trong những doanh nghiệp sản xuất kinh doanh thuốc th&amp;uacute; y ti&amp;ecirc;n phong tại Việt Nam ứng dụng c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến v&amp;agrave; số h&amp;oacute;a v&amp;agrave;o hệ thống quản trị doanh nghiệp.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/news/MKV golive ERP (4).JPG" alt="" width="800" height="534" /&gt;&lt;/p&gt;</content_html>
+	<createdDate_dt>2021-04-07T03:59:14.000Z</createdDate_dt>
+	<createdDate>2021-04-07T03:55:52.543Z</createdDate>
+	<lastModifiedDate>2021-04-07T04:03:13.970Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-04-07T04:03:13.970Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

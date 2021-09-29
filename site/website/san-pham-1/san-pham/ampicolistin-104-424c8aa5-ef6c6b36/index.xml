@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ea978b62</objectGroupId>
+	<objectId>ea978b62-e2e2-4d5e-956d-bde266955baf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-104-424c8aa5-ef6c6b36</folder-name>
+	<internal-name>CEVIMIX 10%</internal-name>
+	<navLabel>CEVIMIX 10%</navLabel>
+	<productName_s>CEVIMIX 10%</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/69 CEVIMIX GSGC 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.046%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acid Citric 15g&lt;/p&gt;
+&lt;p&gt;Vitamin C 10g&lt;/p&gt;
+&lt;p&gt;Sodium Camphorsulfonate 100mg&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh thiếu vitamin C. Tăng sức đề kh&amp;aacute;ng cho cơ thể khi c&amp;oacute; nhiễm tr&amp;ugrave;ng, nhiễm độc, c&amp;aacute;c bệnh ở gan, thận. Phục hồi v&amp;agrave; tăng sức sau c&amp;aacute;c bệnh nhiễm tr&amp;ugrave;ng, c&amp;aacute;c trường hợp mệt mỏi, thời kỳ c&amp;oacute; thai, thời kỳ cho sữa.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 1.97972%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.9742%;"&gt;
+&lt;p&gt;- D&amp;ugrave;ng khi c&amp;oacute; sốt cao, tăng cường qu&amp;aacute; tr&amp;igrave;nh sử dụng&amp;nbsp;canxi trong cơ thể.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;H&amp;ograve;a tan v&amp;agrave;o nước cho uống.&lt;/p&gt;
+&lt;p&gt;Chung cho c&amp;aacute;c lo&amp;agrave;i: 1g/2-4 l&amp;iacute;t nước&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-109&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:35:11.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:22:51.561Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:22:51.561Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

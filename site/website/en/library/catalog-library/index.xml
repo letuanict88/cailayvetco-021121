@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/documentlanding</content-type>
+	<display-template>/templates/web/page/document-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d0b9</objectGroupId>
+	<objectId>d0b9868f-acac-bf7c-5abf-75bca9178acd</objectId>
+	<internal-name>Catalog library</internal-name>
+	<title_s>Catalog library</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>c2fee3ad-4ebe-3b81-cc49-7fdc0f6413d6</key>
+	<value>Slide</value>
+<component id="c2fee3ad-4ebe-3b81-cc49-7fdc0f6413d6">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2fe</objectGroupId>
+	<objectId>c2fee3ad-4ebe-3b81-cc49-7fdc0f6413d6</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>c2fee3ad-4ebe-3b81-cc49-7fdc0f6413d6.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T10:54:51.467Z</createdDate>
+	<createdDate_dt>2020-07-13T10:54:51.467Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T10:54:51.467Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:54:51.467Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>abf092d6-fc22-86a0-7295-0e6b4ca5f7ac</key>
+	<value>Catalog libary</value>
+<component id="abf092d6-fc22-86a0-7295-0e6b4ca5f7ac">
+	<content-type>/component/listdocumentEn</content-type>
+	<display-template>/templates/web/component/list-document.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>abf0</objectGroupId>
+	<objectId>abf092d6-fc22-86a0-7295-0e6b4ca5f7ac</objectId>
+	<internal-name>Catalog libary</internal-name>
+	<file-name>abf092d6-fc22-86a0-7295-0e6b4ca5f7ac.xml</file-name>
+	<createdDate>2020-07-13T10:55:21.324Z</createdDate>
+	<createdDate_dt>2020-07-13T10:55:21.324Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T10:55:21.324Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:55:21.324Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>catalog-library</folder-name>
+	<createdDate>2020-07-13T10:53:52.612Z</createdDate>
+	<createdDate_dt>2020-07-13T10:53:52.612Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T10:53:52.612Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:53:52.612Z</lastModifiedDate_dt>
+</page>

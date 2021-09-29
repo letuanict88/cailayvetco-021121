@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8ecbf915</objectGroupId>
+	<objectId>8ecbf915-8251-4a62-bb77-11608283e32a</objectId>
+	<internal-name>CATAXIM</internal-name>
+	<navLabel>CATAXIM</navLabel>
+	<productName_s>CATAXIM</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicillin-c03b513e-f274c831</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Antibiotic </value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/16 CATAXIM 250MLA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.6015%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients (Calculated for 100ml)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Powder bottle:&lt;/p&gt;
+&lt;p&gt;Sodium cefotaxim 10g&lt;/p&gt;
+&lt;p&gt;Solution bottle:&lt;/p&gt;
+&lt;p&gt;Gentamycin sulfate 6g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Treatment of diseases: pasteurellosis, infectious runny nose, typhoid and paratyphoid in cattle, poultry, dog cough, mixed pneumonia in cattle, pigs (BRD &amp; SRD), hemorrhage in ducks.&lt;/p&gt;
+&lt;p&gt;- Treatment of mastitis, metritis, puerperal fever; Septicemia due to Pseudomonas&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.20953%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.1889%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dissolve the solution bottle into the powder medicine bottle, shake well to dissolve.&lt;/p&gt;
+&lt;p&gt;Intramuscular or abdominal sinus injection.&lt;/p&gt;
+&lt;p&gt;1ml / 5kg weight / time. 1-2 times a day.&lt;/p&gt;
+&lt;p&gt;Use continuously for at least 3 days.&lt;/p&gt;
+&lt;p&gt;Note: After dissolving the drug should use within 24 hours.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: Cataxim: CL-256; Gentamycin: CL-54&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T07:50:20.947Z</createdDate>
+	<createdDate_dt>2020-08-05T07:50:20.947Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:56:57.159Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:56:57.159Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

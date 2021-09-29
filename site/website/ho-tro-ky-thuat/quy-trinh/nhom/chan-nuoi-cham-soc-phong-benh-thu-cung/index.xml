@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2540</objectGroupId>
+	<objectId>25405098-d42a-f642-267b-90d799ff96ab</objectId>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</internal-name>
+	<navLabel>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</navLabel>
+	<t_s>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</t_s>
+	<file-name>index.xml</file-name>
+	<folder-name>chan-nuoi-cham-soc-phong-benh-thu-cung</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>734b9cca-4bba-56ef-2f61-c4cb3fce4b86</key>
+	<value>Slide</value>
+<component id="734b9cca-4bba-56ef-2f61-c4cb3fce4b86">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>734b</objectGroupId>
+	<objectId>734b9cca-4bba-56ef-2f61-c4cb3fce4b86</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>734b9cca-4bba-56ef-2f61-c4cb3fce4b86.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T02:48:44.479Z</createdDate>
+	<createdDate_dt>2020-07-29T02:48:44.479Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:48:44.479Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:48:44.479Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>c365ecc9-2584-feb5-835d-b7239c36a5a5</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</value>
+<component id="c365ecc9-2584-feb5-835d-b7239c36a5a5">
+	<content-type>/component/listprocess</content-type>
+	<display-template>/templates/web/component/list-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c365</objectGroupId>
+	<objectId>c365ecc9-2584-feb5-835d-b7239c36a5a5</objectId>
+	<file-name>c365ecc9-2584-feb5-835d-b7239c36a5a5.xml</file-name>
+	<processType_s>benh-thu-cung</processType_s>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</internal-name>
+	<title_s>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</title_s>
+	<createdDate>2020-07-29T02:49:31.794Z</createdDate>
+	<createdDate_dt>2020-07-29T02:49:31.794Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:49:31.794Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:49:31.794Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-29T02:48:13.297Z</createdDate>
+	<createdDate_dt>2020-07-29T02:48:13.297Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:48:13.297Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:48:13.297Z</lastModifiedDate_dt>
+</page>

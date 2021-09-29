@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b22</objectGroupId>
+	<objectId>5b2205bc-01ef-0734-6b63-da848eae19d0</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>5b2205bc-01ef-0734-6b63-da848eae19d0.xml</file-name>
+	<internal-name>Slide header</internal-name>
+	<createdDate>2020-07-03T07:56:47.997Z</createdDate>
+	<createdDate_dt>2020-07-03T07:56:47.997Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T07:56:47.997Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:56:47.997Z</lastModifiedDate_dt>
+</component>

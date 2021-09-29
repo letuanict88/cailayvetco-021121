@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b9a0</objectGroupId>
+	<objectId>b9a0ab4a-5888-3417-393a-56b86d74c7ba</objectId>
+	<file-name>b9a0ab4a-5888-3417-393a-56b86d74c7ba.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-loai-vat-khac</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-sat-trung-thuoc-dung-ngoai</productgrouplevel2_s>
+	<createdDate>2020-08-03T09:05:39.449Z</createdDate>
+	<createdDate_dt>2020-08-03T09:05:39.449Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:05:39.449Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:05:39.449Z</lastModifiedDate_dt>
+</component>

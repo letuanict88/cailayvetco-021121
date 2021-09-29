@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedailEn</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2b29</objectGroupId>
+	<objectId>2b29c32f-9c04-6458-c53c-c876083b2361</objectId>
+	<internal-name>Prevention of heat stress in chickens</internal-name>
+	<navLabel>Chicken care process</navLabel>
+	<processName_s>Prevention of heat stress in chickens</processName_s>
+	<parentURL_s>/en/technical-assistance/process-care/cattle/index</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chicken-care-process</folder-name>
+	<processType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv> Breeding - Taking Care of Cattle - Poultry diseases</value_smv>
+	</item></processType_o>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>650e493d-b6ae-d62b-2339-6a0c9b2a328d</key>
+	<value>Slide</value>
+<component id="650e493d-b6ae-d62b-2339-6a0c9b2a328d">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>650e</objectGroupId>
+	<objectId>650e493d-b6ae-d62b-2339-6a0c9b2a328d</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>650e493d-b6ae-d62b-2339-6a0c9b2a328d.xml</file-name>
+	<createdDate>2020-07-29T03:57:55.097Z</createdDate>
+	<createdDate_dt>2020-07-29T03:57:55.097Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:57:55.097Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:57:55.097Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<processContent_html>&lt;p&gt;Chickens and poultry in general, unlike other warm-blooded animals, do not have sweat glands to release body temperature, but often emit heat in the following ways: heat radiation, heat convection, evaporation. water, heat transfer.&lt;/p&gt;
+&lt;p&gt;The ideal temperature for poultry development is between 18 and 24 degrees Celsius, the% RH humidity is less than 50%. When the temperature increases, it will affect the health and productivity of poultry: from 24 - 30 degrees Celsius, chickens reduce hunting, reduce laying rates, over 30 degrees C: chickens reduce weight gain, reduce laying, quality egg drops. The effects of heat stress on broiler chickens and layers are: reduced productivity, increased mortality, increased investment costs, reduced fertility, increased metabolic disorders, reduced resistance ...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Some solutions to prevent heat stress:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Feeding: moderate density (8-10 chickens / m2, breed chicken 4-5 chickens / m2), too hot weather to release chickens into the garden, the stumps around the barn or the covered covered playground , if the temperature increases more than 25 degrees, water can be sprayed on the roof, avoiding poultry during the period of 10h-15h, when the need to transport poultry in the hot season, vitamin C must be added to drinking water ...&lt;/p&gt;
+&lt;p&gt;- Breeding barns: layout of roofs that can be pulled down during the day, pulled up at night for cool breezes, clean barn floor, moderate litter, regularly replace litter to ensure dry, clean pathogens, roofs using insulation panels can reflect 98% of the radiant heat.&lt;/p&gt;
+&lt;p&gt;- Drinking water: provide clean and cool water, avoid pumping and drying the tank on hot days. Increasing water and adding drinking troughs, water pipes or tanks that can be built underground or insulated roofs to keep water cool, supplementing with Vitamin C, sugar, electrolytes help chickens cool down and increase resistance.&lt;/p&gt;
+&lt;p&gt;- Nutrition: reasonable, increasing the number of meals during the day and at cool times (6am, 6pm and 22pm), calcium supplementation, increased feeding troughs, amino acid supplements D, L - methionine help increase ability digestion and absorption&lt;/p&gt;
+&lt;p&gt;A detailed guide on preventing stress on chickens prepared by Veterinary Mavin Group - click &lt;a href="https://issuu.com/tapdoanmavin/docs/stress_nhiet_tren_gia_cam"&gt;HERE&lt;/a&gt; to see details.&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-29T03:55:45.504Z</createdDate>
+	<createdDate_dt>2020-07-29T03:55:45.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:45:34.861Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:45:34.861Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

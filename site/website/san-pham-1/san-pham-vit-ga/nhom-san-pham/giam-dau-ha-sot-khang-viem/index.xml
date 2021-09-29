@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ee03</objectGroupId>
+	<objectId>ee034bc3-cc36-e78f-c11e-b18c17c2a6e1</objectId>
+	<internal-name>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</internal-name>
+	<navLabel>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</navLabel>
+	<title_s>Nhóm Thuốc Giảm đau, hạ sốt, kháng viêm</title_s>
+	<rightTitle_s>MKV-PARA C</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e20069eb-a03d-b0d2-7458-414ed27691ea</key>
+	<value>Slide</value>
+<component id="e20069eb-a03d-b0d2-7458-414ed27691ea">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e200</objectGroupId>
+	<objectId>e20069eb-a03d-b0d2-7458-414ed27691ea</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>e20069eb-a03d-b0d2-7458-414ed27691ea.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T08:12:15.183Z</createdDate>
+	<createdDate_dt>2020-08-03T08:12:15.183Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:12:15.183Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:12:15.183Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/a7a88533-18f0-755f-c408-d555124fdc95.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/a7a88533-18f0-755f-c408-d555124fdc95.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>giam-dau-ha-sot-khang-viem</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/98 MKV-PARA C 100gA.png</rightimage_s>
+	<createdDate>2020-08-03T08:10:40.651Z</createdDate>
+	<createdDate_dt>2020-08-03T08:10:40.651Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:00:44.314Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:00:44.314Z</lastModifiedDate_dt>
+</page>

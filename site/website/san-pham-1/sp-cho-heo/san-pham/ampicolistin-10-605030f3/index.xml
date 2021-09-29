@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a1f876dc</objectGroupId>
+	<objectId>a1f876dc-b9f1-4baf-83b6-a96720c3cbef</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-10-605030f3</folder-name>
+	<internal-name>VITA GLUCO C.K</internal-name>
+	<navLabel>VITA GLUCO C.K</navLabel>
+	<productName_s>VITA GLUCO C.K</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/78 VITA GLUCO C.K 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.7245%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin C (min) 12g&lt;/p&gt;
+&lt;p&gt;Vitamin K3 (min) 500mg&lt;/p&gt;
+&lt;p&gt;Chất mang (glucose) vđ 1kg&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bổ sung vitamin C, K3 v&amp;agrave; đường glucose gi&amp;uacute;p cung cấp năng lượng, gia tăng sức đề kh&amp;aacute;ng, hạn chế t&amp;aacute;c hại do stress g&amp;acirc;y ra cho vật nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;uacute;p giải độc, giải nhiệt, hạn chế xuất huyết, trợ sức.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;K&amp;iacute;ch th&amp;iacute;ch sinh trưởng, ăn nhiều, lớn nhanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.71896%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.5564%;"&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng hỗ trợ trong điều trị c&amp;aacute;c bệnh, đặc biệt phối hợp trong điều trị bệnh cầu tr&amp;ugrave;ng, Gumboro, CRD, CCRD, ti&amp;ecirc;u chảy mất nước ở heo, g&amp;agrave;, vịt, c&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-Tăng cường sinh lực cho heo n&amp;aacute;i sau khi sinh, heo đực giống; tăng tỉ lệ đẻ, tỉ lệ ấp ở g&amp;agrave;, vịt, c&amp;uacute;t.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống.&lt;/p&gt;
+&lt;p&gt;Liều chung cho c&amp;aacute;c lo&amp;agrave;i: 10g/1l&amp;iacute;t nước uống&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 03:2011/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:55:26.000Z</createddate_dt>
+	<createdDate>2020-07-31T09:52:30.412Z</createdDate>
+	<createdDate_dt>2020-07-31T09:52:30.412Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:34:10.715Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:34:10.715Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

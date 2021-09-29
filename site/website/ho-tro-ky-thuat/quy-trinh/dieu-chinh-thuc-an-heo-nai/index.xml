@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4434</objectGroupId>
+	<objectId>44347e06-82e6-dd20-411a-7f6337a77ef6</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Điều chỉnh thức ăn heo nái trong điều kiện stress </internal-name>
+	<navLabel>Điều chỉnh thức ăn heo nái trong điều kiện stress </navLabel>
+	<processName_s>Điều chỉnh thức ăn heo nái trong điều kiện stress nhiệt mùa hè</processName_s>
+	<parentURL_s/>
+	<file-name>index.xml</file-name>
+	<folder-name>dieu-chinh-thuc-an-heo-nai</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>76ddf640-e1b7-d07a-8a7c-dbbbe8c51afa</key>
+	<value>Slide 1</value>
+<component id="76ddf640-e1b7-d07a-8a7c-dbbbe8c51afa">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>76dd</objectGroupId>
+	<objectId>76ddf640-e1b7-d07a-8a7c-dbbbe8c51afa</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 191.png</image_s>
+	</item></slide_o>
+	<file-name>76ddf640-e1b7-d07a-8a7c-dbbbe8c51afa.xml</file-name>
+	<internal-name>Slide 1</internal-name>
+	<createdDate>2020-07-31T04:59:44.182Z</createdDate>
+	<createdDate_dt>2020-07-31T04:59:44.182Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T04:59:44.182Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T04:59:44.182Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<processType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Gia súc - Gia cầm</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p&gt;Heo n&amp;aacute;i sẽ ti&amp;ecirc;u thụ &amp;iacute;t chất dinh dưỡng hơn trong thời gian bị stress nhiệt trừ khi c&amp;aacute;c trang trại thực hiện c&amp;aacute;c biện ph&amp;aacute;p ph&amp;ograve;ng ngừa để điều chỉnh thức ăn v&amp;agrave; phương ph&amp;aacute;p cho ăn.&lt;/p&gt;
+&lt;p&gt;Heo n&amp;aacute;i phải chịu đựng stress nhiệt v&amp;agrave;o m&amp;ugrave;a h&amp;egrave;, đặc biệt l&amp;agrave; những con heo n&amp;aacute;i c&amp;oacute; kiểu gen hiện đại trong thời kỳ cho con b&amp;uacute;. Trong khi nhu cầu cần thiết của một con heo n&amp;aacute;i mang thai chỉ từ 2-3 kg thức ăn mỗi ng&amp;agrave;y, th&amp;igrave; một con heo n&amp;aacute;i đang cho con b&amp;uacute; c&amp;oacute; 14 heo con cần &amp;iacute;t nhất 2+(14 x 0,5) = 9 kg thức ăn. Tuy nhi&amp;ecirc;n ch&amp;uacute;ng hiếm khi đạt được mức ăn v&amp;agrave;o cao như vậy, v&amp;agrave; đ&amp;acirc;y l&amp;agrave; l&amp;yacute; do tại sao ch&amp;uacute;ng sản xuất sữa bằng c&amp;aacute;ch đốt ch&amp;aacute;y mỡ v&amp;agrave; cơ.&lt;/p&gt;
+&lt;p&gt;Trong thời k&amp;igrave; stress nhiệt v&amp;agrave;o m&amp;ugrave;a h&amp;egrave;, lượng ăn v&amp;agrave;o của heo n&amp;aacute;i giảm hơn nữa, dẫn đến t&amp;igrave;nh trạng khối lượng heo n&amp;aacute;i v&amp;agrave; heo con khi cai sữa thấp hơn. L&amp;yacute; do heo n&amp;aacute;i kh&amp;ocirc;ng ti&amp;ecirc;u thụ nhiều thức ăn như nhu cầu của ch&amp;uacute;ng, đặc biệt l&amp;agrave; trong thời kỳ stress nhiệt, đ&amp;oacute; l&amp;agrave; do qu&amp;aacute; tr&amp;igrave;nh ti&amp;ecirc;u h&amp;oacute;a thức ăn của ch&amp;uacute;ng sinh ra nhiệt.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c hoạt động như đứng l&amp;ecirc;n, nhai v&amp;agrave; nuốt, ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; hấp thu, sau đ&amp;oacute; l&amp;agrave; sự chuyển h&amp;oacute;a, chuyển th&amp;agrave;nh sữa v&amp;agrave; b&amp;agrave;i tiết chất thải, l&amp;agrave; một số qu&amp;aacute; tr&amp;igrave;nh ch&amp;iacute;nh tạo ra nhiệt, ch&amp;uacute;ng ta kh&amp;ocirc;ng thể tr&amp;aacute;nh khỏi những tổn thất do c&amp;aacute;c quy luật nhiệt động tạo ra. V&amp;agrave;, khi động vật đang cố gắng giảm stress nhiệt bằng mọi c&amp;aacute;ch, th&amp;igrave; việc bổ sung một khẩu phần đầy đủ chất dinh dưỡng l&amp;agrave; rất kh&amp;oacute; thực hiện. Do đ&amp;oacute;, n&amp;oacute;i chung quan s&amp;aacute;t của người chăn nu&amp;ocirc;i v&amp;agrave; c&amp;aacute;c nh&amp;agrave; khoa học cho thấy khi động vật bị stress nhiệt, ch&amp;uacute;ng sẽ ti&amp;ecirc;u thụ &amp;iacute;t thức ăn hơn. Nhưng, c&amp;oacute; nhiều c&amp;aacute;ch để giảm bớt một phần của t&amp;igrave;nh trạng n&amp;agrave;y, một số trong đ&amp;oacute; c&amp;oacute; li&amp;ecirc;n quan đến dinh dưỡng.&lt;/p&gt;
+&lt;p&gt;Kết hợp với một chiến lược kh&amp;aacute;c để tăng hiệu quả. Ngo&amp;agrave;i ra, về mặt t&amp;agrave;i ch&amp;iacute;nh kh&amp;ocirc;ng thuyết phục để tạo ra một khẩu phần đậm đặc như vậy v&amp;igrave; sẽ l&amp;agrave;m giảm lợi nhuận khi bổ sung th&amp;ecirc;m c&amp;aacute;c nguy&amp;ecirc;n liệu đắt tiền hơn v&amp;agrave;o c&amp;ocirc;ng thức.&lt;/p&gt;
+&lt;p&gt;Protein khẩu phần&lt;/p&gt;
+&lt;p&gt;Protein dư thừa lu&amp;ocirc;n bị khử v&amp;agrave; b&amp;agrave;i tiết dưới dạng ur&amp;ecirc;. Qu&amp;aacute; tr&amp;igrave;nh n&amp;agrave;y đ&amp;ograve;i hỏi năng lượng v&amp;agrave; tạo ra nhiệt v&amp;agrave; do đ&amp;oacute;, chuy&amp;ecirc;n gia dinh dưỡng khuyến kh&amp;iacute;ch giảm h&amp;agrave;m lượng protein dư thừa v&amp;agrave; bổ sung c&amp;aacute;c axit amin v&amp;agrave;o thức ăn. Mức độ giảm bao nhi&amp;ecirc;u l&amp;agrave; một vấn đề dựa v&amp;agrave;o việc x&amp;acirc;y dựng c&amp;ocirc;ng thức thức ăn, c&amp;aacute;c nguy&amp;ecirc;n liệu c&amp;oacute; sẵn v&amp;agrave; chi ph&amp;iacute; của c&amp;aacute;c axit amin bổ sung v&amp;agrave;o thức ăn để khẩu phần được c&amp;acirc;n đối tất cả c&amp;aacute;c axit amin. Đ&amp;acirc;y l&amp;agrave; c&amp;ocirc;ng việc m&amp;agrave; hầu hết khi thực hiện đều thấy kh&amp;oacute; khăn, nhưng n&amp;oacute; c&amp;oacute; thể cung cấp giải ph&amp;aacute;p tuyệt vời cho động vật khi bị stress nhiệt.&lt;/p&gt;
+&lt;p&gt;H&amp;agrave;m lượng chất xơ&lt;/p&gt;
+&lt;p&gt;Sự ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; chuyển h&amp;oacute;a chất xơ sinh ra nhiều nhiệt hơn so với carbohydrate v&amp;agrave; protein, chất b&amp;eacute;o v&amp;agrave; lipid sinh nhiệt b&amp;ecirc;n trong &amp;iacute;t nhất. Do đ&amp;oacute;, một trong những biện ph&amp;aacute;p phổ biến hơn để chống lại stress nhiệt l&amp;agrave; giảm chất xơ khẩu phần (mức giảm ch&amp;iacute;nh x&amp;aacute;c phụ thuộc v&amp;agrave;o lượng ăn ban đầu v&amp;agrave; c&amp;aacute;c yếu tố kh&amp;aacute;c như m&amp;ocirc; tả ở tr&amp;ecirc;n). Cần ch&amp;uacute; &amp;yacute; sử dụng bổ sung thuốc nhuận tr&amp;agrave;ng (thường ở dạng muối) cho heo n&amp;aacute;i để b&amp;ugrave; lại lượng chất xơ khẩu phần bị giảm. Tuy nhi&amp;ecirc;n, cần duy tr&amp;igrave; sự c&amp;acirc;n bằng của c&amp;aacute;c chất xơ l&amp;ecirc;n men v&amp;agrave; chất xơ kh&amp;ocirc;ng h&amp;ograve;a tan để đảm bảo chức năng của hệ thống ti&amp;ecirc;u h&amp;oacute;a, đặc biệt l&amp;agrave; tr&amp;aacute;nh l&amp;agrave;m mất c&amp;acirc;n bằng hệ vi sinh vật ở ruột.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c chất b&amp;eacute;o v&amp;agrave; dầu&lt;/p&gt;
+&lt;p&gt;Dựa theo c&amp;aacute;c giải th&amp;iacute;ch ở tr&amp;ecirc;n, c&amp;oacute; vẻ như chất b&amp;eacute;o v&amp;agrave; dầu kh&amp;ocirc;ng chỉ l&amp;agrave;m tăng mật độ khẩu phần m&amp;agrave; c&amp;ograve;n sinh ra nhiệt &amp;iacute;t hơn trong qu&amp;aacute; tr&amp;igrave;nh ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; trao đổi chất. Do đ&amp;oacute;, khẩu phần ăn chứa nhiều chất b&amp;eacute;o v&amp;agrave; dầu hầu như lu&amp;ocirc;n được khuyến kh&amp;iacute;ch để chống lại stress nhiệt.&lt;/p&gt;
+&lt;p&gt;Tuy nhi&amp;ecirc;n, khẩu phần lu&amp;ocirc;n lu&amp;ocirc;n bắt buộc phải tăng tỷ lệ của tất cả c&amp;aacute;c axit amin v&amp;agrave; c&amp;aacute;c chất dinh dưỡng kh&amp;aacute;c để tr&amp;aacute;nh bị mất c&amp;acirc;n bằng. Ở đ&amp;acirc;y, đậu n&amp;agrave;nh nguy&amp;ecirc;n dầu &amp;eacute;p đ&amp;ugrave;n hoặc đậu n&amp;agrave;nh đậm đặc được sử dụng kh&amp;aacute; nhiều trong việc tạo ra một c&amp;ocirc;ng thức mới c&amp;acirc;n bằng v&amp;agrave;o m&amp;ugrave;a h&amp;egrave; khi th&amp;ecirc;m trực tiếp dầu hoặc chất b&amp;eacute;o v&amp;agrave;o khẩu phần.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c chất phụ gia thức ăn&lt;/p&gt;
+&lt;p&gt;Nghi&amp;ecirc;n cứu v&amp;agrave; kinh nghiệm thực tế đ&amp;atilde; chứng minh r&amp;otilde; rằng việc bổ sung một số chất phụ gia thực sự c&amp;oacute; thể cải thiện lượng ăn v&amp;agrave;o đối với heo n&amp;aacute;i đang cho con b&amp;uacute;. Một số chất phụ gia hoạt động th&amp;ocirc;ng qua việc tăng cường khả năng ti&amp;ecirc;u h&amp;oacute;a chất dinh dưỡng, một số kh&amp;aacute;c hoạt động bằng c&amp;aacute;ch tăng độ ngon miệng v&amp;agrave; một số kh&amp;aacute;c lại hoạt động th&amp;ocirc;ng qua kiểm so&amp;aacute;t c&amp;aacute;c qu&amp;aacute; tr&amp;igrave;nh trao đổi chất b&amp;ecirc;n trong l&amp;agrave;m giảm sự sinh ra nhiệt. Việc lựa chọn c&amp;aacute;c chất phụ gia th&amp;iacute;ch hợp l&amp;agrave; rất quan trọng bởi v&amp;igrave; ch&amp;uacute;ng c&amp;oacute; thể l&amp;agrave;m cho c&amp;aacute;c khẩu phần c&amp;oacute; chi ph&amp;iacute; rất đắt đỏ nếu ch&amp;uacute;ng kh&amp;ocirc;ng c&amp;oacute; lợi thế thực sự.&lt;/p&gt;
+&lt;p&gt;Bổ sung vitamin&lt;/p&gt;
+&lt;p&gt;Ở c&amp;aacute;c lo&amp;agrave;i động vật dạ d&amp;agrave;y đơn kh&amp;aacute;c, một số vitamin đ&amp;atilde; được chứng minh l&amp;agrave; gi&amp;uacute;p động vật chịu đựng được stress nhiệt. Đ&amp;acirc;y l&amp;agrave; một kh&amp;iacute;a cạnh mới c&amp;oacute; lợi cho heo nhưng &amp;iacute;t được ch&amp;uacute; &amp;yacute;. Đặc biệt, c&amp;oacute; vẻ như c&amp;aacute;c vitamin cung cấp qua đường uống gi&amp;uacute;p tạo ra một số lợi &amp;iacute;ch bổ sung.&lt;/p&gt;
+&lt;p&gt;Điều chỉnh quản l&amp;yacute; cho ăn&lt;/p&gt;
+&lt;p&gt;Khẩu phần thức ăn vi&amp;ecirc;n&lt;/p&gt;
+&lt;p&gt;Khẩu phần thức ăn vi&amp;ecirc;n l&amp;agrave;m tăng mật độ vật l&amp;yacute;, dẫn đến sự hấp thu chất dinh dưỡng cao hơn ở một khối lượng thức ăn nhất định. Kết hợp với mật độ dinh dưỡng tăng l&amp;ecirc;n, th&amp;igrave; hai chiến lược n&amp;agrave;y gi&amp;uacute;p cải thiện r&amp;otilde; rệt trong việc duy tr&amp;igrave; lượng dinh dưỡng được hấp thu khi bị stress nhiệt.&lt;/p&gt;
+&lt;p&gt;Khẩu phần thức ăn lỏng&lt;/p&gt;
+&lt;p&gt;Một trong những lợi &amp;iacute;ch ch&amp;iacute;nh của việc cho ăn thức ăn lỏng l&amp;agrave; động vật c&amp;oacute; thể ti&amp;ecirc;u thụ nhiều thức ăn hơn trong những th&amp;aacute;ng m&amp;ugrave;a h&amp;egrave;. C&amp;oacute; lẽ lượng nước uống v&amp;agrave;o của c&amp;aacute;c con heo tăng l&amp;ecirc;n, cho ph&amp;eacute;p ch&amp;uacute;ng kiểm so&amp;aacute;t được nhiệt độ b&amp;ecirc;n trong tốt hơn so với việc ăn thức ăn kh&amp;ocirc;. Hoặc, khẩu phần thức ăn lỏng dễ ăn hơn, v&amp;agrave; ngon miệng hơn khẩu phần thức ăn kh&amp;ocirc;.&lt;/p&gt;
+&lt;p&gt;Sử dụng nước m&amp;aacute;t&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c nghi&amp;ecirc;n cứu đ&amp;atilde; chứng minh rằng khi cung cấp nước m&amp;aacute;t trong thời gian stress nhiệt c&amp;oacute; thể gi&amp;uacute;p heo duy tr&amp;igrave; năng suất tốt hơn. Ngo&amp;agrave;i ra, heo được uống nước m&amp;aacute;t sẽ ti&amp;ecirc;u thụ nước &amp;iacute;t hơn mỗi ng&amp;agrave;y so với heo đối chứng, cho thấy nước m&amp;aacute;t gi&amp;uacute;p heo nhanh ch&amp;oacute;ng điều chỉnh được nhiệt độ cơ thể để đối ph&amp;oacute; với stress nhiệt. Việc t&amp;igrave;m kiếm nước m&amp;aacute;t ở hầu hết c&amp;aacute;c trang trại l&amp;agrave; một th&amp;aacute;ch thức trừ khi nước đ&amp;oacute; được cung cấp bởi c&amp;aacute;c giếng s&amp;acirc;u.&lt;/p&gt;
+&lt;p&gt;Thời gian cho ăn&lt;/p&gt;
+&lt;p&gt;Cho heo ăn v&amp;agrave;o buổi tối m&amp;aacute;t mẻ, hoặc thậm ch&amp;iacute; v&amp;agrave;o ban đ&amp;ecirc;m, đ&amp;atilde; được &amp;aacute;p dụng như một biện ph&amp;aacute;p hiệu quả chống lại sự n&amp;oacute;ng bức trong m&amp;ugrave;a h&amp;egrave;. Điều n&amp;agrave;y c&amp;oacute; thể dẫn đến gia tăng chi ph&amp;iacute; nh&amp;acirc;n c&amp;ocirc;ng, nhưng n&amp;oacute; l&amp;agrave; một phương ph&amp;aacute;p rất hiệu quả. Tuy nhi&amp;ecirc;n, n&amp;oacute; cũng l&amp;agrave; một trong những biện ph&amp;aacute;p &amp;iacute;t được theo d&amp;otilde;i tr&amp;ecirc;n to&amp;agrave;n thế giới.&lt;/p&gt;
+&lt;p&gt;Tần suất cho ăn&lt;/p&gt;
+&lt;p&gt;Cho heo ăn c&amp;aacute;c bữa ăn nhỏ hơn v&amp;agrave; thường xuy&amp;ecirc;n hơn sẽ ngăn kh&amp;ocirc;ng cho heo n&amp;aacute;i ăn qu&amp;aacute; mức v&amp;agrave; sinh ra qu&amp;aacute; nhiều nhiệt trong một khoảng thời gian ngắn. Số lượng ch&amp;iacute;nh x&amp;aacute;c của thức ăn bổ sung phụ thuộc v&amp;agrave;o c&amp;ocirc;ng nh&amp;acirc;n trong trại, c&amp;oacute; thể cho heo ăn từ hai đến ba lần v&amp;agrave;o mỗi ng&amp;agrave;y cũng l&amp;agrave; một biện ph&amp;aacute;p gi&amp;uacute;p heo giảm stress nhiệt v&amp;agrave;o m&amp;ugrave;a h&amp;egrave;.&lt;/p&gt;
+&lt;p&gt;Nguồn: Tạp ch&amp;iacute; Chăn nu&amp;ocirc;i Việt Nam&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-31T04:56:48.491Z</createdDate>
+	<createdDate_dt>2020-07-31T07:56:45.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T07:56:41.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T07:56:41.139Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

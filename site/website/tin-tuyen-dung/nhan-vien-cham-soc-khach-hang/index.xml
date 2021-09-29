@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab5c6403</objectGroupId>
+	<objectId>ab5c6403-1bcd-442f-8185-e4d5ef45d8e0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>nhan-vien-cham-soc-khach-hang</folder-name>
+	<internal-name>Tuyển nhân viên chăm sóc khách hàng</internal-name>
+	<navLabel>Tuyển nhân viên chăm sóc khách hàng</navLabel>
+	<jobTitle_s>Tuyển nhân viên chăm sóc khách hàng</jobTitle_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</key>
+	<value>Job Slide</value>
+<component id="de4d6544-37a0-6bce-d2b5-fcdebfa0405f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de4d</objectGroupId>
+	<objectId>de4d6544-37a0-6bce-d2b5-fcdebfa0405f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>de4d6544-37a0-6bce-d2b5-fcdebfa0405f.xml</file-name>
+	<internal-name>Job Slide</internal-name>
+	<createdDate>2020-06-29T07:28:12.532Z</createdDate>
+	<createdDate_dt>2020-06-29T07:28:12.532Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:48:12.296Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:48:12.296Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Số lượng tuyển: 2 người&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;C&amp;ocirc;ng việc m&amp;ocirc; tả:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng hệ thống sẵn c&amp;oacute; của c&amp;ocirc;ng ty;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Ph&amp;acirc;n t&amp;iacute;ch thị trường, đ&amp;agrave;m ph&amp;aacute;n cộng t&amp;aacute;c với kh&amp;aacute;ch h&amp;agrave;ng tiềm năng;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Tổ chức c&amp;aacute;c chương tr&amp;igrave;nh hội thảo, tư vấn b&amp;aacute;n h&amp;agrave;ng.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Y&amp;ecirc;u cầu:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Giới t&amp;iacute;nh: Nam;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Tốt nghiệp trung cấp / cao đẳng / đại học chuy&amp;ecirc;n ng&amp;agrave;nh Th&amp;uacute; y / Thủy sản;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- C&amp;oacute; kinh nghiệm b&amp;aacute;n h&amp;agrave;ng từ 01 năm trở l&amp;ecirc;n;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Th&amp;agrave;nh thạo vi t&amp;iacute;nh văn ph&amp;ograve;ng;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- L&amp;agrave;m việc tại c&amp;ocirc;ng ty, sẵn s&amp;agrave;n đi c&amp;ocirc;ng t&amp;aacute;c khi cần;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- C&amp;oacute; kỹ năng b&amp;aacute;n h&amp;agrave;ng v&amp;agrave; thương lượng tốt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Giao tiếp v&amp;agrave; thuyết tr&amp;igrave;nh hiệu quả.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Quyền lợi:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Thu nhập: thỏa thuận&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Hưởng tất cả c&amp;aacute;c quyền lợi về BHXH, YT, TN, c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của ph&amp;aacute;p luật.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Gia nhập v&amp;agrave; hưởng quyền lợi của c&amp;ocirc;ng đo&amp;agrave;n.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;Hồ sơ y&amp;ecirc;u cầu:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- C&amp;aacute;c bằng văn bản, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Nộp hồ sơ trực tiếp tại c&amp;ocirc;ng ty.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="vertical-align: inherit;"&gt;&lt;span style="vertical-align: inherit;"&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng chụp c&amp;aacute;c văn bản bằng, chứng chỉ, bảng điểm, CV v&amp;agrave; c&amp;aacute;c tờ giấy c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o Email C&amp;ocirc;ng ty: &lt;strong&gt;&lt;span style="background-color: #ffffff; color: #3598db;"&gt;tuyendung@cailayvetco.com&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-06-29T07:27:00.149Z</createdDate>
+	<createdDate_dt>2020-06-29T07:27:00.149Z</createdDate_dt>
+	<lastModifiedDate>2021-07-22T09:16:16.003Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-22T09:16:16.003Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-09-16T04:27:11.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>

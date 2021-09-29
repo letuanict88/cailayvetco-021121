@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c653</objectGroupId>
+	<objectId>c6539e80-357c-5f5d-4075-6de4b0ef6652</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide_img_1.png</image_s>
+	</item></slide_o>
+	<file-name>c6539e80-357c-5f5d-4075-6de4b0ef6652.xml</file-name>
+	<internal-name>Header - Tin nội bộ</internal-name>
+	<createdDate>2020-06-23T04:11:01.327Z</createdDate>
+	<createdDate_dt>2020-06-23T04:11:01.327Z</createdDate_dt>
+	<lastModifiedDate>2020-06-25T09:04:14.368Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-25T09:04:14.368Z</lastModifiedDate_dt>
+</component>

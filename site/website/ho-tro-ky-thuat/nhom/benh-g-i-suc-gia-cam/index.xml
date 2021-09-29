@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b944</objectGroupId>
+	<objectId>b944729f-e26a-5569-c8fe-27a2493cf4e8</objectId>
+	<internal-name>Bệnh gia súc - gia cầm</internal-name>
+	<navLabel>Bệnh gia súc - gia cầm</navLabel>
+	<t_s>Bệnh gia súc - gia cầm</t_s>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-g-i-suc-gia-cam</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>a9eb7e9a-4c12-157a-e2e8-23dfcbd1e57e</key>
+	<value>Slide</value>
+<component id="a9eb7e9a-4c12-157a-e2e8-23dfcbd1e57e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a9eb</objectGroupId>
+	<objectId>a9eb7e9a-4c12-157a-e2e8-23dfcbd1e57e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>a9eb7e9a-4c12-157a-e2e8-23dfcbd1e57e.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-15T09:26:06.703Z</createdDate>
+	<createdDate_dt>2020-07-15T09:26:06.703Z</createdDate_dt>
+	<lastModifiedDate>2020-07-15T09:26:06.703Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:26:06.703Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>4c2fd144-8f80-7329-5d87-75bb76bcb682</key>
+	<value>Bệnh gia súc gia cầm</value>
+<component id="4c2fd144-8f80-7329-5d87-75bb76bcb682">
+	<content-type>/component/listsurport</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4c2f</objectGroupId>
+	<objectId>4c2fd144-8f80-7329-5d87-75bb76bcb682</objectId>
+	<technicalAssistanceType_s>benh-gia-suc-gia-cam</technicalAssistanceType_s>
+	<file-name>4c2fd144-8f80-7329-5d87-75bb76bcb682.xml</file-name>
+	<internal-name>Bệnh gia súc gia cầm</internal-name>
+	<title_s>Bệnh gia súc - gia cầm</title_s>
+	<createdDate>2020-07-15T09:29:30.617Z</createdDate>
+	<createdDate_dt>2020-07-15T09:29:30.617Z</createdDate_dt>
+	<lastModifiedDate>2020-07-15T09:29:30.617Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:29:30.617Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-15T09:25:06.784Z</createdDate>
+	<createdDate_dt>2020-07-15T09:25:06.784Z</createdDate_dt>
+	<lastModifiedDate>2020-07-15T09:29:23.195Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:29:23.195Z</lastModifiedDate_dt>
+</page>

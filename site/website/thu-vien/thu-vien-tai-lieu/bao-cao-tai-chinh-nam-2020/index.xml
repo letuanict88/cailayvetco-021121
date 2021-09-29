@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemoEn</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cbc4f582</objectGroupId>
+	<objectId>cbc4f582-3ad2-42ce-9a7b-3df2b9cc6808</objectId>
+	<internal-name>Công bố báo cáo tài chính năm 2020</internal-name>
+	<title_s>Công bố báo cáo tài chính năm 2020</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>bao-cao-tai-chinh-nam-2020</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<avatar_s/>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Bao cao tai chinh năm 2020.pdf</key>
+	<value>/static-assets/images/libraries/Bao cao tai chinh năm 2020.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>9274584</fileSize_s>
+	</item></pDFfile_o>
+	<isDisplay_b>false</isDisplay_b>
+	<createdDate>2020-10-19T10:53:17.888Z</createdDate>
+	<createdDate_dt>2020-10-19T10:53:17.888Z</createdDate_dt>
+	<lastModifiedDate>2021-03-29T09:21:05.246Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-29T09:21:05.246Z</lastModifiedDate_dt>
+</page>

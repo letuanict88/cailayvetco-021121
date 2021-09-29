@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>edde</objectGroupId>
+	<objectId>edde14c9-d0d0-4e0d-85ba-91a75f281984</objectId>
+	<items item-list="true">	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value>Increasing resistance</value>
+	</item>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value>Antibiotic </value>
+	</item>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value>Analgesic, antipyretic and anti-inflammatory </value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value>Parasitic Medicine, fungi, coccidiosis</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
+	<value>Antiseptics</value>
+	</item>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value>Reproductive Medicine</value>
+	</item>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value>Nutrition, mineral group, strengthening resistance</value>
+	</item>	<item>	<key>nhom-thuoc-phong-tri-benh</key>
+	<value>Preventive and curative medicines </value>
+	</item>	<item>	<key>nhom-xu-ly-nuoc-cai-tao-moi-truong</key>
+	<value>Water treatment and environmental improvement</value>
+	</item>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value>Antiseptics, Bathsoap</value>
+	</item>	<item>	<key>nhom-ho-tro-khac</key>
+	<value>Other adjuvant groups</value>
+	</item></items>
+	<file-name>groupchildproduct.xml</file-name>
+	<folder-name/>
+	<internal-name>Group Child Product</internal-name>
+	<createdDate>2020-07-13T03:07:05.297Z</createdDate>
+	<createdDate_dt>2020-07-13T03:07:05.297Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:32:02.302Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:32:02.302Z</lastModifiedDate_dt>
+</component>

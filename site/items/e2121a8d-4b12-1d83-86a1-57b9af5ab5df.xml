@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e212</objectGroupId>
+	<objectId>e2121a8d-4b12-1d83-86a1-57b9af5ab5df</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>e2121a8d-4b12-1d83-86a1-57b9af5ab5df.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T15:48:20.026Z</createdDate>
+	<createdDate_dt>2020-07-13T15:48:20.026Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T15:48:20.026Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T15:48:20.026Z</lastModifiedDate_dt>
+</component>

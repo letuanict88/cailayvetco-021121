@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><box>
+	<version>2</version>
+   <box>
+      <profile>
+         <id>box-default</id>
+         <clientId>ipxp9dp9pxrript3l83px5jfv1k1j1qs</clientId>
+         <clientSecret>gfhBrsY6X4aN1R3uGONPmCEWImPMRTiw</clientSecret>
+         <enterpriseId>476022014</enterpriseId>
+         <publicKeyId/>
+         <privateKeyPath/>
+         <privateKeyPassword/>
+         <uploadFolder>/static-assets/images</uploadFolder>
+      </profile>
+   </box>
+</box>

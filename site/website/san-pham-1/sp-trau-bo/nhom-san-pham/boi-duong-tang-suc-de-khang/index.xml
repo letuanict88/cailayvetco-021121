@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>37d0</objectGroupId>
+	<objectId>37d09183-a58e-83dd-8722-182fce86f6bb</objectId>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/2 B.Complex SuperA.png</rightimage_s>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/084dc809-576c-9981-4797-1d8bcf243c72.xml</key>
+	<value>Test</value>
+	<include>/site/items/084dc809-576c-9981-4797-1d8bcf243c72.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>boi-duong-tang-suc-de-khang</folder-name>
+	<internal-name>Nhóm bồi dưỡng tăng sức đề kháng</internal-name>
+	<navLabel>Nhóm bồi dưỡng tăng sức đề kháng</navLabel>
+	<title_s>Nhóm thuốc bồi dưỡng tăng sức đề kháng</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-06-23T07:44:19.821Z</createdDate>
+	<createdDate_dt>2020-06-23T07:44:19.821Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:18:54.968Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:18:54.968Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb</key>
+	<value>Slide</value>
+<component id="1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1d0a</objectGroupId>
+	<objectId>1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/product-slide-txt.png</image_s>
+	</item></slide_o>
+	<file-name>1d0a99b6-9b63-d208-a7cf-57a5d25cd2fb.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-06-29T10:34:38.958Z</createdDate>
+	<createdDate_dt>2020-06-29T10:34:38.958Z</createdDate_dt>
+	<lastModifiedDate>2020-07-20T09:46:51.645Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T09:46:51.645Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<rightTitle_s>B.COMPLEX SUPER</rightTitle_s>
+</page>

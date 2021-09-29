@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>265f</objectGroupId>
+	<objectId>265f4c85-66b0-8bc3-3c01-520a5bfef68a</objectId>
+	<internal-name>Hướng dẫn xông - khử trùng chuồng trại sau ASF</internal-name>
+	<navLabel>Hướng dẫn xông - khử trùng chuồng trại sau ASF</navLabel>
+	<processName_s>Hướng dẫn xông - khử trùng chuồng trại sau Dịch tả heo Châu Phi</processName_s>
+	<parentURL_s>Nhóm gia súc gia cầm : /ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<file-name>index.xml</file-name>
+	<folder-name>xong-khu-trung-sau-asf</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<processContent_html>&lt;p&gt;X&amp;ocirc;ng v&amp;agrave; khử tr&amp;ugrave;ng chuồng trại l&amp;agrave; biện ph&amp;aacute;p chủ động nhằm cắt yếu tố l&amp;acirc;y truyền của mầm bệnh, đảm bảo vệ sinh th&amp;uacute; y trong qu&amp;aacute; tr&amp;igrave;nh tổ chức chăn nu&amp;ocirc;i đặc biệt trong t&amp;igrave;nh h&amp;igrave;nh ASF đang diễn biến phức tạp.&lt;/p&gt;
+&lt;p&gt;Tham khảo chi tiết quy tr&amp;igrave;nh x&amp;ocirc;ng v&amp;agrave; khử tr&amp;ugrave;ng chuồng nu&amp;ocirc;i tại đ&amp;acirc;y: &lt;em&gt;&lt;strong&gt;&lt;a href="https://issuu.com/tapdoanmavin/docs/xong_chuong_nuoi_mavin"&gt;Hướng dẫn x&amp;ocirc;ng v&amp;agrave; khử tr&amp;ugrave;ng chuồng nu&amp;ocirc;i.&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Nếu cần tư vấn chi tiết, gọi ngay b&amp;aacute;c sỹ th&amp;uacute; y Mavin theo số sau: Mr. Nguyễn Văn Minh - 0975 515 383&lt;/p&gt;</processContent_html>
+	<processType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Gia súc - Gia cầm</value_smv>
+	</item></processType_o>
+	<section_o item-list="true"/>
+	<createdDate>2020-08-10T07:45:37.661Z</createdDate>
+	<createdDate_dt>2020-08-10T07:45:38.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:45:37.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:45:37.661Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

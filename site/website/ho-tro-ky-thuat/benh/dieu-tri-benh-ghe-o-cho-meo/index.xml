@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fe14</objectGroupId>
+	<objectId>fe14a2c0-4e06-2003-6a78-6256c4f465d7</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dieu-tri-benh-ghe-o-cho-meo</folder-name>
+	<internal-name>Các bệnh có thể gặp khi chó bị ho</internal-name>
+	<navLabel>Các bệnh có thể gặp khi chó bị ho</navLabel>
+	<diseaseName_s>Các bệnh có thể gặp khi chó bị ho</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e206b39c-05cd-a3f2-db51-d2e24be92146</key>
+	<value>Slide</value>
+<component id="e206b39c-05cd-a3f2-db51-d2e24be92146">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e206</objectGroupId>
+	<objectId>e206b39c-05cd-a3f2-db51-d2e24be92146</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>e206b39c-05cd-a3f2-db51-d2e24be92146.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-17T04:08:18.634Z</createdDate>
+	<createdDate_dt>2020-07-17T04:08:18.634Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:08:18.634Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:08:18.634Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Bệnh thú cưng</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;1.&amp;nbsp; Nhiễm khuẩn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;acirc;n nhiệt 40,6 - 41,1oC - mắt v&amp;agrave; mũi chảy ra nhiều dịch m&amp;agrave;u v&amp;agrave;ng - ho - ỉa chảy - vi&amp;ecirc;m amidan (kh&amp;ocirc;ng nghi&amp;ecirc;m trọng như ở vi&amp;ecirc;m gan) - mắt đỏ - bỏ ăn - n&amp;ocirc;n - đệm gan ch&amp;acirc;n cứng v&amp;agrave; mũi cứng - ở thời kỳ cuối con vật bị co giật trong đ&amp;oacute; co giật cơ th&amp;aacute;i dương l&amp;agrave; triệu chứng đặc trưng (kh&amp;ocirc;ng phải l&amp;uacute;c n&amp;agrave;o cũng xảy ra) - liệt - dạ d&amp;agrave;y, ruột v&amp;agrave; phổi bị vi&amp;ecirc;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.&amp;nbsp; Vi&amp;ecirc;m gan ở ch&amp;oacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;acirc;n nhiệt tăng - cơ thể suy nhược - kết mạc mắt bị vi&amp;ecirc;m - miệng vi&amp;ecirc;m - hạch amidan sưng - bị chết đột ngột trong c&amp;aacute;c trường hợp cấp t&amp;iacute;nh - đau ở v&amp;ugrave;ng bụng v&amp;agrave; c&amp;oacute; phản ứng đau khi sờ v&amp;agrave;o v&amp;ugrave;ng gan - t&amp;iacute;ch nước v&amp;ugrave;ng bụng -n&amp;ocirc;n - ỉa chảy - ho - 1/3 c&amp;aacute;c trường hợp bị bệnh gi&amp;aacute;c mạc bị mờ - ho&amp;agrave;ng đản. Mổ kh&amp;aacute;m kiểm tra bệnh t&amp;iacute;ch thấy: gan v&amp;agrave;ng, sưng, c&amp;oacute; đốm - t&amp;uacute;i mật sưng - vi&amp;ecirc;m ruột (c&amp;oacute; thể chảy m&amp;aacute;u).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3.&amp;nbsp; Vi&amp;ecirc;m amidan ( nhiễm streptococus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Con vật sốt - n&amp;ocirc;n ra chất c&amp;oacute; bọt - hạch lympho ở v&amp;ugrave;ng cổ bị sưng - hạch c&amp;oacute; thể bị &amp;aacute;p xe - ho - nuốt thức ăn v&amp;agrave; nước uống kh&amp;oacute; khăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.&amp;nbsp; Vi&amp;ecirc;m phổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;acirc;n nhiệt tăng - kh&amp;oacute; thở - ho - từ mũi v&amp;agrave; mắt chảy ra chất dịch c&amp;oacute; mủ - n&amp;ocirc;n - nghe phổi c&amp;oacute; &amp;acirc;m phổi bệnh l&amp;yacute; - kiểm tra thấy c&amp;oacute; vi sinh vật g&amp;acirc;y bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5.&amp;nbsp; Nhiễm khuẩn tai, mũi, họng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sốt - nhiễm khuẩn cục bộ - mặt đau - tai đau (con vật thường c&amp;oacute; biểu hiện ngh&amp;ecirc;nh cổ v&amp;agrave; c&amp;oacute; những dấu hiệu đặc trưng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6.&amp;nbsp; Tắc ổ họng hoặc bị mắc ngoại vật&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mảnh xương - gỗ vụn hay những hay những ngoại vật kh&amp;aacute;c bị mắc v&amp;agrave;o cổ họng l&amp;agrave;m cho con vật c&amp;oacute; những triệu chứng: nuốt thức ăn v&amp;agrave; nước uống kh&amp;oacute; khăn - đau họng - n&amp;ocirc;n - ho.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;7.&amp;nbsp; Vi&amp;ecirc;m phế quản&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ho - sốt - rối loạn h&amp;ocirc; hấp - nước mũi chảy nhiều - thở kh&amp;oacute; - nghe phổi c&amp;oacute; &amp;acirc;m bệnh l&amp;yacute;. Bệnh n&amp;agrave;y thường hay gặp ở ch&amp;oacute; gi&amp;agrave; v&amp;agrave; thường ở dạng m&amp;atilde;n t&amp;iacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;8.&amp;nbsp; Gi&amp;atilde;n phế nang&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh &amp;iacute;t gặp ở ch&amp;oacute;. Khi ch&amp;oacute; bị bệnh thường c&amp;oacute; triệu chứng: ho k&amp;eacute;o d&amp;agrave;i - thở kh&amp;oacute; &amp;ndash; c&amp;oacute; thể chẩn đo&amp;aacute;n bằng c&amp;aacute;ch chụp X quang phế quản - ở c&amp;aacute;c phế quản bị bệnh th&amp;igrave; phế nang bị gi&amp;atilde;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;9.&amp;nbsp; Bệnh do vi sinh vật Nocardia&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; ở 2 dạng: dạng to&amp;agrave;n th&amp;acirc;n v&amp;agrave; dạng u, bướu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;*&amp;nbsp; &amp;nbsp;Dạng to&amp;agrave;n th&amp;acirc;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; sự biến đổi &amp;ndash; m&amp;agrave;ng phổi bị vi&amp;ecirc;m tạo th&amp;agrave;nh c&amp;aacute;c u hạt &amp;ndash; con vật ốm yếu dần &amp;ndash; gầy m&amp;ograve;n, hốc h&amp;aacute;c &amp;ndash; vi&amp;ecirc;m ngoại t&amp;acirc;n mạc &amp;ndash; vi&amp;ecirc;m m&amp;agrave;ng phổi &amp;ndash; khoang m&amp;agrave;ng phổi c&amp;oacute; mủ m&amp;ugrave;i h&amp;ocirc;i thối - ở bất kỳ cơ quan nội tạng n&amp;agrave;o đều c&amp;oacute; ổ &amp;aacute;p xe g&amp;acirc;y nhiễm mủ huyết &amp;ndash; vi&amp;ecirc;m ph&amp;uacute;c mạc &amp;ndash; vi&amp;ecirc;m phổi &amp;ndash; vi&amp;ecirc;m ruột &amp;ndash; ho m&amp;atilde;n t&amp;iacute;nh &amp;ndash; c&amp;aacute;c xương kh&amp;aacute;c nhau trong cơ thể bị vi&amp;ecirc;m xương tuỷ - ốm cấp t&amp;iacute;nh &amp;ndash; yếu ớt &amp;ndash; liệt. Mổ kh&amp;aacute;m kiểm tra bệnh t&amp;iacute;ch thấy: ở tim, gan, hạch l&amp;acirc;m ba, phổi c&amp;oacute; những hạt trắng như hạt k&amp;ecirc;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;*&amp;nbsp; &amp;nbsp;Dạng u, bướu&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;oacute; những cục u, bướu ở ch&amp;acirc;n &amp;ndash; đ&amp;ocirc;i khi ở khắp cơ thể - ho.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;10. Bệnh do cầu khuẩn g&amp;acirc;y ra&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ỉa chảy (ph&amp;acirc;n c&amp;oacute; lẫn m&amp;aacute;u) - gầy m&amp;ograve;n, hốc h&amp;aacute;c - mất nước - bệnh hay gặp ở những con ch&amp;oacute; từ 8 đến 12 tuần tuổi - cơ thể rất suy nhược - đ&amp;ocirc;i khi chết rất nhanh ch&amp;oacute;ng - ho - mắt v&amp;agrave; mũi c&amp;oacute; mủ chảy ra - sốt nhẹ - đ&amp;ocirc;i khi c&amp;oacute; triệu chứng thần kinh - phiết k&amp;iacute;nh kiểm tra thấy c&amp;oacute; cầu tr&amp;ugrave;ng - bệnh hay gặp từ 3 đến 4 ng&amp;agrave;y sau khi mua ch&amp;oacute; từ c&amp;aacute;c nơi kh&amp;aacute;c về.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;11. Ho tim (Cardiac Cough)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh hay gặp ở những con ch&amp;oacute; gi&amp;agrave; - kh&amp;ocirc;ng sốt - cổ trướng - nhịp tim bị suy - ho (bất kỳ nguy&amp;ecirc;n nh&amp;acirc;n n&amp;agrave;o l&amp;agrave;m thiểu năng tim đều c&amp;oacute; thể dẫn đến ho) - mạch m&amp;aacute;u bất thường - mạch nảy kh&amp;ocirc;ng đều - tr&amp;ecirc;n cơ thể c&amp;oacute; những chỗ bị ph&amp;ugrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;12. Thiếu vitamin A&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Con vật bị m&amp;ugrave; trong b&amp;oacute;ng đ&amp;ecirc;m (hiện tượng qu&amp;aacute;ng g&amp;agrave;) - vi&amp;ecirc;m gi&amp;aacute;c mạc mắt &amp;ndash; ho - ỉa chảy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;13. Bệnh lao&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh hiếm gặp - con vật ho - mắt, mũi c&amp;oacute; dịch chảy ra - ở gan, ph&amp;uacute;c mạc, m&amp;agrave;ng phổi, ngoại t&amp;acirc;m mạc, tim c&amp;oacute; c&amp;aacute;c u hạt nhiều thịt m&amp;agrave;u trắng, hồng - con vật n&amp;ocirc;n - gầy c&amp;ograve;m dần - c&amp;aacute;c hạch l&amp;acirc;m ba sưng to - k&amp;eacute;m ăn - cơ thể c&amp;oacute; biểu hiện kh&amp;oacute; chịu - ốm yếu - chết - khi kiểm tra c&amp;aacute;c chất dịch từ mắt, mũi v&amp;agrave; c&amp;aacute;c cơ quan trong cơ thể th&amp;igrave; thấy c&amp;oacute; vi khuẩn lao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;14. Bệnh nấm phổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ho - kh&amp;oacute; thở - ốm yếu - con vật gầy c&amp;ograve;m, hốc h&amp;aacute;c - ỉa chảy - cổ trướng - n&amp;ocirc;n - khi kiểm tra th&amp;igrave; ph&amp;aacute;t hiện ra một số loại nấm như Blastomyces, Histiphasma, Aspergillus v&amp;agrave; Cryptococus.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;15. Nhiễm Toxoplasma&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh kh&amp;ocirc;ng c&amp;oacute; triệu chứng điển h&amp;igrave;nh m&amp;agrave; biến đổi trong phạm vi rộng: ỉa chảy - c&amp;oacute; triệu chứng thần kinh - khi đi k&amp;eacute;o l&amp;ecirc; ch&amp;acirc;n xuống đất - vi&amp;ecirc;m kết mạc mắt - từ mũi chảy ra ni&amp;ecirc;m mủ - ch&amp;aacute;n ăn - ho - vi&amp;ecirc;m phổi - vi&amp;ecirc;m m&amp;agrave;ng bụng - đau bụng - thai hoặc con non đẻ ra bị chết. Mổ kh&amp;aacute;m kiểm tra bệnh t&amp;iacute;ch thấy: ở phổi, gan, l&amp;aacute;ch, tim, tuỵ c&amp;oacute; những điểm trắng h&amp;igrave;nh đầu đinh ghim - khi kiểm tra th&amp;igrave; thấy c&amp;oacute; Toxoplasma gondii ở những chỗ bị tổn thương v&amp;agrave; cơ chế g&amp;acirc;y bệnh giống như trường hợp nhiễm khuẩn ở s&amp;uacute;c vật hay chủng đậu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;16. Bị nhiễm Histoplasma&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; bệnh hiếm gặp - con vật bị ỉa chảy - cơ thể yếu ớt - n&amp;ocirc;n - ho - sốt kh&amp;ocirc;ng theo quy luật - ho&amp;agrave;ng đản - gan v&amp;agrave; l&amp;aacute;ch sưng - đ&amp;ocirc;i khi con vật bị vi&amp;ecirc;m phổi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;17. Chứng kh&amp;oacute; nuốt do sụn nh&amp;atilde;n - hầu g&amp;acirc;y ra (ho bất thường)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; bệnh kh&amp;ocirc;ng phổ biến - thức ăn được đưa v&amp;agrave;o miệng, con vật c&amp;oacute; h&amp;agrave;nh động nuốt nhưng ở miệng vẫn c&amp;oacute; hiện tượng ợ, trớ từ 2 đến 3 lần - xung quanh chuồng nu&amp;ocirc;i c&amp;oacute; những đống thức ăn nhỏ, sau đ&amp;oacute; chỗ thức ăn n&amp;agrave;y được ăn tiếp v&amp;agrave; c&amp;oacute; th&amp;ecirc;m v&amp;agrave;i lần ợ, trớ nữa trước khi tất cả thức ăn được ăn hết - con vật ho - c&amp;oacute; những cơn r&amp;ugrave;ng m&amp;igrave;nh - sau khi ta l&amp;agrave;m phẫu thuật chỉnh sửa lại cơ nh&amp;atilde;n - hầu th&amp;igrave; mọi việc lại trở lại b&amp;igrave;nh thường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;18. Nhiễm Pneumocystis&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Con vật ho - ỉa chảy - gầy m&amp;ograve;n - khi kiểm tra c&amp;oacute; Pneumocystis carinii - đ&amp;acirc;y l&amp;agrave; loại bệnh hiếm gặp, c&amp;oacute; b&amp;aacute;o c&amp;aacute;o cho biết n&amp;oacute; xuất hiện ở loại ch&amp;oacute; chồn (đ&amp;acirc;y l&amp;agrave; loại ch&amp;oacute; nhỏ, m&amp;igrave;nh d&amp;agrave;i, ch&amp;acirc;n gắn, tai d&amp;agrave;i rủ xuống).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;19. Nhiễm giun kh&amp;iacute; quản (Filarcides osleri)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Con vật ho l&amp;acirc;u, ho khan - lấy tăm b&amp;ocirc;ng cho v&amp;agrave;o kh&amp;iacute; quản, k&amp;eacute;o ra thấy c&amp;oacute; trứng giun - ở ni&amp;ecirc;m mạc của kh&amp;iacute; quản v&amp;agrave; phế quản c&amp;oacute; thể thấy những u nhỏ đường k&amp;iacute;nh c&amp;oacute; thể tới 1cm - bệnh n&amp;agrave;y hiếm gặp, thường chỉ c&amp;oacute; ở những v&amp;ugrave;ng cao nguy&amp;ecirc;n ph&amp;iacute;a đ&amp;ocirc;ng nam Victoria (xảy ra ở lo&amp;agrave;i ch&amp;oacute; hoang c&amp;oacute; l&amp;ocirc;ng m&amp;agrave;u n&amp;acirc;u đỏ).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;20. Phế quản bị nhiễm Bordetella&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thường ch&amp;oacute; con hay mắc phải bệnh n&amp;agrave;y - con vật ho - phổi đặc lại - vi&amp;ecirc;m phổi - kh&amp;ocirc;ng li&amp;ecirc;n quan tới thần kinh - kh&amp;ocirc;ng li&amp;ecirc;n quan với dạ d&amp;agrave;y, ruột - mặt kh&amp;aacute;c n&amp;oacute; giống như trường hợp nhiễm khuẩn ở s&amp;uacute;c vật - tr&amp;ecirc;n m&amp;ocirc;i trường nu&amp;ocirc;i cấy thuần khiết ph&amp;aacute;t hiện thấy c&amp;oacute; Bordetella bronchiseptica - những con ch&amp;oacute; con thường bị chết đột ngột.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;21. Ung thư phổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ung thư tuyến l&amp;agrave; phổ biến nhất ngo&amp;agrave;i ra l&amp;agrave; ung thư phổi - ta c&amp;oacute; thể x&amp;aacute;c định bệnh bằng c&amp;aacute;ch chụp X quang - con vật ho - gầy c&amp;ograve;m dần - bệnh tiếp tục k&amp;eacute;o d&amp;agrave;i - sau khi chết mổ kh&amp;aacute;m thấy c&amp;oacute; khối u v&amp;agrave; c&amp;aacute;c cục bướu ở phổi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;22. Bệnh xương khớp ph&amp;igrave; đại g&amp;acirc;y tổn thương ở phổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Con vật ho - qu&amp;egrave; quặt - ch&amp;acirc;n xưng - chụp X quang thấy c&amp;oacute; sự thay đổi -ở phổi c&amp;oacute; dấu hiệu của ung thư - ở mạch m&amp;aacute;u m&amp;ocirc; li&amp;ecirc;n kết ph&amp;aacute;t triển qu&amp;aacute; mức - bệnh &amp;iacute;t gặp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;23. Nhiễm k&amp;yacute; sinh tr&amp;ugrave;ng như ve, b&amp;eacute;t, rệp ở ổ mũi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Con vật ho - t&amp;igrave;m thấy c&amp;oacute; ve, b&amp;eacute;t, rệp ở lỗ mũi - một số trường hợp vi&amp;ecirc;m phế quản v&amp;agrave; vi&amp;ecirc;m phổi.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;24. Ho kiểu Kennel hoặc vi&amp;ecirc;m kh&amp;iacute; - phế quản&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ mũi chảy ra chất nhầy mủ - con vật ho - bệnh l&amp;acirc;y lan nhanh từ con vật n&amp;agrave;y sang con vật kh&amp;aacute;c - sốt nhẹ - thỉnh thoảng n&amp;ocirc;n ra chất c&amp;oacute; bọt - ho khan c&amp;oacute; một &amp;iacute;t đờm - khi nghe phổi thấy &amp;acirc;m bệnh l&amp;yacute; bệnh c&amp;oacute; thể tiến triển th&amp;agrave;nh vi&amp;ecirc;m phổi dịch rỉ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;25. Bị nhiễm virus Herpet&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ở bệnh n&amp;agrave;y con vật c&amp;oacute; kiểu h&amp;ocirc; hấp kh&amp;aacute;c thường - ho - n&amp;oacute; c&amp;oacute; thể l&amp;agrave;m cho ch&amp;oacute; con bị hao m&amp;ograve;n dần v&amp;agrave; sau đ&amp;oacute; l&amp;agrave; bị chết - c&amp;oacute; hiện tượng sẩy thai - v&amp;ocirc; sinh - gan, thận, dạ d&amp;agrave;y v&amp;agrave; ruột bị tổn thương.&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-17T04:07:14.806Z</createdDate>
+	<createdDate_dt>2020-07-17T04:07:14.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:20:28.200Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:20:28.200Z</lastModifiedDate_dt>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-thu-cung</parentURL_s>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

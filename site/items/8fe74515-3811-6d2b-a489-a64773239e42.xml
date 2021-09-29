@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8fe7</objectGroupId>
+	<objectId>8fe74515-3811-6d2b-a489-a64773239e42</objectId>
+	<file-name>8fe74515-3811-6d2b-a489-a64773239e42.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-ga-vit</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-boi-duong-tang-suc-de-khang</productgrouplevel2_s>
+	<createdDate>2020-08-03T08:05:41.441Z</createdDate>
+	<createdDate_dt>2020-08-03T08:05:41.441Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:06:28.907Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:06:28.907Z</lastModifiedDate_dt>
+</component>

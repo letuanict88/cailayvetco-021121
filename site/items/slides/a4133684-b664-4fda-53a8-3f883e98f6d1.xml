@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a413</objectGroupId>
+	<objectId>a4133684-b664-4fda-53a8-3f883e98f6d1</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg-gioithieuchung.png</image_s>
+	</item></slide_o>
+	<file-name>a4133684-b664-4fda-53a8-3f883e98f6d1.xml</file-name>
+	<internal-name>Header - Tìm kiếm </internal-name>
+	<createdDate>2020-07-08T04:51:58.215Z</createdDate>
+	<createdDate_dt>2020-07-08T04:51:58.215Z</createdDate_dt>
+	<lastModifiedDate>2020-07-08T04:51:58.215Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T04:51:58.215Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/ennewsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>712d</objectGroupId>
+	<objectId>712dce6f-4d40-e9a4-41a7-d6ef558804f9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test1</folder-name>
+	<internal-name>Cai Lay Veterinary Pharmacy – Partnership of Vietnamese farmers</internal-name>
+	<navLabel>Cai Lay Veterinary Pharmacy – Partnership of Vietn</navLabel>
+	<title_s>Cai Lay Veterinary Pharmacy – Partnership of Vietnamese farmers</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/62d04869-89f6-78d2-ffa0-a594fc66ca1e.xml</key>
+	<value>Header - En News</value>
+	<include>/site/items/slides/62d04869-89f6-78d2-ffa0-a594fc66ca1e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/nha_may_mekovet.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;According to experts, a veterinary medicine industry with strict production control, ensuring international standards of product quality is a prerequisite for sustainable socio-economic development by not only for pets, but also to protect the health of the community itself.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The good news is that there have been more and more large veterinary medicine enterprises in the country, which not only meet the stringent production quality requirements, but also have shown more and more pioneering establishment and affirmation. brand and attitude to accompany and accompany farmers. Including Cai Lay Veterinary Pharmacy Joint Stock Company, one of the oldest veterinary drug brands in Vietnam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With nearly 30 years of attachment with farmers, Cai Lay Veterinary Pharmacy Brand is the pride of Vietnam's veterinary medicine industry and has also contributed to poverty reduction for millions of livestock households.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cai Lay Veterinary Pharmacy Joint Stock Company started with Cai Lay Veterinary Husbandry Company, which was established in 1990 on the basis of merging Cai Lay District Veterinary Station and Cai Lay District Union of Livestock Enterprises. In 2013, Cai Lay Veterinary Pharmacy cooperated strategically with Mavin Group - a leading enterprise in Vietnam's agricultural sector. This is a turning point that radically changes the operation of the Company.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the support of Mavin Group in both financial capacity and management experience, Cai Lay Veterinary Pharmacy has made positive changes, in just a short time, has made a strong breakthrough in business activities.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In 2013, the Company invested and put into operation a veterinary drug factory according to WHO - GMP standards of the World Health Organization in Cai Lay - Tien Giang province, including 4 fully automatic production lines. injectable drugs, oral drugs and powdered drugs with a total value of over VND 90 billion. Modern production lines fully meet the most stringent standards of the World Health Organization (WHO) in the production of veterinary drugs, including: "Good manufacturing practices - GMP", "Good storage practices." - GSP &amp;rdquo;and&amp;ldquo; Good Testing Practice - GLP &amp;rdquo;. At the same time, the Company has also imported modern machinery systems from the US, Japan, England, and the Netherlands such as: high performance liquid chromatography machine, variable ultraviolet spectrophotometer ... The factory is a typical in investment activities for production and business in the area and has attracted a lot of domestic and foreign delegations to visit and learn from experience.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;img src="/static-assets/images/news/cong_nghe_.jpg" alt="" width="600" height="600" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;Cai Lay Veterinary Pharmacy is one of the few veterinary medicine enterprises in Vietnam that has obtained GMP certification from the World Health Organization.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Besides investing in technology, Cai Lay Veterinary Pharmacy also cooperates with research institutes and universities in researching, developing and applying many new scientific achievements in the field of veterinary medicine. . The product portfolio is constantly expanded to hundreds of categories from nutritional products, nutritional supplements, to disinfectants, preventive and curative drugs for poultry, cattle and cattle. .produced on closed technology and full automation to ensure accuracy and high performance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mr. Dao Manh Luong, General Director of Mavin Group affirmed: &amp;ldquo;The mission of Cai Lay Veterinary Pharmacy Joint Stock Company is to become close friends of farmers and contribute to sustainable development of Vietnam's agricultural sector &amp;rdquo;.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;img src="/static-assets/images/news/Layer 194.png" alt="" width="600" height="608" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;Prime Minister Nguyen Xuan Phuc visits the booth and products of Cai Lay Veterinary Pharmacy at the Tien Giang Enterprise Development Achievement Exhibition.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Currently, the Company is one of the few veterinary medicine enterprises in Vietnam that has achieved WHO - GMP certification and is one of the 10 largest veterinary drug manufacturing and distribution companies. Products are well received by many farmers not only because of quality standards of "foreign quality, domestic price", safety for pets but also reasonable prices.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the attitude of accompanying farmers, in addition to serious investment, strict production control, the Company regularly organizes direct experience exchanges, interactive support, technology transfer. in order to provide the best solution to protect livestock, support the knowledge and protection of livestock for farmers, and farmers prevent disease.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thanks to the positive contribution to the development of the locality and the whole country, the Company has been awarded many prestigious and prestigious awards such as: High-quality Vietnamese goods, Golden paddy - Quality gold brand, Cup brand gold and brand name, Vietnam Quality Award, Effective Business Enterprise Award in the Mekong Delta, Enterprises well perform tax obligations and legal policies ...&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;After nearly 30 years of development, Cai Lay Veterinary Pharmacy has strived to become one of the most prestigious and popular veterinary medicine brands in Vietnam. The products are available in all parts of the country, widely distributed through more than 200 dealers from the North to the South, a close friend of Vietnamese farmers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Source: Investment Review&lt;/em&gt;&lt;/p&gt;</content_html>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<createdDate>2020-07-13T04:50:44.574Z</createdDate>
+	<lastModifiedDate>2020-08-04T08:02:46.041Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:02:46.041Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

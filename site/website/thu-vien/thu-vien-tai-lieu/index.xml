@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/documentlanding</content-type>
+	<display-template>/templates/web/page/document-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9292</objectGroupId>
+	<objectId>92927562-5d1b-faca-0fee-09e1408e3478</objectId>
+	<internal-name>Thư viện tài liệu</internal-name>
+	<title_s>Thư viện tài liệu</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien-tai-lieu</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>45a36909-2001-98f8-7cd7-2c6ac4a72bd6</key>
+	<value>Slide tài liệu</value>
+<component id="45a36909-2001-98f8-7cd7-2c6ac4a72bd6">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>45a3</objectGroupId>
+	<objectId>45a36909-2001-98f8-7cd7-2c6ac4a72bd6</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>45a36909-2001-98f8-7cd7-2c6ac4a72bd6.xml</file-name>
+	<internal-name>Slide tài liệu</internal-name>
+	<createdDate>2020-07-08T02:30:00.402Z</createdDate>
+	<createdDate_dt>2020-07-08T02:30:00.402Z</createdDate_dt>
+	<lastModifiedDate>2020-07-08T02:30:00.402Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T02:30:00.402Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>c37f3ef5-68d5-566b-a7b7-db821ca84b55</key>
+	<value>Thư viện tài liệu</value>
+<component id="c37f3ef5-68d5-566b-a7b7-db821ca84b55">
+	<content-type>/component/listdocument</content-type>
+	<display-template>/templates/web/component/list-document.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c37f</objectGroupId>
+	<objectId>c37f3ef5-68d5-566b-a7b7-db821ca84b55</objectId>
+	<file-name>c37f3ef5-68d5-566b-a7b7-db821ca84b55.xml</file-name>
+	<internal-name>Thư viện tài liệu</internal-name>
+	<createdDate>2020-07-08T02:29:50.816Z</createdDate>
+	<createdDate_dt>2020-07-08T02:29:50.816Z</createdDate_dt>
+	<lastModifiedDate>2020-07-08T02:29:50.816Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T02:29:50.816Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-08T02:29:27.596Z</createdDate>
+	<createdDate_dt>2020-07-08T02:29:27.596Z</createdDate_dt>
+	<lastModifiedDate>2020-07-08T02:30:54.639Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T02:30:54.639Z</lastModifiedDate_dt>
+</page>

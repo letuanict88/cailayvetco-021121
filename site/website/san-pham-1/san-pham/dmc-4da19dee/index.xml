@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b5f67b2f</objectGroupId>
+	<objectId>b5f67b2f-75e7-48e0-94f5-1a78af8e8876</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dmc-4da19dee</folder-name>
+	<internal-name>D.M.C (GS, GC)</internal-name>
+	<navLabel>D.M.C (GS, GC)</navLabel>
+	<productName_s>D.M.C (GS, GC)</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
+	<value_smv>Nhóm thuốc sát trùng thuốc dùng ngoài</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/107 DMC GSGCA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.1841%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hoạt chất Deltamethrin 25mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Trị v&amp;agrave; ngừa k&amp;yacute; sinh tr&amp;ugrave;ng ngo&amp;agrave;i da cho gia s&amp;uacute;c, gia&amp;nbsp;cầm; diệt mạt, gi&amp;aacute;n, mối, ruồi, mồng, kiến, rệp,&amp;hellip;&lt;/p&gt;
+&lt;p&gt;- Khử m&amp;ugrave;i h&amp;ocirc;i, đẹp l&amp;ocirc;ng, kh&amp;ocirc;ng ảnh hưởng đến da.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.05156%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.7642%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng ngo&amp;agrave;i da. Lắc kỹ trước khi phun&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ograve;, d&amp;ecirc;, cừu, thỏ: xịt trực tiếp v&amp;agrave;o v&amp;ugrave;ng da bị ghẻ,&amp;nbsp;x&amp;agrave; m&amp;acirc;u, ve,&amp;hellip;ng&amp;agrave;y 1 lần, li&amp;ecirc;n tục 3 ng&amp;agrave;y (đối với ve, sau 3&amp;nbsp;ng&amp;agrave;y sẽ c&amp;oacute; hiệu quả).&lt;/p&gt;
+&lt;p&gt;- Xịt v&amp;agrave;o l&amp;ocirc;ng, ổ, chuồng nu&amp;ocirc;i g&amp;agrave;, vịt, c&amp;uacute;t c&amp;oacute; mạt.&lt;/p&gt;
+&lt;p&gt;- Xịt trực tiếp l&amp;ecirc;n ổ kiến, mối - nơi ruồi, muỗi, m&amp;ograve;ng đậu.&lt;/p&gt;
+&lt;p&gt;- Ngừa định kỳ: 15-20 ng&amp;agrave;y xịt 1 lần.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-96&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T08:36:45.341Z</createdDate>
+	<createdDate_dt>2020-08-03T08:36:45.341Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:33:15.359Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:33:15.359Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:36:46.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

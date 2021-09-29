@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a369</objectGroupId>
+	<objectId>a3691f30-15b4-4679-566b-828a77b18dc6</objectId>
+	<internal-name>STRYCHNAL B1</internal-name>
+	<navLabel>STRYCHNAL B1</navLabel>
+	<productName_s>STRYCHNAL B1</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>strychnal-b1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productImage_s>/static-assets/images/products/65 Strychnal B1 (2)A.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.3223%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Strychnin sulfate 40mg&lt;/p&gt;
+&lt;p&gt;Vitamin B1 HCl 5g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Trị c&amp;aacute;c trường hợp th&amp;uacute; bị t&amp;ecirc; liệt d&amp;acirc;y thần kinh, sưng ph&amp;ugrave;&amp;nbsp;to&amp;agrave;n th&amp;acirc;n, ăn k&amp;eacute;m ngon, suy nhược, mệt mỏi.&lt;/p&gt;
+&lt;p&gt;- Phối hợp kh&amp;aacute;ng sinh trong điều trị bệnh nhiễm tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.46585%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.2118%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
+&lt;p&gt;Đại gia s&amp;uacute;c: 5-10ml/con/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;Heo: 1-5ml/con/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;Ch&amp;oacute;, m&amp;egrave;o: 0,5-3ml/con/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ch&amp;uacute; &amp;yacute;: Kh&amp;ocirc;ng d&amp;ugrave;ng qu&amp;aacute; liều quy định.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-151&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T07:41:33.583Z</createdDate>
+	<createdDate_dt>2020-08-03T07:41:33.583Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:22:30.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:22:30.498Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T07:41:34.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

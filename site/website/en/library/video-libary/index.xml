@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/videos</content-type>
+	<display-template>/templates/web/page/video-libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f9f46f3d</objectGroupId>
+	<objectId>f9f46f3d-087f-45fb-97ec-5f9038bb96b7</objectId>
+	<listVideo_o item-list="true">	<item>	<videoName_s> Mavin Group: The first Vietnamese enterprise successfully exported pork</videoName_s>
+	<videoYoutubeURL_s>https://www.youtube.com/embed/oqNBznIK6d0</videoYoutubeURL_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/xuat_khau_thit_heo_mavin_.jpg</videoBanner_s>
+	</item>	<item>	<videoName_s>Mavin Group Corporate video</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Tập đoàn Mavin - Chuỗi 3F.jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=z24b-1zc9BA&amp;t=21s</videoYoutubeURL_s>
+	</item>	<item>	<videoName_s>Round cage aquaculture technology of Mavin Group</videoName_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Du an nuoi ca long ho Hoa Binh.jpg</videoBanner_s>
+	<videoYoutubeURL_s>https://www.youtube.com/watch?v=Ud42V26zZDo</videoYoutubeURL_s>
+	</item></listVideo_o>
+	<internal-name>Video libary</internal-name>
+	<title_s>Video libary</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>video-libary</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-07T07:33:25.999Z</createdDate>
+	<createdDate_dt>2020-07-07T07:33:25.999Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:13:56.472Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:13:56.472Z</lastModifiedDate_dt>
+</page>

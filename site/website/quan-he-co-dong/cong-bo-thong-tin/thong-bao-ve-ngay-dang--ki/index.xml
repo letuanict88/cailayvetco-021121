@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7408</objectGroupId>
+	<objectId>7408cd70-7881-6596-b6b8-eb6e2a6306a9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thong-bao-ve-ngay-dang--ki</folder-name>
+	<internal-name>Thông báo giao dịch cổ phiếu người nội bộ</internal-name>
+	<navLabel>THÔNG BÁO GIAO DỊCH CỔ PHIẾU NGƯỜI NỘI BỘ</navLabel>
+	<title_s>Thông báo giao dịch cổ phiếu người nội bộ</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
+	<value>Header - Investor</value>
+	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>announcement</key>
+	<value_smv>Công bố thông tin</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;T&amp;ecirc;n c&amp;aacute; nh&amp;acirc;n thực hiện giao dịch: Đ&amp;agrave;o Mạnh Lương&lt;/p&gt;
+&lt;p&gt;- Chức vụ hiện nay tại Tổ chức ni&amp;ecirc;m yết: Chủ tịch HĐQT&lt;/p&gt;
+&lt;p&gt;- M&amp;atilde; chứng kho&amp;aacute;n: MKV&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu nắm giữ trước khi thực hiện giao dịch: 0 CP (tỷ lệ 0%)&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu dự kiến sau khi giao dịch: 980.000 CP( tỷ lệ 19,6%)&lt;/p&gt;
+&lt;p&gt;T&amp;ecirc;n c&amp;aacute; nh&amp;acirc;n thực hiện giao dịch: Đ&amp;agrave;o Mạnh H&amp;ograve;a&lt;/p&gt;
+&lt;p&gt;- Chức vụ hiện nay tại Tổ chức ni&amp;ecirc;m yết: Th&amp;agrave;nh vi&amp;ecirc;n HĐQT&lt;/p&gt;
+&lt;p&gt;- M&amp;atilde; chứng kho&amp;aacute;n: MKV&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu nắm giữ trước khi thực hiện giao dịch: 6.134 CP(tỷ lệ 0,12%)&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu dự kiến sau khi giao dịch: 0 CP(tỷ lệ 0%)&lt;/p&gt;
+&lt;p&gt;T&amp;ecirc;n c&amp;aacute; nh&amp;acirc;n thực hiện giao dịch: Nguyễn Anh Tuấn&lt;/p&gt;
+&lt;p&gt;- Chức vụ hiện nay tại Tổ chức ni&amp;ecirc;m yết: Th&amp;agrave;nh vi&amp;ecirc;n HĐQT&lt;/p&gt;
+&lt;p&gt;- M&amp;atilde; chứng kho&amp;aacute;n: MKV&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu nắm giữ trước khi thực hiện giao dịch: 28.572 CP( tỷ lệ 0,57%)&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu dự kiến sau khi giao dịch: 0 CP( tỷ lệ 0%)&lt;/p&gt;
+&lt;p&gt;T&amp;ecirc;n c&amp;aacute; nh&amp;acirc;n thực hiện giao dịch: NguyễnThị Lan Hương&lt;/p&gt;
+&lt;p&gt;- Chức vụ hiện nay tại Tổ chức ni&amp;ecirc;m yết: Vợ Th&amp;agrave;nh vi&amp;ecirc;n HĐQT&lt;/p&gt;
+&lt;p&gt;- M&amp;atilde; chứng kho&amp;aacute;n: MKV&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu nắm giữ trước khi thực hiện giao dịch: 40.593 CP( tỷ lệ 0,81%)&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu dự kiến sau khi giao dịch: 0 CP( tỷ lệ 0%)&lt;/p&gt;
+&lt;p&gt;T&amp;ecirc;n c&amp;aacute; nh&amp;acirc;n thực hiện giao dịch: Đ&amp;agrave;o Mạnh Hiếu&lt;/p&gt;
+&lt;p&gt;- Chức vụ hiện nay tại Tổ chức ni&amp;ecirc;m yết: Chồng Trưởng ban kiểm so&amp;aacute;t&lt;/p&gt;
+&lt;p&gt;- M&amp;atilde; chứng kho&amp;aacute;n: MKV&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu nắm giữ trước khi thực hiện giao dịch: 197.664 CP( tỷ lệ 3,96%)&lt;/p&gt;
+&lt;p&gt;- Số lượng cổ phiếu dự kiến sau khi giao dịch: 0 CP( tỷ lệ 0%)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/Dao%20Manh%20Hieu.pdf"&gt;Dao Manh Hieu.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/Dao%20Manh%20Hoa.pdf"&gt;Dao Manh Hoa.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/Dao%20Manh%20Luong.pdf"&gt;Dao Manh Luong.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/Nguyen%20Anh%20Tuan.pdf"&gt;Nguyen Anh Tuan.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/Nguyen%20Thi%20Lan%20Huong.pdf"&gt;Nguyen Thi Lan Huong.pdf&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
+	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T01:34:45.085Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T01:34:45.085Z</lastModifiedDate_dt>
+	<date_dt>2020-05-13T09:07:06.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a4b0</objectGroupId>
+	<objectId>a4b0b37f-95a7-130f-f674-67b63f667510</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ho-tro-sinh-san-ho-tro-khac</folder-name>
+	<internal-name>Nhóm Thuốc Hỗ trợ sinh sản và hỗ trợ khác</internal-name>
+	<navLabel>Nhóm Thuốc Hỗ trợ sinh sản và hỗ trợ khác</navLabel>
+	<title_s>Nhóm Thuốc Hỗ trợ sinh sản và hỗ trợ khác</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e10dde48-f8e3-f425-54a0-44193360a520</key>
+	<value>Slide</value>
+<component id="e10dde48-f8e3-f425-54a0-44193360a520">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e10d</objectGroupId>
+	<objectId>e10dde48-f8e3-f425-54a0-44193360a520</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>e10dde48-f8e3-f425-54a0-44193360a520.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T07:08:18.677Z</createdDate>
+	<createdDate_dt>2020-08-03T07:08:18.677Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:08:18.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:08:18.677Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/8fc29cc6-7c00-fa93-b265-83b64664ed21.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/8fc29cc6-7c00-fa93-b265-83b64664ed21.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T07:06:02.050Z</createdDate>
+	<createdDate_dt>2020-08-03T07:06:02.050Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:06:02.050Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:06:02.050Z</lastModifiedDate_dt>
+</page>

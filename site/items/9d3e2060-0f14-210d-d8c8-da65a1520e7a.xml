@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9d3e</objectGroupId>
+	<objectId>9d3e2060-0f14-210d-d8c8-da65a1520e7a</objectId>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<file-name>9d3e2060-0f14-210d-d8c8-da65a1520e7a.xml</file-name>
+	<productgrouplevel1_s>thuoc-cho-tom-ca</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-phong-tri-benh</productgrouplevel2_s>
+	<createdDate>2020-08-03T07:11:38.069Z</createdDate>
+	<createdDate_dt>2020-08-03T07:11:38.069Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:11:38.069Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:11:38.069Z</lastModifiedDate_dt>
+</component>

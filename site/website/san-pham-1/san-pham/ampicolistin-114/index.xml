@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a1286b3d</objectGroupId>
+	<objectId>a1286b3d-e25d-4d83-b6f1-c90835f0308c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114</folder-name>
+	<internal-name>MKV-MEKOVIT</internal-name>
+	<navLabel>MKV-MEKOVIT</navLabel>
+	<productName_s>MKV-MEKOVIT</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/75 MKV-MEKOVIT 1 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.941%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin A (min) 455.000UI&lt;/p&gt;
+&lt;p&gt;Vitanim D3 (min) 68.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E (min) 1.000UI&lt;/p&gt;
+&lt;p&gt;Lysine HCl (min) 20g&lt;/p&gt;
+&lt;p&gt;Methionine (min) 10g&lt;/p&gt;
+&lt;p&gt;Threonine (min) 1g&lt;/p&gt;
+&lt;p&gt;Chất mang (dextrose) vđ 1kg&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bổ sung vitamin v&amp;agrave; acid amin cho gia s&amp;uacute;c-gia cầm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tăng cường chuyển h&amp;oacute;a thức ăn, hạn chế c&amp;aacute;c bệnh đường ruột, k&amp;iacute;ch th&amp;iacute;ch ăn nhiều, ch&amp;oacute;ng lớn, mau ra l&amp;ocirc;ng, đẻ sai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm c&amp;ograve;i cọc, tăng tỉ lệ đồng đều v&amp;agrave; nu&amp;ocirc;i sống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;uacute;p vật nu&amp;ocirc;i giảm stress, giảm nguy cơ nhiễm bệnh.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 5.01842%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.0405%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống hay trộn đều v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;* Bổ sung gi&amp;uacute;p tăng trọng nhanh:&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu: 100g/200kg thức ăn&lt;/p&gt;
+&lt;p&gt;- Heo: 100g/25kg thức ăn&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 100g/30kg thức ăn hay 2g/l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;* Bổ sung trong thời gian bị stress hay nhiễm bệnh: d&amp;ugrave;ng gấp đ&amp;ocirc;i liều tr&amp;ecirc;n, li&amp;ecirc;n tục 1-2 tuần.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 01:2013/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:43:43.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:06:19.599Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:06:19.599Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

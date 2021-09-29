@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>50fe</objectGroupId>
+	<objectId>50fee675-8730-6804-70f9-bf1b3c6d6df9</objectId>
+	<internal-name>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </internal-name>
+	<navLabel>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </navLabel>
+	<title_s>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </title_s>
+	<rightTitle_s>MEKOMEC</rightTitle_s>
+	<file-name>index.xml</file-name>
+	<folder-name>sat-trung-dung-ngoai</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/108 MEKOMECA.png</rightimage_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>633bac33-68ae-1c9a-aaf3-168a60b4248a</key>
+	<value>Slide</value>
+<component id="633bac33-68ae-1c9a-aaf3-168a60b4248a">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>633b</objectGroupId>
+	<objectId>633bac33-68ae-1c9a-aaf3-168a60b4248a</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>633bac33-68ae-1c9a-aaf3-168a60b4248a.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T07:45:45.822Z</createdDate>
+	<createdDate_dt>2020-08-03T07:45:45.822Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:45:45.822Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:45:45.822Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/8b458438-ce74-f28c-67d4-105e84d5765a.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/8b458438-ce74-f28c-67d4-105e84d5765a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T07:40:20.910Z</createdDate>
+	<createdDate_dt>2020-08-03T07:40:20.910Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T01:24:17.864Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T01:24:17.864Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4966</objectGroupId>
+	<objectId>496671a8-5670-fae3-7188-eaeb6966801d</objectId>
+	<file-name>496671a8-5670-fae3-7188-eaeb6966801d.xml</file-name>
+	<internal-name>Increasing resistance</internal-name>
+	<productgrouplevel1_s>thuoc-cho-loai-vat-khac</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-boi-duong-tang-suc-de-khang</productgrouplevel2_s>
+	<createdDate>2020-08-05T06:51:39.689Z</createdDate>
+	<createdDate_dt>2020-08-05T06:51:39.689Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:51:39.689Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:51:39.689Z</lastModifiedDate_dt>
+</component>

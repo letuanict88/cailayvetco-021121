@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f519</objectGroupId>
+	<objectId>f5191ff6-4d97-6780-8a7a-ad8fd29aad14</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-florfenicol-50</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>MKV-FLORFENICOL 50</internal-name>
+	<navLabel>MKV-FLORFENICOL 50</navLabel>
+	<productName_s>MKV-FLORFENICOL 50</productName_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/85 MKV FLORFENICOL 50 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0792%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Florfenicol 50g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đặc trị c&amp;aacute;c bệnh thương h&amp;agrave;n, ti&amp;ecirc;u chảy do E.coli, vi&amp;ecirc;m&amp;nbsp;ruột hoại tử, tụ huyết tr&amp;ugrave;ng, CRD, hen suyễn, vịt khẹc,&amp;hellip;ở&amp;nbsp;gia cầm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trị c&amp;aacute;c bệnh vi&amp;ecirc;m phổi, vi&amp;ecirc;m phổi phức hợp, suyễn,&amp;nbsp;vi&amp;ecirc;m phổi-m&amp;agrave;ng phổi (APP), vi&amp;ecirc;m khớp, tụ huyết tr&amp;ugrave;ng,&amp;nbsp;thương h&amp;agrave;n, bệnh do li&amp;ecirc;n cầu type 2 g&amp;acirc;y ra,&amp;hellip;ở heo, b&amp;ecirc;,&amp;nbsp;d&amp;ecirc;, cừu non. Đặc biệt ph&amp;ograve;ng kế ph&amp;aacute;t do bệnh tai xanh&amp;nbsp;tr&amp;ecirc;n heo.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.88022%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.0405%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn thức ăn cho ăn hay pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;- Gia cầm: 1g/20-30kg TT/ng&amp;agrave;y hay 1g/6-7kg thức ăn&amp;nbsp;hay 1g/4-5l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ecirc;, d&amp;ecirc;, cừu non: 1g/30-40kg TT/ng&amp;agrave;y hay&amp;nbsp;1g/10kg thức ăn hay 1g/10-15l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục từ 3-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Liều ph&amp;ograve;ng: 1/2 liều tr&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-332&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:24:50.384Z</createdDate>
+	<createdDate_dt>2020-08-03T04:24:50.384Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:03:06.688Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:03:06.688Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:24:50.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

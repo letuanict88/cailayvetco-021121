@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f894</objectGroupId>
+	<objectId>f8945601-bff0-bff7-ed7f-e31b871e0188</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cl-amoxcoli</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>CL-AMOXCOLI</internal-name>
+	<navLabel>CL-AMOXCOLI</navLabel>
+	<productName_s>CL-AMOXCOLI</productName_s>
+	<isHot_b>true</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/86 CL-AMOXCOLI 100gA.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Amoxicillin trihydrate 10g&lt;/p&gt;
+&lt;p&gt;Colistin sulfate 40.000.000UI&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trị nhiễm khuẩn đường ti&amp;ecirc;u h&amp;oacute;a, h&amp;ocirc; hấp, tiết niệu trong&amp;nbsp;c&amp;aacute;c bệnh như: vi&amp;ecirc;m ruột, ti&amp;ecirc;u chảy, thương h&amp;agrave;n, ph&amp;oacute;&amp;nbsp;thương h&amp;agrave;n, tụ huyết tr&amp;ugrave;ng, đ&amp;oacute;ng dấu, vi&amp;ecirc;m phổi, nhiễm&amp;nbsp;tr&amp;ugrave;ng đường tiết niệu ở b&amp;ecirc;, ngh&amp;eacute;, heo, g&amp;agrave;, vịt, c&amp;uacute;t.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đặc biệt d&amp;ugrave;ng li&amp;ecirc;n tục trong tuần tuổi đầu ti&amp;ecirc;n để ngăn&amp;nbsp;ngừa nhiễm Salmonella, E.coli g&amp;acirc;y hiện tượng chết h&amp;agrave;ng&amp;nbsp;loạt ở gia cầm&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.08468%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.5598%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống.&lt;/p&gt;
+&lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;: 1-2g/10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- Heo: 1,5-2g/10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 2-3g/10kg TT hay 1-2g/1l&amp;iacute;t nước cho uống&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;* Liều ph&amp;ograve;ng bằng 1/3 liều tr&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-285&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T03:51:21.156Z</createdDate>
+	<createdDate_dt>2020-08-03T03:51:21.156Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:23:59.785Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:23:59.785Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T03:51:21.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

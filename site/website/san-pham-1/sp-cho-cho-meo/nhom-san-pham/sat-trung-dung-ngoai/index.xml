@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d8c8</objectGroupId>
+	<objectId>d8c8b4f7-05a3-ccab-e733-06851c094c29</objectId>
+	<internal-name>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </internal-name>
+	<navLabel>Nhóm Thuốc Sát trùng, thuốc dùng ngoài</navLabel>
+	<title_s>Nhóm Thuốc Sát trùng, thuốc dùng ngoài</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>338de263-ee68-b7ed-e255-065e05a8c239</key>
+	<value>Slide</value>
+<component id="338de263-ee68-b7ed-e255-065e05a8c239">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>338d</objectGroupId>
+	<objectId>338de263-ee68-b7ed-e255-065e05a8c239</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>338de263-ee68-b7ed-e255-065e05a8c239.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T08:39:35.801Z</createdDate>
+	<createdDate_dt>2020-08-03T08:39:35.801Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:39:35.801Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:39:35.801Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/b40eec7c-2d6f-4ea7-78f8-ba8162205512.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/b40eec7c-2d6f-4ea7-78f8-ba8162205512.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>sat-trung-dung-ngoai</folder-name>
+	<createdDate>2020-08-03T08:38:08.166Z</createdDate>
+	<createdDate_dt>2020-08-03T08:38:08.166Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:38:08.166Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:38:08.166Z</lastModifiedDate_dt>
+</page>

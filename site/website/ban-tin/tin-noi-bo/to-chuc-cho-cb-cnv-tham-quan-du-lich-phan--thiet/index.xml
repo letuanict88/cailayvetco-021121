@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>67a5</objectGroupId>
+	<objectId>67a50203-55ba-de13-e64b-855e25916ba3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>to-chuc-cho-cb-cnv-tham-quan-du-lich-phan--thiet</folder-name>
+	<internal-name>Tổ chức cho CB-CNV tham quan du lịch Phan Thiết</internal-name>
+	<navLabel>Tổ chức cho CB-CNV tham quan du lịch Phan Thiết</navLabel>
+	<title_s>Tổ chức cho CB-CNV tham quan du lịch Phan Thiết</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/cailayvetco___8.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Du lịch h&amp;agrave;ng năm l&amp;agrave; dịp để mọi người nghỉ ngơi, giảm stress sau những ng&amp;agrave;y l&amp;agrave;m việc mệt mỏi. Một n&amp;eacute;t văn h&amp;oacute;a đặc sắc, văn minh của một c&amp;ocirc;ng ty - thường xuy&amp;ecirc;n c&amp;oacute; những hoạt động chăm s&amp;oacute;c đời sống tinh thần cho nh&amp;acirc;n vi&amp;ecirc;n. Điều đ&amp;oacute;, sẽ gi&amp;uacute;p họ c&amp;oacute; th&amp;ecirc;m động lực để cố gắng hơn. Ch&amp;iacute;nh v&amp;igrave; vậy, đi du lịch h&amp;agrave;ng năm cũng l&amp;agrave; điều m&amp;agrave; Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty Cailayvetco quan t&amp;acirc;m v&amp;agrave; x&amp;acirc;y dựng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để ghi nhận những đ&amp;oacute;ng g&amp;oacute;p, nỗ lực của tất cả CB-CNV sau một năm l&amp;agrave;m việc hiệu quả. Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy &amp;ndash; Cailayvetco đ&amp;atilde; tổ chức cho tất cả CB-CNV tham quan du lịch 2 ng&amp;agrave;y 1 đ&amp;ecirc;m tại Phan Thiết (19 v&amp;agrave; 20/7/2018)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đến Phan Thiết n&amp;oacute;i chung v&amp;agrave; Mũi N&amp;eacute; n&amp;oacute;i ri&amp;ecirc;ng, tập thể Cailayvetco được thoải m&amp;aacute;i tận hưởng bầu kh&amp;ocirc;ng kh&amp;iacute; trong l&amp;agrave;nh, m&amp;aacute;t mẻ, thỏa sức vui chơi tr&amp;ecirc;n những b&amp;atilde;i biển xinh đẹp v&amp;agrave; nổi tiếng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n của C&amp;ocirc;ng ty tại L&amp;acirc;u đ&amp;agrave;i rượu vang cổ k&amp;iacute;nh, lộng lẫy v&amp;agrave; nguy nga&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số th&amp;agrave;nh vi&amp;ecirc;n của C&amp;ocirc;ng ty chụp ảnh lưu niệm tại Th&amp;aacute;p b&amp;agrave; Posanu, một trong những di t&amp;iacute;ch c&amp;ograve;n s&amp;oacute;t lại của d&amp;acirc;n tộc Chăm Pa&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mọi người thỏa sức vui chơi, v&amp;ugrave;ng vẫy tại b&amp;atilde;i biển Mũi N&amp;eacute; sạch đẹp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh việc được đi du lịch, trải nghiệm, c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong c&amp;ocirc;ng ty c&amp;ograve;n c&amp;oacute; cơ hội chơi những tr&amp;ograve; chơi teambuilding, gala diner,... Nhằm tăng t&amp;iacute;nh s&amp;aacute;ng tạo cho nh&amp;acirc;n vi&amp;ecirc;n, gắn kết c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong c&amp;ocirc;ng ty với nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khai mạc chương tr&amp;igrave;nh Gala diner&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c b&amp;eacute; h&amp;agrave;o hứng tham gia v&amp;agrave; nhận nhiều phần qu&amp;agrave; hấp dẫn từ tiết mục Disco tượng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ograve; bịt mắt b&amp;oacute;n sữa chua v&amp;agrave; Model gala đem lại nhiều tiếng cười sảng kho&amp;aacute;i cho chương tr&amp;igrave;nh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều đặc biệt nhất của chuyến tham quan du lịch n&amp;agrave;y c&amp;oacute; lẽ l&amp;agrave; bữa tiệc sinh nhật được tổ chức ấm c&amp;uacute;ng, bất ngờ d&amp;agrave;nh cho c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n c&amp;oacute; sinh nhật trong th&amp;aacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vẻ đẹp của đồi c&amp;aacute;t thu h&amp;uacute;t tất cả mọi th&amp;agrave;nh vi&amp;ecirc;n Caialyvetco, để t&amp;igrave;m kiếm những khoảnh khắc ảnh độc đ&amp;aacute;o nhất về đồi c&amp;aacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết th&amp;uacute;c chuyến tham quan đồi c&amp;aacute;t, th&amp;agrave;nh vi&amp;ecirc;n Caialyvetco thưởng thức bữa s&amp;aacute;ng nhẹ nh&amp;agrave;ng trong nh&amp;agrave; h&amp;agrave;ng. Sau đ&amp;oacute;, mọi người được tham quan tự do, tắm biển hoặc nghỉ ngơi trước khi tham quan kh&amp;aacute;m ph&amp;aacute; v&amp;agrave; trải nghiệm nơi được mệnh danh l&amp;agrave; bồng lai ti&amp;ecirc;n cảnh - Khu du lịch Suối ti&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chuyến h&amp;agrave;nh tr&amp;igrave;nh kh&amp;aacute;m ph&amp;aacute; v&amp;ugrave;ng biển Phan Thiết cũng kết th&amp;uacute;c &amp;ndash; bao niềm vui vẫn c&amp;ograve;n đọng lại m&amp;atilde;i trong tim của mọi người như 1 điều hứa hẹn với tinh thần l&amp;agrave;m việc hăng say, hiệu quả hơn g&amp;oacute;p phần đưa Cailayvetco ph&amp;aacute;t triển vững mạnh hơn nữa trong những năm tới&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T06:07:56.146Z</createdDate>
+	<createdDate_dt>2020-07-31T06:07:57.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T06:07:56.146Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T06:07:56.146Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

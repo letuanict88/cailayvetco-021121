@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2715</objectGroupId>
+	<objectId>2715cebb-0594-b6c5-f38f-554cf5ad3c5a</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>MEKO.FLOXY</internal-name>
+	<navLabel>MEKO.FLOXY</navLabel>
+	<productName_s>MEKO.FLOXY</productName_s>
+	<isHot_b>false</isHot_b>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-floxy</folder-name>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/89 MEKO.FLOXY 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Florfenicol 10g&lt;/p&gt;
+&lt;p&gt;Doxycycline hyclate 5g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đặc trị c&amp;aacute;c bệnh vi&amp;ecirc;m nhiễm phức hợp đường h&amp;ocirc; hấp, bệnh&amp;nbsp;gh&amp;eacute;p h&amp;ocirc; hấp v&amp;agrave; ti&amp;ecirc;u h&amp;oacute;a.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- B&amp;ecirc;, ngh&amp;eacute;, d&amp;ecirc;, cừu, heo, heo con: vi&amp;ecirc;m phổi, suyễn, h&amp;ocirc; hấp&amp;nbsp;phức hợp, c&amp;aacute;c bệnh kế ph&amp;aacute;t tai xanh, thương h&amp;agrave;n, tụ huyết&amp;nbsp;tr&amp;ugrave;ng, ti&amp;ecirc;u chảy do E.coli, vi&amp;ecirc;m khớp, vi&amp;ecirc;m tử cung, vi&amp;ecirc;m v&amp;uacute;,&amp;nbsp;sưng ph&amp;ugrave; đầu, sốt bỏ ăn kh&amp;ocirc;ng r&amp;otilde; nguy&amp;ecirc;n nh&amp;acirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gia cầm (ngan, g&amp;agrave;, vịt, c&amp;uacute;t&amp;hellip;): Hen g&amp;agrave;, khẹc vịt, c&amp;aacute;c chứng&amp;nbsp;bệnh do gh&amp;eacute;p hen, khẹc v&amp;agrave; E.coli g&amp;acirc;y ti&amp;ecirc;u chảy c&amp;aacute;c m&amp;agrave;u&amp;nbsp;ph&amp;acirc;n kh&amp;aacute;c nhau, bệnh tụ huyết tr&amp;ugrave;ng, Cozyra (sưng ph&amp;ugrave;&amp;nbsp;đầu), vi&amp;ecirc;m khớp.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.77529%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.8692%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống hoặc trộn thức ăn cho ăn.&lt;/p&gt;
+&lt;p&gt;Sản phẩm h&amp;ograve;a tan ho&amp;agrave;n to&amp;agrave;n, kh&amp;ocirc;ng đắng, dễ uống.&lt;/p&gt;
+&lt;p&gt;* Liều trị:&lt;/p&gt;
+&lt;p&gt;Gia s&amp;uacute;c: 1g/20-25kg TT hoặc 1g/2-3 l&amp;iacute;t nước hoặc&amp;nbsp;1g/1,5-2kg thức ăn&lt;/p&gt;
+&lt;p&gt;Gia cầm: 1g/15-20 kg TT hoặc 1g/1-2 l&amp;iacute;t nước hoặc&amp;nbsp;1g/1-2kg thức ăn&lt;/p&gt;
+&lt;p&gt;* Ph&amp;ograve;ng bệnh: 1/2 liều trị. Li&amp;ecirc;n tục 7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Tham khảo th&amp;ecirc;m chi tiết khuyến c&amp;aacute;o cho trại trong tờ hướng&amp;nbsp;dẫn sử dụng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-313&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:11:57.032Z</createdDate>
+	<createdDate_dt>2020-08-03T04:11:57.032Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:51:01.932Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:51:01.932Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:11:57.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

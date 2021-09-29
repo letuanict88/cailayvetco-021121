@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>45f1</objectGroupId>
+	<objectId>45f13f97-2f30-8ce6-0897-e539549efb39</objectId>
+	<internal-name>E.C.P</internal-name>
+	<navLabel>E.C.P</navLabel>
+	<productName_s>E.C.P</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>e-c-p</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/E.C.P_thay.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.7698%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Estradiol benzoate 7.5mg&lt;/p&gt;
+&lt;p&gt;Vitamin E 100UI&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 5ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tăng cường khả năng sinh sản: k&amp;iacute;ch th&amp;iacute;ch th&amp;agrave;nh lập&amp;nbsp;v&amp;agrave; rụng trứng, k&amp;iacute;ch th&amp;iacute;ch động dục v&amp;agrave; tăng khả năng&amp;nbsp;thụ thai ở gia s&amp;uacute;c c&amp;aacute;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng trong c&amp;aacute;c trường hợp sau: chậm ph&amp;aacute;t dục, chậm&amp;nbsp;l&amp;ecirc;n giống, trứng rụng &amp;iacute;t, thụ thai k&amp;eacute;m, rối loạn về sinh sản&amp;nbsp;ở tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, heo, ch&amp;oacute; c&amp;aacute;i.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.18962%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.0405%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp&lt;/p&gt;
+&lt;p&gt;- Heo, d&amp;ecirc;: 3-5ml/con.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve; c&amp;aacute;i: 5-10ml/con.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc; hậu bị: 1/2 liều tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc; sinh sản.&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;: 0,1-0,5ml/con&lt;/p&gt;
+&lt;p&gt;Một lần ti&amp;ecirc;m cho mỗi chu kỳ sinh dục&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-09&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T07:11:51.014Z</createdDate>
+	<createdDate_dt>2020-08-03T07:11:51.014Z</createdDate_dt>
+	<lastModifiedDate>2020-08-29T01:31:51.158Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T01:31:51.158Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-05T08:42:57.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

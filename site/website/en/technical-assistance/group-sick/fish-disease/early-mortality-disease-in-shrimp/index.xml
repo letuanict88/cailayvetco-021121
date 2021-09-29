@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetailEn</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ab0</objectGroupId>
+	<objectId>9ab08654-e5a0-31fc-07a7-ba3d89ba3332</objectId>
+	<internal-name>TILAPIA LAKE VIRUS DISEASE (TiLV)</internal-name>
+	<diseaseName_s>TILAPIA LAKE VIRUS DISEASE (TiLV)</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>299fd55b-3325-9e5c-64c9-846678618dbf</key>
+	<value>Slide</value>
+<component id="299fd55b-3325-9e5c-64c9-846678618dbf">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>299f</objectGroupId>
+	<objectId>299fd55b-3325-9e5c-64c9-846678618dbf</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-tom-title.png</image_s>
+	</item></slide_o>
+	<file-name>299fd55b-3325-9e5c-64c9-846678618dbf.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T07:56:53.078Z</createdDate>
+	<createdDate_dt>2020-07-13T07:56:53.078Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:56:53.078Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:56:53.078Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Source&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;TiLV disease (Tilapia lake virus) is caused by an RNA-related virus of the Orthomyxoviridae family in Tilapia. First reported in 2014 in Israel, it caused a death rate of up to 80% within 10 days in Tilapia [Eyngor et al. 2014]. Recent studies in Thailand show that mortality will peak at 86% (Tilapia tilapia) and 66% with Tilapia within 4-12 days after infection with pathogens [Tattiapong et al., 2017 ]. In Vietnam TiLV disease was officially announced in July 2017, with 60 samples showing positive for TiLV results out of 227 samples from the North Central and Northern provinces (accounting for 26.43%, of which 9/29 samples of fingerlings originating from Vietnam and 36/135 samples of fingerlings originating from China) [Department of Animal Health, October 2017].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In aquaculture, TiLV usually occurs in the temperature range of 20-30oC and when there is environmental shock such as temperature, salinity ... [OIE, 2018; Jansen et al. 2019]. The disease is spread horizontally, from water sources or from infected fish to healthy fish in the same cage / pond, farm, through water, breeding equipment [Eyngor et al., 2014; Tattiyapong, Dachavichitlead, &amp; Surachetpong, 2017]. Pathogens can survive in fish viscosity, liver and intestines within two weeks, so when fish are infected with TiLV, the ability to spread in the population is very large, especially with tilapia farming models. high density.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Infected object&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;TiLV virus causes disease in farmed tilapia, including: Nile tilapia (Nile tilapia, Oreochromis niloticus), hybrid tilapia (O. niloticus &amp;times; ​​O. aureus hybrids) and red tilapia / red tilapia (Oreochromis sp.). Wild tilapia such as blue tilapia (Oreochromis aureus), Mango tilapia (Sarotherodon galilaeus), Tilapia zilli and Tristamellasimonis intermedia are also susceptible to this virus. However, pathological signs in other fish such as carp and mullet were not recorded even though these subjects lived or were raised in the same area with tilapia [Eyngor et al. 2014; OIE 2018].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Pathological signs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Diseased fish manifests anorexia, changes in body color (dark); change swimming behaviors (such as concentrating on the surface, lethargic swimming), stop pulling, lethargy before dying. Some signs on the body include: congestion, brain hemorrhage; erosions and sores from the point to point array on the skin; pale appearance; eyes narrowed or protruding, with cataracts; Abdominal sinuses and an enlarged anus; flakes up, may peeling; corroded tail [Eyngor et al. 2014; OIE 2018; Jansen et al., 2019].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Death rate&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The mortality rate depends on the stage of development and the tilapia variety. The death rate ranges from 9.2 to 90% and has been recorded in Egypt, Israel, Thailand and Ecuador [Eyngor et al. 2014]; The disease appears in all ages but mainly concentrated in juveniles (fry). With infected red cage tilapia, mortality can be as high as 90% within a month after stocking in Thailand [Dong et al. 2017]. High mortality rates have also been reported that often occur within the first month of transferring fish from hatcheries to cages on rivers or reservoirs [Surachetpong et al., 2017]. Mortality only exceeds 9% for medium to large sized fish (grow-out stage) [Fathi et al. 2017]. While other studies did not mention fish size mortality [Eyngor et al. 2014].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Solutions to control TiLV disease&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;There is currently no effective method to prevent TiLV once it breaks out. Especially, there are some cases when TiLV and disease caused by bacteria such as sepsis caused by bacteria Aeromonas spp. gill / fin rot caused by Flavobacterium sp and hemorrhagic disease caused by Streptococcus sp [Surachetpong et al., 2017; Amal et al., 2018].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Therefore, all solutions to control this disease are focused on disease prevention, including: (1) thoroughly implementing biosecurity in tilapia breeding (checking TiLV pathogens before stocking); (2) Strengthen fish resistance with vitamins and active substances that strengthen the immune system of fish; (3) Minimizing environmental shock, fishing and shipping ... or shock due to high stocking densities [Yang et al., 2018; OIE, 2018].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Author: Dr. Doan Quoc Khanh - Technical Services &lt;/em&gt;&lt;em&gt;Director,&lt;/em&gt;&lt;em&gt;&amp;nbsp;Mavin Group&lt;/em&gt;&lt;/p&gt;</diseaseContent_html>
+	<file-name>index.xml</file-name>
+	<folder-name>early-mortality-disease-in-shrimp</folder-name>
+	<createdDate>2020-07-13T07:55:58.224Z</createdDate>
+	<createdDate_dt>2020-07-13T07:55:58.224Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:08:38.873Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:08:38.873Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-thuy-san</key>
+	<value_smv>Fish disease</value_smv>
+	</item></technicalAssistance_o>
+	<parentURL_s>/en/technical-assistance/group-sick/fish-disease/index</parentURL_s>
+	<createdDate_dt_dt>2020-08-05T04:08:39.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
+</page>

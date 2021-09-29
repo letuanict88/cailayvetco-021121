@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>103b</objectGroupId>
+	<objectId>103b351e-b67e-923f-efb5-eedb63fd5926</objectId>
+	<internal-name>Hướng dẫn xử lý chuồng trại sau ASF</internal-name>
+	<navLabel>Hướng dẫn xử lý chuồng trại sau ASF</navLabel>
+	<processName_s>Hướng dẫn xử lý chuồng trại sau ASF</processName_s>
+	<parentURL_s>Nhóm gia súc gia cầm : /ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>xu-ly-chuong-trai-sau-asf</folder-name>
+	<section_o item-list="true"/>
+	<processType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Gia súc - Gia cầm</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p&gt;Mời b&amp;agrave; con tham khảo một số hướng dẫn xử l&amp;yacute; chuồng trại sau Dịch tả heo Ch&amp;acirc;u Phi ASF. Bao gồm c&amp;aacute;c nội dung:&lt;/p&gt;
+&lt;p&gt;- Khi nhiễm ASF điều quan trọng cần l&amp;agrave;m g&amp;igrave;?&lt;/p&gt;
+&lt;p&gt;- Những điểm cần lưu &amp;yacute; khi xử l&amp;yacute; chuồng trại: tối ưu vệ sinh s&amp;aacute;t tr&amp;ugrave;ng chuồng heo&lt;/p&gt;
+&lt;p&gt;- Xử l&amp;yacute; b&amp;ecirc;n trong khu vực chuồng nu&amp;ocirc;i&lt;/p&gt;
+&lt;p&gt;- Xử l&amp;yacute; b&amp;ecirc;n ngo&amp;agrave;i chuồng nu&amp;ocirc;i&lt;/p&gt;
+&lt;p&gt;Tải về to&amp;agrave;n bộ Hướng dẫn tại đ&amp;acirc;y: &lt;em&gt;&lt;strong&gt;&lt;a href="https://issuu.com/tapdoanmavin/docs/xu_ly_chuong_trai_sau_dich_asf_farm"&gt;Hướng dẫn xử l&amp;yacute; chuồng trại sau ASF&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;nh chăn nu&amp;ocirc;i Ch&amp;acirc;u &amp;Aacute; đang bị t&amp;agrave;n ph&amp;aacute; bởi ASF, trong khi chưa c&amp;oacute; vắc xin v&amp;agrave; phương thức điều trị th&amp;igrave; cần &amp;aacute;p dụng nghi&amp;ecirc;m ngặt c&amp;aacute;c biện ph&amp;aacute;p tối ưu vệ sinh s&amp;aacute;t tr&amp;ugrave;ng chuồng nu&amp;ocirc;i nhằm ngăn ngừa mầm bệnh x&amp;acirc;m nhập v&amp;agrave;o trong trang trại v&amp;agrave; ngăn ngừa mầm bệnh ph&amp;aacute;t triển b&amp;ecirc;n trong trang trại.&lt;/p&gt;
+&lt;p&gt;Nếu cần tư vấn, xin mời li&amp;ecirc;n hệ b&amp;aacute;c sỹ th&amp;uacute; y Mavin như sau: Mr Minh 0975 515 383&amp;nbsp;&lt;/p&gt;</processContent_html>
+	<createdDate>2020-08-10T07:47:06.474Z</createdDate>
+	<createdDate_dt>2020-08-10T07:47:06.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:47:06.474Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:47:06.474Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

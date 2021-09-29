@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetailEn</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1277</objectGroupId>
+	<objectId>12779c44-7d76-77b9-cd90-73dfe24aef56</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>how-is-bird-flu-virus-spread</folder-name>
+	<internal-name>Blackhead disease in chickens</internal-name>
+	<diseaseName_s>Blackhead disease in chickens</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>3bf6e9b5-0951-f0d0-800a-c31cb9c18292</key>
+	<value>Slide</value>
+<component id="3bf6e9b5-0951-f0d0-800a-c31cb9c18292">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3bf6</objectGroupId>
+	<objectId>3bf6e9b5-0951-f0d0-800a-c31cb9c18292</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>3bf6e9b5-0951-f0d0-800a-c31cb9c18292.xml</file-name>
+	<createdDate>2020-07-13T08:10:41.767Z</createdDate>
+	<createdDate_dt>2020-07-13T08:10:41.767Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T08:10:41.767Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:10:41.767Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;Blackhead disease in chickens is caused by a single type of Histomonas parasite in the liver, stomach, appendix. The disease is spread through eating and drinking eggs of pinworms containing Histomonas protozoan, which is common in chickens 2-3 weeks old to 3-4 months of age. The disease causes great damage to chicken farmers.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Read Mavin Animal Health's advice on prevention and treatment &lt;a href="https://issuu.com/tapdoanmavin/docs/benh_dau_den_tren_ga_mavin"&gt;HERE&lt;/a&gt;&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-13T08:10:19.711Z</createdDate>
+	<createdDate_dt>2020-07-13T08:10:19.711Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:05:04.805Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:05:04.805Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Poultry disease</value_smv>
+	</item></technicalAssistance_o>
+	<parentURL_s>/en/technical-assistance/group-sick/poultry-disease/index</parentURL_s>
+	<createdDate_dt_dt>2020-08-05T04:05:05.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
+</page>

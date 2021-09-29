@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ba33</objectGroupId>
+	<objectId>ba33c66e-74ba-5386-4646-aa2ba18c67da</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cl-neotesul</folder-name>
+	<internal-name>CL-NEOTESUL</internal-name>
+	<navLabel>CL-NEOTESUL</navLabel>
+	<productName_s>CL-NEOTESUL</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/5b2205bc-01ef-0734-6b63-da848eae19d0.xml</key>
+	<value>Slide header</value>
+	<include>/site/items/5b2205bc-01ef-0734-6b63-da848eae19d0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/90 CL-NEOTESUL 1A.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.3223%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oxytetracyclin HCl 9g&lt;/p&gt;
+&lt;p&gt;Neomycin sulfate 6g&lt;/p&gt;
+&lt;p&gt;Saccaro vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ph&amp;ograve;ng v&amp;agrave; đặc trị:&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave; v&amp;agrave; g&amp;agrave; t&amp;acirc;y, vịt: vi&amp;ecirc;m xoang mũi g&amp;agrave; t&amp;acirc;y, CRD g&amp;agrave;, vịt&amp;nbsp;khẹt, ngừa stress ở gia cầm.&lt;/p&gt;
+&lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;, b&amp;ograve;: ti&amp;ecirc;u chảy sau khi đổi thức ăn, vi&amp;ecirc;m phổi&amp;nbsp;c&amp;oacute; mủ, nhiễm khuẩn đường ruột ở b&amp;ograve;.&lt;/p&gt;
+&lt;p&gt;- Heo: ti&amp;ecirc;u chảy ở heo sơ sinh, ti&amp;ecirc;u ph&amp;acirc;n trắng v&amp;agrave; ph&amp;ugrave; mặt, mắt ở heo con do E.coli, vi&amp;ecirc;m dạ d&amp;agrave;y-ruột ở heo thịt.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.22275%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.4548%;"&gt;
+&lt;p&gt;- Cừu: vi&amp;ecirc;m ruột.&lt;/p&gt;
+&lt;p&gt;- Ngựa, d&amp;ecirc;, thỏ: c&amp;aacute;c bệnh đường ruột v&amp;agrave; h&amp;ocirc; hấp.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha nước cho uống hay trộn v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;T&amp;ugrave;y theo mục đ&amp;iacute;ch điều trị v&amp;agrave; mức độ nhiễm bệnh, c&amp;oacute; thể&amp;nbsp;d&amp;ugrave;ng liều từ 120-240mg thuốc/kg thể trọng t&amp;ugrave;y trọng&amp;nbsp;lượng cơ thể. Điều trị &amp;iacute;t nhất l&amp;agrave; 3 ng&amp;agrave;y. Tham khảo chi tiết&amp;nbsp;liều lượng trong tờ hướng dẫn sử dụng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-264&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T03:58:39.197Z</createdDate>
+	<createdDate_dt>2020-08-03T03:58:39.197Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:26:56.763Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:26:56.763Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T03:58:39.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

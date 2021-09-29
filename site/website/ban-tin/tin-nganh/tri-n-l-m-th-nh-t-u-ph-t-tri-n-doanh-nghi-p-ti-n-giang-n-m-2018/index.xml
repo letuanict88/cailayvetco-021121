@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cd27</objectGroupId>
+	<objectId>cd27a513-1d02-c92d-8f5f-aa2df3635896</objectId>
+	<internal-name>Triển lãm thành tựu phát triển doanh nghiệp Tiền Giang năm 2018</internal-name>
+	<navLabel>Triển lãm thành tựu phát triển doanh nghiệp Tiền G</navLabel>
+	<title_s>Triển lãm thành tựu phát triển doanh nghiệp Tiền Giang năm 2018</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tri-n-l-m-th-nh-t-u-ph-t-tri-n-doanh-nghi-p-ti-n-giang-n-m-2018</folder-name>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/cb0deabb-c45e-b2d7-1d10-8371bcd6b96e.xml</key>
+	<value>Header Tin tức chi tiết</value>
+	<include>/site/items/slides/cb0deabb-c45e-b2d7-1d10-8371bcd6b96e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Layer 194.png</image_s>
+	<content_html>&lt;p&gt;Triển l&amp;atilde;m th&amp;agrave;nh tựu ph&amp;aacute;t triển doanh nghiệp Tiền Giang diễn ra trong từ ng&amp;agrave;y 7 đến 10/8 với quy m&amp;ocirc; 114 gian h&amp;agrave;ng tại đường 30/4, TP. Mỹ Tho, Tiền Giang.&lt;/p&gt;
+&lt;p&gt;Với mục đ&amp;iacute;ch t&amp;ocirc;n vinh th&amp;agrave;nh tựu của cộng đồng doanh nghiệp tỉnh Tiền Giang tr&amp;ecirc;n c&amp;aacute;c lĩnh vực, giới thiệu về sự ph&amp;aacute;t triển kinh tế - x&amp;atilde; hội, đặc biệt l&amp;agrave; sự ph&amp;aacute;t triển c&amp;aacute;c doanh nghiệp của tỉnh Tiền Giang.&lt;/p&gt;
+&lt;p&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, triển l&amp;atilde;m c&amp;ograve;n quảng b&amp;aacute; những th&amp;agrave;nh tựu, giới thiệu c&amp;aacute;c sản chủ lực, đặc sản của tỉnh Tiền Giang đến kh&amp;aacute;ch tham quan trong v&amp;agrave; ngo&amp;agrave;i nước. Đồng thời l&amp;agrave; cầu nối để c&amp;aacute;c doanh nghiệp sản xuất, kinh doanh tr&amp;ecirc;n tất cả c&amp;aacute;c lĩnh vực, ng&amp;agrave;nh nghề tăng cường hợp t&amp;aacute;c, li&amp;ecirc;n kết, mở rộng thị trường trong nước v&amp;agrave; xuất khẩu.&lt;/p&gt;
+&lt;p&gt;C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy &amp;ndash; Cailayvetco l&amp;agrave; 1 trong 2 doanh nghiệp vinh dự đại diện cho địa phương tham dự Triển l&amp;atilde;m n&amp;agrave;y. Xin mời Qu&amp;yacute; b&amp;agrave; con, đối t&amp;aacute;c, kh&amp;aacute;ch h&amp;agrave;ng đến tham quan v&amp;agrave; nhận tư vấn về sức khỏe vật nu&amp;ocirc;i từ c&amp;aacute;c chuy&amp;ecirc;n gia h&amp;agrave;ng đầu của Cailayvetco.&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y 9/8, Gian h&amp;agrave;ng C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy &amp;ndash; Cailayvetco vinh hạnh được đ&amp;oacute;n ch&amp;agrave;o Thủ tướng Nguyễn Xu&amp;acirc;n Ph&amp;uacute;c, khi Thủ tướng về tham dự Hội nghị X&amp;uacute;c tiến đầu tư tỉnh Tiền Giang năm 2018&lt;/p&gt;
+&lt;p&gt;Thủ tướng kh&amp;ocirc;ng chỉ khen ngợi c&amp;aacute;c sản phẩm ng&amp;agrave;y c&amp;agrave;ng được l&amp;agrave;m đẹp hơn về mẫu m&amp;atilde;, &amp;ocirc;ng c&amp;ograve;n lưu &amp;yacute; c&amp;aacute;c nh&amp;agrave; sản xuất phải đặt chất lượng l&amp;ecirc;n h&amp;agrave;ng đầu. (Ảnh: TTXVN &amp;ndash; Nguồn: vov)&lt;/p&gt;
+&lt;p&gt;"Mẫu m&amp;atilde; đẹp l&amp;agrave; điều dễ thu h&amp;uacute;t nhất, nhưng cần đặt chất lượng sản phẩm l&amp;ecirc;n h&amp;agrave;ng đầu. Đặc biệt với những sản phẩm ăn uống, c&amp;acirc;y trồng&amp;hellip; th&amp;igrave; c&amp;aacute;i quan trọng nhất l&amp;agrave; an to&amp;agrave;n thực phẩm. Đ&amp;acirc;y l&amp;agrave; điều m&amp;agrave; người ti&amp;ecirc;u d&amp;ugrave;ng rất quan t&amp;acirc;m khi sử dụng sản phẩm", Thủ tướng n&amp;oacute;i.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:44:27.533Z</createdDate>
+	<createdDate_dt>2020-07-30T05:44:27.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T08:18:00.575Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:18:00.575Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

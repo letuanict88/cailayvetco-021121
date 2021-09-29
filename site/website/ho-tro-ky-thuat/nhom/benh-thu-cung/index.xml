@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f875</objectGroupId>
+	<objectId>f8756240-73b9-0a1a-9640-dab272571cef</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-thu-cung</folder-name>
+	<internal-name>Bệnh thú cưng</internal-name>
+	<navLabel>Bệnh thú cưng</navLabel>
+	<t_s>Bệnh thú cưng</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b6e81618-5bc7-60a7-a9da-aaecf91c9d9b</key>
+	<value>Slide</value>
+<component id="b6e81618-5bc7-60a7-a9da-aaecf91c9d9b">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b6e8</objectGroupId>
+	<objectId>b6e81618-5bc7-60a7-a9da-aaecf91c9d9b</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>b6e81618-5bc7-60a7-a9da-aaecf91c9d9b.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-17T04:12:44.572Z</createdDate>
+	<createdDate_dt>2020-07-17T04:12:44.572Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:12:44.572Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:12:44.572Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>f20b6bf5-0fac-9245-4200-c5204aad0faf</key>
+	<value>Bệnh thú cưng</value>
+<component id="f20b6bf5-0fac-9245-4200-c5204aad0faf">
+	<content-type>/component/listsurport</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f20b</objectGroupId>
+	<objectId>f20b6bf5-0fac-9245-4200-c5204aad0faf</objectId>
+	<file-name>f20b6bf5-0fac-9245-4200-c5204aad0faf.xml</file-name>
+	<internal-name>Bệnh thú cưng</internal-name>
+	<title_s>Bệnh thú cưng</title_s>
+	<technicalAssistanceType_s>benh-thu-cung</technicalAssistanceType_s>
+	<createdDate>2020-07-17T04:13:32.935Z</createdDate>
+	<createdDate_dt>2020-07-17T04:13:32.935Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:13:32.935Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:13:32.935Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-17T04:12:15.416Z</createdDate>
+	<createdDate_dt>2020-07-17T04:12:15.416Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:12:15.416Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:12:15.416Z</lastModifiedDate_dt>
+</page>

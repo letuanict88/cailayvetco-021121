@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8561</objectGroupId>
+	<objectId>85610a1b-3821-85dd-b43a-bc82dcc07926</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-ticosin-oral</folder-name>
+	<isHot_b>false</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>MKV-TICOSIN ORAL</internal-name>
+	<navLabel>MKV-TICOSIN ORAL</navLabel>
+	<productName_s>MKV-TICOSIN ORAL</productName_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MKV-TICOSIN ORAL.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0792%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tilmicosin phosphate 25g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh nhiễm tr&amp;ugrave;ng h&amp;ocirc; hấp do vi sinh vật&amp;nbsp;nhạy cảm với Tilmicosin như suyễn, CRD (Mycoplasma&amp;nbsp;spp), tụ huyết tr&amp;ugrave;ng (Pasteurella multocida), vi&amp;ecirc;m phổi&amp;nbsp;m&amp;agrave;ng phổi (APP-do Actinobacillus pleuropneumoniae),&amp;nbsp;ORT, bệnh do xạ khuẩn (Actinomyces pyogenes) v&amp;agrave; vi&amp;ecirc;m&amp;nbsp;phổi (mannheimia haemolytica) ở b&amp;ecirc;, ngh&amp;eacute;, gia cầm, heo.&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.7421%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.1786%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cho uống trực tiếp hoặc h&amp;ograve;a nước cho uống.&lt;/p&gt;
+&lt;p&gt;* Điều trị:&lt;/p&gt;
+&lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;: 1ml/20kg thể trọng, 2 lần/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t: 1ml/12,5-16kg thể trọng/ng&amp;agrave;y hoặc&amp;nbsp;3ml/10l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;- Heo: 1ml/12,5-16kg TT/ng&amp;agrave;y hoặc 8ml/10 l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;* Ph&amp;ograve;ng bệnh: 1/2 liều trị.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-336&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:38:49.346Z</createdDate>
+	<createdDate_dt>2020-08-03T04:38:49.346Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:08:32.827Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:08:32.827Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:38:49.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

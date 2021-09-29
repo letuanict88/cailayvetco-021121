@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/techsupportcomponent</content-type>
+	<display-template>/templates/web/component/group-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4587</objectGroupId>
+	<objectId>4587f2c7-c92f-dff7-1be2-de40cf838f9a</objectId>
+	<file-name>4587f2c7-c92f-dff7-1be2-de40cf838f9a.xml</file-name>
+	<internal-name>Bệnh gia súc - gia cầm</internal-name>
+	<title_s>Bệnh gia súc - gia cầm</title_s>
+	<avatar_s>/static-assets/images/techsupport/logo-1.png</avatar_s>
+	<createdDate>2020-06-26T03:57:20.772Z</createdDate>
+	<createdDate_dt>2020-06-26T03:57:20.772Z</createdDate_dt>
+	<lastModifiedDate>2020-07-15T09:49:06.198Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:49:06.198Z</lastModifiedDate_dt>
+	<supportTech_s>benh-gia-suc-gia-cam</supportTech_s>
+	<listURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</listURL_s>
+</component>

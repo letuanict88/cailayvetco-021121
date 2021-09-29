@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f23d2029</objectGroupId>
+	<objectId>f23d2029-afc4-40c7-b541-9534ec130bbc</objectId>
+	<internal-name>Nhiễm độc do E. coli (EDEMA DISEASE; Bệnh phù)</internal-name>
+	<navLabel>Nhiễm độc do E. coli (EDEMA DISEASE; Bệnh phù)</navLabel>
+	<diseaseName_s>Nhiễm độc do E. coli (EDEMA DISEASE; Bệnh phù)</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-nam-dieu-22c2c095</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>3c5225f7-1859-db92-f2f9-a2df11ab5377</key>
+	<value>slide</value>
+<component id="3c5225f7-1859-db92-f2f9-a2df11ab5377">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3c52</objectGroupId>
+	<objectId>3c5225f7-1859-db92-f2f9-a2df11ab5377</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg-gioithieuchung.png</image_s>
+	</item></slide_o>
+	<file-name>3c5225f7-1859-db92-f2f9-a2df11ab5377.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-31T10:14:43.065Z</createdDate>
+	<createdDate_dt>2020-07-31T10:14:43.065Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:14:43.065Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:14:43.065Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;KH&amp;Aacute;I NIỆM&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh do vi khuẩn E.coli khi ph&amp;aacute;t triển trong ruột heo sinh ra c&amp;aacute;c ngoại độc tố v&amp;agrave; c&amp;aacute;c chất n&amp;agrave;y thấm v&amp;agrave;o m&amp;aacute;u đầu độc cơ thể&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vai tr&amp;ograve; vi khuẩn E.coli l&amp;agrave; kế ph&amp;aacute;t, cần c&amp;oacute; th&amp;ecirc;m c&amp;aacute;c yếu tố thuận lợi ti&amp;ecirc;n ph&amp;aacute;t: chuồng bẩn lạnh; kh&amp;ocirc;ng kiểm so&amp;aacute;t được lượng &amp; chất của thức ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DẤU HIỆU BỆNH L&amp;Yacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh thường ph&amp;aacute;t sinh tr&amp;ecirc;n heo trong khoảng 25 &amp;ndash; 50kg v&amp;agrave; tr&amp;ecirc;n những heo b&amp;eacute;o tốt; Hai dấu hiệu ch&amp;iacute;nh của heo bệnh l&amp;agrave; ph&amp;ugrave; thủng v&amp;agrave; rối loạn vận động&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;ugrave;: thấy r&amp;otilde; ở v&amp;ugrave;ng quanh mắt, v&amp;ugrave;ng tr&amp;aacute;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Rối loạn vận động: heo bị co giật hay bại liệt 2 ch&amp;acirc;n sau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mổ kh&amp;aacute;m heo bệnh sẽ thấy:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;iacute;ch nhiều dịch trong xoang ngực, xoang bụng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;ugrave; thủng m&amp;agrave;ng treo ruột, Vi&amp;ecirc;m phổi kẻ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;BIỆN PH&amp;Aacute;P GIẢI QUYẾT&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;aacute;ch ri&amp;ecirc;ng heo bệnh. Tập trung chăm s&amp;oacute;c những heo chưa bệnh, nếu to&amp;agrave;n trại c&amp;agrave;ng tốt (đ&amp;acirc;y l&amp;agrave; điểm mấu chốt)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Với heo chưa bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm lượng thức ăn c&amp;ograve;n 2/3, cho thức ăn dễ ti&amp;ecirc;u (như th&amp;ecirc;m ch&amp;aacute;o); kh&amp;ocirc;ng cho ăn sau 17h. Khi t&amp;igrave;nh h&amp;igrave;nh bệnh giảm sẽ tăng dần lượng thức ăn trở lại. Heo sau 60kg/con sẽ cho ăn tự do&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Acid h&amp;oacute;a thức ăn với ACID MIXED (pha nước cho uống), cho th&amp;ecirc;m probiotic như BIO ACIMIN Gold (trộn v&amp;agrave;o thức ăn). Cho d&amp;ugrave;ng li&amp;ecirc;n tục &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tăng cường chuyển h&amp;oacute;a với MEKOSAL (ti&amp;ecirc;m mỗi tuần/ lần); ti&amp;ecirc;m ngay mỗi con heo 1 liều VITAMIN ADE (2 th&amp;aacute;ng sau ti&amp;ecirc;m lại)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng BYE-CILOX + APRA-COLIS trộn v&amp;agrave;o thức ăn li&amp;ecirc;n tuc &amp;iacute;t nhất 10 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;m ngay cho mỗi con 1 liều CL- AMOXGEN (chỉ cần 1 lần)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sau khi can thiệp khoảng 5 ng&amp;agrave;y, d&amp;ugrave;ng VIMILAC PLUS 2 (trộn thức ăn &amp;iacute;t nhất 5 ng&amp;agrave;y), rồi sau đ&amp;oacute; d&amp;ugrave;ng MKV- GROWTH NEW trộn v&amp;agrave;o thức ăn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Với heo đang bệnh: rất kh&amp;oacute; chữa trị&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;m ngay 1 liều TROFURIT&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- 2h sau ti&amp;ecirc;m th&amp;ecirc;m 1 liều TROFURIT + 1 liều HEPTAMINOL (hay cafein) + 1 liều DEXASONE&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- 2h sau ti&amp;ecirc;m 1 liều CATAXIM (hay CL-AMOXGEN)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mỗi ng&amp;agrave;y ti&amp;ecirc;m 1 liều CL-AMOXGEN (&amp;iacute;t nhất 3 ng&amp;agrave;y), 1 liều CAFEIN, cho uống th&amp;ecirc;m SORBITOL&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cho heo bệnh ăn uống như heo chưa bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Với chuồng trại:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cần giữ kh&amp;ocirc;, ấm, sạch. Tuyệt đối kh&amp;ocirc;ng cho g&amp;agrave;, vịt, ch&amp;oacute; v&amp;agrave;o chuồng heo&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng ng&amp;agrave;y 1 lần&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;- Heo từ 20 đến 50kg/con n&amp;ecirc;n cho ăn định lượng kết hợp d&amp;ugrave;ng c&amp;aacute;c chất acidifier, probiotic&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;- Bố tr&amp;iacute; đủ m&amp;aacute;ng ăn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi c&amp;oacute; stress hay khi nghi ngờ n&amp;ecirc;n d&amp;ugrave;ng APRA-COLIS trộn v&amp;agrave;o thức ăn &amp;iacute;t nhất 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-31T10:14:10.100Z</createdDate>
+	<createdDate_dt>2020-07-31T10:14:10.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:15:30.974Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:15:30.974Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

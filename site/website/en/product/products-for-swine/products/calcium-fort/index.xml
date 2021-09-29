@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4de9</objectGroupId>
+	<objectId>4de9348c-0dd7-2231-bfbb-4a709bbc4d19</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>calcium-fort</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>CALCIUM-FORT</internal-name>
+	<navLabel>CALCIUM-FORT</navLabel>
+	<productName_s>CALCIUM-FORT</productName_s>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Increasing resistance</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Calcium fort.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.2893%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Calcium gluconate 20g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Treatment of rickets, soft bones, paralysis before and after birth, milk fever, cases of bleeding, convulsions.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.93437%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.7762%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intravenous, intramuscular or subcutaneous injection.&lt;/p&gt;
+&lt;p&gt;- Buffalos, cows and horses: 50ml / head / day&lt;/p&gt;
+&lt;p&gt;- Goats, sheep, pigs: 10-25ml / head / day&lt;/p&gt;
+&lt;p&gt;- Dogs and cats: 2.5-18ml / head / day&lt;/p&gt;
+&lt;p&gt;Use continuously in 7 days&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-72&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T06:16:25.775Z</createdDate>
+	<createdDate_dt>2020-08-05T06:16:25.775Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:16:25.775Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:16:25.775Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

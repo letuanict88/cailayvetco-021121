@@ -1,0 +1,13 @@
+<content-type name="/page/enproductdetail" is-wcm-type="true">
+	<label>Page - En Chi tiết sản phẩm</label>
+	<form>/page/enproductdetail</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>true</content-as-folder>
+	<previewable>true</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

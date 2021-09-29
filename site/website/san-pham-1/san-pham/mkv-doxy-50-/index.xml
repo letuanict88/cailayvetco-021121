@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e292</objectGroupId>
+	<objectId>e29280f1-dd37-9fcd-3b51-0d540dd42417</objectId>
+	<internal-name>MKV-DOXY 50%</internal-name>
+	<navLabel>MKV-DOXY 50%</navLabel>
+	<productName_s>MKV-DOXY 50%</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-doxy-50-</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MKV - Doxy 50.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.941%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Doxycycline HCl 50g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;ograve;ng v&amp;agrave; trị bệnh tr&amp;ecirc;n b&amp;ecirc;, ngh&amp;eacute;, d&amp;ecirc;, cừu, heo, gia cầm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đặc trị c&amp;aacute;c bệnh đường h&amp;ocirc; hấp: vi&amp;ecirc;m phổi cấp, hen, h&amp;ocirc;&amp;nbsp;hấp phức hợp (CRD g&amp;agrave;, CCRD), bệnh ORT (vi&amp;ecirc;m phổi&amp;nbsp;h&amp;oacute;a mủ, thở kh&amp;oacute;, ng&amp;aacute;p gi&amp;oacute;,&amp;hellip;), suyễn, vi&amp;ecirc;m teo xoang mũi,&amp;nbsp;Glasser (vi&amp;ecirc;m đa xoang), tụ huyết tr&amp;ugrave;ng&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;ograve;ng v&amp;agrave; trị bệnh đường ti&amp;ecirc;u h&amp;oacute;a: ti&amp;ecirc;u chảy ph&amp;acirc;n xanh,&amp;nbsp;ph&amp;acirc;n trắng, ph&amp;acirc;n nhớt, E.coli bại huyết, sưng ph&amp;ugrave; đầu,&amp;nbsp;thương h&amp;agrave;n, tụ huyết tr&amp;ugrave;ng, bệnh do tụ cầu, li&amp;ecirc;n cầu&amp;nbsp;khuẩn g&amp;acirc;y ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;aacute;c bệnh vi&amp;ecirc;m nhiễm vi khuẩn c&amp;oacute; mẫn cảm với Doxycycline như: vi&amp;ecirc;m mắt, vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m m&amp;ocirc; mềm, sinh dục,&amp;hellip;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.77532%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.2836%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống hoặc trộn thức ăn cho ăn.&lt;/p&gt;
+&lt;p&gt;- Heo, b&amp;ecirc;, ngh&amp;eacute;, d&amp;ecirc;, cừu: 1g/50kg thể trọng/ng&amp;agrave;y hoặc&amp;nbsp;1g/5 l&amp;iacute;t nước uống hoặc 1g/3-5kg thức ăn.&lt;/p&gt;
+&lt;p&gt;- Gia cầm: 1g/25kg thể trọng/ng&amp;agrave;y hoặc 1g/2,5l&amp;iacute;t nước&amp;nbsp;uống hoặc 1g/3-5kg thức ăn.&lt;/p&gt;
+&lt;p&gt;Ph&amp;ograve;ng bệnh: d&amp;ugrave;ng 1/2 liều trị. D&amp;ugrave;ng li&amp;ecirc;n tục 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-337&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:22:06.329Z</createdDate>
+	<createdDate_dt>2020-08-03T04:22:06.329Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:02:21.914Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:02:21.914Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:22:06.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

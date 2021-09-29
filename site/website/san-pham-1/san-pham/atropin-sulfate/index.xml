@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>19bf</objectGroupId>
+	<objectId>19bf9b57-4524-4821-1a01-786f16612749</objectId>
+	<internal-name>ATROPIN SULFATE</internal-name>
+	<navLabel>ATROPIN SULFATE</navLabel>
+	<productName_s>ATROPIN SULFATE</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<file-name>index.xml</file-name>
+	<folder-name>atropin-sulfate</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/57 ATROPIN SULFATEApsd.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Atropin sulfate 50mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ức chế hoạt động thần kinh ph&amp;oacute; giao cảm ở tr&amp;acirc;u, b&amp;ograve;,&amp;nbsp;heo, ch&amp;oacute;, m&amp;egrave;o để:&lt;/p&gt;
+&lt;p&gt;- Giảm co thắt cơ trơn, giảm đau bụng do co thắt ruột,&amp;nbsp;chống n&amp;ocirc;n mửa hay ti&amp;ecirc;u chảy cấp g&amp;acirc;y mất nước&lt;/p&gt;
+&lt;p&gt;- Giải độc khi ngộ độc thuốc trừ s&amp;acirc;u chứa gốc l&amp;acirc;n hữu cơ.&lt;/p&gt;
+&lt;p&gt;Ch&amp;uacute; &amp;yacute;: Kh&amp;ocirc;ng d&amp;ugrave;ng qu&amp;aacute; liều quy định.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.39412%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.9742%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 1ml/7-10kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Heo: 1ml/8-10kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 1ml/10-15kg thể trọng&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m c&amp;aacute;ch khoảng 2 giờ, d&amp;ugrave;ng li&amp;ecirc;n tục kh&amp;ocirc;ng qu&amp;aacute; 2 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c trường hợp ngộ độc c&amp;oacute; thể d&amp;ugrave;ng liều cao hơn theo&amp;nbsp;hướng dẫn của c&amp;aacute;n bộ th&amp;uacute; y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-154&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T07:19:41.167Z</createdDate>
+	<createdDate_dt>2020-08-03T07:19:41.167Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:19:06.510Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:19:06.510Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T07:19:41.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

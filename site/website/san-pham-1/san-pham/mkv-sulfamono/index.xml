@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7e7c</objectGroupId>
+	<objectId>7e7c7fe3-22b9-988d-db26-032d5ceb1206</objectId>
+	<internal-name>MKV-SULFAMONO</internal-name>
+	<navLabel>MKV-SULFAMONO</navLabel>
+	<productName_s>MKV-SULFAMONO</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-sulfamono</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value_smv>Nhóm thuốc sát trùng nấm, cầu trùng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MKV-SULFAMONO 100g.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.8029%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sulfamonomethoxin sodium 40g&lt;/p&gt;
+&lt;p&gt;Trimethoprim 8g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;ograve;ng v&amp;agrave; trị cầu tr&amp;ugrave;ng, c&amp;aacute;c bệnh nhiễm tr&amp;ugrave;ng đường&amp;nbsp;ti&amp;ecirc;u h&amp;oacute;a, h&amp;ocirc; hấp, tiết niệu,&amp;hellip;.do vi khuẩn nhạy cảm với&amp;nbsp;Sulfamonomethoxin v&amp;agrave; Trimethoprim ở gia s&amp;uacute;c, gia&amp;nbsp;cầm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- G&amp;agrave;, vịt, thỏ: bệnh đầu đen (Histomonas), bệnh cầu&amp;nbsp;tr&amp;ugrave;ng (Eimeria sp.), k&amp;yacute; sinh tr&amp;ugrave;ng đường m&amp;aacute;u (Leucocytozoonosis), Coryza, CRD, nhiễm tr&amp;ugrave;ng đường ti&amp;ecirc;u h&amp;oacute;a&amp;nbsp;do E.coli, Salmonella&amp;hellip;nhiễm tr&amp;ugrave;ng kh&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tr&amp;acirc;u, b&amp;ograve;: ti&amp;ecirc;u chảy do E.coli, cầu tr&amp;ugrave;ng, nhiễm tr&amp;ugrave;ng&amp;nbsp;huyết, vi&amp;ecirc;m đường sinh dục, vi&amp;ecirc;m v&amp;uacute;, kh&amp;ocirc;ng bong nhau.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.32779%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.8692%;"&gt;
+&lt;p style="text-align: justify;"&gt;- Heo: ti&amp;ecirc;u chảy do E.coli, vi&amp;ecirc;m teo mũi, toxoplasma.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ch&amp;oacute;, m&amp;egrave;o, d&amp;ecirc;, cừu: vi&amp;ecirc;m phổi, vi&amp;ecirc;m phế quản, nhiễm tr&amp;ugrave;ng đường sinh dục, nhiễm tr&amp;ugrave;ng huyết sau sinh-hậu phẫu, ti&amp;ecirc;u chảy, vi&amp;ecirc;m ruột, &amp;aacute;p xe&amp;hellip;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống hoặc trộn thức ăn cho ăn&lt;/p&gt;
+&lt;p&gt;- Gia cầm, thỏ: 1g/10-15kg thể trọng/ng&amp;agrave;y hoặc 1g/2-&lt;/p&gt;
+&lt;p&gt;3l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;- Gia s&amp;uacute;c: 1g/15-20kg thể trọng.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-346&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T08:32:08.083Z</createdDate>
+	<createdDate_dt>2020-08-03T08:32:08.083Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:07:40.540Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:07:40.540Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:32:08.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

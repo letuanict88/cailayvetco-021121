@@ -1,0 +1,153 @@
+.noDecoration, a:link, a:visited {
+    text-decoration: none;
+}
+a:hover {
+    color: #ffcb08;
+}
+.p-left-0 {
+    padding-left: 0px;
+}
+.p-right-0 {
+    padding-left: 0px;
+}
+.line-hozital {
+    border: 5px solid #FFCB08;
+}
+
+.line-height-1-5 {
+        line-height: 1.5;
+}
+
+.img-full {
+    max-width: 100%;
+    height: auto;
+}
+
+.page-link {
+    border-radius :50% !important;
+    margin: 0 5px;
+}
+
+.violet-color{
+    color : #322372;
+}
+
+.orange-color {
+   color: #ffcb08;
+}
+.dim-grey-color{
+    color: dimgrey;
+}
+.btn-desc {
+    padding: 8px;
+    width: 40%;
+    bottom: 0;
+    border: 1px solid #FFF;
+}
+.img-100 {
+    width: 100%;
+    height: 185px;
+}
+iframe {
+    float: right;
+}
+
+/*Double line*/
+.strike {
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+
+font-size: 20px;
+}
+
+.strike > span {
+    position: relative;
+    display: inline-block;
+}
+
+.strike > span:before,
+.strike > span:after {
+    content: "";
+    position: absolute;
+    top: 40%;
+    width: 9999px;
+    /* Here is the modification */
+    border-top: 10px double #FFCB08;
+}
+
+.strike > span:before {
+    right: 100%;
+    margin-right: 15px;
+}
+
+.strike > span:after {
+    left: 100%;
+    margin-left: 15px;
+}
+/*Group child product*/
+.banner-gr-child-pr {
+    background-color: #FFCB08;
+    position: relative;
+}
+.banner-gr-child-pr .banner-img {
+    position: absolute;
+    top: 22%;
+    left: 35%;
+}
+/* Logos */
+.logos {
+  margin-top: 105px;
+  margin-bottom: 105px;
+}
+
+.logos__item {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+.content-block {
+    width: 100%;
+  }
+
+.product-info {
+    width: 34%;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.product-buy {
+    background-color: #322372;
+    border-radius: 50%;
+    padding: 16% 6%;
+}
+.sick-content {
+    line-height: 1.5;
+}
+
+/*Map CSS*/
+.map-frame {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.map-content {
+    z-index: 10;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 390px;
+    background-color: black;
+    color: #FFF;
+}
+.col-half-offset{
+    margin-left:4.166666667%
+}
+/*Responsive*/
+

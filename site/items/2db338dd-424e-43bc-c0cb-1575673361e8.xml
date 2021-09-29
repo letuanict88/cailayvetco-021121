@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2db3</objectGroupId>
+	<objectId>2db338dd-424e-43bc-c0cb-1575673361e8</objectId>
+	<file-name>2db338dd-424e-43bc-c0cb-1575673361e8.xml</file-name>
+	<productgrouplevel1_s>thuoc-cho-ga-vit</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-sat-trung-thuoc-dung-ngoai</productgrouplevel2_s>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<createdDate>2020-08-03T08:20:26.712Z</createdDate>
+	<createdDate_dt>2020-08-03T08:20:26.712Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:20:26.712Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:20:26.712Z</lastModifiedDate_dt>
+</component>

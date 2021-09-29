@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplandingEn</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a7dcb0b</objectGroupId>
+	<objectId>7a7dcb0b-1a1b-4fa6-966a-f21bd2ae4101</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>antibiotic</folder-name>
+	<internal-name>Antibiotic</internal-name>
+	<title_s>Antibiotic</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e2006e4c-6c97-9564-42be-ec5da68b732b</key>
+	<value>Slide</value>
+<component id="e2006e4c-6c97-9564-42be-ec5da68b732b">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e200</objectGroupId>
+	<objectId>e2006e4c-6c97-9564-42be-ec5da68b732b</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>e2006e4c-6c97-9564-42be-ec5da68b732b.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-05T06:51:08.540Z</createdDate>
+	<createdDate_dt>2020-08-05T06:51:08.540Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:51:08.540Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:51:08.540Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/3988ceeb-bca2-caa6-d1b1-74b78caf2f1a.xml</key>
+	<value>Antibiotic</value>
+	<include>/site/items/3988ceeb-bca2-caa6-d1b1-74b78caf2f1a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<createdDate>2020-08-05T06:49:49.654Z</createdDate>
+	<createdDate_dt>2020-08-05T06:49:49.654Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:52:14.856Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:52:14.856Z</lastModifiedDate_dt>
+</page>

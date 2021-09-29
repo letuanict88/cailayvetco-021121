@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>17d6</objectGroupId>
+	<objectId>17d6887e-0429-71d9-b60e-364d74c72ffe</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>search</folder-name>
+	<internal-name>Search Result</internal-name>
+	<navLabel>Search Result</navLabel>
+	<title_s>Search Result</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Search Result</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>d5d7c158-ddd9-5f96-7841-37ea94a9ca72</key>
+	<value>Content- Search result</value>
+<component id="d5d7c158-ddd9-5f96-7841-37ea94a9ca72">
+	<content-type>/component/ensearchresult</content-type>
+	<display-template>/templates/web/ensearchresult.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d5d7</objectGroupId>
+	<objectId>d5d7c158-ddd9-5f96-7841-37ea94a9ca72</objectId>
+	<file-name>d5d7c158-ddd9-5f96-7841-37ea94a9ca72.xml</file-name>
+	<internal-name>Content- Search result</internal-name>
+	<createdDate>2020-07-14T03:47:55.590Z</createdDate>
+	<createdDate_dt>2020-07-14T03:47:55.590Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T03:47:55.590Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T03:47:55.590Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-14T03:45:09.528Z</createdDate>
+	<createdDate_dt>2020-07-14T03:45:09.528Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:18:51.794Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:18:51.794Z</lastModifiedDate_dt>
+</page>

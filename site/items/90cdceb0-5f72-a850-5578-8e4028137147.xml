@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/processEn</content-type>
+	<display-template>/templates/web/component/group-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>90cd</objectGroupId>
+	<objectId>90cdceb0-5f72-a850-5578-8e4028137147</objectId>
+	<file-name>90cdceb0-5f72-a850-5578-8e4028137147.xml</file-name>
+	<internal-name>FISH CARE</internal-name>
+	<title_s>FISH CARE</title_s>
+	<listURL_s>/en/technical-assistance/process-care/fish/index</listURL_s>
+	<processGroup_s>banh-thuy-san</processGroup_s>
+	<avatar_s>/static-assets/images/techsupport/logo-4.png</avatar_s>
+	<createdDate>2020-07-29T03:41:00.121Z</createdDate>
+	<createdDate_dt>2020-07-29T03:41:00.121Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:31:10.563Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:31:10.563Z</lastModifiedDate_dt>
+</component>

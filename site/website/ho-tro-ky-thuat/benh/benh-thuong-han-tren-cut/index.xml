@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ee16</objectGroupId>
+	<objectId>ee16772d-d3f5-4c84-3432-7c4eeebb183c</objectId>
+	<internal-name>Bệnh thương hàn trên cút</internal-name>
+	<navLabel>Bệnh thương hàn trên cút</navLabel>
+	<diseaseName_s>Bệnh thương hàn trên cút</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-thuong-han-tren-cut</folder-name>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>42921e77-5250-88d6-a3f3-0b3ad7c22413</key>
+	<value>slide</value>
+<component id="42921e77-5250-88d6-a3f3-0b3ad7c22413">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4292</objectGroupId>
+	<objectId>42921e77-5250-88d6-a3f3-0b3ad7c22413</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg-gioithieuchung.png</image_s>
+	</item></slide_o>
+	<file-name>42921e77-5250-88d6-a3f3-0b3ad7c22413.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-31T09:11:24.446Z</createdDate>
+	<createdDate_dt>2020-07-31T09:11:24.446Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:11:24.446Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:11:24.446Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;1. NGUY&amp;Ecirc;N NH&amp;Acirc;N: Bệnh do vi khuẩn Salmonella sp. g&amp;acirc;y ra&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. C&amp;Aacute;CH L&amp;Acirc;Y LAN:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- L&amp;acirc;y trực tiếp: C&amp;uacute;t mẹ mắc bệnh truyền căn bệnh cho trứng, c&amp;uacute;t trống mắc bệnh l&amp;agrave;m trứng thụ tinh bị nhiễm khuẩn. C&amp;uacute;t trống mắc bệnh l&amp;agrave;m l&amp;acirc;y bệnh cho c&amp;uacute;t m&amp;aacute;i qua giao phối. C&amp;aacute;ch l&amp;acirc;y l&amp;agrave;m lưu cữu t&amp;igrave;nh trạng bệnh cho hầu hết c&amp;aacute;c đ&amp;agrave;n c&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- L&amp;acirc;y gi&amp;aacute;n tiếp: qua thức ăn, nước uống, chuồng trại.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. TRIỆU CHỨNG:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Bệnh ở c&amp;uacute;t con: c&amp;uacute;t con nhiễm bệnh từ trong trứng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;uacute;t&amp;nbsp; bệnh ốm yếu, ủ rũ, mắt lim dim, k&amp;ecirc;u li&amp;ecirc;n hồi, kh&amp;ocirc;ng ăn, tụ tập gần đ&amp;egrave;n sưởi ấm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Phần lớn c&amp;uacute;t bị sốt cao, ti&amp;ecirc;u chảy l&amp;uacute;c đầu lo&amp;atilde;ng thối v&amp;agrave;ng sau ti&amp;ecirc;u chảy trắng bạch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;acirc;n d&amp;iacute;nh bết v&amp;agrave;o hậu m&amp;ocirc;n l&amp;agrave;m tắt hậu m&amp;ocirc;n, kh&amp;ocirc;ng đi ti&amp;ecirc;u được, bụng to dần rồi chết (thường chết v&amp;agrave;o ng&amp;agrave;y tuổi thứ 4- 5).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Bệnh ở c&amp;uacute;t lớn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tỷ lệ đẻ giảm từ 10-30%.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ăn giảm, ủ rũ, ph&amp;acirc;n lo&amp;atilde;ng v&amp;agrave; trắng, chết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trứng c&amp;uacute;t bệnh c&amp;oacute; d&amp;iacute;nh m&amp;aacute;u, nhọn v&amp;agrave; mềm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trong đ&amp;agrave;n c&amp;oacute; hiện tượng đẻ trứng trắng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. BỆNH T&amp;Iacute;CH&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gan sẫm m&amp;agrave;u c&amp;oacute; lấm tấm xuất huyết trong những ng&amp;agrave;y đầu, sau hoại tử trắng như đinh ghim. T&amp;uacute;i mật sưng to.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ruột tụ m&amp;aacute;u v&amp;agrave; xuất huyết. Nếu bệnh nhiều ng&amp;agrave;y th&amp;igrave; ruột hoại tử vi&amp;ecirc;m lo&amp;eacute;t từng đ&amp;aacute;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Buồng trứng bị teo v&amp;agrave; t&amp;iacute;ch m&amp;aacute;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. GIẢI PH&amp;Aacute;P:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Loại bỏ bớt c&amp;uacute;t c&amp;oacute; dấu hiệu bệnh l&amp;yacute;, s&amp;aacute;t tr&amp;ugrave;ng chuồng trại&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng CL-AMOXICOLI + ADE.BCOMPLEX + VITA GLUCO C.K + nước tỏi pha v&amp;agrave;o nước uống trong suốt 1 tuần; nghỉ d&amp;ugrave;ng thuốc n&amp;agrave;y 1 tuần; cho d&amp;ugrave;ng lại&amp;nbsp; APRA-COLIS + VITA GLUCO C.K pha v&amp;agrave;o nước uống trong suốt 1 tuần; cho nghỉ 1 tuần. Trong 2 th&amp;aacute;ng kế, mỗi th&amp;aacute;ng d&amp;ugrave;ng lại c&amp;aacute;c thuốc n&amp;agrave;y 3 ng&amp;agrave;y/tuần&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng MKV-GROWTH NEW + MKV-MEKOVIT trộn v&amp;agrave;o thức ăn trong suốt thời gian nu&amp;ocirc;i&amp;nbsp; c&amp;ograve;n lại.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. PH&amp;Ograve;NG BỆNH:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thiết kế khu vực nu&amp;ocirc;i c&amp;uacute;t v&amp;agrave; chuồng nu&amp;ocirc;i hợp qui c&amp;aacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chọn lựa c&amp;uacute;t giống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chọn lựa thức ăn nu&amp;ocirc;i c&amp;uacute;t đẻ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng thuốc:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng MKV-GROWTH NEW + MKV-MEKOVIT trộn v&amp;agrave;o thức ăn trong suốt thời gian nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trong đầu n&amp;ecirc;n d&amp;ugrave;ng th&amp;ecirc;m VIMILAC PLUS 2 trộn v&amp;agrave;o thức ăn trong 2 tuần đầu ti&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Trong tuần đầu ti&amp;ecirc;n d&amp;ugrave;ng AMPICOLI-B + nước tỏi pha nước cho uống li&amp;ecirc;n tục, c&amp;aacute;c tuần kế cũng d&amp;ugrave;ng thuốc n&amp;agrave;y cho uống 2 ng&amp;agrave;y/ tuần.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-31T09:10:44.445Z</createdDate>
+	<createdDate_dt>2020-07-31T09:10:45.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:10:44.445Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:10:44.445Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

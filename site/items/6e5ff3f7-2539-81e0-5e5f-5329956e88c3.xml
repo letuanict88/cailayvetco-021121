@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/process</content-type>
+	<display-template>/templates/web/component/group-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6e5f</objectGroupId>
+	<objectId>6e5ff3f7-2539-81e0-5e5f-5329956e88c3</objectId>
+	<file-name>6e5ff3f7-2539-81e0-5e5f-5329956e88c3.xml</file-name>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</internal-name>
+	<title_s>CHĂN NUÔI - CHĂM SÓC/PHÒNG BỆNH/THÚ CƯNG</title_s>
+	<listURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thu-cung</listURL_s>
+	<processGroup_s>benh-thu-cung</processGroup_s>
+	<avatar_s>/static-assets/images/techsupport/thu-cung.png</avatar_s>
+	<createdDate>2020-07-28T10:42:57.804Z</createdDate>
+	<createdDate_dt>2020-07-28T10:42:57.804Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:04:58.437Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:04:58.437Z</lastModifiedDate_dt>
+</component>

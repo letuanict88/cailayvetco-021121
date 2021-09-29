@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ac6b</objectGroupId>
+	<objectId>ac6bbe4f-0951-c556-87e9-9b8ea89cba19</objectId>
+	<technicalAssistance_o>	<item>	<key>benh-thuy-san</key>
+	<value_smv>Bệnh thủy sản</value_smv>
+	</item></technicalAssistance_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-tren-ech-nuoi</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e34ed370-63ca-7c5a-d17f-007a1535e13e</key>
+	<value>slide </value>
+<component id="e34ed370-63ca-7c5a-d17f-007a1535e13e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e34e</objectGroupId>
+	<objectId>e34ed370-63ca-7c5a-d17f-007a1535e13e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-tom-title.png</image_s>
+	</item></slide_o>
+	<file-name>e34ed370-63ca-7c5a-d17f-007a1535e13e.xml</file-name>
+	<internal-name>slide </internal-name>
+	<createdDate>2020-07-31T09:00:59.492Z</createdDate>
+	<createdDate_dt>2020-07-31T09:00:59.492Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:00:59.492Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:00:59.492Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>Bệnh trên ếch nuôi</internal-name>
+	<navLabel>Bệnh trên ếch nuôi</navLabel>
+	<diseaseName_s>Bệnh trên ếch nuôi</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-thuy-san</parentURL_s>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;1. SINH HỌC&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;ograve;ng nọc: 4 tuần (ăn c&amp;aacute;c lo&amp;agrave;i sinh vật ph&amp;ugrave; du).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch giống: 2 &amp;ndash; 20g (ăn c&amp;ocirc;n tr&amp;ugrave;ng, giun, ốc).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trưởng th&amp;agrave;nh:&amp;nbsp; 200 &amp;ndash; 300g sau 8 &amp;ndash; 10 th&amp;aacute;ng (Ếch l&amp;agrave; lo&amp;agrave;i ăn động vật sống. Con mồi phải di động như c&amp;aacute;c lo&amp;agrave;i c&amp;ocirc;n tr&amp;ugrave;ng, giun, ốc&amp;hellip;K&amp;iacute;ch cỡ con mồi thường phải lớn).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nhiệt độ opt : 28 &amp;ndash; 30 độ C (25 &amp;ndash; 32 độ C).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- pH: 6,5 &amp;ndash; 8,5.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nguồn nước kh&amp;ocirc;ng bị &amp;ocirc; nhiễm chất hữu cơ v&amp;agrave; nước thải c&amp;ocirc;ng nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. NHỮNG BỆNH THƯỜNG GẶP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Bệnh truyền l&amp;acirc;y:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh xuất huyết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh vi&amp;ecirc;m gan c&amp;oacute; mủ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh tr&amp;ugrave;ng b&amp;aacute;nh xe.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh&amp;nbsp; giun s&amp;aacute;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Bệnh kh&amp;ocirc;ng truyền l&amp;acirc;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh nhiễm tr&amp;ugrave;ng ngo&amp;agrave;i da.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh s&amp;igrave;nh bụng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh m&amp;ugrave; mắt, vẹo cổ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh th&amp;acirc;n xanh v&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng ăn nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng chết h&amp;agrave;ng loạt ở n&amp;ograve;ng nọc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.1. Bệnh xuất huyết&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n: Do vi khuẩn Aeromonas hydrophila.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch biểu hiện t&amp;igrave;nh trạng buồn rầu, di chuyển chậm chạp, &amp;iacute;t hay kh&amp;ocirc;ng phản ứng với t&amp;aacute;c động xung quanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;ocirc;ng ăn hay &amp;iacute;t ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; những vết chấm đỏ tr&amp;ecirc;n ch&amp;acirc;n, v&amp;ugrave;ng da dưới bụng v&amp;agrave; mẩn đỏ khắp m&amp;igrave;nh, ch&amp;acirc;n bị sưng, gốc đ&amp;ugrave;i c&amp;oacute; m&amp;agrave;u đỏ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi mổ bụng c&amp;oacute; t&amp;igrave;nh trạng chảy m&amp;aacute;u trong v&amp;agrave; c&amp;oacute; nước trong ổ bụng, gan c&amp;oacute; m&amp;agrave;u đỏ v&amp;agrave; đọng m&amp;aacute;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Xuất huyết tr&amp;ecirc;n da v&amp;agrave; bắp thịt&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* C&amp;aacute;ch điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chỉ trị được l&amp;uacute;c ếch mới ph&amp;aacute;t bệnh kh&amp;ocirc;ng qu&amp;aacute; nặng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Diệt tr&amp;ugrave;ng hồ nu&amp;ocirc;i ngay với MEKOBENXIDE 80 (BKC 80%), MEKODINE - FORT 100.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm bớt 50% lượng thức ăn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chọn d&amp;ugrave;ng ALBIPEN 5%, CL-AMOXCOLI, ENROMIN - 400, CATAXIM trộn v&amp;agrave;o thức ăn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ng&amp;acirc;m ếch trong dung dịch thuốc t&amp;iacute;m nồng độ 5 - 8ppm (5 - 8gr/1m3 nước) từ 10 - 15 ph&amp;uacute;t để diệt mầm bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;*Ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tốt nhất l&amp;agrave; nước nu&amp;ocirc;i lu&amp;ocirc;n lu&amp;ocirc;n sạch bằng thay nước thường xuy&amp;ecirc;n. Kh&amp;ocirc;ng nu&amp;ocirc;i với mật độ qu&amp;aacute; dầy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng APRA-COLIS trộn v&amp;agrave;o thức ăn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.2. Bệnh vi&amp;ecirc;m gan c&amp;oacute; mủ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n: Bệnh do vi khuẩn Edwardsiella sp&amp;nbsp; g&amp;acirc;y ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Dấu hiệu:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch bỏ ăn, ốm, &amp;iacute;t hoạt động.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Xuất hiện những đốm trắng li ti tr&amp;ecirc;n gan.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Điều trị: D&amp;ugrave;ng thuốc như trong bệnh xuất huyết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.3. Bệnh tr&amp;ugrave;ng b&amp;aacute;nh xe&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ugrave;ng b&amp;aacute;nh xe dưới k&amp;iacute;nh hiển vi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh do k&amp;yacute; sinh tr&amp;ugrave;ng Trichodina g&amp;acirc;y ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nhưng thường xảy ra khi nguồn nước nu&amp;ocirc;i bị bẩn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;* Triệu chứng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh thường xuất hiện ở giai đoạn n&amp;ograve;ng nọc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi mắc bệnh, tr&amp;ecirc;n m&amp;agrave;ng v&amp;acirc;y v&amp;agrave; đu&amp;ocirc;i của n&amp;ograve;ng nọc xuất hiện những điểm m&amp;agrave;u trắng bạc, bơi ngắc ngoải v&amp;agrave; cựa quậy li&amp;ecirc;n tục.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch sẽ bỏ ăn v&amp;agrave; chết h&amp;agrave;ng loạt.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vớt những con bị bệnh ra chậu ri&amp;ecirc;ng để điều trị.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- S&amp;aacute;t tr&amp;ugrave;ng bể nu&amp;ocirc;i với CuSO4 (3g/m3 nước) v&amp;agrave; thay bằng nước sạch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tắm n&amp;ograve;ng nọc bệnh bằng CuSO4 với lượng 4 - 5g/m3 nước. Kh&amp;ocirc;ng n&amp;ecirc;n ng&amp;acirc;m qu&amp;aacute; 2 giờ. Khi thấy ch&amp;uacute;ng hoạt động b&amp;igrave;nh thường trở lại th&amp;igrave; vớt ra ngay.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;ograve;ng nọc chưa bệnh cho tắm bằng nước muối nồng độ 2% (ho&amp;agrave; 20 gam muối /1 l&amp;iacute;t nước) trong 5 - 10 ph&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thả n&amp;ograve;ng nọc trở lại chỗ nu&amp;ocirc;i đ&amp;atilde; thay nước mới.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Ph&amp;ograve;ng bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- S&amp;aacute;t tr&amp;ugrave;ng bể nu&amp;ocirc;i trước khi thả n&amp;ograve;ng nọc (CuSO4).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mật độ nu&amp;ocirc;i vừa phải.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thay nước bể nu&amp;ocirc;i h&amp;agrave;ng ng&amp;agrave;y (giảm chất hữu cơ).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.4. Bệnh giun s&amp;aacute;n:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n: Do c&amp;aacute;c lọai s&amp;aacute;n l&amp;aacute;, s&amp;aacute;n d&amp;acirc;y v&amp;agrave; giun tr&amp;ograve;n g&amp;acirc;y ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch ăn nhiều nhưng lớn chậm, sau đ&amp;oacute; biếng ăn rồi chết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;igrave;m thấy giun s&amp;aacute;n trong ruột.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;*Điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tẩy giun v&amp;agrave; s&amp;aacute;n d&amp;acirc;y với ASCAREX D (0,2% trong thức ăn).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nếu c&amp;oacute; s&amp;aacute;n l&amp;aacute; th&amp;igrave; d&amp;ugrave;ng th&amp;ecirc;m praziquantel.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.4. Bệnh nhiễm tr&amp;ugrave;ng da:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vận chuyển ếch để bị trầy sước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nước nu&amp;ocirc;i dơ bẩn l&amp;agrave;m ếch bị nhiễm khuẩn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng: Ếch ốm yếu, da bị lở lo&amp;eacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- L&amp;agrave;m vệ sinh hồ nu&amp;ocirc;i, thay nước thường xuy&amp;ecirc;n, cho ăn thức ăn trộn Oxytetraciline 2 &amp;ndash; 3 gr/kg thức ăn cho ăn li&amp;ecirc;n tục 7 ng&amp;agrave;y.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.4. Bệnh s&amp;igrave;nh bụng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ếch bệnh bụng ph&amp;igrave;nh to&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n: Thức ăn kh&amp;ocirc;ng ti&amp;ecirc;u, ếch ăn qu&amp;aacute; nhiều, hoặc thức ăn bị &amp;ocirc;i chua.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Dấu hiệu bệnh l&amp;yacute;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bụng ếch bị trương ph&amp;igrave;nh ếch nằm y&amp;ecirc;n một chỗ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ruột sưng v&amp;agrave; mỏng, b&amp;ecirc;n trong c&amp;oacute; dịch lỏng trong lẫn với cặn thức ăn kh&amp;ocirc;ng ti&amp;ecirc;u v&amp;agrave; c&amp;oacute; m&amp;ugrave;i thối.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* C&amp;aacute;ch giải quyết:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ngưng cho ăn một hai ng&amp;agrave;y hoặc giảm lượng thức ăn xuống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- L&amp;agrave;m vệ sinh chỗ nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;ecirc;m v&amp;agrave;o thức ăn VIMILAC + APRA-COLIS.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.5 Chứng vi&amp;ecirc;m đường ruột:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ruột l&amp;ograve;i ra khỏi lổ huyệt&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n: Do nhiễm protozoa.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch biếng ăn, gầy ốm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; dấu hiệu ruột l&amp;ograve;i ra lổ huyệt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* C&amp;aacute;ch điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vệ sinh bể nu&amp;ocirc;i v&amp;agrave; xử l&amp;yacute; nước nu&amp;ocirc;i h&amp;agrave;ng tuần với MEKODINE FORT - 100 để giảm lượng mầm bệnh c&amp;oacute; trong bể.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng tinidazole liều lượng 2 - 3 g/1kg thức ăn cho ăn li&amp;ecirc;n tục trong 2 - 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.6. Bệnh m&amp;ugrave; mắt, vẹo cổ:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sống cổ bị cong, mắt bị đục&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chưa biết r&amp;otilde;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; li&amp;ecirc;n quan đến hiện tượng đồng huyết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thường c&amp;oacute; ở ếch từ 50 con/kg trở l&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ếch bị bệnh nằm ngửa bụng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; dấu hiệu quay cuồng, cổ vẹo.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(Ph&amp;acirc;n biệt khi ếch bị x&amp;oacute;t mắt ngộ độc do h&amp;agrave;m lượng v&amp;ocirc;i trong hồ cao mắt bị m&amp;agrave;ng mờ trắng v&amp;agrave; th&amp;acirc;n m&amp;igrave;nh nằm bơi ngh&amp;ecirc;ng, trường hợp n&amp;agrave;y nhanh ch&amp;oacute;ng cho nu&amp;ocirc;i trong nước sạch v&amp;agrave; rửa hồ ngay)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;aacute;ch ly con bị bệnh ra ri&amp;ecirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khử tr&amp;ugrave;ng hồ nu&amp;ocirc;i bằng thuốc t&amp;iacute;m 4 &amp;ndash; 6 g /m3 nước, tạt khắp nơi trong bể li&amp;ecirc;n tiếp trong 3 - 4 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- H&amp;ograve;a trộn MEKO.FLOR 20% + VIMILAC với thức ăn để ph&amp;ograve;ng phụ nhiễm, tăng khả năng ti&amp;ecirc;u ho&amp;aacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;ecirc;n tr&amp;aacute;nh mua ếch bố mẹ, ếch giống từ c&amp;aacute;c trại c&amp;oacute; qu&amp;aacute; khứ đ&amp;atilde; xảy ra bệnh n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi nh&amp;acirc;n giống n&amp;ecirc;n tổ chức quản l&amp;yacute; tốt để tr&amp;aacute;nh đồng huyết.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.6. Bệnh th&amp;acirc;n xanh, v&amp;agrave;ng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Da ếch v&amp;agrave;ng, da v&amp;ugrave;ng mặt xanh lục&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n: Bệnh ph&amp;aacute;t sinh do nước c&amp;oacute; pH qu&amp;aacute; thấp (4,5 &amp;ndash; 5,7).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng: M&amp;agrave;u da ếch trở n&amp;ecirc;n v&amp;agrave;ng t&amp;aacute;i v&amp;agrave; đ&amp;ocirc;i chỗ da ếch bị bung ra c&amp;oacute; thể thấy quầng m&amp;agrave;u trắng th&amp;agrave;nh từng v&amp;ugrave;ng tr&amp;ecirc;n khắp th&amp;acirc;n ếch.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;m&amp;agrave;u trắng th&amp;agrave;nh từng v&amp;ugrave;ng tr&amp;ecirc;n khắp th&amp;acirc;n ếch.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* C&amp;aacute;ch điều trị:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Điều chỉnh độ pH trong nước duy tr&amp;igrave; ở mức tr&amp;ecirc;n 6,8 hay gần 7 l&amp;agrave; tốt nhất.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng v&amp;ocirc;i bột trắng h&amp;ograve;a tan trong nước điều chỉnh cho ph&amp;ugrave; hợp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;ecirc;n thường xuy&amp;ecirc;n kiểm tra độ pH của nước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.7. Chứng ăn nhau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kết hợp nhiều yếu tố.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nu&amp;ocirc;i với mật độ cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thức ăn kh&amp;ocirc;ng đủ (cả chất v&amp;agrave; lượng).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trong đ&amp;agrave;n ếch c&amp;oacute; sự ch&amp;ecirc;nh lệch lớn về k&amp;iacute;ch cỡ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Giải ph&amp;aacute;p:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;- Thả nu&amp;ocirc;i với mật độ vừa phải.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;iacute;nh to&amp;aacute;n lượng thức ăn sao cho ếch đủ no, đ&amp;aacute;p ứng đ&amp;uacute;ng nhu cầu dinh dưỡng&amp;nbsp; v&amp;agrave; chia th&amp;agrave;nh nhiều lần ăn trong ng&amp;agrave;y , rải thức đều khắp mặt nước&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bổ sung MKV-GROWTH FOR FISH + MKV - MEKOVIT.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;acirc;n đ&amp;agrave;n theo thể trọng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2.8.8 Chết h&amp;agrave;ng loạt (n&amp;ograve;ng nọc)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Rất dể gặp hiện tượng n&amp;agrave;y khi n&amp;ograve;ng nọc chuẩn bị mọc hai ch&amp;acirc;n trước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- N&amp;ograve;ng nọc chết h&amp;agrave;ng loạt do ch&amp;acirc;n trước kh&amp;ocirc;ng ph&amp;aacute;t triển được (c&amp;oacute; lẽ do thức ăn kh&amp;ocirc;ng cung đủ dưỡng chất).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Giải ph&amp;aacute;p:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thức ăn n&amp;ograve;ng nọc n&amp;ecirc;n bổ sung l&amp;ograve;ng đỏ trứng (1 quả/kg thức ăn) + CEVIMIX 10% + VIMILAC + MKV - NEW GRO SHRIMP.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi n&amp;ograve;ng nọc mọc đủ 2 ch&amp;acirc;n sau th&amp;igrave; bớt dần trứng g&amp;agrave; v&amp;agrave; VIMILAC.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Tổng hợp về c&amp;aacute;ch ph&amp;ograve;ng bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chọn ếch giống cỡ 100 &amp;ndash; 150 con/kg (6 &amp;ndash; 10 g/con).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trong bầy chỉ tuyển khoảng 60 &amp;ndash; 70% ếch con đạt để nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tr&amp;aacute;nh để đồng huyết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vận chuyển ếch đ&amp;uacute;ng c&amp;aacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- M&amp;ocirc;i trường nước nu&amp;ocirc;i kh&amp;ocirc;ng bị &amp;ocirc; nhiễm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kiểm s&amp;oacute;at chất lượng nuớc h&amp;agrave;ng ng&amp;agrave;y v&amp;agrave; xử l&amp;yacute; kịp thời khi ph&amp;aacute;t hiện khi t&amp;igrave;nh trạng nước xấu đi.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vệ sinh thu dọn hết chất thải, thức ăn dư thừa.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- S&amp;aacute;t tr&amp;ugrave;ng nơi nu&amp;ocirc;i ếch h&amp;agrave;ng tuần.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bổ sung th&amp;ecirc;m dưỡng chất v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Sản phẩm CTCP Dược Th&amp;uacute; Y CAI LẬY - MEKOVET d&amp;ugrave;ng cho ếch bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.1 Thuốc s&amp;aacute;t tr&amp;ugrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.2 D.M.C:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chứa đồng sulfate, c&amp;oacute; t&amp;aacute;c dụng diệt ngoại k&amp;yacute; sinh tr&amp;ugrave;ng, tảo, s&amp;aacute;t tr&amp;ugrave;ng nước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.3. Ascarex D&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.5 Cevimix 10%&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.6. Vimilac&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.7. MKV - New Gro Shrimp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bổ t&amp;uacute;c đầy đủ dưỡng chất cho n&amp;ograve;ng nọc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;uacute;p tăng trưởng nhanh, giảm ăn thịt lẫn nhau, giảm chết h&amp;agrave;ng loạt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.8 Meko-Sulfan&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4.9. Kh&amp;aacute;ng sinh: Cl-Amoxcoli, Enromin - 400, Albipen 5%, Cataxim, Meko.Flor 20%.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-31T08:55:02.757Z</createdDate>
+	<createdDate_dt>2020-07-31T08:55:03.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:08:42.040Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:08:42.040Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

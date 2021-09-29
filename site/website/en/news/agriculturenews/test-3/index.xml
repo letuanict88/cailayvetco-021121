@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/ennewsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bfcb</objectGroupId>
+	<objectId>bfcbca03-637d-faa9-f4ba-c7947f1b6566</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-3</folder-name>
+	<internal-name>Mavin sign cooperation agreement on training with VNUA</internal-name>
+	<navLabel>3test 3</navLabel>
+	<title_s>Mavin sign cooperation agreement on training with VNUA</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/071dcf66-c9be-4b83-91e3-389bd25aa4a9.xml</key>
+	<value>Header - Test 3</value>
+	<include>/site/items/slides/071dcf66-c9be-4b83-91e3-389bd25aa4a9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/IMG_6198_Fotor.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;On May 22, 2020, Mavin Group signed an Agreement on joint training with the Faculty of Veterinary and Faculty of Animal Science - Vietnam National University of Agriculture. Attending the signing ceremony, there were leaders, teachers of Veterinary Faculty, Animal Science Faculty and other leaders and key officials of Mavin Farm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to the agreement between Mavin and VNUA, the two sides will cooperate in onsite- training at Mavin's farms. Specifically, Mavin will receive and arrange working and living conditions for students of the two Faculties to participate in internships at Mavin. In addition to supporting 100% of the cost of living at Mavin&amp;rsquo;s farms in the internship period, Mavin will also support a fixed cost for students, with a mechanism to reward excess productivity under the preferential treatment policy of the Company. In the case of students wishing to work will be preferred by Mavin after graduation.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In addition, under the Agreement, Mavin will also work with the Academy to develop and tailor training programs to suit industry standards, actual production conditions of the market and enterprises. Mavin also committed to accompany and support the research and training work of the two Faculties.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Delivering speech at the cooperation signing ceremony, Mr. Nguyen Quy Hanh - Deputy Director of Mavin Farm affirmed that Mavin would create the best conditions for the students participating in the intership at the farms of Mavin. Mavin is committed to prioritizing the recruitment of female students, arranging work for internships in their local area, close to their families and as their aspirations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The Vietnam National University of Agriculture (Hanoi Agricultural University I) is a leading university in training personnel in the field of agriculture and rural development of Vietnam, has been contributing a lot of qualified and highly qualified personnel to agribusinesses including Mavin. Since 2015, Mavin Group and VNUA have always been closely and effectively accompanying in training, recruiting and scientific research ...&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T06:43:55.607Z</createdDate>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:13:38.850Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:13:38.850Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

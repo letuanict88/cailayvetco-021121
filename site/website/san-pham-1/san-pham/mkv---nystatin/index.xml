@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>400e</objectGroupId>
+	<objectId>400e1ed0-aa7f-93ad-7f72-d8e87b3d1d3d</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv---nystatin</folder-name>
+	<internal-name>MKV - NYSTATIN</internal-name>
+	<navLabel>MKV - NYSTATIN</navLabel>
+	<productName_s>MKV - NYSTATIN</productName_s>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value_smv>Nhóm thuốc sát trùng nấm, cầu trùng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/102 MKV-NYSTATIN 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.3222%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nystatin 11.200.000UI&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vừa đủ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh do nấm ở gia cầm: Nấm miệng,&amp;nbsp;nấm diều, nấm phổi.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.4991%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.1786%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn thức ăn cho ăn hoặc h&amp;ograve;a v&amp;agrave;o nước cho uống.&lt;/p&gt;
+&lt;p&gt;- Điều trị:&lt;/p&gt;
+&lt;p&gt;+ G&amp;agrave;, vịt, c&amp;uacute;t: 1g/5kg thể trọng hoặc 1g/l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;+ Heo, b&amp;ecirc;, ngh&amp;eacute;, d&amp;ecirc;, cừu: 1g/10kg thể trọng hoặc 2g/kg&amp;nbsp;thức ăn.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 7-10 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng bệnh: 1/2 liều trị. Li&amp;ecirc;n tục 5-7 ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-348&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T08:29:40.141Z</createdDate>
+	<createdDate_dt>2020-08-03T08:29:40.141Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:59:39.017Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:59:39.017Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:29:40.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

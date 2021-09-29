@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b11a</objectGroupId>
+	<objectId>b11a3ce0-b09a-643a-73a7-ad547bbe3e9b</objectId>
+	<file-name>b11a3ce0-b09a-643a-73a7-ad547bbe3e9b.xml</file-name>
+	<internal-name>Reproductive Medicine</internal-name>
+	<productgrouplevel1_s>thuoc-cho-trau-bo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</productgrouplevel2_s>
+	<createdDate>2020-08-05T05:16:22.609Z</createdDate>
+	<createdDate_dt>2020-08-05T05:16:22.609Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T05:16:22.609Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:16:22.609Z</lastModifiedDate_dt>
+</component>

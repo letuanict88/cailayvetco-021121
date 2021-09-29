@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>76835a23</objectGroupId>
+	<objectId>76835a23-956f-455d-8d20-a68b62e107a9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>nghi-quyet-ve-viec-thay-doi-nguoi-no-bo</folder-name>
+	<internal-name>Nghị quyết về việc thay đổi người nội bộ</internal-name>
+	<navLabel>Nghị quyết về việc thay đổi người nội bộ</navLabel>
+	<title_s>Nghị quyết về việc thay đổi người nội bộ</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</key>
+	<value>Header - Investor</value>
+	<include>/site/items/slides/4c3e619d-d7e3-6ddd-9d91-85d6f1778d3a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>announcement</key>
+	<value_smv>Công bố thông tin</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/nghi-quyet-thay-doi-nguoi-noi-bo "&gt;/thu-vien/thu-vien-tai-lieu/nghi-quyet-thay-doi-nguoi-noi-bo&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T09:07:05.067Z</createdDate>
+	<createdDate_dt>2020-07-31T09:07:05.067Z</createdDate_dt>
+	<lastModifiedDate>2021-01-30T04:41:16.022Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-30T04:41:16.022Z</lastModifiedDate_dt>
+	<date_dt>2021-01-30T04:19:24.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>064e</objectGroupId>
+	<objectId>064e4461-a0c7-36f3-2497-64d99e39e41e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>news</folder-name>
+	<internal-name>News</internal-name>
+	<navLabel>news</navLabel>
+	<title_s>News</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>News</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/debed200-0e77-8671-20ed-7f75c82c28f2.xml</key>
+	<value>Header - News</value>
+	<include>/site/items/slides/debed200-0e77-8671-20ed-7f75c82c28f2.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>58b72c41-4c99-92d6-5eae-0e3cb55c4c62</key>
+	<value>Content - News</value>
+<component id="58b72c41-4c99-92d6-5eae-0e3cb55c4c62">
+	<content-type>/component/entintuc</content-type>
+	<display-template>/templates/web/ennews.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>58b7</objectGroupId>
+	<objectId>58b72c41-4c99-92d6-5eae-0e3cb55c4c62</objectId>
+	<file-name>58b72c41-4c99-92d6-5eae-0e3cb55c4c62.xml</file-name>
+	<internal-name>Content - News</internal-name>
+	<createdDate>2020-07-13T06:49:33.381Z</createdDate>
+	<createdDate_dt>2020-07-13T06:49:33.381Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T06:49:33.381Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T06:49:33.381Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-13T06:46:00.883Z</createdDate>
+	<createdDate_dt>2020-07-13T06:46:00.883Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:18:35.304Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:18:35.304Z</lastModifiedDate_dt>
+</page>

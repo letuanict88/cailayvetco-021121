@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0ef3</objectGroupId>
+	<objectId>0ef33b6f-acfb-92d9-b38a-bd68989dc2e0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>giam-doc-chi-nhanh-mavin-duck-farm</folder-name>
+	<internal-name>Giám đốc Chi nhánh Mavin Duck Farm </internal-name>
+	<navLabel>Giám đốc Chi nhánh Mavin Farm</navLabel>
+	<jobTitle_s>Giám đốc Chi nhánh Mavin Duck Farm </jobTitle_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>cc84e57d-dd05-c025-5620-178e03bd4f12</key>
+	<value>Sldie Job Detail</value>
+<component id="cc84e57d-dd05-c025-5620-178e03bd4f12">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc84</objectGroupId>
+	<objectId>cc84e57d-dd05-c025-5620-178e03bd4f12</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>cc84e57d-dd05-c025-5620-178e03bd4f12.xml</file-name>
+	<internal-name>Sldie Job Detail</internal-name>
+	<createdDate>2020-06-29T07:31:52.447Z</createdDate>
+	<createdDate_dt>2020-06-29T07:31:52.447Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:46:45.229Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:46:45.229Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;Số lượng tuyển: 1 người&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Quản l&amp;yacute;, gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; vận h&amp;agrave;nh c&amp;aacute;c hoạt động sản xuất &amp;ndash; kinh doanh mảng Duck-Farm tại chi nh&amp;aacute;nh Đồng Th&amp;aacute;p&lt;/p&gt;
+&lt;p&gt;- Lập kế hoạch ph&amp;aacute;t triển hệ thống chăn nu&amp;ocirc;i gia c&amp;ocirc;ng&lt;/p&gt;
+&lt;p&gt;- Tổ chức thị trường &amp;ndash; quảng b&amp;aacute; v&amp;agrave; giới thiệu vịt giống&lt;/p&gt;
+&lt;p&gt;- Quản l&amp;yacute; v&amp;agrave; vận h&amp;agrave;nh trạm ấp&lt;/p&gt;
+&lt;p&gt;- Kinh doanh đ&amp;uacute;ng quy định v&amp;agrave; ph&amp;aacute;t triển hiệu quả&lt;/p&gt;
+&lt;p&gt;- Tổ chức x&amp;acirc;y dựng, định hướng ph&amp;aacute;t triển hệ thống, tổ chức h&amp;agrave;nh ch&amp;aacute;nh nh&amp;acirc;n sự trong hoạt động chi nh&amp;aacute;nh, tạo m&amp;ocirc;i trường, điều kiện, động lực ph&amp;aacute;t triển cho nh&amp;acirc;n vi&amp;ecirc;n&lt;/p&gt;
+&lt;p&gt;- Chịu tr&amp;aacute;ch nhiệm trước c&amp;ocirc;ng ty về kết quả hoạt động kinh doanh của khu vực m&amp;igrave;nh phụ tr&amp;aacute;ch&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Tốt nghiệp B&amp;aacute;c sĩ Th&amp;uacute; y, Kỹ sư Chăn nu&amp;ocirc;i, Kỹ sư n&amp;ocirc;ng nghiệp, ưu ti&amp;ecirc;n B&amp;aacute;c sĩ Th&amp;uacute; y, Kỹ sư Chăn nu&amp;ocirc;i&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; kinh nghiệm tại vị tr&amp;iacute; tương đương từ 3 đến dưới 5 năm&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; những &amp;yacute; tưởng mới trong việc quản l&amp;yacute;, kinh doanh&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; kỹ năng l&amp;atilde;nh đạo v&amp;agrave; kết nối tổ chức&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thu nhập từ 20 đến 40 triệu đồng/ th&amp;aacute;ng , hưởng thưởng theo quy chế C&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p&gt;- Hưởng tất c&amp;aacute;c c&amp;aacute;c quyền lợi về BHXH,YT,TN c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của Ph&amp;aacute;p luật hiện h&amp;agrave;nh&lt;/p&gt;
+&lt;p&gt;- C&amp;ocirc;ng ty chăm s&amp;oacute;c sức khỏe (BHSK) 24/24&lt;/p&gt;
+&lt;p&gt;- Gia nhập v&amp;agrave; hưởng quyền lợi của c&amp;ocirc;ng đo&amp;agrave;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu hồ sơ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Hồ sơ xin việc, giấy x&amp;aacute;c nhận hạnh kiểm, giấy kh&amp;aacute;m sức khỏe (trong v&amp;ograve;ng 6 th&amp;aacute;ng).&lt;/p&gt;
+&lt;p&gt;- Giấy chứng minh nh&amp;acirc;n d&amp;acirc;n, Sổ hộ khẩu gia đ&amp;igrave;nh (bản sao).&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c văn bằng, chứng chỉ c&amp;oacute; li&amp;ecirc;n quan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Nộp hồ sơ trực tiếp tại c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p&gt;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail vui l&amp;ograve;ng scan c&amp;aacute;c văn bằng, chứng chỉ, bảng điểm, CV v&amp;agrave; c&amp;aacute;c giấy tờ c&amp;oacute; li&amp;ecirc;n quan gửi v&amp;agrave;o Email C&amp;ocirc;ng ty: tuyendung@cailayvetco.com&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-06-29T07:30:45.116Z</createdDate>
+	<createdDate_dt>2020-06-29T07:30:45.116Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:35:06.485Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:35:06.485Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-04-27T07:32:18.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>

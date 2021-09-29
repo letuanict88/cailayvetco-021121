@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/processEn</content-type>
+	<display-template>/templates/web/component/group-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d6b9</objectGroupId>
+	<objectId>d6b97f72-68a3-daa6-f0bf-c78586cfb434</objectId>
+	<file-name>d6b97f72-68a3-daa6-f0bf-c78586cfb434.xml</file-name>
+	<internal-name>PET CARE</internal-name>
+	<title_s>PET CARE</title_s>
+	<listURL_s>/en/technical-assistance/process-care/pet/index</listURL_s>
+	<processGroup_s>benh-thu-cung</processGroup_s>
+	<avatar_s>/static-assets/images/techsupport/thu-cung.png</avatar_s>
+	<createdDate>2020-07-29T03:42:08.239Z</createdDate>
+	<createdDate_dt>2020-07-29T03:42:08.239Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:31:32.621Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:31:32.621Z</lastModifiedDate_dt>
+</component>

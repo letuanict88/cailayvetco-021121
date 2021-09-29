@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2dc0b6a4</objectGroupId>
+	<objectId>2dc0b6a4-f5bc-435f-8074-c4cbba0f61b8</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-nghi--quyet-3-19afc97e</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2020</internal-name>
+	<navLabel>Thông báo về ngày đăng ký cuối cùng để thực hiện </navLabel>
+	<title_s>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2020</title_s>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
+	<value>Header - Đại hội đồng cổ đông </value>
+	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/TB%20ngay%20dang%20ky%20cuoi%20cung%20thuc%20hien%20quyen%20co%20dong.pdf"&gt;Th&amp;ocirc;ng b&amp;aacute;o về ng&amp;agrave;y đăng k&amp;yacute; cuối c&amp;ugrave;ng để thực hiện quyền tham dự ĐHĐCĐ thường ni&amp;ecirc;n năm 2020&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T09:11:08.129Z</createdDate>
+	<createdDate_dt>2020-07-31T09:11:08.129Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T01:30:16.404Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T01:30:16.404Z</lastModifiedDate_dt>
+	<date_dt>2020-05-13T09:11:08.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

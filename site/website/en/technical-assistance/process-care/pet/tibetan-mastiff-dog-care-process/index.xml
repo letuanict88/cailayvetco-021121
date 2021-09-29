@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedailEn</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1efb</objectGroupId>
+	<objectId>1efbee44-32f3-ba6a-5239-c7b5d52f1ea3</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>tibetan-mastiff-dog-care-process</folder-name>
+	<internal-name>7 ways to keep your puppy healthy</internal-name>
+	<navLabel>7 ways to keep your puppy healthy</navLabel>
+	<processName_s>7 ways to keep your puppy healthy</processName_s>
+	<parentURL_s>/en/technical-assistance/process-care/pet/index</parentURL_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>ee7d399f-3be3-f98d-9f6d-26c95a551ff4</key>
+	<value>Slide</value>
+<component id="ee7d399f-3be3-f98d-9f6d-26c95a551ff4">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ee7d</objectGroupId>
+	<objectId>ee7d399f-3be3-f98d-9f6d-26c95a551ff4</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>ee7d399f-3be3-f98d-9f6d-26c95a551ff4.xml</file-name>
+	<createdDate>2020-07-29T04:03:55.487Z</createdDate>
+	<createdDate_dt>2020-07-29T04:03:55.487Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T04:03:55.487Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T04:03:55.487Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<processType_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv> Breeding - Taking Care of Pet Diseases</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;You are an animal lover how to keep your puppy healthy. Here are 7 ways to keep your puppy healthy and healthy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dogs are one of the most loved animals. It is also the most loyal animal to the owner so it is your responsibility to take care and nurture them. Here are some ways to keep your puppy healthy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Take care of its teeth&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Just like humans, brushing your dog's teeth is very important. You can use dog toothpaste to protect their teeth and gums. This helps prevent the formation and build of tartar and makes their gums painful, infected. In addition, dogs are omnivores so brushing their teeth helps to reduce bad breath much.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Hair care for them&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To keep your pet loving dog clean, take regular care of its fur. You can brush your hair at least 2-3 times a day to help remove the lifeless hairs. Brushing them regularly helps improve circulation and makes them much more shiny.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Nutrition&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Make sure you give them a balanced and sensible diet. You should use foods that are low in calories. If you feed them too much chocolate, raisins, butter, etc., they can cause digestive disorders and make them fatter. This can affect their digestive system.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Let them go to the park&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Most dogs love to go and run in the park. You can give them a 10-15 minute walk every day. This helps to build their muscular muscles and provide strong skeletal system.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Cut the dog's claws and clean his ears&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cutting nails for dogs is very difficult. You just need to cut off a part of the white does not cut too deep into its feet because it can cause them to bleed. Also, keep their ears clean by wiping them clean with a damp washcloth.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6. Avoid excessive exposure to the sun&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sunlight can cause dehydration, which can even lead to sunburn. So protect your pets from these by reducing its exposure to the sun's rays. Under the sun and under asphalt can cause their feet to swell.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;7. Get your dog vaccinated on time&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;This is one of the most important ways to keep your dog healthy. You need to make sure it gets your first vaccine at the right time. Subsequent vaccinations should be monitored regularly according to your veterinarian's instructions.&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-29T04:03:00.128Z</createdDate>
+	<createdDate_dt>2020-07-29T04:03:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:55:44.552Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:55:44.552Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

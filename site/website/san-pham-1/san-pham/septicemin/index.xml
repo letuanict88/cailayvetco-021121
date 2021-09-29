@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5f0d</objectGroupId>
+	<objectId>5f0da12b-3fbd-958f-7ed1-3be3c6f59061</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>septicemin</folder-name>
+	<internal-name>SEPTICEMIN</internal-name>
+	<navLabel>SEPTICEMIN</navLabel>
+	<productName_s>SEPTICEMIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 47.4217%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Urotropin 7,3g&lt;/p&gt;
+&lt;p&gt;Glucose 5g&lt;/p&gt;
+&lt;p&gt;Kali lodua 6,7mg&lt;/p&gt;
+&lt;p&gt;Iode 3,3mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng đường tiết niệu, đường ruột, lợi tiểu v.v...&lt;/p&gt;
+&lt;p&gt;- Sử dụng tốt trong c&amp;aacute;c bệnh ti&amp;ecirc;u chảy, vi&amp;ecirc;m ruột, vi&amp;ecirc;m&amp;nbsp;đường tiết niệu, &amp;hellip;ở tr&amp;acirc;u, b&amp;ograve;, ngựa, heo, d&amp;ecirc;, cừu, ch&amp;oacute;, m&amp;egrave;o.&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng phối hợp với kh&amp;aacute;ng sinh để chống nhiễm độc,&amp;nbsp;nhiễm tr&amp;ugrave;ng, cảm c&amp;uacute;m.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.46589%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.1123%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp s&amp;acirc;u&lt;/p&gt;
+&lt;p&gt;Tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, cừu, ch&amp;oacute;: 1ml/ 6-10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 2 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-187&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/63 Septicemine MOI.png</productImage_s>
+	<createdDate>2020-08-03T07:32:10.985Z</createdDate>
+	<createdDate_dt>2020-08-03T07:32:10.985Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:17:09.609Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:17:09.609Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T07:32:11.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

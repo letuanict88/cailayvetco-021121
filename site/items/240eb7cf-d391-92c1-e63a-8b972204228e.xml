@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/techsupportcomponentEn</content-type>
+	<display-template>/templates/web/component/group-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>240e</objectGroupId>
+	<objectId>240eb7cf-d391-92c1-e63a-8b972204228e</objectId>
+	<internal-name>Fish disease</internal-name>
+	<title_s>Fish disease</title_s>
+	<file-name>240eb7cf-d391-92c1-e63a-8b972204228e.xml</file-name>
+	<avatar_s>/static-assets/images/techsupport/logo-4.png</avatar_s>
+	<technicalAssistanceType_s>benh-thuy-san</technicalAssistanceType_s>
+	<createdDate>2020-07-13T07:47:17.753Z</createdDate>
+	<createdDate_dt>2020-07-13T07:47:17.753Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:27:13.193Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:27:13.193Z</lastModifiedDate_dt>
+	<listURL_s>/en/technical-assistance/group-sick/fish-disease/index</listURL_s>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b40e</objectGroupId>
+	<objectId>b40eec7c-2d6f-4ea7-78f8-ba8162205512</objectId>
+	<file-name>b40eec7c-2d6f-4ea7-78f8-ba8162205512.xml</file-name>
+	<productgrouplevel1_s>thuoc-cho-cho-meo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-sat-trung-thuoc-dung-ngoai</productgrouplevel2_s>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<createdDate>2020-08-03T08:40:35.306Z</createdDate>
+	<createdDate_dt>2020-08-03T08:40:35.306Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:40:35.306Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:40:35.306Z</lastModifiedDate_dt>
+</component>

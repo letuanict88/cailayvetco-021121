@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b70e</objectGroupId>
+	<objectId>b70edd50-4411-34cd-4381-5eb4af4a8a3e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>vitamin-e</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>VITAMIN E</internal-name>
+	<navLabel>VITAMIN E</navLabel>
+	<productName_s>VITAMIN E</productName_s>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/12 Vitamin E (2) A.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.1735%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin E 5.000UI&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tăng khả năng sinh sản, ph&amp;aacute;t dục, tăng tỉ lệ đậu thai, tăng&amp;nbsp;cường trao đổi chất, c&amp;oacute; ảnh hưởng tốt đến hệ thần kinh ở&amp;nbsp;tr&amp;acirc;u, b&amp;ograve;, heo.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.4077%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.4187%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve; c&amp;aacute;i: 4-10ml/con/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- Heo n&amp;aacute;i: 2-4ml/con/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-35&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T07:18:05.403Z</createdDate>
+	<createdDate_dt>2020-08-03T07:18:05.403Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:31:25.170Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:31:25.170Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T07:18:05.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

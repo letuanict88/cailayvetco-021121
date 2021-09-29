@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b80c</objectGroupId>
+	<objectId>b80c2b25-8ad9-e33f-0787-fd0b4ec00fe6</objectId>
+	<items item-list="true">	<item>	<key>thuoc-cho-trau-bo</key>
+	<value>Products for cattle</value>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value>Products for swine</value>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value>Products for Poultry</value>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value>Products for pet</value>
+	</item>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value>Product for fish</value>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value>Product for other animals</value>
+	</item></items>
+	<internal-name>Group Product</internal-name>
+	<file-name>groupproduct.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-07-13T03:00:40.877Z</createdDate>
+	<createdDate_dt>2020-07-13T03:00:40.877Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:30:24.910Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:30:24.910Z</lastModifiedDate_dt>
+</component>

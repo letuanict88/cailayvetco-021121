@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8122</objectGroupId>
+	<objectId>8122775e-b2dc-b35e-2363-f56d72058f7a</objectId>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</internal-name>
+	<navLabel>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</navLabel>
+	<t_s>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chan-nuoi-cham-soc-phong-benh-thuy-san</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>80f4a813-2ea7-330d-4174-49f5809cf35a</key>
+	<value>Slide</value>
+<component id="80f4a813-2ea7-330d-4174-49f5809cf35a">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>80f4</objectGroupId>
+	<objectId>80f4a813-2ea7-330d-4174-49f5809cf35a</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>80f4a813-2ea7-330d-4174-49f5809cf35a.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T02:46:09.413Z</createdDate>
+	<createdDate_dt>2020-07-29T02:46:09.413Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:46:09.413Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:46:09.413Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>7b14a3cb-1048-9264-9de4-05a17042200d</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</value>
+<component id="7b14a3cb-1048-9264-9de4-05a17042200d">
+	<content-type>/component/listprocess</content-type>
+	<display-template>/templates/web/component/list-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7b14</objectGroupId>
+	<objectId>7b14a3cb-1048-9264-9de4-05a17042200d</objectId>
+	<file-name>7b14a3cb-1048-9264-9de4-05a17042200d.xml</file-name>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</internal-name>
+	<title_s>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</title_s>
+	<processType_s>banh-thuy-san</processType_s>
+	<createdDate>2020-07-29T02:47:02.773Z</createdDate>
+	<createdDate_dt>2020-07-29T02:47:02.773Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:47:02.773Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:47:02.773Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-29T02:45:28.484Z</createdDate>
+	<createdDate_dt>2020-07-29T02:45:28.484Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:45:28.484Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:45:28.484Z</lastModifiedDate_dt>
+</page>

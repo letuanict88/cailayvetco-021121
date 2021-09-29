@@ -1,0 +1,78 @@
+/*
+    Theme name          : Makovet
+    Theme description   : 
+    Version             : 1.0.0
+    Author              : Phong VG
+*/
+/*
+    Table of content   
+    1, Header
+    2, Footer
+    
+*/
+/* ========== 1,Header ========== */
+.nav__btn{
+    color: #fff !important;
+}
+@media only screen and (max-width: 800px) and (min-width: 700px) and (orientation: portrait){
+    .dropdown-menu{
+        background: #332472;
+    }
+}
+@media (min-width: 1500px){
+    .slide__bg{
+        left: -14%;
+    }
+    .nav__container{
+        grid-column-gap: 200px;
+    }
+}
+@media (min-width: 1800px){
+    .slide__bg{
+        left: -1%;
+    }
+    .nav__hotline p{
+        font-size: 25px;
+    }
+    .hotline-span{
+        font-size: 25px;
+    }
+}
+@media (max-width: 1366px){
+    .slide__bg{
+        left: -23%;
+    }
+    .nav__container{
+        grid-column-gap: 110px !important;
+    }
+}
+@media (max-width: 1440px){
+    .nav__menu{
+        width: 970px;
+    }
+    .nav__menu-link{
+        font-size: 18px;
+    }
+    .nav__container{
+        grid-column-gap: 150px;
+    }
+}
+@media (min-width: 1900px){
+
+}
+/* ========== 2,Content ========== */
+.img-responsive{
+    width: 100%;
+    height: auto;
+}
+@media (min-width: 1200px){
+    .container{
+        max-width: 1215px !important;
+    }
+}
+/* ========== 3,Footer ========== */
+@media only screen and (max-width: 420px) and (min-width: 300px) and (orientation: portrait){
+    .footer__item{
+        width: 100%;
+    }
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>40548e33</objectGroupId>
+	<objectId>40548e33-8c3f-47dc-bb1d-ff5543dc7e87</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-103</folder-name>
+	<internal-name>VITAMIN K3 0,5%</internal-name>
+	<navLabel>VITAMIN K3 0,5%</navLabel>
+	<productName_s>VITAMIN K3 0,5%</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/13 Vitamin K3A.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3113%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin K3 500mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng cho tr&amp;acirc;u, b&amp;ograve;, heo, ch&amp;oacute;, m&amp;egrave;o, d&amp;ecirc;, cừu, g&amp;agrave;, vịt trong&amp;nbsp;c&amp;aacute;c trường hợp:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Điều trị chảy m&amp;aacute;u do suy nhược chức năng gan. V&amp;agrave;ng&amp;nbsp;da do tắc mật, vi&amp;ecirc;m v&amp;otilde;ng mạc xuất huyết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cầm m&amp;aacute;u khi thiến mổ, sau khi sinh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kết hợp trong điều trị bệnh truyền nhiễm, ngoại nội&amp;nbsp;khoa c&amp;oacute; thể g&amp;acirc;y xuất huyết, chảy m&amp;aacute;u nội tạng. Kết hợp&amp;nbsp;trong điều trị bệnh Gumboro g&amp;agrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cơ thể thiếu vitamin K do loạn khuẩn đường ruột.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.71894%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.9697%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
+&lt;p&gt;* Ngừa chảy m&amp;aacute;u:&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo: 4ml/con&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o, d&amp;ecirc;, cừu: 2ml/con&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt: 2ml/10-15 con&lt;/p&gt;
+&lt;p&gt;* Sử dụng trong c&amp;aacute;c trường hợp kh&amp;aacute;c: 1-4ml/con/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục kh&amp;ocirc;ng qu&amp;aacute; 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-236&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T08:11:39.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:56:27.100Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:56:27.100Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

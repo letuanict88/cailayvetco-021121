@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6169</objectGroupId>
+	<objectId>616980ca-506c-76ab-2ba9-c63789033139</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>nguyen-nhan-benh-cum-ga-la-gi</folder-name>
+	<internal-name>Chứng tiêu chảy trên heo</internal-name>
+	<navLabel>Chứng tiêu chảy trên heo</navLabel>
+	<diseaseName_s>Chứng tiêu chảy trên heo</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>dd1f97bb-7601-f174-5611-73fa85b541d7</key>
+	<value>Slide Ho tro ky thuat</value>
+<component id="dd1f97bb-7601-f174-5611-73fa85b541d7">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dd1f</objectGroupId>
+	<objectId>dd1f97bb-7601-f174-5611-73fa85b541d7</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	</item></slide_o>
+	<file-name>dd1f97bb-7601-f174-5611-73fa85b541d7.xml</file-name>
+	<internal-name>Slide Ho tro ky thuat</internal-name>
+	<createdDate>2020-06-26T03:36:44.685Z</createdDate>
+	<createdDate_dt>2020-06-26T03:36:44.685Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:36:44.685Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:36:44.685Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;Chứng ti&amp;ecirc;u chảy tr&amp;ecirc;n heo l&amp;agrave; t&amp;igrave;nh trạng bệnh thường gặp ở mọi phương thức nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;u chảy tr&amp;ecirc;n heo con l&amp;agrave; một dấu hiệu bệnh l&amp;yacute; của c&amp;aacute;c bệnh sau: Hội chứng ti&amp;ecirc;u chảy th&amp;ocirc;ng thường, bệnh cầu tr&amp;ugrave;ng, dịch ti&amp;ecirc;u chảy cấp (PED: porcine epidemic diarrhoea), bệnh vi&amp;ecirc;m dạ d&amp;agrave;y- ruột truyền nhiễm (TGE: transmissible gastro-enteritis).&lt;/p&gt;
+&lt;p&gt;Tr&amp;ecirc;n heo lớn hơn, c&amp;ograve;n thấy ti&amp;ecirc;u chảy khi heo bị mắc c&amp;aacute;c bệnh: hồng lỵ do Serpulina hyodysenteriae (swine dysentery), vi&amp;ecirc;m ruột hoại tử do Clostridium perfringens (Clostridial necrotizing enteritis), vi&amp;ecirc;m hồi tr&amp;agrave;ng do Lawsonia intracellularis (porcine enteropathy / ileitis), bệnh dịch tả (classical swine fever), ...&lt;/p&gt;
+&lt;p&gt;1. HỘI CHỨNG TI&amp;Ecirc;U CHẢY TH&amp;Ocirc;NG THƯỜNG (Diarrhoae in baby pig)&lt;/p&gt;
+&lt;p&gt;L&amp;agrave; bệnh cực kỳ phổ biến gặp ở mọi phương thức nu&amp;ocirc;i. Bệnh &amp;iacute;t khi g&amp;acirc;y chết cho heo nhưng l&amp;agrave;m giảm năng suất do:&lt;/p&gt;
+&lt;p&gt;- Giảm th&amp;ecirc;̉ trọng lúc cai sữa và lúc 60 ngày tu&amp;ocirc;̉i.&lt;/p&gt;
+&lt;p&gt;- T&amp;ocirc;́n th&amp;ecirc;m thời gian nu&amp;ocirc;i (cả heo mẹ)&lt;/p&gt;
+&lt;p&gt;- Tăng chi phí thu&amp;ocirc;́c thú y&lt;/p&gt;
+&lt;p&gt;1.1. Nguy&amp;ecirc;n nh&amp;acirc;n: rất phức tạp do nhiều yếu tố tạo n&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;Nguy&amp;ecirc;n nh&amp;acirc;n từ heo mẹ:&lt;/p&gt;
+&lt;p&gt;- Trong thời gian mang thai: bị bệnh suy dinh dưỡng, sốt bất kỳ. B&amp;ecirc;̣nh truy&amp;ecirc;̀n nhi&amp;ecirc;̃m: dịch tả, phó thương hàn, Aujeszky, leptospirosis, brucellosis, PRRS&amp;hellip;&lt;/p&gt;
+&lt;p&gt;- Trong thời gian nu&amp;ocirc;i con: do MMA, S&amp;ocirc;́t h&amp;acirc;̣u sản, Sót nhau &amp;hellip;Thay đ&amp;ocirc;̉i thức ăn.&lt;/p&gt;
+&lt;p&gt;Nguy&amp;ecirc;n nh&amp;acirc;n từ heo con:&lt;/p&gt;
+&lt;p&gt;- Thể chất heo con yếu đuối: Xu&amp;acirc;́t phát từ b&amp;ecirc;̣nh của mẹ, từ di truy&amp;ecirc;̀n.&lt;/p&gt;
+&lt;p&gt;- Sinh l&amp;yacute; v&amp;agrave; tập t&amp;iacute;nh của heo con: B&amp;ocirc;̣ máy ti&amp;ecirc;u hoá chưa hoàn thi&amp;ecirc;̣n, thích nằm với mẹ, thích nước b&amp;acirc;̉n và làm b&amp;acirc;̉n nước.&lt;/p&gt;
+&lt;p&gt;Nguy&amp;ecirc;n nh&amp;acirc;n từ ngoại m&amp;ocirc;i:&lt;/p&gt;
+&lt;p&gt;- M&amp;ocirc;i trường kh&amp;ocirc;ng ph&amp;ugrave; hợp với y&amp;ecirc;u cầu của heo con: lạnh, ẩm, dơ bẩn.&lt;/p&gt;
+&lt;p&gt;- Chăm s&amp;oacute;c kh&amp;ocirc;ng đ&amp;uacute;ng quy tr&amp;igrave;nh: Thiếu sữa đầu, thay đổi thức ăn đột ngột, bị c&amp;aacute;c stress kh&amp;ocirc;ng cần thiết, thiếu sắt, nước sạch, viatmin A-D.&lt;/p&gt;
+&lt;p&gt;Nguy&amp;ecirc;n nh&amp;acirc;n trực tiếp:&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c virus: Rotavirus&amp;nbsp; A.&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c vi khuẩn: Pathogenic E. coli, Salmonella, Proteus,&amp;nbsp; &amp;nbsp;Enterobacter&amp;hellip;; Staphylococcus aureus,&amp;nbsp; Streptococcus&amp;nbsp; faecalis; Clostridium&amp;nbsp; perfringens type C.&lt;/p&gt;
+&lt;p&gt;- Một số giun v&amp;agrave; lo&amp;agrave;i kh&amp;aacute;c: Ascaris, Trichocephalus; Candida&lt;/p&gt;
+&lt;p&gt;1.2. Dấu hiệu bệnh l&amp;yacute;:&lt;/p&gt;
+&lt;p&gt;T&amp;iacute;nh chất ph&amp;acirc;n: Ph&amp;acirc;n kh&amp;ocirc;ng c&amp;ograve;n khu&amp;ocirc;ng, nh&amp;atilde;o, sệt, lo&amp;atilde;ng. M&amp;agrave;u: trắng, x&amp;aacute;m, v&amp;agrave;ng, xanh&amp;hellip; M&amp;ugrave;i: chua, tanh.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch b&amp;uacute; v&amp;agrave; ăn uống: giảm b&amp;uacute;, giảm ăn, uống nhiều.&lt;/p&gt;
+&lt;p&gt;Tổng trang: Gầy dần, da nhăn, l&amp;ocirc;ng d&amp;agrave;i, th&amp;acirc;n nhiệt &amp;iacute;t khi tăng.&lt;/p&gt;
+&lt;p&gt;2. TH&amp;Ocirc;NG TIN VỀ BỆNH PED&lt;/p&gt;
+&lt;p&gt;- L&amp;agrave; loại bệnh kh&amp;aacute; phổ biến tr&amp;ecirc;n heo; do một coronavirus g&amp;acirc;y ra (c&amp;ugrave;ng họ với virus TGE).&lt;/p&gt;
+&lt;p&gt;- Virus tấn c&amp;ocirc;ng v&amp;agrave;o hệ nhung mao ruột l&amp;agrave;m giảm bề mặt hấp thu, dẫn đến th&amp;uacute; bị mất nước v&amp;agrave; mất chất dinh dưỡng.&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp; C&amp;oacute; 2 chủng virus PED:&lt;/p&gt;
+&lt;p&gt;+ Chủng PED 1: chỉ nhiễm tr&amp;ecirc;n heo trong giai đoạn tăng trưởng&lt;/p&gt;
+&lt;p&gt;+ Chủng PED 2: nhiễm tr&amp;ecirc;n tất cả c&amp;aacute;c loại heo, kể cả heo n&amp;aacute;i trưởng th&amp;agrave;nh&lt;/p&gt;
+&lt;p&gt;- Bệnh ph&amp;aacute;t ra trong trại một c&amp;aacute;ch nhanh ch&amp;oacute;ng, từ khi virus x&amp;acirc;m nhập đến khi c&amp;oacute; triệu chứng đầu ti&amp;ecirc;n xuất hiện khoảng 18 &amp;ndash; 24 giờ&lt;/p&gt;
+&lt;p&gt;- Bệnh l&amp;acirc;y lan nhanh ch&amp;oacute;ng đến tất cả c&amp;aacute;c đ&amp;agrave;n heo trong trại với triệu chứng điển h&amp;igrave;nh l&amp;agrave; ti&amp;ecirc;u chảy&lt;/p&gt;
+&lt;p&gt;- L&amp;acirc;y lan chủ yếu l&amp;agrave; từ c&amp;aacute;c phương tiện vận chuyển, đặc biệt l&amp;agrave; xe v&amp;agrave; người ra v&amp;agrave;o mua b&amp;aacute;n heo.&lt;/p&gt;
+&lt;p&gt;2.1 Triệu chứng&lt;/p&gt;
+&lt;p&gt;- Ti&amp;ecirc;u chảy lan rộng tr&amp;ecirc;n đ&amp;agrave;n heo trong trại.&lt;/p&gt;
+&lt;p&gt;- Dấu hiệu r&amp;otilde; n&amp;eacute;t tr&amp;ecirc;n heo con theo mẹ:&lt;/p&gt;
+&lt;p&gt;+ Lười b&amp;uacute;&lt;/p&gt;
+&lt;p&gt;+ Ph&amp;acirc;n lỏng, tanh, m&amp;agrave;u v&amp;agrave;ng, c&amp;oacute; sữa kh&amp;ocirc;ng ti&amp;ecirc;u&lt;/p&gt;
+&lt;p&gt;+ &amp;Oacute;i mữa&lt;/p&gt;
+&lt;p&gt;+ Sụt c&amp;acirc;n nhanh do mất nước, heo con th&amp;iacute;ch nằm l&amp;ecirc;n bụng mẹ&lt;/p&gt;
+&lt;p&gt;+ Can thiệp bằng c&amp;aacute;c thuốc chống ti&amp;ecirc;u chảy kh&amp;ocirc;ng mang lại hiệu quả&lt;/p&gt;
+&lt;p&gt;2.2. Diến tiến&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp; &amp;nbsp;Tỷ lệ - - Tỷ lệ chết của heo con theo mẹ t&amp;ugrave;y thuộc v&amp;agrave;o độ tuổi nhiễm bệnh:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;+ Nếu heo con mắc bệnh ở độ tuổi 0 &amp;ndash; 5 ng&amp;agrave;y tuổi: tỷ lệ chết 100%.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;+ Nếu heo con mắc bệnh ở độ tuổi 6 &amp;ndash; 7 ng&amp;agrave;y tuổi: tỷ lệ chết khoảng 50%.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;+ Nếu heo con mắc bệnh ở độ tuổi lớn hơn 7 ng&amp;agrave;y tuổi: tỷ lệ chết&amp;nbsp; khoảng 30%.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;2.3 Bệnh t&amp;iacute;ch&lt;/p&gt;
+&lt;p&gt;- X&amp;aacute;c chết gầy, do mất nước.&lt;/p&gt;
+&lt;p&gt;- Biến mất tĩnh mạch sữa (milk vein) tr&amp;ecirc;n m&amp;agrave;ng treo ruột. Đ&amp;oacute; l&amp;agrave; hội chứng giảm hấp nghi&amp;ecirc;m trọng.&lt;/p&gt;
+&lt;p&gt;3. VI&amp;Ecirc;M DẠ D&amp;Agrave;Y- RUỘT TRUYỀN NHIỄM (TGE)&lt;/p&gt;
+&lt;p&gt;3.1 Nguy&amp;ecirc;n nh&amp;acirc;n:&lt;/p&gt;
+&lt;p&gt;- Do Coronavirus g&amp;acirc;y ra (kh&amp;aacute;c chủng loại với virus g&amp;acirc;y PED)&lt;/p&gt;
+&lt;p&gt;- Virus tồn tại l&amp;acirc;u trong m&amp;ocirc;i trường v&amp;agrave; chất thải, dễ bị ti&amp;ecirc;u diệt bởi &amp;aacute;nh s&amp;aacute;ng v&amp;agrave; chất s&amp;aacute;t tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;3.2 Cơ chế truyền bệnh:&lt;/p&gt;
+&lt;p&gt;- Bệnh xảy ra tr&amp;ecirc;n heo con nhỏ hơn 2 tuần tuổi.&lt;/p&gt;
+&lt;p&gt;- Bệnh l&amp;acirc;y truyền chủ yếu qua ph&amp;acirc;n, dịch tiết ở mũi, chất &amp;oacute;i heo con, qua sữa heo mẹ. Sau khi x&amp;acirc;m nhập qua đường ti&amp;ecirc;u h&amp;oacute;a, virus nh&amp;acirc;n l&amp;ecirc;n ở ruột non ăn m&amp;ograve;n lớp vi nhung mao ruột, l&amp;agrave;m cho ruột mỏng dần, xuất huyết, kh&amp;ocirc;ng ti&amp;ecirc;u h&amp;oacute;a được thức ăn - ti&amp;ecirc;u chảy.&lt;/p&gt;
+&lt;p&gt;3.3 Triệu chứng&lt;/p&gt;
+&lt;p&gt;- Thời gian nung bệnh rất ngắn từ 12 - 36 giờ.&lt;/p&gt;
+&lt;p&gt;- Heo con &amp;oacute;i mửa, ti&amp;ecirc;u chảy ph&amp;acirc;n lỏng v&amp;agrave;ng lẫn sữa kh&amp;ocirc;ng ti&amp;ecirc;u, kh&amp;ocirc;ng sốt.&lt;/p&gt;
+&lt;p&gt;- Heo con chết sao 3-5 ng&amp;agrave;y, x&amp;aacute;c chết gầy ốm.&lt;/p&gt;
+&lt;p&gt;- Heo n&amp;aacute;i v&amp;agrave; heo cai sữa kh&amp;ocirc;ng thấy r&amp;otilde; triệu chứng.&lt;/p&gt;
+&lt;p&gt;3.4 Bệnh t&amp;iacute;ch&lt;/p&gt;
+&lt;p&gt;- Ruột căng, đầy hơi&lt;/p&gt;
+&lt;p&gt;- Th&amp;agrave;nh ruột mỏng, xuất huyết, chứa nhiều chất lỏng thối&lt;/p&gt;
+&lt;p&gt;- Hạch ruột sưng thủy thủng.&lt;/p&gt;
+&lt;p&gt;- Vi&amp;ecirc;m dạ d&amp;agrave;y xuất huyết c&amp;oacute; cục sữa kh&amp;ocirc;ng ti&amp;ecirc;u, c&amp;oacute; thể lo&amp;eacute;t.&lt;/p&gt;
+&lt;p&gt;4. BỆNH CẦU TR&amp;Ugrave;NG (Coccidiosis)&lt;/p&gt;
+&lt;p&gt;4.1 Nguy&amp;ecirc;n nh&amp;acirc;n&lt;/p&gt;
+&lt;p&gt;- Bệnh cầu tr&amp;ugrave;ng heo do k&amp;yacute; sinh tr&amp;ugrave;ng Isospora suis, thuộc nh&amp;oacute;m protozoa nội b&amp;agrave;o g&amp;acirc;y ra&lt;/p&gt;
+&lt;p&gt;- Bệnh xảy ra cho heo mọi lứa tuổi nhưng thường gặp nhất ở heo con theo mẹ, tập trung ở heo dưới 2 tuần tuổi.&lt;/p&gt;
+&lt;p&gt;- Bệnh kh&amp;aacute; phổ biến ở những nơi nu&amp;ocirc;i heo với mật độ cao, điều kiện vệ sinh k&amp;eacute;m.&lt;/p&gt;
+&lt;p&gt;4.2 Triệu chứng bệnh:&lt;/p&gt;
+&lt;p&gt;- Đầu ti&amp;ecirc;n heo ti&amp;ecirc;u chảy ph&amp;acirc;n sệt, sau đ&amp;oacute; trở n&amp;ecirc;n lỏng (c&amp;oacute; thể lẫn bọt).&lt;/p&gt;
+&lt;p&gt;- Ti&amp;ecirc;u chảy k&amp;eacute;o d&amp;agrave;i 5-6 ng&amp;agrave;y, ph&amp;acirc;n c&amp;oacute; m&amp;agrave;u trắng đến v&amp;agrave;ng, c&amp;oacute; mỡ hoặc mịn, nhưng cũng c&amp;oacute; khi c&amp;oacute; m&amp;agrave;u n&amp;acirc;u nhạt hoặc hơi x&amp;aacute;m.&lt;/p&gt;
+&lt;p&gt;- Heo nhiễm bệnh nặng, x&amp;ugrave; l&amp;ocirc;ng, gầy ốm.&lt;/p&gt;
+&lt;p&gt;- Tỉ lệ chết do bệnh cầu tr&amp;ugrave;ng thấp (khoảng 20% heo mắc bệnh) nhưng l&amp;agrave;m tăng trưởng k&amp;eacute;m cho heo con cả giai đoạn trước v&amp;agrave; sau cai sữa.&lt;/p&gt;
+&lt;p&gt;- Tỉ lệ chết gia tăng khi kết hợp đồng thời với bệnh do E.coli hay c&amp;aacute;c bệnh kh&amp;aacute;c như C. perfringens, rotavirus, adenovirus.&lt;/p&gt;
+&lt;p&gt;5. CHẨN ĐO&amp;Aacute;N&lt;/p&gt;
+&lt;p&gt;5.1 Ph&amp;acirc;n biệt c&amp;aacute;c bệnh: l&amp;agrave; việc l&amp;agrave;m rất kh&amp;oacute; khăn.&lt;/p&gt;
+&lt;p&gt;- Khảo s&amp;aacute;t v&amp;agrave; ghi nhận diễn tiến t&amp;igrave;nh trạng bệnh l&amp;yacute; tr&amp;ecirc;n to&amp;agrave;n trại:&lt;/p&gt;
+&lt;p&gt;+ T&amp;igrave;nh trạng chuồng trại&lt;/p&gt;
+&lt;p&gt;+ Qu&amp;aacute; tr&amp;igrave;nh chủng ngừa&lt;/p&gt;
+&lt;p&gt;+ Ng&amp;agrave;y tuổi bị bệnh&lt;/p&gt;
+&lt;p&gt;+ Tỉ lệ bệnh, chết&lt;/p&gt;
+&lt;p&gt;+ Biện ph&amp;aacute;p can thiệp đ&amp;atilde; &amp;aacute;p dụng&lt;/p&gt;
+&lt;p&gt;- Kiểm tra th&amp;acirc;n nhiệt heo bệnh&lt;/p&gt;
+&lt;p&gt;- Gởi mẩu ph&amp;ograve;ng x&amp;eacute;t nghiệm&lt;/p&gt;
+&lt;p&gt;+ T&amp;igrave;m no&amp;atilde;n nang cầu tr&amp;ugrave;ng&lt;/p&gt;
+&lt;p&gt;+ X&amp;aacute;c định virus TGEV, PEDV&lt;/p&gt;
+&lt;p&gt;+ Kh&amp;aacute;ng sinh đồ (chỉ khi cần thiết)&lt;/p&gt;
+&lt;p&gt;5.2 Điểm ph&amp;acirc;n định&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;6. XỬ L&amp;Yacute; HEO BỆNH&lt;/p&gt;
+&lt;p&gt;- Loại trừ nguy&amp;ecirc;n nh&amp;acirc;n thuận lời: giử &amp;acirc;́m, kh&amp;ocirc;, sạch là chuy&amp;ecirc;̣n hàng đ&amp;acirc;̀u&lt;/p&gt;
+&lt;p&gt;- Cấp thuốc căn cứ v&amp;agrave;o t&amp;igrave;nh trạng bệnh:&lt;/p&gt;
+&lt;p&gt;+ B&amp;ugrave; nước v&amp;agrave; chất điện ly.&lt;/p&gt;
+&lt;p&gt;+ Giảm nhu động ruột&lt;/p&gt;
+&lt;p&gt;+ C&amp;acirc;n bằng tập đo&amp;agrave;n vi sinh đường ruột&lt;/p&gt;
+&lt;p&gt;+ Trợ lực.&lt;/p&gt;
+&lt;p&gt;+ Cho thuốc chống cầu tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;+ Cấp thuốc kh&amp;aacute;ng khuẩn.&lt;/p&gt;
+&lt;p&gt;7. THUỐC SỬ DỤNG (C&amp;aacute;c sản phẩm của MEKOVET)&lt;/p&gt;
+&lt;p&gt;7.1 Thuốc kh&amp;aacute;ng khuẩn&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; * Cho heo mẹ:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; 1. CL-ENRO 50 (Chi tiết):&lt;/p&gt;
+&lt;p&gt;Enrofloxacin&lt;/p&gt;
+&lt;p&gt;Một quinolone thế hệ thứ ba, diệt khuẩn phổ rộng v&amp;agrave; cả Mycoplasma&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn đường ruột, đường h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p&gt;2. CL- FLOR 30 (Chi tiết):&lt;/p&gt;
+&lt;p&gt;Florfenicol&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Kh&amp;aacute;ng sinh thế hệ mới thuộc nh&amp;oacute;m phenicol phổ rộng v&amp;agrave; c&amp;oacute; t&amp;aacute;c dụng l&amp;ecirc;n cả Mycoplasma&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Chỉ định điều trị nhiễm khuẩn đường ruột, h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p&gt;Th&amp;iacute;ch hợp d&amp;ugrave;ng cho gia s&amp;uacute;c lớn với liều ti&amp;ecirc;m c&amp;aacute;ch khoảng 48h&lt;/p&gt;
+&lt;p&gt;* Cho heo đang bệnh:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Nếu kh&amp;ocirc;ng sốt: chỉ cần cho uống Bye-Cilox, Apracolis, Cl-Amoxcoli, Ampicoli-B.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; 1. BYE-CYLOX (Chi tiết):&lt;/p&gt;
+&lt;p&gt;Kết hợp hai kh&amp;aacute;ng sinh (colistin + lincomycin) v&amp;agrave; probiotic (vi khuẩn lactic + nấm men) c&amp;ugrave;ng với một hệ enzyme ti&amp;ecirc;u h&amp;oacute;a&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn đường ruột do vi khuẩn Gram dương v&amp;agrave; Gram &amp;acirc;m, loạn khuẩn đường ruột, chứng ti&amp;ecirc;u h&amp;oacute;a k&amp;eacute;m.&lt;/p&gt;
+&lt;p&gt;2. APRA-COLIS (Chi tiết)&lt;/p&gt;
+&lt;p&gt;Kết hợp hai kh&amp;aacute;ng sinh c&amp;oacute; t&amp;aacute;c dụng cộng lực với hầu hết c&amp;aacute;c vi tr&amp;ugrave;ng gram &amp;acirc;m&lt;/p&gt;
+&lt;p&gt;Apramycin l&amp;agrave; một kh&amp;aacute;ng sinh b&amp;aacute;n tổng hợp thế hệ mới thuộc nh&amp;oacute;m aminoside&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn đường ruột, nhiễm E. coli, bệnh thương h&amp;agrave;n, &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; 3. CL-AMOXCOLI (Chi tiết)&lt;/p&gt;
+&lt;p&gt;Kết hợp hai kh&amp;aacute;ng sinh c&amp;oacute; t&amp;aacute;c dụng cộng lực, c&amp;oacute; t&amp;aacute;c dụng với hầu hết c&amp;aacute;c vi tr&amp;ugrave;ng gram &amp;acirc;m&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn đường ruột, nhiễm E. coli, bệnh thương h&amp;agrave;n, ph&amp;oacute; thương h&amp;agrave;n&lt;/p&gt;
+&lt;p&gt;Thuốc đầu ti&amp;ecirc;n nghĩ đến khi nghi ngờ nhiễm tr&amp;ugrave;ng Gram -&amp;nbsp; v&amp;agrave; ở dạng cấp t&amp;iacute;nh&lt;/p&gt;
+&lt;p&gt;- Trường hợp đ&amp;agrave;n vật nu&amp;ocirc;i đang c&amp;oacute; bệnh (li&amp;ecirc;n quan) n&amp;ecirc;n cho cả đ&amp;agrave;n uống&lt;/p&gt;
+&lt;p&gt;- Những con đang c&amp;oacute; triệu chứng n&amp;ecirc;n kết hợp ti&amp;ecirc;m CL-ACIMOXYL&lt;/p&gt;
+&lt;p&gt;4. AMPICOLI-B (Chi tiết)&lt;/p&gt;
+&lt;p&gt;Kết hợp hai kh&amp;aacute;ng sinh c&amp;oacute; t&amp;aacute;c dụng cộng lực, c&amp;oacute; t&amp;aacute;c dụng với hầu hết c&amp;aacute;c vi tr&amp;ugrave;ng gram &amp;acirc;m&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn đường ruột, nhiễm E. coli.&lt;/p&gt;
+&lt;p&gt;- Nếu c&amp;oacute; sốt: Cho uống như tr&amp;ecirc;n v&amp;agrave; chọn ti&amp;ecirc;m 1 trong c&amp;aacute;c loại: T.O.D-Fort, Cl-Flordextra, Cl-Acimoxyl&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;1. T.O.D-FORT (Chi tiết):&lt;/p&gt;
+&lt;p&gt;Kết hợp hai kh&amp;aacute;ng sinh (thiamphenicol + oxytetracycline) c&amp;oacute; t&amp;aacute;c dụng hiệp đồng, phổ rộng&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn Gram &amp;acirc;m, nhiễm khuẩn ruột&lt;/p&gt;
+&lt;p&gt;2. Mekoflox 10 (Chi tiết)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Florfenicol&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Kh&amp;aacute;ng sinh thế hệ mới thuộc nh&amp;oacute;m phenicol phổ rộng v&amp;agrave; c&amp;oacute; t&amp;aacute;c dụng l&amp;ecirc;n cả Mycoplasma&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;Chỉ định điều trị nhiễm khuẩn đường ruột, h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;3. CL-ACIMOXYL (Chi tiết):&lt;/p&gt;
+&lt;p&gt;Amoxicillin&lt;/p&gt;
+&lt;p&gt;Kh&amp;aacute;ng sinh diệt khuẩn phổ rộng, diệt khuẩn mạnh v&amp;agrave; nhanh&lt;/p&gt;
+&lt;p&gt;Sản phẩm c&amp;oacute; t&amp;aacute;c dụng l&amp;ecirc;n c&amp;aacute;c vi khuẩn sinh penicillinase&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm khuẩn Gram &amp;acirc;m.&lt;/p&gt;
+&lt;p&gt;* Sau khi hết bệnh: bổ sung v&amp;agrave;o thức ăn với MKV - GROWTH NEW + MKV-MEKOVIT&lt;/p&gt;
+&lt;p&gt;1. MKV-GROWTH NEW (Chi tiết):&lt;/p&gt;
+&lt;p&gt;L&amp;agrave; chế phẩm hỗn hợp chứa nhiều loại enzyme thủy ph&amp;acirc;n (dưới dạng cấu tr&amp;uacute;c đặc biệt), C&amp;aacute;c kho&amp;aacute;ng vi lượng hữu cơ v&amp;agrave; chất acidifier&lt;/p&gt;
+&lt;p&gt;- Chế phẩm c&amp;oacute; t&amp;aacute;c dụng:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; + Tăng cường khả năng ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; hấp thu dưỡng chất&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; + Ổn định pH đường ruột&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; + Ức chế sự ph&amp;aacute;t triển c&amp;aacute;c vi sinh vật g&amp;acirc;y hại trong đường ruột&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; + Cung đầy đủ vi kho&amp;aacute;ng dưới dạng hấp thu trọn vẹn&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng MKV-GROWTH NEW mang lại kết quả:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+ &amp;Iacute;t bệnh tật&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+ Giảm FCR&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+ Tăng trưởng nhanh&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;+ An to&amp;agrave;n cho m&amp;ocirc;i trường&lt;/p&gt;
+&lt;p&gt;2. MKV-MEKOVIT (Chi tiết):&lt;/p&gt;
+&lt;p&gt;- Bổ sung vitamin v&amp;agrave; acid amin cho heo, g&amp;agrave;, vịt, c&amp;uacute;t.&lt;/p&gt;
+&lt;p&gt;- Tăng cường chuyển h&amp;oacute;a thức ăn, k&amp;iacute;ch th&amp;iacute;ch ăn nhiều, mau ra l&amp;ocirc;ng.hạn chế c&amp;aacute;c bệnh đường ruột như: s&amp;igrave;nh bụng, ti&amp;ecirc;u chảy.&lt;/p&gt;
+&lt;p&gt;- Tăng trọng nhanh, b&amp;oacute;ng da, mượt l&amp;ocirc;ng, đẻ sai, ch&amp;oacute;ng lớn.&lt;/p&gt;
+&lt;p&gt;- Giảm c&amp;ograve;i cọc, tăng tỉ lệ đồng đều v&amp;agrave; nu&amp;ocirc;i sống ở gia cầm.&lt;/p&gt;
+&lt;p&gt;- Gi&amp;uacute;p vật nu&amp;ocirc;i giảm stress, giảm nguy cơ nhiễm bệnh.&lt;/p&gt;
+&lt;p&gt;7.2 Thuốc kh&amp;aacute;ng cầu tr&amp;ugrave;ng (Chi tiết):&lt;/p&gt;
+&lt;p&gt;7.3 Thuốc s&amp;aacute;t tr&amp;ugrave;ng chuồng trại (Chi tiết)&lt;/p&gt;
+&lt;p&gt;8. PH&amp;Ograve;NG BỆNH&lt;/p&gt;
+&lt;p&gt;- C&amp;ocirc; lập khu vực chăn nu&amp;ocirc;i; hạn chế:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; + Tham quan&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; + C&amp;aacute;c lo&amp;agrave;i vật kh&amp;aacute;c v&amp;agrave;o chỗ nu&amp;ocirc;i heo.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; + Gh&amp;eacute;p bầy.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;aacute;nh để tiếp x&amp;uacute;c giữa c&amp;aacute;c bầy heo con&lt;/p&gt;
+&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng h&amp;agrave;ng ng&amp;agrave;y khu vực n&amp;aacute;i nu&amp;ocirc;i con, c&amp;aacute;c phương ti&amp;ecirc;n phục n&amp;aacute;i nu&amp;ocirc;i con, tay ch&amp;acirc;n người chăm s&amp;oacute;c heo&lt;/p&gt;
+&lt;p&gt;- Chủng ngừa đầy đủ v&amp;agrave; đ&amp;uacute;ng qui tr&amp;igrave;nh cho heo mẹ&lt;/p&gt;
+&lt;p&gt;- Ri&amp;ecirc;ng đối với bệnh PED c&amp;oacute; thể chủng ngừa cho heo mẹ với DS PED PigVac (Daesung Microbilogical Labs - Korea)&lt;/p&gt;
+&lt;p&gt;- Lu&amp;ocirc;n tu&amp;acirc;n thủ qui tắc: KH&amp;Ocirc;, SẠCH, ẤM cho chuồng n&amp;aacute;i nu&amp;ocirc;i con v&amp;agrave; chuồng heo con&lt;/p&gt;
+&lt;p&gt;- Heo mẹ trong thời gian mang thai n&amp;ecirc;n d&amp;ugrave;ng MKV-GROWTH NEW trộn v&amp;agrave;o thức ăn v&amp;agrave; ti&amp;ecirc;m th&amp;ecirc;m ADE.BCOMPLEX - Chi tiết (v&amp;agrave;o l&amp;uacute;c: phối giống, 2 th&amp;aacute;ng sau phối v&amp;agrave; l&amp;uacute;c hạ sinh): đảm bảo đầy đủ dưỡng chất cho b&amp;agrave;o thai.&lt;/p&gt;
+&lt;p&gt;Hỗn hợp đa sinh tố: Th&amp;iacute;ch hợp ti&amp;ecirc;m bắp.&lt;/p&gt;
+&lt;p&gt;- Heo sơ sinh n&amp;ecirc;n ti&amp;ecirc;m sắt (FER-B12 - Chi tiết) theo đ&amp;uacute;ng qui tr&amp;igrave;nh.&lt;/p&gt;
+&lt;p&gt;- Trị v&amp;agrave; ngừa c&amp;aacute;c bệnh thiếu m&amp;aacute;u, thiếu sắt ở heo con, d&amp;ecirc;, cừu, b&amp;ecirc;, ngh&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;- Trị bệnh c&amp;ograve;i cọc gi&amp;uacute;p tăng trọng nhanh.&lt;/p&gt;
+&lt;p&gt;- Heo con n&amp;ecirc;n tập ăn sớm với khẫu phần th&amp;iacute;ch hợp c&amp;oacute; trộn th&amp;ecirc;m VIMILAC PLUS 2 - Chi tiết&lt;/p&gt;
+&lt;p&gt;Vimilac-Plus 2: Cung protein c&amp;oacute; nguồn gốc từ sữa, th&amp;iacute;ch hợp cho qu&amp;aacute; tr&amp;igrave;nh ti&amp;ecirc;u h&amp;oacute;a tr&amp;ecirc;n heo con.&lt;/p&gt;
+&lt;p&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-06-26T03:36:02.423Z</createdDate>
+	<createdDate_dt>2020-06-26T03:36:02.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T08:31:40.589Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:31:40.589Z</lastModifiedDate_dt>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

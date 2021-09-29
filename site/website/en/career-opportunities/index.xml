@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/job-pageEn</content-type>
+	<display-template>/templates/web/page/job-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bced</objectGroupId>
+	<objectId>bced551d-1521-65d4-f77a-e66e1aeaf6ca</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>career-opportunities</folder-name>
+	<internal-name>Career opportunities </internal-name>
+	<title_s>Career opportunities</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>f68e3ecd-4209-4eda-d2aa-da12a7ca1e0a</key>
+	<value>Slide</value>
+<component id="f68e3ecd-4209-4eda-d2aa-da12a7ca1e0a">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f68e</objectGroupId>
+	<objectId>f68e3ecd-4209-4eda-d2aa-da12a7ca1e0a</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>f68e3ecd-4209-4eda-d2aa-da12a7ca1e0a.xml</file-name>
+	<createdDate>2020-07-13T08:43:02.966Z</createdDate>
+	<createdDate_dt>2020-07-13T08:43:02.966Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T08:43:02.966Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:43:02.966Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e</key>
+	<value>Job listings &amp;amp; CSNS</value>
+<component id="7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e">
+	<content-type>/component/jobsEn</content-type>
+	<display-template>/templates/web/component/jobs.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a3e</objectGroupId>
+	<objectId>7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e</objectId>
+	<file-name>7a3e9b4d-db90-9d40-9ce3-bc8c9ad6554e.xml</file-name>
+	<internal-name>Job listings &amp; CSNS</internal-name>
+	<title1_s>Recruitment</title1_s>
+	<title2_s>Employment Policy</title2_s>
+	<contentLeftTitle_s>Training and developing</contentLeftTitle_s>
+	<contentLeftDesc_s>Mekovet pays special attention to the development of human resources through the effective implementation of training policies, improving knowledge and professional qualifications for employees. Not just taking training courses ....</contentLeftDesc_s>
+	<contentLeftURL_s>/en/recruitment/career-opportunities/training-and-developing</contentLeftURL_s>
+	<contentRightTitle_s> Remuneration and benefits</contentRightTitle_s>
+	<contentRightDesc_s> With a team of experienced technicians, enthusiastic customer care team, Mekovet is always looking forward to receiving the comments and suggestions from customers, Breeders to contribute to improving the products. The company's products are getting better and better ....</contentRightDesc_s>
+	<contentRightURL_s>/en/recruitment/career-opportunities/remuneration-and-welfare</contentRightURL_s>
+	<contentLeftImage_s>/static-assets/images/policies/Layer 201.png</contentLeftImage_s>
+	<contentRightImage_s>/static-assets/images/policies/Layer 202.png</contentRightImage_s>
+	<createdDate>2020-07-13T08:43:45.555Z</createdDate>
+	<createdDate_dt>2020-07-13T08:43:45.555Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:43:08.150Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:43:08.150Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-13T08:42:44.419Z</createdDate>
+	<createdDate_dt>2020-07-13T08:42:44.419Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:43:01.115Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:43:01.115Z</lastModifiedDate_dt>
+</page>

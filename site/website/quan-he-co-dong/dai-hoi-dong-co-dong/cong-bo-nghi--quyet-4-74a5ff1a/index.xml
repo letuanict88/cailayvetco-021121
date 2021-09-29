@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da1247ae</objectGroupId>
+	<objectId>da1247ae-430b-419c-b5b4-1ec5b0c45537</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-nghi--quyet-4-74a5ff1a</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Công bố thông tin Công văn về việc chấp thuận gia hạn thời gian tổ chức Đại hội đồng cổ đông thường niên 2020 đến trước ngày 30/06/2020</internal-name>
+	<navLabel>Công bố thông tin Công văn về việc chấp thuận gia </navLabel>
+	<title_s>Công bố thông tin Công văn về việc chấp thuận gia hạn thời gian tổ chức Đại hội đồng cổ đông thường niên 2020 đến trước ngày 30/06/2020</title_s>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
+	<value>Header - Đại hội đồng cổ đông </value>
+	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/MKV%20CBTT%20CV%20chap%20thuan%20gia%20han%20DHDCD%202020.pdf"&gt;C&amp;ocirc;ng văn về việc chấp thuận gia hạn thời gian tổ chức Đại hội đồng cổ đ&amp;ocirc;ng thường ni&amp;ecirc;n 2020 đến trước ng&amp;agrave;y 30/06/2020&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T09:11:08.129Z</createdDate>
+	<createdDate_dt>2020-07-31T09:11:08.129Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T01:29:05.945Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T01:29:05.945Z</lastModifiedDate_dt>
+	<date_dt>2020-04-15T09:30:08.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

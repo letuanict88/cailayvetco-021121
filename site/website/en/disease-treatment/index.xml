@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportEn</content-type>
+	<display-template>/templates/web/page/technical-assis-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0803</objectGroupId>
+	<objectId>0803eeb6-495d-a362-b6f3-c87614faebdf</objectId>
+	<internal-name>Disease &amp; Treatment</internal-name>
+	<title_s>Disease &amp; Treatment</title_s>
+	<phoneNumber_s>(0273) 38226462</phoneNumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>1e7675d5-4dbe-ecc5-5765-b874cecd6f14</key>
+	<value>Slide</value>
+<component id="1e7675d5-4dbe-ecc5-5765-b874cecd6f14">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e76</objectGroupId>
+	<objectId>1e7675d5-4dbe-ecc5-5765-b874cecd6f14</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>1e7675d5-4dbe-ecc5-5765-b874cecd6f14.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T07:48:30.107Z</createdDate>
+	<createdDate_dt>2020-07-13T07:48:30.107Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:48:30.107Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:48:30.107Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistanceCompoent_o item-list="true">	<item datasource="technicalAssistanceComponent">	<key>/site/items/e85bba81-5eb8-2efb-193f-6ef21d5174a9.xml</key>
+	<value>Poultry &amp; Animal disease</value>
+	<include>/site/items/e85bba81-5eb8-2efb-193f-6ef21d5174a9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="technicalAssistanceComponent">	<key>/site/items/240eb7cf-d391-92c1-e63a-8b972204228e.xml</key>
+	<value>Fish disease</value>
+	<include>/site/items/240eb7cf-d391-92c1-e63a-8b972204228e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="technicalAssistanceComponent">	<key>/site/items/2a9d81e4-99db-72a1-7d99-0ae9637ee30c.xml</key>
+	<value>Pet disease</value>
+	<include>/site/items/2a9d81e4-99db-72a1-7d99-0ae9637ee30c.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></technicalAssistanceCompoent_o>
+	<supportCustomerImage_s>/static-assets/images/techsupport/ho-tro-kh.png</supportCustomerImage_s>
+	<file-name>index.xml</file-name>
+	<folder-name>disease-treatment</folder-name>
+	<supportCustomerContent_html>&lt;p style="text-align: justify;"&gt;With a team of responsible, experienced technicians and enthusiastic customer care staff, Mekovet always wishes to receive comments and sharing from customers, farmers to improve the Company's products and services. We hope MEKOVET will be sharing, giving solution to the difficulties of farmers, best serving customers with our high quality products and services for the goal of &lt;strong&gt;&amp;ldquo;To develop a sustainable agribusiness of Vietnam&lt;/strong&gt;&amp;rdquo;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Please contact us to receive advice, timely support with the best quality of service.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</supportCustomerContent_html>
+	<createdDate>2020-07-13T07:46:23.664Z</createdDate>
+	<createdDate_dt>2020-07-13T07:46:23.664Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:42:25.400Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:42:25.400Z</lastModifiedDate_dt>
+	<processtitle_s>Husbandry procedures</processtitle_s>
+	<processComponent_o item-list="true">	<item datasource="processComponent">	<key>/site/items/64585c14-1c64-9223-bbdb-c000126100fa.xml</key>
+	<value>POULTRY &amp; ANIMAL CARE</value>
+	<include>/site/items/64585c14-1c64-9223-bbdb-c000126100fa.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="processComponent">	<key>/site/items/90cdceb0-5f72-a850-5578-8e4028137147.xml</key>
+	<value>FISH CARE</value>
+	<include>/site/items/90cdceb0-5f72-a850-5578-8e4028137147.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="processComponent">	<key>/site/items/d6b97f72-68a3-daa6-f0bf-c78586cfb434.xml</key>
+	<value>PET CARE</value>
+	<include>/site/items/d6b97f72-68a3-daa6-f0bf-c78586cfb434.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></processComponent_o>
+</page>

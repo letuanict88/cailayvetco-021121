@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b03</objectGroupId>
+	<objectId>5b03e3cd-5afc-34f5-5155-9b20328a66c1</objectId>
+	<internal-name>B.COMPLEX</internal-name>
+	<navLabel>B.COMPLEX</navLabel>
+	<productName_s>B.COMPLEX</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>b-complex</folder-name>
+	<isHot_b>false</isHot_b>
+	<productImage_s>/static-assets/images/products/1 B.Complex 3A.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin B1 HCl 2,5g&lt;/p&gt;
+&lt;p&gt;Vitamin PP 2,5g&lt;/p&gt;
+&lt;p&gt;Vitamin B6 500mg&lt;/p&gt;
+&lt;p&gt;Vitamin B2 Na.phosphate 100mg&lt;/p&gt;
+&lt;p&gt;Calcium Pantothenate 100mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bổ sung vitamin trong c&amp;aacute;c bệnh thiếu vitamin nh&amp;oacute;m B&lt;/p&gt;
+&lt;p&gt;gi&amp;uacute;p tr&amp;acirc;u, b&amp;ograve;, heo, ch&amp;oacute;, g&amp;agrave;, vịt ăn ngon, k&amp;iacute;ch th&amp;iacute;ch tăng&lt;/p&gt;
+&lt;p&gt;trưởng, chống suy dinh dưỡng, thiếu m&amp;aacute;u, bồi dưỡng&lt;/p&gt;
+&lt;p&gt;trong c&amp;aacute;c bệnh nhiễm khuẩn v&amp;agrave; k&amp;yacute; sinh tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 1.84163%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.5267%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp hay ti&amp;ecirc;m tĩnh mạch.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 1ml/15-20kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- Heo, ch&amp;oacute;: 1ml/10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt: 1ml/5-10kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m li&amp;ecirc;n tục 5-6 ng&amp;agrave;y trong 1 liệu tr&amp;igrave;nh điều trị.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bồi dưỡng 1-2 tuần/lần.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-78&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-01T02:54:45.716Z</createdDate>
+	<createdDate_dt>2020-08-01T02:54:45.716Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:19:55.797Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:19:55.797Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-01T02:54:46.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d0d6e12d</objectGroupId>
+	<objectId>d0d6e12d-653f-4ac2-87cc-96d8366d215b</objectId>
+	<internal-name>BIPENI-STREPTO</internal-name>
+	<navLabel>BIPENI-STREPTO</navLabel>
+	<productName_s>BIPENI-STREPTO</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicillin-c03b513e</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Antibiotic </value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/15 BIPENI-STREPTOA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.7019%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt; In 1 vial contains&lt;/p&gt;
+&lt;p&gt;Dihydrostreptomycin sulfate 1.25g&lt;/p&gt;
+&lt;p&gt;Penicillin G Procain 1g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Treating infections caused by bacteria sensitive to Dihydrostreptomycin and Penicillin in buffalos, cows, goats, sheep, pigs such as: wound infection, pneumonia, mastitis, uterine inflammation, umbilical cord, atrophic rhinitis, inflammation arthritis, intestinal infection, pasteurellosis, typhoid.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.79689%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.5011%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dissolve the distilled water or physiological salinity of 9 lọ into a powder vial of just 20 ml. Shaken. Intramuscular or subcutaneous injection&lt;/p&gt;
+&lt;p&gt;- Common dose for species: 1ml / 5kg weight / day&lt;/p&gt;
+&lt;p&gt;- Inject 1 time / day. Use continuously for 5-7 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-269&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T07:50:20.947Z</createdDate>
+	<createdDate_dt>2020-08-05T07:50:20.947Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:54:13.950Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:54:13.950Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

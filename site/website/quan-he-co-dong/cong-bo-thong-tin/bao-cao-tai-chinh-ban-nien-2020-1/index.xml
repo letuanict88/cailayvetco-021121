@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d70f</objectGroupId>
+	<objectId>d70faae4-775a-ed42-c70a-e7168a7b741c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>bao-cao-tai-chinh-ban-nien-2020-1</folder-name>
+	<internal-name>Báo cáo tài chính 6 tháng đầu năm 2020</internal-name>
+	<navLabel>Báo cáo tài chính 6 tháng đầu năm 2020</navLabel>
+	<title_s>CBTT_Báo cáo tài chính 6 tháng đầu năm 2020</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</key>
+	<value>Header - Detail Quan hệ cổ đông</value>
+	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>announcement</key>
+	<value_smv>Công bố thông tin</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy c&amp;ocirc;ng bố th&amp;ocirc;ng tin B&amp;aacute;o c&amp;aacute;o T&amp;agrave;i ch&amp;iacute;nh 6 th&amp;aacute;ng đầu năm 2020.&lt;/p&gt;
+&lt;p&gt;Xin mời tải về&amp;nbsp;&lt;strong&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/bao-cao-tai-chinh-ban-nien-2020"&gt;TẠI Đ&amp;Acirc;Y&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-08-14T04:04:48.444Z</createdDate>
+	<createdDate_dt>2020-08-14T04:04:48.444Z</createdDate_dt>
+	<lastModifiedDate>2020-08-14T04:04:48.444Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-14T04:04:48.444Z</lastModifiedDate_dt>
+	<date_dt>2020-08-14T04:04:48.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

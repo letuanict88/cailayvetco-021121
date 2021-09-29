@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fd61b4f2</objectGroupId>
+	<objectId>fd61b4f2-6708-4f11-8d30-556a15265d79</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cl-dotyl-d4387a0c</folder-name>
+	<internal-name>CL-DOXY 20%</internal-name>
+	<navLabel>CL-DOXY 20%</navLabel>
+	<productName_s>CL-DOXY 20%</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.046%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Doxycycline HCl 20g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh: CRD, CCRD, vịt khẹt, sổ mũi&amp;nbsp;truyền nhiễm, E.coli, vi&amp;ecirc;m dạ d&amp;agrave;y-ruột, thương h&amp;agrave;n, tụ&amp;nbsp;huyết tr&amp;ugrave;ng ở g&amp;agrave;, vịt, c&amp;uacute;t.&lt;/p&gt;
+&lt;p&gt;- Trị vi&amp;ecirc;m ruột, c&amp;aacute;c bệnh đường h&amp;ocirc; hấp, sinh dục, tiết&amp;nbsp;niệu ở heo, b&amp;ecirc;, d&amp;ecirc; non, cừu non.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.36093%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.593%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha nước cho uống hay trộn v&amp;agrave;o thức ăn cho ăn.&lt;/p&gt;
+&lt;p&gt;- B&amp;ecirc;, d&amp;ecirc; non, cừu non: 1g/40kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- Heo, gia cầm: 1g/20kg thể trọng/ng&amp;agrave;y hay 1g/2 l&amp;iacute;t&amp;nbsp;nước uống hoặc 1g/1kg thức ăn.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-273&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/88 CL-DOXY 20 100gA.png</productImage_s>
+	<createdDate>2020-08-03T03:53:17.919Z</createdDate>
+	<createdDate_dt>2020-08-03T03:53:17.919Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:19:08.035Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:19:08.035Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T03:53:18.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

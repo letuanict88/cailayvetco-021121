@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0aaa</objectGroupId>
+	<objectId>0aaa6996-bdbe-246c-02d2-cf709f58169e</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Nhóm Bồi dưỡng, tăng sức đề kháng </internal-name>
+	<navLabel>Nhóm Bồi dưỡng, tăng sức đề kháng </navLabel>
+	<title_s>Nhóm Bồi dưỡng, tăng sức đề kháng </title_s>
+	<rightTitle_s>ADEB-METHILYSIN</rightTitle_s>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/ADEB-Methilysin.png</rightimage_s>
+	<file-name>index.xml</file-name>
+	<folder-name>boi-duong-tang-suc-de-khang</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>cb600876-24ff-3d21-4ee8-47f5fbcf691f</key>
+	<value>Slide</value>
+<component id="cb600876-24ff-3d21-4ee8-47f5fbcf691f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cb60</objectGroupId>
+	<objectId>cb600876-24ff-3d21-4ee8-47f5fbcf691f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>cb600876-24ff-3d21-4ee8-47f5fbcf691f.xml</file-name>
+	<createdDate>2020-08-03T08:04:29.403Z</createdDate>
+	<createdDate_dt>2020-08-03T08:04:29.403Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:04:29.403Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:04:29.403Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/8fe74515-3811-6d2b-a489-a64773239e42.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/8fe74515-3811-6d2b-a489-a64773239e42.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T08:01:22.600Z</createdDate>
+	<createdDate_dt>2020-08-03T08:01:22.600Z</createdDate_dt>
+	<lastModifiedDate>2020-08-29T07:27:05.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:27:05.677Z</lastModifiedDate_dt>
+</page>

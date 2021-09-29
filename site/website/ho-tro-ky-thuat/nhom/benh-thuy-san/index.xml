@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9691</objectGroupId>
+	<objectId>96910e13-4009-4879-12e9-ee5e905b7353</objectId>
+	<internal-name>Bệnh thủy sản</internal-name>
+	<navLabel>Bệnh thủy sản</navLabel>
+	<t_s>Bệnh thủy sản</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-thuy-san</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>dcd418c4-d5a7-fbee-d273-e9193593885d</key>
+	<value>Slide</value>
+<component id="dcd418c4-d5a7-fbee-d273-e9193593885d">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dcd4</objectGroupId>
+	<objectId>dcd418c4-d5a7-fbee-d273-e9193593885d</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>dcd418c4-d5a7-fbee-d273-e9193593885d.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-17T04:11:07.334Z</createdDate>
+	<createdDate_dt>2020-07-17T04:11:07.334Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:11:07.334Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:11:07.334Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>bcdf3af1-5b47-f683-b06d-e630d0748c5e</key>
+	<value>Bệnh thủy sản</value>
+<component id="bcdf3af1-5b47-f683-b06d-e630d0748c5e">
+	<content-type>/component/listsurport</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bcdf</objectGroupId>
+	<objectId>bcdf3af1-5b47-f683-b06d-e630d0748c5e</objectId>
+	<file-name>bcdf3af1-5b47-f683-b06d-e630d0748c5e.xml</file-name>
+	<internal-name>Bệnh thủy sản</internal-name>
+	<title_s>Bệnh thủy sản</title_s>
+	<technicalAssistanceType_s>benh-thuy-san</technicalAssistanceType_s>
+	<createdDate>2020-07-17T04:11:46.604Z</createdDate>
+	<createdDate_dt>2020-07-17T04:11:46.604Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:11:46.604Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:11:46.604Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-17T04:10:25.356Z</createdDate>
+	<createdDate_dt>2020-07-17T04:10:25.356Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:10:25.356Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:10:25.356Z</lastModifiedDate_dt>
+</page>

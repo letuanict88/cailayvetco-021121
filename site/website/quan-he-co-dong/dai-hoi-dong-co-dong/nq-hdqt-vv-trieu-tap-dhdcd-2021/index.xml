@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>68a0</objectGroupId>
+	<objectId>68a04cc5-75cd-f4b1-59c7-3c5a3b519573</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>nq-hdqt-vv-trieu-tap-dhdcd-2021</folder-name>
+	<internal-name>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021</internal-name>
+	<navLabel>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021</navLabel>
+	<title_s>Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</key>
+	<value>Header - Detail Quan hệ cổ đông</value>
+	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021"&gt;Nghị quyết HĐQT về việc triệu tập ĐHĐCĐ 2021&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-02-26T02:04:21.807Z</createdDate>
+	<createdDate_dt>2021-02-26T02:04:21.807Z</createdDate_dt>
+	<lastModifiedDate>2021-02-26T02:13:06.248Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-02-26T02:13:06.248Z</lastModifiedDate_dt>
+	<date_dt>2021-02-26T02:04:22.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

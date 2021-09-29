@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2fa69fb1</objectGroupId>
+	<objectId>2fa69fb1-a8e6-4816-837a-61488b90d2bb</objectId>
+	<isHot_b>true</isHot_b>
+	<internal-name>MKV-GROWTH FOR FISH</internal-name>
+	<navLabel>MKV-GROWTH FOR FISH</navLabel>
+	<productName_s>MKV-GROWTH FOR FISH</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-894bc654</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MKV-GROWTH FOR FISH 200g (MAT TRUOC).png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.2093%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin A (min)&amp;nbsp; 5.000.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 (min)1.000.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E (min) 1.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin B1 (min)&amp;nbsp; &amp;nbsp;1g&lt;/p&gt;
+&lt;p&gt;Vitamin B2 (min)&amp;nbsp; &amp;nbsp;250mg&lt;/p&gt;
+&lt;p&gt;Vitamin B6 (min)&amp;nbsp; 500mg&lt;/p&gt;
+&lt;p&gt;Calcium pantothenate (min)&amp;nbsp; 500mg&lt;/p&gt;
+&lt;p&gt;Lysin (min)&amp;nbsp; &amp;nbsp;10g&lt;/p&gt;
+&lt;p&gt;Methionine (min) 30g&lt;/p&gt;
+&lt;p&gt;Fe (min-max)&amp;nbsp; 3,5-4,5g&lt;/p&gt;
+&lt;p&gt;Cu (min-max)&amp;nbsp; 3,5-4,5g&lt;/p&gt;
+&lt;p&gt;Zn&amp;nbsp; (min-max) 700-900mg&lt;/p&gt;
+&lt;p&gt;Mn&amp;nbsp; (min-max)&amp;nbsp; 1,6-2g&lt;/p&gt;
+&lt;p&gt;Ca&amp;nbsp; (min-max) 39-49g&lt;/p&gt;
+&lt;p&gt;Chất mang (bột m&amp;igrave;) vừa đủ&amp;nbsp; 1kg&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.26997%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.5206%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cung cấp c&amp;aacute;c vitamin, acid amin v&amp;agrave; kho&amp;aacute;ng chất thiết yếu gi&amp;uacute;p c&amp;aacute; sinh trưởng ph&amp;aacute;t triển tốt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn cho ăn.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;1kg/ 200-300kg thức ăn hoặc 1kg/ 8-10 tấn c&amp;aacute;. N&amp;ecirc;n cho ăn li&amp;ecirc;n tục trong suốt qu&amp;aacute; tr&amp;igrave;nh nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:36:36.062Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:36:36.062Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

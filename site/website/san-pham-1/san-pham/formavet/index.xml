@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed68</objectGroupId>
+	<objectId>ed6899d9-3c04-d7fe-278f-4e7339c8a675</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>formavet</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>FORMAVET</internal-name>
+	<navLabel>FORMAVET</navLabel>
+	<productName_s>FORMAVET</productName_s>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
+	</item></productgrouplv2_o>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/Formavet.png</productImage_s>
+	<productDescription_html>&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Formaldehyde 35g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i, propionic acid,&amp;hellip;..vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Ti&amp;ecirc;u diệt nhanh virus g&amp;acirc;y c&amp;aacute;c bệnh như: dịch tả heo&amp;nbsp;ch&amp;acirc;u phi (ASF), tai xanh (PRRS), c&amp;uacute;m gia cầm (AI), lở&amp;nbsp;mồm long m&amp;oacute;ng (FMD), ti&amp;ecirc;u chảy cấp (PED), &amp;hellip;&lt;/p&gt;
+&lt;p&gt;- Ti&amp;ecirc;u diệt vi khuẩn, nấm, b&amp;agrave;o tử g&amp;acirc;y c&amp;aacute;c bệnh ở gia&amp;nbsp;s&amp;uacute;c, gia cầm như: thương h&amp;agrave;n, ph&amp;oacute; thương h&amp;agrave;n, tụ huyết&amp;nbsp;tr&amp;ugrave;ng, nhiệt th&amp;aacute;n, đ&amp;oacute;ng dấu, Mycoplasma (CRD), bệnh&amp;nbsp;đường h&amp;ocirc; hấp phức hợp (CCRD), vi&amp;ecirc;m phổi, vi&amp;ecirc;m v&amp;uacute;,&amp;nbsp;vi&amp;ecirc;m tử cung, &amp;hellip;&lt;/p&gt;
+&lt;p&gt;- Ti&amp;ecirc;u diệt vi khuẩn g&amp;acirc;y thối m&amp;oacute;ng, hư m&amp;oacute;ng, gi&amp;uacute;p l&amp;agrave;m&amp;nbsp;cứng m&amp;oacute;ng nhanh tr&amp;ecirc;n heo, tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Liều lượng sử dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha loãng thuốc v&amp;agrave;o nước sạch trước khi sử dụng.&lt;/p&gt;
+&lt;p&gt;1) S&amp;aacute;t tr&amp;ugrave;ng chuồng trại, vệ sinh m&amp;ocirc;i trường&lt;/p&gt;
+&lt;p&gt;- Đối với v&amp;ugrave;ng đang c&amp;oacute; dịch bệnh: pha 350ml/100 l&amp;iacute;t&amp;nbsp;nước, phun từ 1-2 lần/ng&amp;agrave;y v&amp;agrave; lặp lại sau 1-3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Đối với ph&amp;ograve;ng, ngừa dịch bệnh: pha 250ml/100 l&amp;iacute;t nước,&amp;nbsp;phun 5-7 ng&amp;agrave;y/lần hoặc t&amp;ugrave;y t&amp;igrave;nh h&amp;igrave;nh dịch bệnh điều&amp;nbsp;chỉnh ph&amp;ugrave; hợp.&lt;/p&gt;
+&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng phương tiện vận chuyển, dụng cụ chăn nu&amp;ocirc;i,&amp;nbsp;khu vực kho chứa,&amp;hellip; : pha 250ml/100 l&amp;iacute;t nước, phun đều&amp;nbsp;hoặc ng&amp;acirc;m ướt đẫm bề mặt s&amp;aacute;t tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;- S&amp;aacute;t tr&amp;ugrave;ng trứng để ấp: pha 100ml/100 l&amp;iacute;t nước, phun đều l&amp;ecirc;n mặt trứng, để kh&amp;ocirc; trước khi đưa v&amp;agrave;o l&amp;ograve; ấp.&lt;/p&gt;
+&lt;p&gt;- Ti&amp;ecirc;u độc hố s&amp;aacute;t tr&amp;ugrave;ng, ti&amp;ecirc;u độc x&amp;aacute;c chết: 1 l&amp;iacute;t/100 l&amp;iacute;t&amp;nbsp;nước. Phun đều v&amp;agrave;o x&amp;aacute;c, hố ch&amp;ocirc;n, xung quanh th&amp;agrave;nh hố.&lt;/p&gt;
+&lt;p&gt;2) S&amp;aacute;t tr&amp;ugrave;ng m&amp;oacute;ng&lt;/p&gt;
+&lt;p&gt;Ng&amp;acirc;m ch&amp;acirc;n, m&amp;oacute;ng ngập v&amp;agrave;o dung dịch 10% (pha 100ml&amp;nbsp;Formavet với 350ml nước) để thuốc ngấm s&amp;acirc;u v&amp;agrave;o da,&amp;nbsp;đạt hiệu quả tối đa.&lt;/p&gt;
+&lt;p&gt;Chống chỉ định, khuyến c&amp;aacute;o đặc biệt, th&amp;ocirc;ng tin kh&amp;aacute;c: đọc&amp;nbsp;trong tờ hướng dẫn sử dụng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-349&lt;/strong&gt;&lt;/p&gt;</productDescription_html>
+	<createdDate>2020-08-03T08:59:39.016Z</createdDate>
+	<createdDate_dt>2020-08-03T08:59:39.016Z</createdDate_dt>
+	<lastModifiedDate>2020-08-29T07:05:05.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:05:05.139Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-05T08:43:18.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da11</objectGroupId>
+	<objectId>da111d58-3d62-95a5-1911-8c4ac25f3cba</objectId>
+	<file-name>da111d58-3d62-95a5-1911-8c4ac25f3cba.xml</file-name>
+	<internal-name>Antiseptics, Bathsoap</internal-name>
+	<productgrouplevel1_s>thuoc-cho-cho-meo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-sat-trung-dau-tam</productgrouplevel2_s>
+	<createdDate>2020-08-05T07:31:42.320Z</createdDate>
+	<createdDate_dt>2020-08-05T07:31:42.320Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:31:42.320Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:31:42.320Z</lastModifiedDate_dt>
+</component>

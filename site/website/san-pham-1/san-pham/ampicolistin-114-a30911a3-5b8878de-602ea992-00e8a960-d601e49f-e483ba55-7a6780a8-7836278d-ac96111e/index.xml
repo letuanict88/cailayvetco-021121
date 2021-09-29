@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2f370b9b</objectGroupId>
+	<objectId>2f370b9b-4a89-4d14-80de-9d00f225e32d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114-a30911a3-5b8878de-602ea992-00e8a960-d601e49f-e483ba55-7a6780a8-7836278d-ac96111e</folder-name>
+	<internal-name>AMPICOLISTIN</internal-name>
+	<navLabel>AMPICOLISTIN</navLabel>
+	<productName_s>AMPICOLISTIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/47 AmpicolistinA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.4935%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ampicillin trihydrate 15g&lt;/p&gt;
+&lt;p&gt;Colistin sulfate 30.000.000UI&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trị nhiễm khuẩn đường ruột, đường h&amp;ocirc; hấp trong c&amp;aacute;c bệnh như: ti&amp;ecirc;u chảy ph&amp;acirc;n trắng, ph&amp;acirc;n xanh, ph&amp;acirc;n v&amp;agrave;ng,&amp;nbsp;vi&amp;ecirc;m ruột, bệnh thương h&amp;agrave;n, ph&amp;oacute; thương h&amp;agrave;n, tụ huyết tr&amp;ugrave;ng, vi&amp;ecirc;m phổi ở tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, cừu&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.94656%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.5598%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp. Lắc kỹ trước khi d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 1ml/30kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Heo, d&amp;ecirc;, cừu: 1ml/15kg thể trọng&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y 1 lần. D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-174&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T02:12:12.426Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T02:12:12.426Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

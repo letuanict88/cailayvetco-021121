@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4f9fc596</objectGroupId>
+	<objectId>4f9fc596-f001-40de-ab4f-e42ac6ab63ae</objectId>
+	<internal-name>B.COMPLEX SUPER</internal-name>
+	<navLabel>B.COMPLEX SUPER</navLabel>
+	<productName_s>B.COMPLEX SUPER</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>b-complex-978b6a27</folder-name>
+	<isHot_b>true</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productImage_s>/static-assets/images/products/2 B.Complex SuperA.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Increasing resistance</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.1517%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dextrose 2.5g&lt;/p&gt;
+&lt;p&gt;Sodium acetate 1.25g&lt;/p&gt;
+&lt;p&gt;Magnessium sulfate 100mg&lt;/p&gt;
+&lt;p&gt;Potassium chloride 100mg&lt;/p&gt;
+&lt;p&gt;Sodium chloride 45mg&lt;/p&gt;
+&lt;p&gt;Vitamin B1 HCl 50mg&lt;/p&gt;
+&lt;p&gt;Vitamin B6 50mg&lt;/p&gt;
+&lt;p&gt;Calcium pantothenate 25mg&lt;/p&gt;
+&lt;p&gt;Vitamin B2 Na.phosphate 20mg&lt;/p&gt;
+&lt;p&gt;Vitamin PP 10mg&lt;/p&gt;
+&lt;p&gt;Solvents vđ 500ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vitamin and mineral supplements are used in&amp;nbsp;cases of dehydration, loss of health due to diarrhea, support before and after birth, foster strength in disease&amp;nbsp;Infections in buffalos, cows and pigs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In addition, the drug can be used instead of distilled water for injection and&amp;nbsp;changing drinking water used during the period of incubation in chickens and ducks.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.20954%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.6387%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Piglets: abdominal injection: 10-50ml / pig / once.&lt;/p&gt;
+&lt;p&gt;- Cattle, large pigs: inject subcutaneously or intravenously&amp;nbsp;20-50ml / head / time.&lt;/p&gt;
+&lt;p&gt;- Chickens and ducks: mix 1 bottle with 1.5 liters of cooked water for free drinking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-70&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T06:10:13.215Z</createdDate>
+	<createdDate_dt>2020-08-05T06:10:13.215Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:20:17.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:20:17.483Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a78c8021</objectGroupId>
+	<objectId>a78c8021-8155-47e2-ad16-b3d5b362f27e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114-a30911a3-5b8878de</folder-name>
+	<internal-name>BIPENI-STREPTO</internal-name>
+	<navLabel>BIPENI-STREPTO</navLabel>
+	<productName_s>BIPENI-STREPTO</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/15 BIPENI-STREPTOA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.1841%;"&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;agrave;nh phần:&lt;/strong&gt;&amp;nbsp;Trong 1 lọ chứa&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dihydrostreptomycin sulfate 1,25g&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Penicillin G Procain 1g&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trị nhiễm tr&amp;ugrave;ng do vi khuẩn nhạy cảm với Dihydrostreptomycin v&amp;agrave; Penicillin g&amp;acirc;y ra tr&amp;ecirc;n tr&amp;acirc;u, b&amp;ograve;, d&amp;ecirc;, cừu, heo như: nhiễm tr&amp;ugrave;ng vết thương, vi&amp;ecirc;m phổi, vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m tử cung, vi&amp;ecirc;m rốn, vi&amp;ecirc;m teo xương mũi, vi&amp;ecirc;m khớp, vi&amp;ecirc;m ruột, tụ huyết tr&amp;ugrave;ng, thương h&amp;agrave;n.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.3941%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.4217%;"&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;ograve;a đều nước cất hay sinh l&amp;yacute; mặn 9&amp;permil; v&amp;agrave;o lọ thuốc bột vừa đủ 20ml. Lắc kỹ. Ti&amp;ecirc;m bắp hay ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Liều chung cho c&amp;aacute;c lo&amp;agrave;i: 1ml/5kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;m 1 lần/ng&amp;agrave;y. D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-269&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:20:31.468Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:20:31.468Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

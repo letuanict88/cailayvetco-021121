@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplandingEn</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>40b1df4f</objectGroupId>
+	<objectId>40b1df4f-de5e-4eee-a5b7-3dc6c0615c87</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>water-treatment-and-environmental-improvement</folder-name>
+	<internal-name>Water treatment and environmental improvement</internal-name>
+	<title_s>Water treatment and environmental improvement</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>30fab74f-4797-6d73-7f08-d747b47db00e</key>
+	<value>Slide</value>
+<component id="30fab74f-4797-6d73-7f08-d747b47db00e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>30fa</objectGroupId>
+	<objectId>30fab74f-4797-6d73-7f08-d747b47db00e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>30fab74f-4797-6d73-7f08-d747b47db00e.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-05T04:53:41.555Z</createdDate>
+	<createdDate_dt>2020-08-05T04:53:41.555Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:53:41.555Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:53:41.555Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/514d302d-48aa-ab09-dac3-b7ca15cf8b67.xml</key>
+	<value>Water treatment and environmental improvement</value>
+	<include>/site/items/514d302d-48aa-ab09-dac3-b7ca15cf8b67.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<createdDate>2020-08-05T04:51:17.411Z</createdDate>
+	<createdDate_dt>2020-08-05T04:51:17.411Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T05:00:46.911Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:00:46.911Z</lastModifiedDate_dt>
+</page>

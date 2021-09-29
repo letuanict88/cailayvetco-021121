@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7c4f</objectGroupId>
+	<objectId>7c4f2c94-52db-27de-2b2d-c0cf30878006</objectId>
+	<internal-name>ENROMIN-400</internal-name>
+	<navLabel>ENROMIN-400</navLabel>
+	<productName_s>ENROMIN-400</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>enromin-400</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<isHot_b>false</isHot_b>
+	<productImage_s>/static-assets/images/products/93 ENROMIN 400 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.4604%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enrofloxacin HCl 4g&lt;/p&gt;
+&lt;p&gt;Vitamin A 100.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin C 500mg&lt;/p&gt;
+&lt;p&gt;Vitamin K3 50mg&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thuốc d&amp;ugrave;ng để ph&amp;ograve;ng v&amp;agrave; trị hữu hiệu khi g&amp;agrave; 3-5 ng&amp;agrave;y&amp;nbsp;tuổi chết h&amp;agrave;ng loạt do E.coli. &amp;Uacute;m gia cầm non.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chuy&amp;ecirc;n trị v&amp;agrave; ph&amp;ograve;ng bệnh đường h&amp;ocirc; hấp, vi&amp;ecirc;m xoang&amp;nbsp;mũi truyền nhiễm vịt (vịt khẹt), suyễn, vi&amp;ecirc;m phổi, vi&amp;ecirc;m&amp;nbsp;phế quản, vi&amp;ecirc;m khớp, tụ huyết tr&amp;ugrave;ng g&amp;agrave;, vịt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh ti&amp;ecirc;u chảy do E.coli, Salmonella, vi&amp;ecirc;m khớp, vi&amp;ecirc;m&amp;nbsp;phổi tr&amp;ecirc;n heo.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.0515%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.488%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn hay pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt: 3g/1l&amp;iacute;t nước hay 6-8g/kg thức ăn/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Heo: 2g/1,5 l&amp;iacute;t nước hoặc 3g/kg thức ăn/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục trong 3-4 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Liều ph&amp;ograve;ng: bằng 1/2 liều tr&amp;ecirc;n. D&amp;ugrave;ng trong 2-3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-126&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:07:23.181Z</createdDate>
+	<createdDate_dt>2020-08-03T04:07:23.181Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:39:18.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:39:18.000Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:07:23.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

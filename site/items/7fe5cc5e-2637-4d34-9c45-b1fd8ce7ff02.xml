@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7fe5</objectGroupId>
+	<objectId>7fe5cc5e-2637-4d34-9c45-b1fd8ce7ff02</objectId>
+	<file-name>7fe5cc5e-2637-4d34-9c45-b1fd8ce7ff02.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-loai-vat-khac</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-giam-dau-ha-sot-khang-viem</productgrouplevel2_s>
+	<createdDate>2020-08-03T08:59:44.807Z</createdDate>
+	<createdDate_dt>2020-08-03T08:59:44.807Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:59:44.807Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:59:44.807Z</lastModifiedDate_dt>
+</component>

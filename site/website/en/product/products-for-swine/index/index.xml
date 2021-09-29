@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bb33</objectGroupId>
+	<objectId>bb338e58-9ccd-3ad9-2d85-4a8607c86e5a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<internal-name>Products for swine</internal-name>
+	<navLabel>Products for swine</navLabel>
+	<t_s>Products for swine</t_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>aaeee669-d465-b7cd-1a57-f8d635e3e620</key>
+	<value>Products for swine slide</value>
+<component id="aaeee669-d465-b7cd-1a57-f8d635e3e620">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aaee</objectGroupId>
+	<objectId>aaeee669-d465-b7cd-1a57-f8d635e3e620</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Products for swine slide</internal-name>
+	<file-name>aaeee669-d465-b7cd-1a57-f8d635e3e620.xml</file-name>
+	<createdDate>2020-07-13T06:39:09.470Z</createdDate>
+	<createdDate_dt>2020-07-13T06:39:09.470Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T06:39:09.470Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T06:39:09.470Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>816eb186-954e-e5b1-bfb2-33652130a820</key>
+	<value>Products for swine</value>
+<component id="816eb186-954e-e5b1-bfb2-33652130a820">
+	<content-type>/component/nhomsanphamconEn</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>816e</objectGroupId>
+	<objectId>816eb186-954e-e5b1-bfb2-33652130a820</objectId>
+	<file-name>816eb186-954e-e5b1-bfb2-33652130a820.xml</file-name>
+	<internal-name>Products for swine</internal-name>
+	<title_s>Products for swine</title_s>
+	<rightTitle_s>Ampicolistin</rightTitle_s>
+	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/increasing-resistance</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Antibiotic </groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/antibiotic</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic and anti-inflammatory </groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/analgesic--antipyretic-and-anti-inflammatory</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Parasitic Medicine, fungi, coccidiosis</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/parasitic-medicine--fungi--coccidiosis</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Antiseptics</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/antiseptics</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Reproductive Medicine</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/groups/reproductive-medicine</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-07-13T06:40:27.813Z</createdDate>
+	<createdDate_dt>2020-07-13T06:40:27.813Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:40:29.558Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:40:29.558Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-13T06:38:31.480Z</createdDate>
+	<createdDate_dt>2020-07-13T06:38:31.480Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:40:22.573Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:40:22.573Z</lastModifiedDate_dt>
+</page>

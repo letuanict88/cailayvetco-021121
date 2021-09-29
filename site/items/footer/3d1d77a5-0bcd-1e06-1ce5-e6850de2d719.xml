@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>
+	<display-template>/templates/web/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3d1d</objectGroupId>
+	<objectId>3d1d77a5-0bcd-1e06-1ce5-e6850de2d719</objectId>
+	<file-name>3d1d77a5-0bcd-1e06-1ce5-e6850de2d719.xml</file-name>
+	<internal-name>Footer</internal-name>
+	<copyrighted_s>Bản quyền thuộc về Công ty CP Dược Thú y Cai Lậy 2</copyrighted_s>
+	<name_s>công ty cổ phần dược thú y cai lậy</name_s>
+	<address_s>Địa chỉ trụ sở chính: Khu phố 1, phường 5, thị xã Cai Lậy, tỉnh Tiền Giang</address_s>
+	<phone_s>(0273)3826462</phone_s>
+	<fax_s>3826363</fax_s>
+	<email_s>info@cailayvetco.com</email_s>
+	<fburl_s>https://www.facebook.com/TapdoanMavin</fburl_s>
+	<twitterurl_s>https://www.twitter.com</twitterurl_s>
+	<youtubeurl_s>https://www.youtube.com/channel/UCEMT1YoazUDX-Lx9LAk2UBg</youtubeurl_s>
+	<linkedinurl_s>https://www.linkedin.com</linkedinurl_s>
+	<tick_s>/static-assets/images/bct_logo.png</tick_s>
+	<createdDate>2020-06-29T08:17:34.015Z</createdDate>
+	<createdDate_dt>2020-06-29T08:17:34.015Z</createdDate_dt>
+	<lastModifiedDate>2021-02-26T02:48:26.201Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-02-26T02:48:26.201Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f57fa35b</objectGroupId>
+	<objectId>f57fa35b-70a4-4617-9dc5-884ebb0fe84f</objectId>
+	<internal-name>Báo cáo tài chính 6 tháng cuối năm 2020 8c495dfb</internal-name>
+	<title_s>Báo cáo tài chính 6 tháng cuối năm 2020</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>bao-cao-tai-chinh-ban-nien-2020-8c495dfb</folder-name>
+	<avatar_s>/static-assets/images/libraries/6.-cham-soc-KH.jpg</avatar_s>
+	<isDisplay_b>false</isDisplay_b>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/2. Thong tin ung vien A.doc</key>
+	<value>/static-assets/images/libraries/2. Thong tin ung vien A.doc</value>
+	<fileType_mvs>doc</fileType_mvs>
+	<fileSize_s>279552</fileSize_s>
+	</item></pDFfile_o>
+	<createdDate>2020-08-14T03:45:18.837Z</createdDate>
+	<createdDate_dt>2020-08-14T03:45:18.837Z</createdDate_dt>
+	<lastModifiedDate>2020-10-16T06:52:28.123Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-16T06:52:28.123Z</lastModifiedDate_dt>
+</page>

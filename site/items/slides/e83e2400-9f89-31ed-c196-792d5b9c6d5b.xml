@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e83e</objectGroupId>
+	<objectId>e83e2400-9f89-31ed-c196-792d5b9c6d5b</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/lien-he-slide.png</image_s>
+	</item></slide_o>
+	<file-name>e83e2400-9f89-31ed-c196-792d5b9c6d5b.xml</file-name>
+	<internal-name>Slide liên hệ</internal-name>
+	<createdDate>2020-07-10T08:16:29.707Z</createdDate>
+	<createdDate_dt>2020-07-10T08:16:29.707Z</createdDate_dt>
+	<lastModifiedDate>2020-07-10T08:16:29.707Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-10T08:16:29.707Z</lastModifiedDate_dt>
+</component>

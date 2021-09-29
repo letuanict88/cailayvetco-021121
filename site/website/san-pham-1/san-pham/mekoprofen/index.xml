@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>62e1</objectGroupId>
+	<objectId>62e15ef2-9bfd-3b62-29f1-05c8d56fae4c</objectId>
+	<internal-name>MEKOPROFEN</internal-name>
+	<navLabel>MEKOPROFEN</navLabel>
+	<productName_s>MEKOPROFEN</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mekoprofen</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Meko Profen 2.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ketoprofen 10g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giảm đau, hạ sốt, kh&amp;aacute;ng vi&amp;ecirc;m, giảm ph&amp;ugrave; nề.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kết hợp với kh&amp;aacute;ng sinh để điều trị hội chứng MMA ở&amp;nbsp;heo n&amp;aacute;i, nhiễm khuẩn đường h&amp;ocirc; hấp, vi&amp;ecirc;m khớp, vi&amp;ecirc;m cơ - xương - khớp, đau bụng ngựa, vi&amp;ecirc;m m&amp;oacute;ng, giảm đau phẫu thuật, hậu phẫu,&amp;hellip;ở tr&amp;acirc;u, b&amp;ograve;, ngựa, heo, ch&amp;oacute;, m&amp;egrave;o,&amp;hellip;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.05153%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.593%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Heo: 1ml/33kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp s&amp;acirc;u.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 1ml/33kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m tĩnh mạch, ti&amp;ecirc;m bắp s&amp;acirc;u.&lt;/p&gt;
+&lt;p&gt;- Ngựa: 1ml/45kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m tĩnh mạch&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 0,2ml/10kg thể trọng/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-338&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T06:23:03.539Z</createdDate>
+	<createdDate_dt>2020-08-03T06:23:03.539Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:55:17.725Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:55:17.725Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T06:23:04.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

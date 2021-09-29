@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ea10</objectGroupId>
+	<objectId>ea103495-6e30-d30f-1aa9-5851d1ce27ef</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>gioi-thieu-chung</folder-name>
+	<internal-name>Giới thiệu chung </internal-name>
+	<navLabel>Giới thiệu </navLabel>
+	<title_s>Giới thiệu </title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Giới thiệu chung</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/f832534c-38a2-9702-13b1-f36e00a1a3e3.xml</key>
+	<value>Header - Giới thiệu chung</value>
+	<include>/site/items/slides/f832534c-38a2-9702-13b1-f36e00a1a3e3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>98509ee1-0605-6120-1235-3fc1abf4460a</key>
+	<value>Content - Giới thiệu chung</value>
+<component id="98509ee1-0605-6120-1235-3fc1abf4460a">
+	<content-type>/component/introduction</content-type>
+	<display-template>/templates/web/introduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9850</objectGroupId>
+	<objectId>98509ee1-0605-6120-1235-3fc1abf4460a</objectId>
+	<file-name>98509ee1-0605-6120-1235-3fc1abf4460a.xml</file-name>
+	<internal-name>Content - Giới thiệu chung</internal-name>
+	<title_s>GIỚI THIỆU CHUNG</title_s>
+	<image_s>/static-assets/images/introduction/Layer 184.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy - MEKOVET, tiền th&amp;acirc;n l&amp;agrave; C&amp;ocirc;ng ty Chăn nu&amp;ocirc;i Th&amp;uacute; y Cai Lậy được th&amp;agrave;nh lập tr&amp;ecirc;n cơ sở s&amp;aacute;t nhập Trạm th&amp;uacute; y huyện Cai Lậy v&amp;agrave; Li&amp;ecirc;n hiệp X&amp;iacute; nghiệp chăn nu&amp;ocirc;i huyện Cai Lậy. Tr&amp;ecirc;n 25 năm ph&amp;aacute;t triển, MEKOVET đ&amp;atilde; vươn m&amp;igrave;nh trở th&amp;agrave;nh một trong những thương hiệu thuốc th&amp;uacute; y uy t&amp;iacute;n v&amp;agrave; được ưa chuộng nhất tại Việt Nam. C&amp;aacute;c sản phẩm của C&amp;ocirc;ng ty gồm thuốc th&amp;uacute; y, thuốc thủy sản v&amp;agrave; dinh dưỡng vật nu&amp;ocirc;i đ&amp;atilde; c&amp;oacute; mặt tại mọi miền đất nước, th&amp;ocirc;ng qua hơn 400 đại l&amp;yacute; ph&amp;acirc;n phối v&amp;agrave; được người ti&amp;ecirc;u d&amp;ugrave;ng đ&amp;aacute;nh gi&amp;aacute; rất cao. Li&amp;ecirc;n tục từ năm 2005 trở lại đ&amp;acirc;y, sản phẩm của C&amp;ocirc;ng ty h&amp;agrave;ng năm đều được b&amp;igrave;nh chọn l&amp;agrave; Sản phẩm H&amp;agrave;ng Việt Nam Chất lượng cao. Thương hiệu MEKOVET đ&amp;atilde; trở th&amp;agrave;nh người bạn th&amp;acirc;n thiết, gi&amp;uacute;p x&amp;oacute;a đ&amp;oacute;i giảm ngh&amp;egrave;o cho h&amp;agrave;ng vạn hộ n&amp;ocirc;ng d&amp;acirc;n, người chăn nu&amp;ocirc;i tại Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;aacute;ng 11 năm 2008, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy - MEKOVET đ&amp;atilde; ch&amp;iacute;nh thức được ni&amp;ecirc;m yết thương hiệu MEKOVET tr&amp;ecirc;n s&amp;agrave;n chứng kho&amp;aacute;n H&amp;agrave; Nội (HNX) với m&amp;atilde; giao dịch l&amp;agrave; MKV. Cho tới nay, MEKOVET l&amp;agrave; C&amp;ocirc;ng ty Dược Th&amp;uacute; y duy nhất tại Việt Nam ni&amp;ecirc;m yết tr&amp;ecirc;n s&amp;agrave;n chứng kho&amp;aacute;n.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MEKOVET đ&amp;atilde; lựa chọn đối t&amp;aacute;c chiến lược l&amp;agrave; &lt;strong&gt;&lt;a href="https://mavin-group.com"&gt;Tập đo&amp;agrave;n Mavin&lt;/a&gt;&lt;/strong&gt; (tiền th&amp;acirc;n l&amp;agrave; C&amp;ocirc;ng ty Cổ phần Austfeed Việt Nam), một doanh nghiệp lớn c&amp;oacute; vốn đầu tư nước ngo&amp;agrave;i v&amp;agrave; kinh nghiệm nhiều năm trong ng&amp;agrave;nh n&amp;ocirc;ng nghiệp. Với tiềm lực t&amp;agrave;i ch&amp;iacute;nh vững v&amp;agrave;ng v&amp;agrave; năng lực quản trị tốt của cổ đ&amp;ocirc;ng mới, MEKOVET đ&amp;atilde; c&amp;oacute; những đổi thay t&amp;iacute;ch cực. Với chiến lược ph&amp;aacute;t triển b&amp;agrave;i bản v&amp;agrave; mạnh mẽ, chỉ trong thời gian ngắn, C&amp;ocirc;ng ty đ&amp;atilde; c&amp;oacute; những bứt ph&amp;aacute; mạnh trong kinh doanh.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/introduction/DSC00513a.jpg" alt="Ky ket HD hop tac chien luoc MKV-Mavin Group" width="800" height="539" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;Lễ k&amp;yacute; kết Hợp đồng hợp t&amp;aacute;c chiến lược giữa Austfeed Việt Nam v&amp;agrave; Mekovet (xem th&amp;ecirc;m về Tập đo&amp;agrave;n Mavin &lt;strong&gt;&lt;a href="https://mavin-group.com"&gt;TẠI Đ&amp;Acirc;Y&lt;/a&gt;&lt;/strong&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;aacute;ng 10 năm 2013, MEKOVET ch&amp;iacute;nh thức khai trương v&amp;agrave; đưa v&amp;agrave;o hoạt động Nh&amp;agrave; m&amp;aacute;y sản xuất thuốc th&amp;uacute; y theo ti&amp;ecirc;u chuẩn WHO GMP của tổ chức Y tế Thế giới tại huyện Cai Lậy, tỉnh Tiền Giang, với những d&amp;acirc;y chuyền sản xuất ho&amp;agrave;n to&amp;agrave;n tự động (thuốc ti&amp;ecirc;m, thuốc uống v&amp;agrave; thuốc bột). Năm 2015, MEKOVET đưa th&amp;ecirc;m d&amp;acirc;y chuyền sản xuất B.lactam v&amp;agrave;o sử dụng. Đ&amp;acirc;y ch&amp;iacute;nh l&amp;agrave; những nền tảng đảm bảo sản phẩm của MEKOVET đạt c&amp;aacute;c ti&amp;ecirc;u chuẩn cao nhất về chất lượng, hiệu quả cho người chăn nu&amp;ocirc;i, nh&amp;agrave; m&amp;aacute;y đạt chuẩn cũng th&amp;uacute;c đẩy hoạt động xuất khẩu đi c&amp;aacute;c nước trong khu vực.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mục ti&amp;ecirc;u của MEKOVET l&amp;agrave; trở th&amp;agrave;nh một trong những C&amp;ocirc;ng ty Dược Th&amp;uacute; y lớn nhất tại Việt Nam, đem lại lợi &amp;iacute;ch cao nhất cho kh&amp;aacute;ch h&amp;agrave;ng, nh&amp;acirc;n vi&amp;ecirc;n, đối t&amp;aacute;c, cổ đ&amp;ocirc;ng v&amp;agrave; g&amp;oacute;p phần ph&amp;aacute;t triển bền vững ng&amp;agrave;nh N&amp;ocirc;ng nghiệp Việt Nam.&lt;/p&gt;</content_html>
+	<createdDate>2020-06-24T08:22:17.489Z</createdDate>
+	<createdDate_dt>2020-06-24T08:22:17.489Z</createdDate_dt>
+	<lastModifiedDate>2020-08-11T02:18:17.215Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-11T02:18:17.215Z</lastModifiedDate_dt>
+	<button1_s> Lịch sử hình thành</button1_s>
+	<url1_s>/gioi-thieu-chung/lich-su-hinh-thanh</url1_s>
+	<button2_s>Tầm nhìn - Sứ mệnh</button2_s>
+	<url2_s>/gioi-thieu-chung/su-menh</url2_s>
+	<button3_s>Thành tích - Giải thưởng </button3_s>
+	<url3_s>/gioi-thieu-chung/thanh-tich-dat-duoc</url3_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-24T08:18:06.668Z</createdDate>
+	<createdDate_dt>2020-06-24T08:18:06.668Z</createdDate_dt>
+	<lastModifiedDate>2020-08-13T10:13:09.535Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-13T10:13:09.535Z</lastModifiedDate_dt>
+</page>

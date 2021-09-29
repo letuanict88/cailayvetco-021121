@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>debe</objectGroupId>
+	<objectId>debed200-0e77-8671-20ed-7f75c82c28f2</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<file-name>debed200-0e77-8671-20ed-7f75c82c28f2.xml</file-name>
+	<internal-name>Header - News</internal-name>
+	<createdDate>2020-07-13T06:47:04.286Z</createdDate>
+	<createdDate_dt>2020-07-13T06:47:04.286Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T06:47:48.363Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T06:47:48.363Z</lastModifiedDate_dt>
+</component>

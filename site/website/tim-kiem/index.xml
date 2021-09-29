@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8373</objectGroupId>
+	<objectId>837359ba-be22-5deb-5007-82b711203a5f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tim-kiem</folder-name>
+	<internal-name>Tìm kiếm</internal-name>
+	<navLabel>Tìm kiếm</navLabel>
+	<title_s>Tìm kiếm </title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Tìm kiếm</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/a4133684-b664-4fda-53a8-3f883e98f6d1.xml</key>
+	<value>Header - Tìm kiếm </value>
+	<include>/site/items/slides/a4133684-b664-4fda-53a8-3f883e98f6d1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>3d036506-6cdf-f90a-8ee0-c1e577e1c8e3</key>
+	<value>Content - Tìm kiếm</value>
+<component id="3d036506-6cdf-f90a-8ee0-c1e577e1c8e3">
+	<content-type>/component/searchresult</content-type>
+	<display-template>/templates/web/searchresult.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3d03</objectGroupId>
+	<objectId>3d036506-6cdf-f90a-8ee0-c1e577e1c8e3</objectId>
+	<file-name>3d036506-6cdf-f90a-8ee0-c1e577e1c8e3.xml</file-name>
+	<internal-name>Content - Tìm kiếm</internal-name>
+	<createdDate>2020-07-08T06:50:46.727Z</createdDate>
+	<createdDate_dt>2020-07-08T06:50:46.727Z</createdDate_dt>
+	<lastModifiedDate>2020-07-08T06:50:46.727Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T06:50:46.727Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-08T04:49:30.514Z</createdDate>
+	<createdDate_dt>2020-07-08T04:49:30.514Z</createdDate_dt>
+	<lastModifiedDate>2020-07-08T04:49:30.514Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-08T04:49:30.514Z</lastModifiedDate_dt>
+</page>

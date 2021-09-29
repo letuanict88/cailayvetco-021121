@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>15c0e70a</objectGroupId>
+	<objectId>15c0e70a-c68e-4dbc-83bd-5ec18d92a14a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-104-424c8aa5-ef6c6b36-8668dbfb</folder-name>
+	<internal-name>CL-CALCIMIX</internal-name>
+	<navLabel>CL-CALCIMIX</navLabel>
+	<productName_s>CL-CALCIMIX</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/70 CL-CALCIMIX 1KGA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.7698%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Calcium (min-max) 100-300g&lt;/p&gt;
+&lt;p&gt;Phospho (min-max) 30-60g&lt;/p&gt;
+&lt;p&gt;Vitamin A (min) 2.500.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E (min) 2.500UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 (min) 200.000UI&lt;/p&gt;
+&lt;p&gt;Fe (min-max) 2-5g&lt;/p&gt;
+&lt;p&gt;Cu (min-max) 1-3g&lt;/p&gt;
+&lt;p&gt;Zn (min-max) 3-6g&lt;/p&gt;
+&lt;p&gt;Mn (min-max) 0,5-1,5g&lt;/p&gt;
+&lt;p&gt;Chất mang vđ 1kg&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bổ sung canxi, phospho, vitamin v&amp;agrave; kho&amp;aacute;ng chất cho gia&amp;nbsp;s&amp;uacute;c, gia cầm. Gi&amp;uacute;p giảm:&lt;/p&gt;
+&lt;p&gt;- Chứng c&amp;ograve;i cọc, chậm lớn do suy dinh dưỡng ở heo con,&amp;nbsp;g&amp;agrave;, vịt con, b&amp;ecirc;, ngh&amp;eacute;. Gi&amp;uacute;p vật nu&amp;ocirc;i lớn nhanh, đẻ sai, da&amp;nbsp;hồng h&amp;agrave;o, l&amp;ocirc;ng mượt.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.53216%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.6979%;"&gt;
+&lt;p&gt;- Chứng bại liệt trước v&amp;agrave; sau khi sinh ở th&amp;uacute; c&amp;aacute;i.&lt;/p&gt;
+&lt;p&gt;- Chứng k&amp;eacute;m sữa, mất sữa, sữa k&amp;eacute;m chất lượng ở b&amp;ograve; sữa, d&amp;ecirc; sữa, heo n&amp;aacute;i đang nu&amp;ocirc;i con.&lt;/p&gt;
+&lt;p&gt;- Chứng mềm xương, xốp xương, cong xương ở giai&amp;nbsp;đoạn lớn nhanh hay mang thai, cho sữa ở vật nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;- Chứng đẻ k&amp;eacute;m, chất lượng trứng k&amp;eacute;m, mỏng vỏ trứng ở g&amp;agrave;, vịt, c&amp;uacute;t đẻ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Heo con, heo thịt, b&amp;ecirc;, ngh&amp;eacute;: 1kg/800kg thức ăn&lt;/p&gt;
+&lt;p&gt;- Heo n&amp;aacute;i, b&amp;ograve; c&amp;aacute;i, d&amp;ecirc; c&amp;aacute;i mang thai v&amp;agrave; cho sữa:&lt;/p&gt;
+&lt;p&gt;1kg/600kg thức ăn&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt thịt: 1kg/600kg thức ăn&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, c&amp;uacute;t đẻ: 1kg/400kg thức ăn&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 04:2010/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:36:06.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:25:29.712Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:25:29.712Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

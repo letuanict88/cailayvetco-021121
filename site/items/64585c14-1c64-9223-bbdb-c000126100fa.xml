@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/processEn</content-type>
+	<display-template>/templates/web/component/group-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6458</objectGroupId>
+	<objectId>64585c14-1c64-9223-bbdb-c000126100fa</objectId>
+	<file-name>64585c14-1c64-9223-bbdb-c000126100fa.xml</file-name>
+	<internal-name>POULTRY &amp; ANIMAL CARE</internal-name>
+	<title_s>POULTRY &amp; ANIMAL CARE</title_s>
+	<listURL_s>/en/technical-assistance/process-care/cattle/index</listURL_s>
+	<processGroup_s>benh-gia-suc-gia-cam</processGroup_s>
+	<avatar_s>/static-assets/images/techsupport/quy-trinh-gia-cam.png</avatar_s>
+	<createdDate>2020-07-29T03:39:30.504Z</createdDate>
+	<createdDate_dt>2020-07-29T03:39:30.504Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:30:19.246Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:30:19.246Z</lastModifiedDate_dt>
+</component>

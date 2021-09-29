@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b56fbae8</objectGroupId>
+	<objectId>b56fbae8-23f7-4443-9ee1-69daae13f849</objectId>
+	<internal-name>SHAMPOO - ANTIPARA (new)</internal-name>
+	<navLabel>SHAMPOO - ANTIPARA (new)</navLabel>
+	<productName_s>SHAMPOO - ANTIPARA (new)</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>shampoo---antipara-d426e8f0</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
+	</item></productgrouplv2_o>
+	<isHot_b>true</isHot_b>
+	<productImage_s>/static-assets/images/products/111 SHAMPOO ANTIPARA NEWA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.3886%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chuy&amp;ecirc;n d&amp;ugrave;ng cho ch&amp;oacute;-m&amp;egrave;o&lt;/p&gt;
+&lt;p&gt;Deltamethrin 25mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tắm sạch, mượt l&amp;ocirc;ng, trị ghẻ, ve, x&amp;agrave; m&amp;acirc;u, rận ch&amp;iacute;, bọ ch&amp;eacute;t&amp;nbsp;tr&amp;ecirc;n cơ thể ch&amp;oacute;, m&amp;egrave;o.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.08463%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.5267%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Xoa đều dầu sau khi đãl&amp;agrave;m ướt, để y&amp;ecirc;n 5 ph&amp;uacute;t, sau đ&amp;oacute; xả sạch.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng: 2-5ml/con. 1 lần/th&amp;aacute;ng.&lt;/p&gt;
+&lt;p&gt;- Trị: 2-5ml/con. Tắm 3 ng&amp;agrave;y/lần, li&amp;ecirc;n tục 3 lần.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-243&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T09:03:25.708Z</createdDate>
+	<createdDate_dt>2020-08-03T09:03:25.708Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:51:21.886Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:51:21.886Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T09:03:26.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

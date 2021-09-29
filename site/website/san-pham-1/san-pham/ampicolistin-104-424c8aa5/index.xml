@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a683f09b</objectGroupId>
+	<objectId>a683f09b-35cd-45f6-8be9-0617d573b00a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-104-424c8aa5</folder-name>
+	<internal-name>ADEB- METHILYSIN</internal-name>
+	<navLabel>ADEB- METHILYSIN</navLabel>
+	<productName_s>ADEB- METHILYSIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/ADEB-Methilysin.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất ch&amp;iacute;nh:&lt;/p&gt;
+&lt;p&gt;Vitamin A (min) 81.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 (min) 12.150UI&lt;/p&gt;
+&lt;p&gt;Vitamin C (min) 2,25g&lt;/p&gt;
+&lt;p&gt;Methionine (min) 4,5g&lt;/p&gt;
+&lt;p&gt;Lysine HCl (min) 4,5g&lt;/p&gt;
+&lt;p&gt;Zn (min-max) 0,7-1,5g&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất kh&amp;aacute;c:&lt;/p&gt;
+&lt;p&gt;Vitamin E (min) 45mg&lt;/p&gt;
+&lt;p&gt;Sodium (min-max) 0,5-1,5g&lt;/p&gt;
+&lt;p&gt;Fe (min-max) 450-850mg&lt;/p&gt;
+&lt;p&gt;Cu (min-max) 100-150mg&lt;/p&gt;
+&lt;p&gt;Bột m&amp;igrave; vừa đủ 1kg&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 50%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bổ sung vitamin, acid amin, kho&amp;aacute;ng chất thiết yếu cho&amp;nbsp;tr&amp;acirc;u, b&amp;ograve;, heo, g&amp;agrave;, vịt, &amp;hellip;&lt;/p&gt;
+&lt;p&gt;* Tăng tiết sữa heo n&amp;aacute;i.&lt;/p&gt;
+&lt;p&gt;* Tăng trọng nhanh.&lt;/p&gt;
+&lt;p&gt;* Tăng sản lượng trứng.&lt;/p&gt;
+&lt;p&gt;* Tăng mức sinh sản.&lt;/p&gt;
+&lt;p&gt;* Th&amp;iacute;ch nghi tốt với stress.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;Trộn 10g ADEB-METHILYSIN v&amp;agrave;o 1kg thức ăn.&lt;/p&gt;
+&lt;p&gt;Heo con cho ăn mỗi bữa 5g (1 muỗng c&amp;agrave; ph&amp;ecirc;). Cho ăn&amp;nbsp;h&amp;agrave;ng ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 03:2010/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:33:49.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-29T07:29:37.659Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T07:29:37.659Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

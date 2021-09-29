@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplandingEn</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01bddfc6</objectGroupId>
+	<objectId>01bddfc6-9571-4be9-9503-135b5ae3087f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>parasitic-medicine--fungi--coccidiosis</folder-name>
+	<internal-name>Parasitic Medicine, fungi, coccidiosis</internal-name>
+	<title_s>Parasitic Medicine, fungi, coccidiosis</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>64b3a2a8-00fc-376f-2485-a3dd20785c25</key>
+	<value>Slide</value>
+<component id="64b3a2a8-00fc-376f-2485-a3dd20785c25">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>64b3</objectGroupId>
+	<objectId>64b3a2a8-00fc-376f-2485-a3dd20785c25</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>64b3a2a8-00fc-376f-2485-a3dd20785c25.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-05T05:05:39.220Z</createdDate>
+	<createdDate_dt>2020-08-05T05:05:39.220Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T05:05:39.220Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:05:39.220Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/fc926172-714c-2c9c-4a78-6f80443675d2.xml</key>
+	<value>Parasitic Medicine, fungi, coccidiosis</value>
+	<include>/site/items/fc926172-714c-2c9c-4a78-6f80443675d2.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-05T05:02:11.041Z</createdDate>
+	<createdDate_dt>2020-08-05T05:02:11.041Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T05:11:38.205Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:11:38.205Z</lastModifiedDate_dt>
+</page>

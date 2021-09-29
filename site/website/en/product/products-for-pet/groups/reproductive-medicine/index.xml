@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplandingEn</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3e43073d</objectGroupId>
+	<objectId>3e43073d-9508-4694-b6f6-07d5f7ac36a1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>reproductive-medicine</folder-name>
+	<internal-name>Reproductive Medicine</internal-name>
+	<title_s>Reproductive Medicine</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b49cf5a6-9280-3fc2-9a57-6933988dc316</key>
+	<value>Slide</value>
+<component id="b49cf5a6-9280-3fc2-9a57-6933988dc316">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b49c</objectGroupId>
+	<objectId>b49cf5a6-9280-3fc2-9a57-6933988dc316</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>b49cf5a6-9280-3fc2-9a57-6933988dc316.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-05T06:58:53.105Z</createdDate>
+	<createdDate_dt>2020-08-05T06:58:53.105Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:58:53.105Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:58:53.105Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/bed6564c-162b-eee8-981c-b85011d04dc9.xml</key>
+	<value>Reproductive Medicine</value>
+	<include>/site/items/bed6564c-162b-eee8-981c-b85011d04dc9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-05T06:57:26.796Z</createdDate>
+	<createdDate_dt>2020-08-05T06:57:26.796Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:32:11.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:32:11.722Z</lastModifiedDate_dt>
+</page>

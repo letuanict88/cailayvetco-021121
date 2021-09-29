@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/techsupportcomponentEn</content-type>
+	<display-template>/templates/web/component/group-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a9d</objectGroupId>
+	<objectId>2a9d81e4-99db-72a1-7d99-0ae9637ee30c</objectId>
+	<file-name>2a9d81e4-99db-72a1-7d99-0ae9637ee30c.xml</file-name>
+	<internal-name>Pet disease</internal-name>
+	<title_s>Pet disease</title_s>
+	<avatar_s>/static-assets/images/techsupport/logo-2.png</avatar_s>
+	<technicalAssistanceType_s>benh-thu-cung</technicalAssistanceType_s>
+	<createdDate>2020-07-13T07:47:47.976Z</createdDate>
+	<createdDate_dt>2020-07-13T07:47:47.976Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:32:26.921Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:32:26.921Z</lastModifiedDate_dt>
+	<listURL_s>/en/technical-assistance/group-sick/pet-disease/index</listURL_s>
+</component>

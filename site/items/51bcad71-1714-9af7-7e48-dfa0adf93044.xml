@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>51bc</objectGroupId>
+	<objectId>51bcad71-1714-9af7-7e48-dfa0adf93044</objectId>
+	<file-name>51bcad71-1714-9af7-7e48-dfa0adf93044.xml</file-name>
+	<internal-name>Antibiotic</internal-name>
+	<productgrouplevel1_s>thuoc-cho-trau-bo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-khang-sinh</productgrouplevel2_s>
+	<createdDate>2020-08-05T05:08:29.962Z</createdDate>
+	<createdDate_dt>2020-08-05T05:08:29.962Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T05:08:29.962Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T05:08:29.962Z</lastModifiedDate_dt>
+</component>

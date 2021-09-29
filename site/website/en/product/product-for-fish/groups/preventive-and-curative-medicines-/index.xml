@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplandingEn</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>994eaf92</objectGroupId>
+	<objectId>994eaf92-e8a6-4d5f-a78d-f22e267fe2b3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>preventive-and-curative-medicines-</folder-name>
+	<internal-name>Preventive and curative medicines </internal-name>
+	<title_s>Preventive and curative medicines</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>30fab74f-4797-6d73-7f08-d747b47db00e</key>
+	<value>Slide</value>
+<component id="30fab74f-4797-6d73-7f08-d747b47db00e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>30fa</objectGroupId>
+	<objectId>30fab74f-4797-6d73-7f08-d747b47db00e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>30fab74f-4797-6d73-7f08-d747b47db00e.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-05T04:53:41.555Z</createdDate>
+	<createdDate_dt>2020-08-05T04:53:41.555Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:53:41.555Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:53:41.555Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/32ca3e4b-74aa-e84f-1709-0915e0ab74e8.xml</key>
+	<value>Preventive and curative medicines </value>
+	<include>/site/items/32ca3e4b-74aa-e84f-1709-0915e0ab74e8.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<createdDate>2020-08-05T04:51:17.411Z</createdDate>
+	<createdDate_dt>2020-08-05T04:51:17.411Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:58:17.657Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:58:17.657Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fd518bd7</objectGroupId>
+	<objectId>fd518bd7-669c-48ac-bc3d-464c234340f9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>du-lich-nam-2020</folder-name>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<internal-name>MKV du lịch biển năm 2020</internal-name>
+	<navLabel>MKV du lịch biển năm 2020</navLabel>
+	<title_s>MKV du lịch biển năm 2020</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/news/z2146957338242_ee9126ab11c947717825343c1faad686.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Với mục ti&amp;ecirc;u chăm s&amp;oacute;c đến đời sống tinh thần cho nh&amp;acirc;n vi&amp;ecirc;n trong C&amp;ocirc;ng ty v&amp;agrave; x&amp;acirc;y dựng phong tr&amp;agrave;o hoạt động vui chơi, du lịch nghỉ m&amp;aacute;t sau những ng&amp;agrave;y l&amp;agrave;m việc căng thẳng, C&amp;ocirc;ng ty cổ phần dược th&amp;uacute; y Cai Lậy đ&amp;atilde; tổ chức chương tr&amp;igrave;nh tham quan du lịch cho to&amp;agrave;n thể nh&amp;acirc;n vi&amp;ecirc;n c&amp;ocirc;ng ty tại Vũng T&amp;agrave;u từ ng&amp;agrave;y 24/10-25/10/2020.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; một trong những hoạt động thường ni&amp;ecirc;n của c&amp;ocirc;ng ty nhằm mang mang lại niềm vui, những gi&amp;acirc;y ph&amp;uacute;t nghỉ ngơi, thư gi&amp;atilde;n sau những ng&amp;agrave;y l&amp;agrave;m việc căng thẳng, đ&amp;aacute;p lại những nỗ lực, phấn đấu của tất cả c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n trong năm qua, cũng như tăng th&amp;ecirc;m tinh thần đo&amp;agrave;n kết gắn b&amp;oacute; giữa c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong chuyến tham quan du lịch n&amp;agrave;y, nh&amp;acirc;n vi&amp;ecirc;n c&amp;ocirc;ng ty đ&amp;atilde; c&amp;oacute; những gi&amp;acirc;y ph&amp;uacute;t thư gi&amp;atilde;n v&amp;agrave; trải nghiệm th&amp;uacute; vị tại c&amp;aacute;c địa điểm du lịch tại Vũng T&amp;agrave;u.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/news/6.jpg" alt="" width="601" height="400" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/news/4 - Copy.jpg" alt="" width="600" height="400" /&gt;&lt;/p&gt;
+&lt;p&gt;Chương tr&amp;igrave;nh Team Building WE ARE THE ONE: với nhiều tr&amp;ograve; chơi hấp dẫn, năng động nhằm tạo ra những cơ hội vui chơi, giao lưu, tin thần đội nh&amp;oacute;m.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/news/3.jpg" alt="" width="600" height="400" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/news/2 - Copy.jpg" alt="" width="601" height="400" /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chương tr&amp;igrave;nh Gala dinner đ&amp;ecirc;m 24/10 l&amp;agrave; dịp c&amp;aacute;c c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n thể hiện t&amp;agrave;i năng ca h&amp;aacute;t, tham gia game show v&amp;agrave; c&amp;ugrave;ng nhau n&amp;acirc;ng ly ch&amp;uacute;c mừng h&amp;agrave;nh tr&amp;igrave;nh 30 năm của Cai Lậy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chuyến đi đ&amp;atilde; để lại trong mỗi th&amp;agrave;nh vi&amp;ecirc;n c&amp;ocirc;ng ty những kỷ niệm vui vẻ v&amp;agrave; đầy &amp;yacute; nghĩa. L&amp;atilde;nh đạo c&amp;ocirc;ng ty mong muốn sau chuyến đi, mỗi th&amp;agrave;nh vi&amp;ecirc;n trong c&amp;ocirc;ng ty lu&amp;ocirc;n cố gắng phấn đấu để ho&amp;agrave;n th&amp;agrave;nh tốt nhiệm vụ được giao, đo&amp;agrave;n kết, gi&amp;uacute;p đỡ lẫn nhau c&amp;ugrave;ng c&amp;ocirc;ng ty ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:47:38.632Z</createdDate>
+	<createdDate_dt>2020-10-28T06:01:11.000Z</createdDate_dt>
+	<lastModifiedDate>2020-11-12T03:28:35.788Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-11-12T03:28:35.788Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

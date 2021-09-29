@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>32f9</objectGroupId>
+	<objectId>32f9fd98-e0d5-e700-929f-b4a0e0be2db5</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value_smv>Nhóm thuốc sát trùng nấm, cầu trùng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/100 ASCAREX D 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.2173%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Piperazine citrate 53%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Đặc trị v&amp;agrave; ngừa c&amp;aacute;c loại giun tr&amp;ograve;n ở tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;,&amp;nbsp;cừu, ch&amp;oacute;, m&amp;egrave;o, g&amp;agrave;, vịt như: giun đũa, giun kim, giun t&amp;oacute;c,&amp;nbsp;giun xoăn, giun kết hạt, giun lươn.&lt;/p&gt;
+&lt;p&gt;- Thuốc an to&amp;agrave;n tr&amp;ecirc;n th&amp;uacute; mang thai v&amp;agrave; gia cầm đang&amp;nbsp;đẻ trứng.&lt;/p&gt;
+&lt;p&gt;- Ascarex-D c&amp;oacute; t&amp;aacute;c dụng tẩy giun hiệu quả với lo&amp;agrave;i giun&amp;nbsp;kim Heterakis Galline - trung gian mang mầm bệnh, đơn&amp;nbsp;b&amp;agrave;o Histomonas Meleagridis g&amp;acirc;y ra bệnh đầu đen ở g&amp;agrave;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 1.84157%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.941%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o thức ăn lỏng cho ăn hay pha v&amp;agrave;o nước cho&amp;nbsp;uống hết một lần hay nhiều lần trong 6 giờ.&lt;/p&gt;
+&lt;p&gt;- Liều trị: Chung cho c&amp;aacute;c lo&amp;agrave;i: 1g/4-5kg thể trọng.&lt;/p&gt;
+&lt;p&gt;- Liều ph&amp;ograve;ng: Cứ 2 th&amp;aacute;ng sử dụng lại 1 lần, liều như tr&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng 1-2 ng&amp;agrave;y cho 1 đợt trị liệu.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-139&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<internal-name>ASCAREX - D</internal-name>
+	<navLabel>ASCAREX - D</navLabel>
+	<productName_s>ASCAREX - D</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>ascarex---d</folder-name>
+	<createdDate>2020-08-03T08:22:15.059Z</createdDate>
+	<createdDate_dt>2020-08-03T08:22:15.059Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T02:53:17.724Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T02:53:17.724Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:22:15.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>73c9</objectGroupId>
+	<objectId>73c960aa-3b7f-6d93-59bc-b0e0abd45e19</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mkv-clamox</folder-name>
+	<internal-name>MKV-CLAMOX</internal-name>
+	<navLabel>MKV-CLAMOX</navLabel>
+	<productName_s>MKV-CLAMOX</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MKV Clamox.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0792%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Amoxicillin trihydrate 10g&lt;/p&gt;
+&lt;p&gt;Clavulanic acid (as potassium salt) 2,5g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vừa đủ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;acirc;ng cao hiệu quả điều trị, chống nhờn thuốc, với c&amp;aacute;c&amp;nbsp;bệnh do vi khuẩn nhạy cảm với Amoxicillin như nhiễm&amp;nbsp;tr&amp;ugrave;ng đường h&amp;ocirc; hấp, tiết niệu, m&amp;ocirc; mềm, &amp;aacute;p xe, vi&amp;ecirc;m&amp;nbsp;m&amp;oacute;ng, vi&amp;ecirc;m khớp, nhiễm tr&amp;ugrave;ng sau sinh ở heo n&amp;aacute;i, hội&amp;nbsp;chứng MMA, c&amp;aacute;c bệnh kế ph&amp;aacute;t PRRS, &amp;hellip; ở heo. Trị vi&amp;ecirc;m&amp;nbsp;ruột, ph&amp;acirc;n xanh, ph&amp;acirc;n trắng, ph&amp;acirc;n v&amp;agrave;ng, tụ huyết tr&amp;ugrave;ng,&amp;nbsp;E.coli, ...ở gia cầm.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.05149%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.8692%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống.&lt;/p&gt;
+&lt;p&gt;- Heo: 4-10g/100kg thể trọng, 2 lần/ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Trong trường hợp nhiễm tr&amp;ugrave;ng nặng c&amp;oacute; thể tăng liều gấp đ&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 2-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Gia cầm: 20g/100kg thể trọng/ng&amp;agrave;y hoặc 100g/200 l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-339&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:19:43.138Z</createdDate>
+	<createdDate_dt>2020-08-03T04:19:43.138Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:01:38.641Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:01:38.641Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:19:43.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

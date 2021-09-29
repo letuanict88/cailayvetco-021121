@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1ede</objectGroupId>
+	<objectId>1ede17cd-9c22-30a3-e241-b67ee6d5cca1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<internal-name>Index</internal-name>
+	<navLabel>Pet disease</navLabel>
+	<t_s>Pet disease</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4c2490e3-3298-3766-da17-7551df19f842</key>
+	<value>Slide</value>
+<component id="4c2490e3-3298-3766-da17-7551df19f842">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4c24</objectGroupId>
+	<objectId>4c2490e3-3298-3766-da17-7551df19f842</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>4c2490e3-3298-3766-da17-7551df19f842.xml</file-name>
+	<createdDate>2020-07-17T08:18:34.076Z</createdDate>
+	<createdDate_dt>2020-07-17T08:18:34.076Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:18:34.076Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:18:34.076Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>e54ab6b4-9461-312f-f7f8-f8743171dfc1</key>
+	<value>Pet disease</value>
+<component id="e54ab6b4-9461-312f-f7f8-f8743171dfc1">
+	<content-type>/component/listsurportEn</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e54a</objectGroupId>
+	<objectId>e54ab6b4-9461-312f-f7f8-f8743171dfc1</objectId>
+	<internal-name>Pet disease</internal-name>
+	<title_s>Pet disease</title_s>
+	<technicalAssistanceType_s>benh-thu-cung</technicalAssistanceType_s>
+	<file-name>e54ab6b4-9461-312f-f7f8-f8743171dfc1.xml</file-name>
+	<createdDate>2020-07-17T08:19:07.966Z</createdDate>
+	<createdDate_dt>2020-07-17T08:19:07.966Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:19:07.966Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:19:07.966Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-17T08:18:21.288Z</createdDate>
+	<createdDate_dt>2020-07-17T08:18:21.288Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:27:59.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:27:59.234Z</lastModifiedDate_dt>
+</page>

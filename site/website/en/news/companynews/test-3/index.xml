@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/ennewsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>48bb</objectGroupId>
+	<objectId>48bbc374-b73a-5c73-77ed-bf61952df469</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-3</folder-name>
+	<internal-name>Mekovet provides a set of 3 products to help pig reherd succeed</internal-name>
+	<navLabel>Mekovet provides a set of 3 products </navLabel>
+	<title_s>Mekovet provides a set of 3 products to help pig reherd succeed</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/b393530e-2594-8565-3925-0ab0e2574c07.xml</key>
+	<value>Header - Test 3</value>
+	<include>/site/items/slides/b393530e-2594-8565-3925-0ab0e2574c07.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/mekovet_bo__sp.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Recently, Cai Lay Veterinary Pharmacy Joint Stock Company has officially provided to the market a solution of three new veterinary drug products with the goal of helping farmers reherd successfully. .&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The solution of Cai Lay Veterinary Pharmacy consists of 3 products, such as 3 layers of protection for pigs:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Protective layer 1 - FORMAVET: spraying disinfectant, ensuring biosecurity. FORMAVET new generation of Mavin has the characteristics of slow release, less pungency, rapid destruction of pathogens.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Protection layer 2 - GLUCANVITA: improve resistance, enhance natural immunity. GLUCANVITA of Mavin contains Beta - Glucan and vitamins that stimulate the natural immune system through macrophages, and other immune components, in order to enhance resistance.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Protection layer 3 - CL-TYLVA 50: antibiotic, inhibits virus activity. CL-TYLVA 50 contains antibiotic Tylvalosin, which inhibits the multiplication of pathogenic viruses and destroys opportunistic pathogens.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The 3-layer protection solution has been researched and applied effectively by Mavin Group in Mavin pig farm system nationwide, which plays an important role in helping Mavin successfully conserve more than 30,000 sows in the context of African swine fever outbreak. This solution has been officially distributed widely in the market since the beginning of 2020 through Cai Lay's agent system nationwide with the goal of helping farmers reherd.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cai Lay Veterinary Pharmacy Joint Stock Company has more than 30 years of establishment and development, is one of the most popular and popular veterinary drug brands in Vietnam. The company owns a factory producing veterinary drugs according to WHO - GMP standards of the World Health Organization in Cai Lay, Tien Giang Province, including 4 fully automatic production lines of injectable drugs, oral drugs and drugs. Powder with a total investment of over VND 90 billion, this is the foundation to ensure the products of Cai Lay Pharmaceutical meet the highest standards of quality, ensuring efficiency for farmers.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T05:01:44.077Z</createdDate>
+	<createdDate_dt>2020-04-01T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:00:35.608Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:00:35.608Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

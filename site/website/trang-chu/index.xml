@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bd09</objectGroupId>
+	<objectId>bd096f3c-55be-bfb6-8033-5686fddcca2d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>trang-chu</folder-name>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>668130d4-016b-19db-7ba2-dcb18501cd25</key>
+	<value>Danh sách sản phẩm</value>
+<component id="668130d4-016b-19db-7ba2-dcb18501cd25">
+	<content-type>/component/homeproduct</content-type>
+	<display-template>/templates/web/component/home-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6681</objectGroupId>
+	<objectId>668130d4-016b-19db-7ba2-dcb18501cd25</objectId>
+	<file-name>668130d4-016b-19db-7ba2-dcb18501cd25.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>SẢN PHẨM CHO TRÂU - BÒ</groupProductName_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO HEO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO GÀ - VỊT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/thuoc-cho-ga-vit</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO CHÓ - MÈO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/thuoc-cho-meo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO TÔM - CÁ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO LOÀI VẬT KHÁC</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<createdDate>2020-06-24T07:18:47.466Z</createdDate>
+	<createdDate_dt>2020-06-24T07:18:47.466Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:46:01.488Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:46:01.488Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>e289d5fd-d50a-14c4-3f61-1d3d160a87f3</key>
+	<value>Tin tức</value>
+<component id="e289d5fd-d50a-14c4-3f61-1d3d160a87f3">
+	<content-type>/component/newsinhome</content-type>
+	<display-template>/templates/web/newsinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e289</objectGroupId>
+	<objectId>e289d5fd-d50a-14c4-3f61-1d3d160a87f3</objectId>
+	<file-name>e289d5fd-d50a-14c4-3f61-1d3d160a87f3.xml</file-name>
+	<internal-name>Tin tức</internal-name>
+	<createdDate>2020-06-25T10:28:54.186Z</createdDate>
+	<createdDate_dt>2020-06-25T10:28:54.186Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T06:42:23.184Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T06:42:23.184Z</lastModifiedDate_dt>
+	<newscategory_s>internalnews</newscategory_s>
+	<videoURL_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL_s>
+	<videoBanner_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</videoBanner_s>
+	<photoAvatar_s>/static-assets/images/libraries/thu_tuong_tham_gian_hang_cl crop_.jpg</photoAvatar_s>
+	<documentAvatar_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar_s>
+	<videoAvatar_s>/static-assets/images/libraries/videos/img__41.jpg</videoAvatar_s>
+	<titleBanner_s>Phim giới thiệu công ty dược thú y cai lậy</titleBanner_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>a5d11046-5e8e-bc97-188f-9c9eccc439e5</key>
+	<value>Điều trị bệnh</value>
+<component id="a5d11046-5e8e-bc97-188f-9c9eccc439e5">
+	<content-type>/component/techsupportinhome</content-type>
+	<display-template>/templates/web/techsupportinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a5d1</objectGroupId>
+	<objectId>a5d11046-5e8e-bc97-188f-9c9eccc439e5</objectId>
+	<file-name>a5d11046-5e8e-bc97-188f-9c9eccc439e5.xml</file-name>
+	<internal-name>Điều trị bệnh</internal-name>
+	<createdDate>2020-06-29T03:44:02.275Z</createdDate>
+	<createdDate_dt>2020-06-29T03:44:02.275Z</createdDate_dt>
+	<lastModifiedDate>2020-06-30T09:49:41.232Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-30T09:49:41.232Z</lastModifiedDate_dt>
+	<title_s>CHỨNG VIÊM DA TRÊN HEO</title_s>
+	<image_s>/static-assets/images/services_img.png</image_s>
+	<description_html>&lt;p&gt;1. HIỆN TRẠNG&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c trại chăn nu&amp;ocirc;i thường hay gặp t&amp;igrave;nh trạng vi&amp;ecirc;m da tr&amp;ecirc;n heo rất kh&amp;oacute; điều trị, người chăn nu&amp;ocirc;i thường nghĩ rằng heo bệnh l&amp;agrave; do:&lt;/p&gt;
+&lt;p&gt;- Thiếu vitamin A, thiếu kẽm ...&lt;/p&gt;</description_html>
+</component>
+	</item></sections_o>
+	<description_t>Trang chủ</description_t>
+	<internal-name>Trang chủ</internal-name>
+	<navLabel>Trang chủ</navLabel>
+	<title_s>Công ty cổ phần dược thú y Cai Lậy 2</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-06-24T06:58:45.441Z</createdDate>
+	<createdDate_dt>2020-06-24T06:58:45.441Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T06:42:14.541Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T06:42:14.541Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0bf958e7</objectGroupId>
+	<objectId>0bf958e7-43f3-4678-882c-1317ba8db5dd</objectId>
+	<internal-name>PENCIN</internal-name>
+	<navLabel>PENCIN</navLabel>
+	<productName_s>PENCIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicillin-cfdc0ac4-511dab30-178ee2a9</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Antibiotic </value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Kampicin.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 33.3333%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients: In 1 vial contains&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Calculated for 4g vials&lt;/p&gt;
+&lt;p&gt;Penicillin Procain 4,000,000UI&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Treatment of mastitis, uterine inflammation, lipid disease, sepsis, hyperthermia, arthritis, pus, ...&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 33.3333%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 33.3333%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dissolve distilled water or physiological salinity 9 &amp;permil; into powdered medicine bottle.&lt;/p&gt;
+&lt;p&gt;Shaken. Intramuscular or subcutaneous injection.&lt;/p&gt;
+&lt;p&gt;- Buffalos, cows and horses: 10,000-15,000UI / kg body weight / day&lt;/p&gt;
+&lt;p&gt;- Pigs, goats: 15,000-20,000UI / kg body weight / day&lt;/p&gt;
+&lt;p&gt;1 injection day. Use continuously for 5-7 days&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-22&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T07:50:20.947Z</createdDate>
+	<createdDate_dt>2020-08-05T07:50:20.947Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:07:20.920Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:07:20.920Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

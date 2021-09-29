@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7058</objectGroupId>
+	<objectId>7058061a-2082-1ea3-5185-83c6232b101c</objectId>
+	<internal-name>POULTRY &amp; ANIMAL CARE</internal-name>
+	<navLabel>POULTRY &amp; ANIMAL CARE</navLabel>
+	<t_s>POULTRY &amp; ANIMAL CARE</t_s>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>566db6b1-cb15-198a-d244-45daf3c33463</key>
+	<value>Slide</value>
+<component id="566db6b1-cb15-198a-d244-45daf3c33463">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>566d</objectGroupId>
+	<objectId>566db6b1-cb15-198a-d244-45daf3c33463</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>566db6b1-cb15-198a-d244-45daf3c33463.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T03:47:00.827Z</createdDate>
+	<createdDate_dt>2020-07-29T03:47:00.827Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:47:00.827Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:47:00.827Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>10abeab2-a416-4467-0a7a-8822544cb84a</key>
+	<value>POULTRY &amp;amp; ANIMAL CARE</value>
+<component id="10abeab2-a416-4467-0a7a-8822544cb84a">
+	<content-type>/component/listprocessEn</content-type>
+	<display-template>/templates/web/component/list-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>10ab</objectGroupId>
+	<objectId>10abeab2-a416-4467-0a7a-8822544cb84a</objectId>
+	<file-name>10abeab2-a416-4467-0a7a-8822544cb84a.xml</file-name>
+	<internal-name>POULTRY &amp; ANIMAL CARE</internal-name>
+	<title_s>POULTRY &amp; ANIMAL CARE</title_s>
+	<processType_s>benh-gia-suc-gia-cam</processType_s>
+	<createdDate>2020-07-29T03:47:45.624Z</createdDate>
+	<createdDate_dt>2020-07-29T03:47:45.624Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:48:52.985Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:48:52.985Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-29T03:46:17.527Z</createdDate>
+	<createdDate_dt>2020-07-29T03:46:17.527Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:48:28.097Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:48:28.097Z</lastModifiedDate_dt>
+</page>

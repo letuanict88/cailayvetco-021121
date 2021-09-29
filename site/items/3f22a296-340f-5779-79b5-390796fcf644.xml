@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/techsupportcomponent</content-type>
+	<display-template>/templates/web/component/group-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3f22</objectGroupId>
+	<objectId>3f22a296-340f-5779-79b5-390796fcf644</objectId>
+	<avatar_s>/static-assets/images/techsupport/logo-4.png</avatar_s>
+	<file-name>3f22a296-340f-5779-79b5-390796fcf644.xml</file-name>
+	<internal-name>Bệnh thủy sản</internal-name>
+	<title_s>Bệnh thủy sản</title_s>
+	<supportTech_s>benh-thuy-san</supportTech_s>
+	<createdDate>2020-06-26T07:54:57.781Z</createdDate>
+	<createdDate_dt>2020-06-26T07:54:57.781Z</createdDate_dt>
+	<lastModifiedDate>2020-07-28T08:50:34.151Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:50:34.151Z</lastModifiedDate_dt>
+	<listURL_s>/ho-tro-ky-thuat/nhom/benh-thuy-san</listURL_s>
+</component>

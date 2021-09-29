@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2016</objectGroupId>
+	<objectId>2016b64c-a39e-a5d1-ac5a-2e2ff42d2328</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>shampoo---super</folder-name>
+	<internal-name>SHAMPOO - SUPER</internal-name>
+	<navLabel>SHAMPOO - SUPER</navLabel>
+	<productName_s>SHAMPOO - SUPER</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-dau-tam</key>
+	<value_smv>Nhóm thuốc sát trùng, dầu tằm</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/112 SHAMPOO SUPERA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 51.0129%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deltamethrin 12,5mg&lt;/p&gt;
+&lt;p&gt;Vitamin B5 100mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tắm sạch, thơm, mượt l&amp;ocirc;ng, ngừa k&amp;yacute; sinh tr&amp;ugrave;ng ngo&amp;agrave;i da&amp;nbsp;ở heo, ch&amp;oacute;, m&amp;egrave;o, b&amp;ograve;, d&amp;ecirc;, cừu, ngựa.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.36088%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.6261%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Xoa đều dầu sau khi đãl&amp;agrave;m ướt, để y&amp;ecirc;n 5 ph&amp;uacute;t, sau đ&amp;oacute; xả sạch.&lt;/p&gt;
+&lt;p&gt;* Ch&amp;oacute;, m&amp;egrave;o:&lt;/p&gt;
+&lt;p&gt;- Tắm thường: 2-5ml/con/tuần/lần&lt;/p&gt;
+&lt;p&gt;- Tắm trị ghẻ, x&amp;agrave; m&amp;acirc;u, bọ ch&amp;eacute;t: 5-10ml/con&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y tắm 1 lần, li&amp;ecirc;n tục 3-4 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;* Heo, b&amp;ograve;, d&amp;ecirc;, cừu, ngựa: 10-30ml/con&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-241&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T09:07:27.250Z</createdDate>
+	<createdDate_dt>2020-08-03T09:07:27.250Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:51:34.642Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:51:34.642Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T09:07:27.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

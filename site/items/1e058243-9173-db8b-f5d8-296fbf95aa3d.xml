@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e05</objectGroupId>
+	<objectId>1e058243-9173-db8b-f5d8-296fbf95aa3d</objectId>
+	<file-name>1e058243-9173-db8b-f5d8-296fbf95aa3d.xml</file-name>
+	<productgrouplevel1_s>thuoc-cho-ga-vit</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-khang-sinh</productgrouplevel2_s>
+	<internal-name>Antibiotic</internal-name>
+	<createdDate>2020-08-05T07:44:38.720Z</createdDate>
+	<createdDate_dt>2020-08-05T07:44:38.720Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:44:38.720Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:44:38.720Z</lastModifiedDate_dt>
+</component>

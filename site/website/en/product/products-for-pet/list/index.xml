@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7d67ace1</objectGroupId>
+	<objectId>7d67ace1-b2e0-48ce-84ba-7de187665cb2</objectId>
+	<internal-name>Products for pet</internal-name>
+	<navLabel>Products for pet</navLabel>
+	<t_s>Products for pet</t_s>
+	<file-name>index.xml</file-name>
+	<folder-name>list</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b5c3107b-0a02-31fe-60f5-5bebbb260710</key>
+	<value>Slide</value>
+<component id="b5c3107b-0a02-31fe-60f5-5bebbb260710">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b5c3</objectGroupId>
+	<objectId>b5c3107b-0a02-31fe-60f5-5bebbb260710</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>b5c3107b-0a02-31fe-60f5-5bebbb260710.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-05T04:05:40.259Z</createdDate>
+	<createdDate_dt>2020-08-05T04:05:40.259Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:05:40.259Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:05:40.259Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>8b7c4495-47c2-4736-d0b9-6f040ab5333d</key>
+	<value>Products for pet</value>
+<component id="8b7c4495-47c2-4736-d0b9-6f040ab5333d">
+	<content-type>/component/nhomsanphamconEn</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8b7c</objectGroupId>
+	<objectId>8b7c4495-47c2-4736-d0b9-6f040ab5333d</objectId>
+	<file-name>8b7c4495-47c2-4736-d0b9-6f040ab5333d.xml</file-name>
+	<internal-name>Products for pet</internal-name>
+	<title_s>Products for pet</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/1 B.Complex 3A.png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Increasing resistance</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/groups/increasing-resistance</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Antibiotic</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/groups/antibiotic</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Analgesic, antipyretic/and anti-inflammatory </groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/groups/analgesic--antipyretic-and-anti-inflammatory</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Parasitic Medicine/fungi, coccidiosis</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/groups/parasitic-medicine--fungi--coccidiosis</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Antiseptics, Bathsoap</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/groups/antiseptics--bathsoap</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Reproductive Medicine</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/groups/reproductive-medicine</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-08-05T04:36:38.442Z</createdDate>
+	<createdDate_dt>2020-08-05T04:36:38.442Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:12:50.943Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:12:50.943Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-08-05T04:04:39.950Z</createdDate>
+	<createdDate_dt>2020-08-05T04:04:39.950Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:12:42.295Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:12:42.295Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/process</content-type>
+	<display-template>/templates/web/component/group-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f43</objectGroupId>
+	<objectId>6f431038-f6f7-d220-978a-54a2929cb97f</objectId>
+	<file-name>6f431038-f6f7-d220-978a-54a2929cb97f.xml</file-name>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</internal-name>
+	<title_s>CHĂN NUÔI - CHĂM SÓC/PHÒNG BỆNH/GIA SÚC - GIA CẦM</title_s>
+	<listURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-gia-suc-gia-cam</listURL_s>
+	<avatar_s>/static-assets/images/techsupport/quy-trinh-gia-cam.png</avatar_s>
+	<processGroup_s>benh-gia-suc-gia-cam</processGroup_s>
+	<createdDate>2020-07-28T10:41:04.309Z</createdDate>
+	<createdDate_dt>2020-07-28T10:41:04.309Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:03:17.379Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:03:17.379Z</lastModifiedDate_dt>
+</component>

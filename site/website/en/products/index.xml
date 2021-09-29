@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e6c3</objectGroupId>
+	<objectId>e6c34bee-f631-e86a-a23d-b8691cd87835</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>products</folder-name>
+	<internal-name>Product</internal-name>
+	<navLabel>Product</navLabel>
+	<t_s>Product</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>8250aba1-bc74-fe6f-dbd1-156701fcf820</key>
+	<value>Slide</value>
+<component id="8250aba1-bc74-fe6f-dbd1-156701fcf820">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8250</objectGroupId>
+	<objectId>8250aba1-bc74-fe6f-dbd1-156701fcf820</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>8250aba1-bc74-fe6f-dbd1-156701fcf820.xml</file-name>
+	<createdDate>2020-07-13T07:20:57.805Z</createdDate>
+	<createdDate_dt>2020-07-13T07:20:57.805Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T07:20:57.805Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T07:20:57.805Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>d146d63f-f574-2daa-a99c-bd418db1655a</key>
+	<value>Group parent</value>
+<component id="d146d63f-f574-2daa-a99c-bd418db1655a">
+	<content-type>/component/nhomsanphamchaEn</content-type>
+	<display-template>/templates/web/component/group-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d146</objectGroupId>
+	<objectId>d146d63f-f574-2daa-a99c-bd418db1655a</objectId>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>Products for cattle</groupProductName_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/list</groupChildProductURL_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>Products for swine</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Products for Poultry</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/list</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Products for pet</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/list</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Product for fish</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/product-for-fish/list</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Product for other animals</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-other-animal/list</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<internal-name>Group parent</internal-name>
+	<title_s>Products</title_s>
+	<file-name>d146d63f-f574-2daa-a99c-bd418db1655a.xml</file-name>
+	<createdDate>2020-07-13T07:21:37.576Z</createdDate>
+	<createdDate_dt>2020-07-13T07:21:37.576Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:13:59.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:13:59.661Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-13T07:20:27.997Z</createdDate>
+	<createdDate_dt>2020-07-13T07:20:27.997Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:13:35.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:13:35.224Z</lastModifiedDate_dt>
+</page>

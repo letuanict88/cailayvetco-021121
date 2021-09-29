@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bc247a4c</objectGroupId>
+	<objectId>bc247a4c-5771-40ed-99ae-255f9a12e8f0</objectId>
+	<internal-name>KAMPICIN</internal-name>
+	<navLabel>KAMPICIN</navLabel>
+	<productName_s>KAMPICIN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicillin-cfdc0ac4-511dab30</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Antibiotic </value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Kampicin.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.3264%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredients: In 1 vial contains&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kanamycin sulfate 500mg&lt;/p&gt;
+&lt;p&gt;Ampicilin sodium 500mg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Treatment of brain, lung, sepsis, endocardial, urinary and genital infections in diseases such as typhoid, haemorrhagic septicemia, exclamation, seal, pneumonia in cattle, pigs, goats, sheep , dogs.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.38422%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 49.2893%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dissolve 10ml of distilled water or physiological salinity 9 &amp;permil; into powdered vial.&lt;/p&gt;
+&lt;p&gt;Shake well to dissolve. Intramuscular or subcutaneous injection.&lt;/p&gt;
+&lt;p&gt;- Dosage:&lt;/p&gt;
+&lt;p&gt;1 bottle / 40-50kg weight / day&lt;/p&gt;
+&lt;p&gt;- Divide into 2 injections / day.&lt;/p&gt;
+&lt;p&gt;Use continuously for 3-4 days&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-204&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-05T07:50:20.947Z</createdDate>
+	<createdDate_dt>2020-08-05T07:50:20.947Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:08:50.880Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:08:50.880Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

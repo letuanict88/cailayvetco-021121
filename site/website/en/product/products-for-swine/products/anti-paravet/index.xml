@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cce1</objectGroupId>
+	<objectId>cce191b3-3f0a-fb35-cba1-d7b43f6e42a7</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>ANTI-PARAVET</internal-name>
+	<navLabel>ANTI-PARAVET</navLabel>
+	<productName_s>ANTI-PARAVET</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value_smv>Parasitic Medicine, fungi, coccidiosis</value_smv>
+	</item></productgrouplv2_o>
+	<file-name>index.xml</file-name>
+	<folder-name>anti-paravet</folder-name>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.2893%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ivermectin 1g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Specializes in treating internal and external parasites (nematodes, eel worms, ticks, scabies, fleas, mites, beetles, lice, skin maggots - sinuses, etc. on buffalos, cows, goats, sheep, pigs.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.24663%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.464%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Subcutaneously.&lt;/p&gt;
+&lt;p&gt;- Cattle, goats, sheep: 1ml / 50kg weight&lt;/p&gt;
+&lt;p&gt;- Swine: 1ml / 30kg weight&lt;/p&gt;
+&lt;p&gt;- Treatment of scabies: 1 time / week. Use 2-3 repeatedly spaced 5-7 days. For camp calendar see details in the instruction sheet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-102&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/55 Anti-Paravet 2A.png</productImage_s>
+	<createdDate>2020-08-05T08:31:36.253Z</createdDate>
+	<createdDate_dt>2020-08-05T08:31:36.253Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:31:36.253Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:31:36.253Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

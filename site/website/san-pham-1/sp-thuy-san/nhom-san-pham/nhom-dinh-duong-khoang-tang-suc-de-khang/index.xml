@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f114</objectGroupId>
+	<objectId>f114c2fd-a9d8-f673-41b3-6a9806243b45</objectId>
+	<internal-name>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</internal-name>
+	<navLabel>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</navLabel>
+	<title_s>Nhóm thuốc Dinh dưỡng, khoáng, tăng sức đề kháng</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>nhom-dinh-duong-khoang-tang-suc-de-khang</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>7037838b-88c1-d9a1-9a78-0eee56478490</key>
+	<value>Slide</value>
+<component id="7037838b-88c1-d9a1-9a78-0eee56478490">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7037</objectGroupId>
+	<objectId>7037838b-88c1-d9a1-9a78-0eee56478490</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>7037838b-88c1-d9a1-9a78-0eee56478490.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-03T07:54:10.797Z</createdDate>
+	<createdDate_dt>2020-07-03T07:54:10.797Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T07:58:33.783Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:58:33.783Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/cfa6d283-6541-66bb-580f-e0c3ba42d2ff.xml</key>
+	<value>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</value>
+	<include>/site/items/cfa6d283-6541-66bb-580f-e0c3ba42d2ff.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<leftImage_s>/static-assets/images/products/thuy-san-left.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/CEVIMIX 10 CA 1kg.png</rightimage_s>
+	<createdDate>2020-07-03T07:52:57.040Z</createdDate>
+	<createdDate_dt>2020-07-03T07:52:57.040Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:42:05.891Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:42:05.891Z</lastModifiedDate_dt>
+	<rightTitle_s>CEVIMIX 10%</rightTitle_s>
+</page>

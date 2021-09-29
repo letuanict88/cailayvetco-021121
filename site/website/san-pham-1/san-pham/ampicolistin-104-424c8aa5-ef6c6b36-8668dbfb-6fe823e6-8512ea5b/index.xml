@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7dc3dfad</objectGroupId>
+	<objectId>7dc3dfad-6631-489a-a6c6-50cfa80e5af7</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-104-424c8aa5-ef6c6b36-8668dbfb-6fe823e6-8512ea5b</folder-name>
+	<internal-name>GIẢI ĐỘC GAN</internal-name>
+	<navLabel>GIẢI ĐỘC GAN</navLabel>
+	<productName_s>GIẢI ĐỘC GAN</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/GIAI DOC GAN 1kg.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.6648%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;* Chất ch&amp;iacute;nh&lt;/p&gt;
+&lt;p&gt;Sorbitol (min) 45g&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất kh&amp;aacute;c&lt;/p&gt;
+&lt;p&gt;Vitamin B12 (min) 12mg&lt;/p&gt;
+&lt;p&gt;Methionine (min) 500mg&lt;/p&gt;
+&lt;p&gt;Lysine (min) 200mg&lt;/p&gt;
+&lt;p&gt;Chất mang (dextrose, lactose,...) vđ 100g&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Giải độc gan-thận trong qu&amp;aacute; tr&amp;igrave;nh d&amp;ugrave;ng kh&amp;aacute;ng sinh&amp;nbsp;điều trị bệnh.&lt;/p&gt;
+&lt;p&gt;- Giải độc khi nhiễm độc tố nấm mốc.&lt;/p&gt;
+&lt;p&gt;- Tăng cường chức năng, điều h&amp;ograve;a hoạt động của gan-thận, chức năng trao đổi chất, tăng sức đề kh&amp;aacute;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.88025%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.4548%;"&gt;
+&lt;p&gt;- Giảm c&amp;aacute;c hội chứng bệnh về gan: gan h&amp;oacute;a mỡ, gan sưng,&amp;nbsp;cứng, teo gan.&lt;/p&gt;
+&lt;p&gt;- K&amp;iacute;ch th&amp;iacute;ch t&amp;iacute;nh ngon miệng, ham ăn cho gia cầm non&amp;nbsp;những ng&amp;agrave;y đầu.&lt;/p&gt;
+&lt;p&gt;- K&amp;iacute;ch th&amp;iacute;ch mọc l&amp;ocirc;ng, chống mổ cắn&lt;/p&gt;
+&lt;p&gt;- Tăng khả năng chuyển h&amp;oacute;a thức ăn, tỉ lệ đẻ, tỉ lệ ấp nở, chất lượng thịt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pha v&amp;agrave;o nước cho uống hoặc trộn v&amp;agrave;o thức ăn cho ăn.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;2-4g/l&amp;iacute;t nước uống hoặc 100g/25-50kg thức ăn. D&amp;ugrave;ng&amp;nbsp;li&amp;ecirc;n tục từ 3-5 ng&amp;agrave;y, lặp lại t&amp;ugrave;y t&amp;igrave;nh trạng sức khỏe vật nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 01:2019/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:37:56.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:27:51.618Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:27:51.618Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

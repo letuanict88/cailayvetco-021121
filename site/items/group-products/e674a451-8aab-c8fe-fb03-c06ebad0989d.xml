@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e674</objectGroupId>
+	<objectId>e674a451-8aab-c8fe-fb03-c06ebad0989d</objectId>
+	<file-name>e674a451-8aab-c8fe-fb03-c06ebad0989d.xml</file-name>
+	<internal-name>Nhóm sản phẩm cho trâu bò</internal-name>
+	<title_s>Sản phẩm cho trâu bò</title_s>
+	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/thuoc-boi-duong-suc-de-khang.png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm bồi dưỡng tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/home</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc kháng sinh</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/home</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm Giảm đau Hạ sốt, kháng viêm</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/home</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm Ký sinh trùng nấm, cầu trùng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/1.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/home</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng, thuốc dùng ngoài</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/home</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ sinh sản và hỗ trợ khác</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/2.png</groupChildProductImage_s>
+	<groupChildProductURL_s>/home</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-06-23T02:56:05.770Z</createdDate>
+	<createdDate_dt>2020-06-23T02:56:05.770Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T02:56:05.770Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T02:56:05.770Z</lastModifiedDate_dt>
+</component>

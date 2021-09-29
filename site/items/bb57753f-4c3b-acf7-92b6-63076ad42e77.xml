@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bb57</objectGroupId>
+	<objectId>bb57753f-4c3b-acf7-92b6-63076ad42e77</objectId>
+	<file-name>bb57753f-4c3b-acf7-92b6-63076ad42e77.xml</file-name>
+	<internal-name>Analgesic, antipyretic and anti-inflammatory</internal-name>
+	<productgrouplevel1_s>thuoc-cho-heo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-giam-dau-ha-sot-khang-viem</productgrouplevel2_s>
+	<createdDate>2020-08-05T07:34:35.943Z</createdDate>
+	<createdDate_dt>2020-08-05T07:34:35.943Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:34:35.943Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:34:35.943Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>538a</objectGroupId>
+	<objectId>538ab308-8478-fc1b-929d-7e43f22210eb</objectId>
+	<file-name>538ab308-8478-fc1b-929d-7e43f22210eb.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-trau-bo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-giam-dau-ha-sot-khang-viem</productgrouplevel2_s>
+	<createdDate>2020-08-03T07:19:47.183Z</createdDate>
+	<createdDate_dt>2020-08-03T07:19:47.183Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:19:47.183Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:19:47.183Z</lastModifiedDate_dt>
+</component>

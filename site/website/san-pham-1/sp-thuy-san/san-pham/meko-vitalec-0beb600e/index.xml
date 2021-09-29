@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2e6fc1c3</objectGroupId>
+	<objectId>2e6fc1c3-899f-4559-93ba-244418feebf6</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>CALCIMIX </internal-name>
+	<navLabel>CALCIMIX </navLabel>
+	<productName_s>CALCIMIX </productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-0beb600e</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-dinh-duong-khoang-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc dinh dưỡng, khoáng, tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/CALCIMIX 1kg TOM.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3113%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Calcium (min-max): 45-75g&lt;/p&gt;
+&lt;p&gt;- Phospho (min-max): 35-55g&lt;/p&gt;
+&lt;p&gt;- Vitamin A (min): 5.000.000UI&lt;/p&gt;
+&lt;p&gt;- Vitamin&amp;nbsp; D3 (min): 200.000UI&lt;/p&gt;
+&lt;p&gt;-Vitamin E (min): 2.500UI&lt;/p&gt;
+&lt;p&gt;- Fe (min-max): 2-4g&lt;/p&gt;
+&lt;p&gt;- Zn (min-max): 1-3g&lt;/p&gt;
+&lt;p&gt;- Mn (min-max): 1-2,5g&lt;/p&gt;
+&lt;p&gt;- Cu (min-max): 1-2g&lt;/p&gt;
+&lt;p&gt;- Dextrose, bột m&amp;igrave; vđ: 1kg&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.71894%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.9697%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bổ sung canxi, phospho, vitamin v&amp;agrave; kho&amp;aacute;ng chất, gi&amp;uacute;p t&amp;ocirc;m tăng trưởng v&amp;agrave; ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Trộn đều v&amp;agrave;o thức ăn với liều 5-7g/1kg thức ăn.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- N&amp;ecirc;n cho ăn li&amp;ecirc;n tục từ l&amp;uacute;c thả nu&amp;ocirc;i đến khi thu hoạch&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:12:08.240Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:12:08.240Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

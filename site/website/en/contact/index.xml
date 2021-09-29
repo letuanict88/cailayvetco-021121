@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1196</objectGroupId>
+	<objectId>119675bf-9241-38c8-191d-94a329451031</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>contact</folder-name>
+	<internal-name>Contact</internal-name>
+	<navLabel>Contact</navLabel>
+	<t_s>Contact</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>827e98f3-0ca1-936b-10e3-9ea4be522cd6</key>
+	<value>slide</value>
+<component id="827e98f3-0ca1-936b-10e3-9ea4be522cd6">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>827e</objectGroupId>
+	<objectId>827e98f3-0ca1-936b-10e3-9ea4be522cd6</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/lien-he-slide.png</image_s>
+	</item></slide_o>
+	<file-name>827e98f3-0ca1-936b-10e3-9ea4be522cd6.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-13T11:12:55.269Z</createdDate>
+	<createdDate_dt>2020-07-13T11:12:55.269Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T11:12:55.269Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T11:12:55.269Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>1adb5739-3cc6-1537-c6c6-87dee2ca919b</key>
+	<value>Contact</value>
+<component id="1adb5739-3cc6-1537-c6c6-87dee2ca919b">
+	<content-type>/component/componentlinhEn</content-type>
+	<display-template>/templates/web/component/contactEn.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1adb</objectGroupId>
+	<objectId>1adb5739-3cc6-1537-c6c6-87dee2ca919b</objectId>
+	<internal-name>Contact</internal-name>
+	<companyName_s>CAI LAY VETERINARY JOINT STOCK COMPANY</companyName_s>
+	<phoneNumber_s>0273 3 826 462</phoneNumber_s>
+	<fax_s>0273 3 826 363</fax_s>
+	<email_s>info@cailayvetco.com</email_s>
+	<mapsFrame_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.248708068223!2d106.12818241433428!3d10.40181086884179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a979441a9d87b%3A0x3d68e34c580e97a3!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gRMaw4bujYyBUaMO6IHkgQ2FpIEzhuq15!5e0!3m2!1svi!2s!4v1594369299594!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"&gt;&lt;/iframe&gt;</mapsFrame_s>
+	<file-name>1adb5739-3cc6-1537-c6c6-87dee2ca919b.xml</file-name>
+	<createdDate>2020-07-13T11:13:28.391Z</createdDate>
+	<createdDate_dt>2020-07-13T11:13:28.391Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:54:16.127Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:54:16.127Z</lastModifiedDate_dt>
+	<companyHeadquater_s>Zone 1, Ward 5, Cai Lay Town, Tien Giang Province, Viet Nam</companyHeadquater_s>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-13T11:12:36.073Z</createdDate>
+	<createdDate_dt>2020-07-13T11:12:36.073Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:54:10.125Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:54:10.125Z</lastModifiedDate_dt>
+</page>

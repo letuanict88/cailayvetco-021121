@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e959</objectGroupId>
+	<objectId>e959ed0a-0c06-9eac-1549-58d4dc27dd44</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>introduction</folder-name>
+	<internal-name>introduction</internal-name>
+	<navLabel>introduction</navLabel>
+	<title_s>introduction</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>introduction</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/f832534c-38a2-9702-13b1-f36e00a1a3e3.xml</key>
+	<value>Header - Giới thiệu chung</value>
+	<include>/site/items/slides/f832534c-38a2-9702-13b1-f36e00a1a3e3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>924f296b-cef9-c373-ace2-39ed32d1ece9</key>
+	<value>Content - Introduction</value>
+<component id="924f296b-cef9-c373-ace2-39ed32d1ece9">
+	<content-type>/component/introduction2</content-type>
+	<display-template>/templates/web/introduction2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>924f</objectGroupId>
+	<objectId>924f296b-cef9-c373-ace2-39ed32d1ece9</objectId>
+	<file-name>924f296b-cef9-c373-ace2-39ed32d1ece9.xml</file-name>
+	<internal-name>Content - Introduction</internal-name>
+	<title_s>Introduction</title_s>
+	<titleintro_s>General Introduction</titleintro_s>
+	<urlintro_s>/en/introduction/about-makovet</urlintro_s>
+	<titlehistory_s>History</titlehistory_s>
+	<urlhistory_s>/en/introduction/history</urlhistory_s>
+	<titlevision_s>Achievements</titlevision_s>
+	<urlvision_s>/en/introduction/achievements</urlvision_s>
+	<titleaward_s>Vision, Mission</titleaward_s>
+	<urlaward_s>/en/introduction/vision</urlaward_s>
+	<introduction_s>/static-assets/images/products/introduce_img_1.png</introduction_s>
+	<history_s>/static-assets/images/products/introduce_img_2.png</history_s>
+	<vision_s>/static-assets/images/products/introduce_img_3.png</vision_s>
+	<award_s>/static-assets/images/products/introduce_img_4.png</award_s>
+	<createdDate>2020-07-17T07:44:33.039Z</createdDate>
+	<createdDate_dt>2020-07-17T07:44:33.039Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T07:44:33.039Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T07:44:33.039Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-17T07:43:49.006Z</createdDate>
+	<createdDate_dt>2020-07-17T07:43:49.006Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T07:43:49.006Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T07:43:49.006Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f062d9dc</objectGroupId>
+	<objectId>f062d9dc-98d2-4138-be90-655d6460b68d</objectId>
+	<internal-name>B.COMPLEX SUPER</internal-name>
+	<navLabel>B.COMPLEX SUPER</navLabel>
+	<productName_s>B.COMPLEX SUPER</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>b-complex-01db62af</folder-name>
+	<isHot_b>true</isHot_b>
+	<productImage_s>/static-assets/images/products/2 B.Complex SuperA.png</productImage_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3554%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dextrose 2,5g&lt;/p&gt;
+&lt;p&gt;Sodium acetate 1,25g&lt;/p&gt;
+&lt;p&gt;Magnessium sulfate 100mg&lt;/p&gt;
+&lt;p&gt;Potassium chloride 100mg&lt;/p&gt;
+&lt;p&gt;Sodium chloride 45mg&lt;/p&gt;
+&lt;p&gt;Vitamin B1 HCl 50mg&lt;/p&gt;
+&lt;p&gt;Vitamin B6 50mg&lt;/p&gt;
+&lt;p&gt;Calcium pantothenate 25mg&lt;/p&gt;
+&lt;p&gt;Vitamin B2 Na.phosphate 20mg&lt;/p&gt;
+&lt;p&gt;Vitamin PP 10mg&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 500ml&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 1.38122%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 49.2633%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bổ sung vitamin v&amp;agrave; kho&amp;aacute;ng vi lượng được d&amp;ugrave;ng trong&amp;nbsp;c&amp;aacute;c trường hợp mất nước, mất sức do ti&amp;ecirc;u chảy, trợ sức&amp;nbsp;trước v&amp;agrave; sau khi sinh, bồi dưỡng tăng sức trong bệnh&amp;nbsp;nhiễm tr&amp;ugrave;ng ở tr&amp;acirc;u, b&amp;ograve;, heo.&lt;/p&gt;
+&lt;p&gt;Ngo&amp;agrave;i ra, thuốc c&amp;oacute; thể d&amp;ugrave;ng thay nước cất pha ti&amp;ecirc;m v&amp;agrave; thay nước uống d&amp;ugrave;ng trong giai đoạn &amp;uacute;m ở g&amp;agrave;, vịt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Heo con: ti&amp;ecirc;m xoang bụng 10-50ml/con/lần.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;, heo lớn: ti&amp;ecirc;m dưới da hay ti&amp;ecirc;m tĩnh mạch&lt;/p&gt;
+&lt;p&gt;20-50ml/con/lần.&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt: pha 1 chai với 1,5 l&amp;iacute;t nước ch&amp;iacute;n cho uống tự do.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-70&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-01T02:54:45.716Z</createdDate>
+	<createdDate_dt>2020-08-01T02:54:45.716Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:41:53.877Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:41:53.877Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-05T08:41:58.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

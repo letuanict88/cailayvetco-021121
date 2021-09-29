@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b55a</objectGroupId>
+	<objectId>b55a6184-e1fc-006a-7b23-7b8b9ef37614</objectId>
+	<internal-name>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </internal-name>
+	<navLabel>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </navLabel>
+	<title_s>Nhóm Thuốc Sát trùng, thuốc dùng ngoài </title_s>
+	<rightTitle_s>B. complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>sat-trung-dung-ngoai</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>601f8bb7-b600-0ea8-67e6-2291e62c99bb</key>
+	<value>Slide</value>
+<component id="601f8bb7-b600-0ea8-67e6-2291e62c99bb">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>601f</objectGroupId>
+	<objectId>601f8bb7-b600-0ea8-67e6-2291e62c99bb</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>601f8bb7-b600-0ea8-67e6-2291e62c99bb.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T09:05:00.960Z</createdDate>
+	<createdDate_dt>2020-08-03T09:05:00.960Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:05:00.960Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:05:00.960Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/b9a0ab4a-5888-3417-393a-56b86d74c7ba.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/b9a0ab4a-5888-3417-393a-56b86d74c7ba.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T09:03:22.603Z</createdDate>
+	<createdDate_dt>2020-08-03T09:03:22.603Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:03:22.603Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:03:22.603Z</lastModifiedDate_dt>
+</page>

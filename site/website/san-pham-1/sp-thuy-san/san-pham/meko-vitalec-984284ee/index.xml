@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8bf20120</objectGroupId>
+	<objectId>8bf20120-bc35-4451-bb92-5be4bb1422b6</objectId>
+	<isHot_b>true</isHot_b>
+	<internal-name>MEKO-SULFAN (CÁ)</internal-name>
+	<navLabel>MEKO-SULFAN (CÁ)</navLabel>
+	<productName_s>MEKO-SULFAN (CÁ)</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-984284ee</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-phong-tri-benh</key>
+	<value_smv>Nhóm thuốc Phòng, trị bệnh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MEKO-SYLFAN CA 100g (MAT TRUOC).png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.3113%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sulfamethoxazol&amp;nbsp; &amp;nbsp;200g&lt;/p&gt;
+&lt;p&gt;Trimethoprim&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;40g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1kg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chuy&amp;ecirc;n ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh đường ruột v&amp;agrave; bệnh nhiễm khuẩn tr&amp;ecirc;n c&amp;aacute;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute; dưới 2 th&amp;aacute;ng tuổi: 100g/300-400kg c&amp;aacute; hay 100g/20kg thức ăn.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.71894%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.9697%;"&gt;
+&lt;p&gt;- C&amp;aacute; tr&amp;ecirc;n 2 th&amp;aacute;ng tuổi: 100g/300kg c&amp;aacute; hay 100g/14-20kg thức ăn.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Liều ph&amp;ograve;ng: 1/3 liều trị&lt;/p&gt;
+&lt;p&gt;Ngưng sử dụng thuốc 4 tuần trước khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:37:05.051Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:37:05.051Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

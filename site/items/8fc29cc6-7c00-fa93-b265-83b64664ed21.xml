@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8fc2</objectGroupId>
+	<objectId>8fc29cc6-7c00-fa93-b265-83b64664ed21</objectId>
+	<file-name>8fc29cc6-7c00-fa93-b265-83b64664ed21.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-heo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</productgrouplevel2_s>
+	<createdDate>2020-08-03T07:08:48.390Z</createdDate>
+	<createdDate_dt>2020-08-03T07:08:48.390Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:08:48.390Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:08:48.390Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da3a</objectGroupId>
+	<objectId>da3add39-f646-0ac1-6309-d07ee4e1b021</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>LEVAMISOL</internal-name>
+	<navLabel>LEVAMISOL</navLabel>
+	<productName_s>LEVAMISOL</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>levamisol</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-nam-cau-trung</key>
+	<value_smv>Nhóm thuốc sát trùng nấm, cầu trùng</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.4604%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Levamisol HCl 6g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c loại giun đường h&amp;ocirc; hấp v&amp;agrave; đường ruột&amp;nbsp;như: giun đũa, giun phổi, giun t&amp;oacute;c, giun kim, giun m&amp;oacute;c,&amp;nbsp;giun xoăn,&amp;hellip;ở tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, ch&amp;oacute;, m&amp;egrave;o, g&amp;agrave;, vịt.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.7753%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 45.7642%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn cho ăn hay pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 1g/7,5-10kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Heo, d&amp;ecirc;: 1g/6-7,5kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 1g/6kg thể trọng&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt: 1g/2-2,5kg thể trọng&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục kh&amp;ocirc;ng qu&amp;aacute; 2 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-207&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/101 LEVAMISOL 100gA.png</productImage_s>
+	<createdDate>2020-08-03T08:25:25.710Z</createdDate>
+	<createdDate_dt>2020-08-03T08:25:25.710Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:48:24.135Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:48:24.135Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:25:26.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

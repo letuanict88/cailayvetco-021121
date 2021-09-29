@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b090e94</objectGroupId>
+	<objectId>5b090e94-56d2-4f22-bf16-b2adf4201349</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-114-a30911a3-5b8878de-602ea992-00e8a960-d601e49f-e483ba55-7a6780a8-7836278d-5094801c-d80d21f6-a62749f4-f063639d-a3de526e-05c10229-67c30d92-dac916a8-80c6a6ee-cb6786f6-bdb0925e-347376b0-63187c0e-266cd739-db24cc9f-e8beed02</folder-name>
+	<internal-name>TYLAN 200</internal-name>
+	<navLabel>TYLAN 200</navLabel>
+	<productName_s>TYLAN 200</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/42 TYLAN 200 3A.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50.2754%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tylosin base 20g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đặc trị vi&amp;ecirc;m phổi do Mycoplasma, vi&amp;ecirc;m phế quản, suyễn,&amp;nbsp;vi&amp;ecirc;m tử cung, vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m khớp, dấu son, phụ nhiễm vi&amp;nbsp;khuẩn trong c&amp;aacute;c bệnh virus ở tr&amp;acirc;u, b&amp;ograve;, heo, ch&amp;oacute;, m&amp;egrave;o.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.75484%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.9697%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp.&lt;/p&gt;
+&lt;p&gt;- Heo, tr&amp;acirc;u, b&amp;ograve;: 1ml/20kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Ch&amp;oacute;, m&amp;egrave;o: 1ml/15kg thể trọng&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 3-5 ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-46&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:45:09.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:28:18.382Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:28:18.382Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

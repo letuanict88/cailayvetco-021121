@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ca8f</objectGroupId>
+	<objectId>ca8fbdf0-0ba9-9138-4f9a-e935fbc06f3d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mu-ng-sinh-nha-t-quy-2-va-3-2018-cho-cb-cnv</folder-name>
+	<internal-name>Mừng sinh nhật quý 2 và 3/2018 cho CB-CNV</internal-name>
+	<navLabel>Mừng sinh nhật quý 2 và 3/2018 cho CB-CNV</navLabel>
+	<title_s>Mừng sinh nhật quý 2 và 3/2018 cho CB-CNV</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/news/cailayvetco_q__2.jpg</image_s>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Sinh nhật l&amp;agrave; một trong những ng&amp;agrave;y được mọi người chờ đợi nhất trong năm - kỷ niệm th&amp;ecirc;m một tuổi mới, th&amp;ecirc;m một phần ch&amp;iacute;n chắn, được qu&amp;acirc;y quần b&amp;ecirc;n nhau và được nhận những lời ch&amp;uacute;c tốt đẹp nhất. Ng&amp;agrave;y n&amp;agrave;y c&amp;ograve;n c&amp;oacute; &amp;yacute; nghĩa hơn khi được Ban lãnh đạo cùng C&amp;ocirc;ng đo&amp;agrave;n C&amp;ocirc;ng ty t&amp;ocirc;̉ chức chương trình &amp;ldquo;Mừng sinh nh&amp;acirc;̣t t&amp;acirc;̣p th&amp;ecirc;̉ CB-CNV&amp;rdquo;. Chương tr&amp;igrave;nh này cũng g&amp;oacute;p phần t&amp;ocirc; đậm, l&amp;agrave;m phong ph&amp;uacute; th&amp;ecirc;m bản sắc văn h&amp;oacute;a của C&amp;ocirc;ng ty C&amp;ocirc;̉ ph&amp;acirc;̀n Dược Thú y Cai L&amp;acirc;̣y - CAILAYVETCO.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng gian của tiệc v&amp;agrave; tập thể CB-CNV c&amp;oacute; sinh nhật trong qu&amp;yacute; 2 và 3/2018&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MC Trần Thị Kiều Chinh &amp;ndash; Gi&amp;aacute;m s&amp;aacute;t H&amp;agrave;nh ch&amp;iacute;nh&amp;ndash;Nh&amp;acirc;n sự giới thiệu l&amp;yacute; do mở m&amp;agrave;n buổi sinh nhật trước sự c&amp;oacute; mặt đ&amp;ocirc;ng đủ của CBCNV c&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong kh&amp;ocirc;ng kh&amp;iacute; vui tươi của chương tr&amp;igrave;nh Mừng sinh nhật, Gi&amp;aacute;m đốc Nhà máy &amp;ndash; &amp;Ocirc;ng Đ&amp;ocirc;̃ Văn Tài đ&amp;atilde; đại diện cho C&amp;ocirc;ng ty d&amp;agrave;nh những lời ch&amp;uacute;c tốt đẹp nhất tới c&amp;aacute;c cá nh&amp;acirc;n c&amp;oacute; sinh nhật trong qu&amp;yacute; 2 &amp; 3/2018. Đ&amp;ocirc;̀ng thời cùng mọi người hát vang b&amp;agrave;i h&amp;aacute;t &amp;ldquo;Ch&amp;uacute;c mừng sinh nhật&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mỗi c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n nhận được lời ch&amp;uacute;c ý nghĩa và qu&amp;agrave; mừng của GĐNM trực tiếp trao tặng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Ocirc;ng Th&amp;acirc;n Văn Dũng &amp;ndash; Trưởng ph&amp;ograve;ng sản xuất trao quà v&amp;agrave; kh&amp;ocirc;ng qu&amp;ecirc;n gửi những lời ch&amp;uacute;c mừng sinh nhật &amp;yacute; nghĩa đến anh chị em CB-CNV C&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bà Phan Nguy&amp;ecirc;̃n Trúc Mỹ &amp;ndash; Quản đ&amp;ocirc;́c nhà máy ch&amp;uacute;c sức khỏe, hạnh ph&amp;uacute;c v&amp;agrave; th&amp;agrave;nh đạt đến c&amp;aacute;c c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n c&amp;oacute; sinh nhật trong qu&amp;yacute; 2 và 3 n&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đi&amp;ecirc;̀u mong đợi nh&amp;acirc;́t của chương trình là th&amp;ocirc;̉i n&amp;ecirc;́n và cắt bánh kem được dành đặc bi&amp;ecirc;̣t cho chị L&amp;ecirc; Thị Li&amp;ecirc;́n và anh Nguy&amp;ecirc;̃n Hữu Cường 2 người có sinh nh&amp;acirc;̣t trong tháng 8&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;ldquo;Mừng sinh nh&amp;acirc;̣t t&amp;acirc;̣p th&amp;ecirc;̉ CB-CNV&amp;rdquo; tuy l&amp;agrave; một việc l&amp;agrave;m nhỏ nhưng &amp;yacute; nghĩa thật to lớn, thể hiện sự quan t&amp;acirc;m, chăm sóc của Ban lãnh đạo C&amp;ocirc;ng ty dành cho từng cá nh&amp;acirc;n trong t&amp;acirc;̣p th&amp;ecirc;̉ C&amp;ocirc;ng ty. Đi&amp;ecirc;̀u này đ&amp;atilde; tạo n&amp;ecirc;n sự gắn kết, kh&amp;iacute;ch lệ động vi&amp;ecirc;n tinh thần của CB-CNV trong to&amp;agrave;n C&amp;ocirc;ng ty phấn đấu đạt hiệu quả cao hơn trong c&amp;ocirc;ng vi&amp;ecirc;̣c.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:56:25.081Z</createdDate>
+	<createdDate_dt>2020-07-31T05:56:25.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:56:25.081Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:56:25.081Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc5f5664</objectGroupId>
+	<objectId>cc5f5664-c3dd-469a-9f68-23ff6ca9717b</objectId>
+	<internal-name>VITAMIN C</internal-name>
+	<navLabel>VITAMIN C</navLabel>
+	<productName_s>VITAMIN C</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-c299da04-c8d603f3-32d286de-82cb8541</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/245852d2-bebb-574b-c3e3-eb533742b888.xml</key>
+	<value>Slide</value>
+	<include>/site/items/245852d2-bebb-574b-c3e3-eb533742b888.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Group of fostering drugs increases resistance</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/11 VITAMIN C (A).png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0142%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin C 10g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Prevention and treatment of vitamin C deficiency.&lt;/p&gt;
+&lt;p&gt;- Increasing resistance to the body when there is infection, intoxication, diseases of the liver and kidney.&lt;/p&gt;
+&lt;p&gt;- Recover and strengthen energy after infections, tired cases, pregnancy, lactation in buffalos, cows, pigs, dogs, cats, goats, sheep, chickens and ducks.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.65928%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.3264%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular, intravenous, subcutaneous or water for oral administration.&lt;/p&gt;
+&lt;p&gt;- Cattle: 1ml / 15-20kg weight / day&lt;/p&gt;
+&lt;p&gt;- Swine: 1ml / 10-15kg weight / day&lt;/p&gt;
+&lt;p&gt;- Dogs, cats, goats, sheep, chickens and ducks: 1ml / 5-7kg weight / day&lt;/p&gt;
+&lt;p&gt;Use continuously in 7 days&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-58&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-07-13T07:04:20.649Z</createdDate>
+	<createdDate_dt>2020-07-13T07:04:20.649Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:47:47.394Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:47:47.394Z</lastModifiedDate_dt>
+	<createddate_dt>2020-07-13T04:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
+	<isHot_b>false</isHot_b>
+</page>

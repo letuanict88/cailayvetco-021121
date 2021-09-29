@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2475</objectGroupId>
+	<objectId>2475c828-d20d-4876-e3ea-2060c0b7e489</objectId>
+	<file-name>2475c828-d20d-4876-e3ea-2060c0b7e489.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-ga-vit</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</productgrouplevel2_s>
+	<createdDate>2020-08-03T08:22:58.736Z</createdDate>
+	<createdDate_dt>2020-08-03T08:22:58.736Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:22:58.736Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:22:58.736Z</lastModifiedDate_dt>
+</component>

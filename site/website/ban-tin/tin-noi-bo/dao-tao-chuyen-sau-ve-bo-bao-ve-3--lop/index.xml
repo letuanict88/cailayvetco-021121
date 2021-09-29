@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>21ba</objectGroupId>
+	<objectId>21ba96d4-84f3-41ef-6547-aa5b8d25f48b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dao-tao-chuyen-sau-ve-bo-bao-ve-3--lop</folder-name>
+	<internal-name>Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh</internal-name>
+	<navLabel>Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ k</navLabel>
+	<title_s>Đào tạo chuyên sâu về Bộ bảo vệ 3 lớp cho cán bộ kinh doanh</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Layer 192.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 21 v&amp;agrave; 22/2/2020, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy &amp;ndash; Cailayvetco đ&amp;atilde; tham dự kh&amp;oacute;a đ&amp;agrave;o tạo về Bộ bảo vệ 3 lớp của Tập đo&amp;agrave;n Mavin tại Nh&amp;agrave; m&amp;aacute;y Đồng Th&amp;aacute;p.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c nội dung trong chương tr&amp;igrave;nh đ&amp;agrave;o tạo:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Phương &amp;aacute;n xử l&amp;yacute; sau dịch ASF v&amp;agrave; hướng dẫn t&amp;aacute;i đ&amp;agrave;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Giới thiệu bộ bảo vệ 3 lớp (sản phẩm Th&amp;uacute; y: CL-Tylva 50, Glucanvita, Formavet)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Dinh dưỡng c&amp;aacute;m heo&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. Chương tr&amp;igrave;nh T&amp;aacute;i đ&amp;agrave;n th&amp;agrave;nh c&amp;ocirc;ng c&amp;ugrave;ng Mavin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh chương tr&amp;igrave;nh đ&amp;agrave;o tạo, c&amp;aacute;c c&amp;aacute;n bộ c&amp;ograve;n được tham gia c&amp;aacute;c chương tr&amp;igrave;nh giao lưu gắn kết tinh thần đồng đội gồm: giao lưu đ&amp;aacute; b&amp;oacute;ng, tiệc giao lưu đo&amp;agrave;n c&amp;ocirc;ng t&amp;aacute;c tổ chức ngay trong khu&amp;ocirc;n vi&amp;ecirc;n Nh&amp;agrave; m&amp;aacute;y Đồng Th&amp;aacute;p (MDT).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chương tr&amp;igrave;nh đ&amp;atilde; th&amp;agrave;nh c&amp;ocirc;ng tốt đẹp c&amp;ugrave;ng với sự lĩnh hội, vận dụng kiến thức v&amp;agrave; kỹ năng tốt nhất m&amp;agrave; C&amp;aacute;n bộ KD Cailayvetco đ&amp;atilde; được đ&amp;agrave;o tạo v&amp;agrave;o thực tế c&amp;ocirc;ng t&amp;aacute;c, đặc biệt l&amp;agrave; hiệu quả của Bộ bảo vệ 3 lớp hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng t&amp;aacute;i đ&amp;agrave;n th&amp;agrave;nh c&amp;ocirc;ng!&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T06:15:22.150Z</createdDate>
+	<createdDate_dt>2020-07-31T06:15:23.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T06:15:22.150Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T06:15:22.150Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

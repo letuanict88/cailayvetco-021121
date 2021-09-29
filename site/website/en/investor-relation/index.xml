@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1c8c</objectGroupId>
+	<objectId>1c8cdfca-18c9-ea19-729b-a45219424828</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>investor-relation</folder-name>
+	<internal-name>investorrelation</internal-name>
+	<navLabel>investorrelation</navLabel>
+	<title_s>investorrelation</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>investorrelation</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/f325bd65-0b15-3b5c-c990-62026748e3eb.xml</key>
+	<value>Header - Quan hệ cổ đông </value>
+	<include>/site/items/slides/f325bd65-0b15-3b5c-c990-62026748e3eb.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>a7038fae-969d-62c4-bc8d-c4d568d389a0</key>
+	<value>investorrelation</value>
+<component id="a7038fae-969d-62c4-bc8d-c4d568d389a0">
+	<content-type>/component/enquanhecodong</content-type>
+	<display-template>/templates/web/enquanhecodong.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a703</objectGroupId>
+	<objectId>a7038fae-969d-62c4-bc8d-c4d568d389a0</objectId>
+	<file-name>a7038fae-969d-62c4-bc8d-c4d568d389a0.xml</file-name>
+	<internal-name>investorrelation</internal-name>
+	<createdDate>2020-07-14T03:33:21.351Z</createdDate>
+	<createdDate_dt>2020-07-14T03:33:21.351Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T03:33:21.351Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T03:33:21.351Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-14T03:32:27.838Z</createdDate>
+	<createdDate_dt>2020-07-14T03:32:27.838Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:18:21.354Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:18:21.354Z</lastModifiedDate_dt>
+</page>

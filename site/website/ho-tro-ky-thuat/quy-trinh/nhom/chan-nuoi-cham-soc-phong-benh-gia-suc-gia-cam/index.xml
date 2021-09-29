@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c834</objectGroupId>
+	<objectId>c834af63-3ae8-0bf3-aa0f-652b401b1927</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chan-nuoi-cham-soc-phong-benh-gia-suc-gia-cam</folder-name>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</internal-name>
+	<navLabel>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</navLabel>
+	<t_s>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</t_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>04e3e295-f747-e78c-5f4b-dd7ccfa54026</key>
+	<value>Slide</value>
+<component id="04e3e295-f747-e78c-5f4b-dd7ccfa54026">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>04e3</objectGroupId>
+	<objectId>04e3e295-f747-e78c-5f4b-dd7ccfa54026</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>04e3e295-f747-e78c-5f4b-dd7ccfa54026.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T02:43:08.543Z</createdDate>
+	<createdDate_dt>2020-07-29T02:43:08.543Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:43:08.543Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:43:08.543Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>7c1926a5-2ab4-14c9-4d7f-01afe769fbd9</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</value>
+<component id="7c1926a5-2ab4-14c9-4d7f-01afe769fbd9">
+	<content-type>/component/listprocess</content-type>
+	<display-template>/templates/web/component/list-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7c19</objectGroupId>
+	<objectId>7c1926a5-2ab4-14c9-4d7f-01afe769fbd9</objectId>
+	<file-name>7c1926a5-2ab4-14c9-4d7f-01afe769fbd9.xml</file-name>
+	<internal-name>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</internal-name>
+	<title_s>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</title_s>
+	<processType_s>benh-gia-suc-gia-cam</processType_s>
+	<createdDate>2020-07-29T02:43:58.493Z</createdDate>
+	<createdDate_dt>2020-07-29T02:43:58.493Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:43:58.493Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:43:58.493Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-29T02:41:33.751Z</createdDate>
+	<createdDate_dt>2020-07-29T02:41:33.751Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T02:41:33.751Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T02:41:33.751Z</lastModifiedDate_dt>
+</page>

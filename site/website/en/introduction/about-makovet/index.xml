@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>746b</objectGroupId>
+	<objectId>746b1d5a-ab93-869b-96eb-a152b691df24</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>about-makovet</folder-name>
+	<internal-name>About Mekovet</internal-name>
+	<navLabel>About Mekovet</navLabel>
+	<title_s>About Mekovet</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>About Makovet</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/e25cb8e1-5dc4-e247-d33d-a396fd09b384.xml</key>
+	<value>Header - About Makovet</value>
+	<include>/site/items/slides/e25cb8e1-5dc4-e247-d33d-a396fd09b384.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>f691ec8e-462a-934a-28e5-ef80c14261ef</key>
+	<value>Content - About Makovet</value>
+<component id="f691ec8e-462a-934a-28e5-ef80c14261ef">
+	<content-type>/component/enintroduction</content-type>
+	<display-template>/templates/web/enintroduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f691</objectGroupId>
+	<objectId>f691ec8e-462a-934a-28e5-ef80c14261ef</objectId>
+	<file-name>f691ec8e-462a-934a-28e5-ef80c14261ef.xml</file-name>
+	<internal-name>Content - About Makovet</internal-name>
+	<title_s>About Mekovet</title_s>
+	<image_s>/static-assets/images/introduction/Layer 184.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Cai Lay Veterinary Pharmaceutical Joint Stock Company &amp;ndash; Mekovet, formerly known as Cai Lay Livestock and Veterinary Pharmacy Company was established upon merging of the Cai Lay Veterinary Pharmacy Center and the Cai Lay Livestock Enterprise. During the past 20 years of development, Mekovet has developed and become one of the most prestigious and preferred veterinary pharmaceutical brands in Vietnam. Mekovet products range from veterinary pharmaceuticals and aquaculture products to products of supplementary nutrition distributed throughout Vietnam by more than 200 distributors and sales agents. Highly valued by customers since 2005, Mekovet has been awarded annually with the Vietnamese High Quality Goods Certificate. Mekovet has become a strong partner and helped to eliminate hunger and reduce the poverty for thousands of livestock households and farmers in Vietnam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In November 2008, Cai Lay Veterinary Pharmaceutical Joint Stock Company &amp;ndash; Mekovet was officially listed on the Hanoi Stock Exchange (HNX). The listing has helped the Mekovet brand to approach and be negotiate with local and international investors. And Mekovet is the only veterinary pharmaceutical business in Vietnam that has been listed so far.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Foreseeing the potential of the veterinary pharmaceutical business, the management of Mekovet has decided to boost its investment in order to enlarge the business scale and improve product quality by building a new manufacturing plant in accordance to WHO GMP (Good Manufacturing Practice). And to realize its investment plans, Mekovet has appointed Austfeed Vietnam Corporation, a foreign invested company with a strong financial base and long experience in the agriculture business in Vietnam, to become its strategic partner. Thanks to this effective and timely support from Austfeed, Mekovet has developed a professional and aggressive business plan and strong promotion which has resulted in fast and positive change.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In September 2013, Mekovet opened and began manufacturing operations at its new production plant, built in accordance to WHO GMP standards. The 90 billion dong plant is located in Cai Lay district, Tien Giang province and consists of 04 fully automatic production lines of injection, oral drug, and powder products. With its new plant, Mekovet commits to offer products of the highest quality at a reasonable cost and will become capable to export to countries in the region.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mekovet is committed to a clear vision to be recognized as the leader in high quality manufacture and supply of international standard veterinary pharmaceuticals for Vietnam and Indochina and to&amp;nbsp; bring the highest level of benefit to customers, business partners, staff and shareholders and together promote sustainable agriculture for Vietnam.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T07:22:29.762Z</createdDate>
+	<createdDate_dt>2020-07-13T07:22:29.762Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T09:07:27.779Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T09:07:27.779Z</lastModifiedDate_dt>
+	<button1_s>History</button1_s>
+	<url1_s>/en/introduction/history</url1_s>
+	<button2_s>Achievements</button2_s>
+	<url2_s>/en/introduction/achievements</url2_s>
+	<button3_s>Mision - Vision</button3_s>
+	<url3_s>/en/introduction/vision</url3_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-13T07:12:05.048Z</createdDate>
+	<createdDate_dt>2020-07-13T07:12:05.048Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T09:07:19.638Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T09:07:19.638Z</lastModifiedDate_dt>
+</page>

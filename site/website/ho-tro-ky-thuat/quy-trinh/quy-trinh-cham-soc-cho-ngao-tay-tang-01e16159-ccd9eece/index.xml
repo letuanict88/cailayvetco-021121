@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a3b3b52</objectGroupId>
+	<objectId>2a3b3b52-1fcd-4004-8ed7-185bd4567327</objectId>
+	<internal-name>Kỹ thuật nuôi dưỡng chó con đang bú sữa</internal-name>
+	<navLabel>Kỹ thuật nuôi dưỡng chó con đang bú sữa</navLabel>
+	<processName_s>Kỹ thuật nuôi dưỡng chó con đang bú sữa</processName_s>
+	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thuy-san</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>f51ae207-6d30-88d4-6c78-889a78074430</key>
+	<value>Slide</value>
+<component id="f51ae207-6d30-88d4-6c78-889a78074430">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f51a</objectGroupId>
+	<objectId>f51ae207-6d30-88d4-6c78-889a78074430</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>index.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T03:11:52.133Z</createdDate>
+	<createdDate_dt>2020-07-29T03:11:52.133Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:11:52.133Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:11:52.133Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-trinh-cham-soc-cho-ngao-tay-tang-01e16159-ccd9eece</folder-name>
+	<processType_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Thú cưng</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; con mới sinh ra phải được b&amp;uacute; sữa đầu v&amp;igrave; trong sữa đầu c&amp;oacute; nhiều kh&amp;aacute;ng thể gi&amp;uacute;p ch&amp;oacute; con chống đỡ bệnh tật. L&amp;uacute;c n&amp;agrave;y ch&amp;oacute; con bắt đầu chịu đựng điều kiện sống kh&amp;aacute;c với trong bụng mẹ như nhiệt độ, ẩm độ v&amp;agrave; điều kiện dinh dưỡng ho&amp;agrave;n to&amp;agrave;n mới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mới sinh ra ch&amp;oacute; chưa c&amp;oacute; răng, lỗ khe tai đ&amp;oacute;ng lại, mắt chưa mở, ch&amp;oacute; con chuyển động nhờ bản năng t&amp;igrave;m v&amp;uacute; ch&amp;oacute; mẹ để b&amp;uacute; (nếu ch&amp;oacute; mẹ vụng về, kh&amp;ocirc;ng c&amp;oacute; bản năng phối hợp để cho ch&amp;oacute; con b&amp;uacute; th&amp;igrave; bạn phải đưa sữa s&amp;aacute;t m&amp;otilde;m ch&amp;oacute; con v&amp;agrave;o v&amp;uacute; mẹ). Trong trường hợp ch&amp;oacute; con kh&amp;ocirc;ng b&amp;uacute; m&amp;agrave; k&amp;ecirc;u nhiều th&amp;igrave; phải mời b&amp;aacute;c sĩ th&amp;uacute; y đến x&amp;aacute;c định c&amp;aacute;ch điều trị v&amp;agrave; hướng dẫn cho bạn c&amp;aacute;ch chăm s&amp;oacute;c. Bạn cần quan t&amp;acirc;m đến ổ l&amp;oacute;t của đ&amp;agrave;n ch&amp;oacute; mới sinh v&amp;igrave; ch&amp;uacute;ng chưa th&amp;iacute;ch nghi với điều kiện sống mới: kh&amp;ocirc; sạch, nhiệt độ th&amp;iacute;ch hợp ấm &amp;aacute;p thường xuy&amp;ecirc;n, nếu lạnh l&amp;agrave; ch&amp;oacute; con nằm chụm v&amp;agrave;o nhau, trong tuần lễ đầu n&amp;ecirc;n d&amp;ugrave;ng b&amp;oacute;ng điện 40W sửa cho ch&amp;oacute; con.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với ch&amp;oacute; mẹ bạn cũng cần cho ăn uống đầy đủ chất dinh dưỡng như chất đạm, kho&amp;aacute;ng v&amp;agrave; vitamin A, B để ch&amp;oacute; mẹ c&amp;oacute; nhiều sữa cho đ&amp;agrave;n con b&amp;uacute;. Nếu ch&amp;oacute; con thiếu sữa mẹ l&amp;agrave; ch&amp;oacute; k&amp;ecirc;u nhiều, l&amp;uacute;c n&amp;agrave;y c&amp;oacute; thể cho ch&amp;oacute; con ăn th&amp;ecirc;m sữa b&amp;ograve; tươi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ ng&amp;agrave;y thứ 5 trở đi bắt đầu cho ch&amp;oacute; con ăn th&amp;ecirc;m v&amp;agrave;i th&amp;igrave;a canh sữa b&amp;ograve; tươi/con/ng&amp;agrave;y (h&amp;atilde;y lu&amp;ocirc;n h&amp;acirc;m n&amp;oacute;ng sữa cỡ nhiệt độ cơ thể ch&amp;oacute; con), l&amp;uacute;c đầu cho b&amp;uacute; bằng v&amp;uacute; cao su, về sau r&amp;oacute;t v&amp;agrave;o đĩa v&amp;agrave; d&amp;uacute;i m&amp;otilde;n ch&amp;oacute; con v&amp;agrave;o đĩa sữa để ch&amp;oacute; con tự liếm sữa. Tuần tuổi thứ 2 tăng lượng sữa l&amp;ecirc;n 200-300gam sữa b&amp;ograve; tươi/con/ng&amp;agrave;y cho đến l&amp;uacute;c ch&amp;oacute; đến 1 th&amp;aacute;ng tuổi. Đồng thời từ ng&amp;agrave;y tuổi thứ 15 cho ch&amp;oacute; con ăn th&amp;ecirc;m ch&amp;aacute;o gạo nấu với thịt xay hoặc băm nhỏ (20g/con), ng&amp;agrave;y cho ăn 1-2 bữa. Nếu c&amp;oacute; điều kiện n&amp;ecirc;n bổ sung th&amp;ecirc;m v&amp;agrave;o sữa 2 ống Cloruacanxi/con/ng&amp;agrave;y. Từ ng&amp;agrave;y thứ 21-30 cho ch&amp;oacute; con ăn 2 bữa/ng&amp;agrave;y hỗn hợp ch&amp;aacute;o gạo nấu với thịt băm nhỏ (20-50g/con)+ sữa c&amp;oacute; trộn 1-2 giọt Tetravit hoặc Trivit.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ ng&amp;agrave;y tuổi thứ 5 - 8: Khe tai mở, th&amp;iacute;nh gi&amp;aacute;c bắt đầu ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ ng&amp;agrave;y tuổi thứ 11-16: th&amp;iacute;nh gi&amp;aacute;c đ&amp;atilde; hoạt động b&amp;igrave;nh thường. Từ ng&amp;agrave;y tuổi thứ 20 - 25: răng sữa bắt đầu mọc. Trong khoảng 8-10 ng&amp;agrave;y (kể từ khi mọc răng) răng cửa v&amp;agrave; răng nanh mọc xong.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c loại ch&amp;oacute; săn Đ&amp;ocirc;ng &amp;Acirc;u nu&amp;ocirc;i ở nước ta l&amp;uacute;c sơ sinh c&amp;oacute; trọng lượng từ 0,4- 0,6kg/con, nếu nu&amp;ocirc;i dưỡng đầy đủ, khi được 1 th&amp;aacute;ng tuổi c&amp;oacute; thể nặng 4-5 kg/con. C&amp;aacute;c loại ch&amp;oacute; săn cừu Nga, Đức c&amp;oacute; trọng lượng lớn hơn v&amp;agrave; c&amp;aacute;c giống ch&amp;oacute; kh&amp;aacute;c th&amp;igrave; nhẹ hơn. Tốc độ lớn m&amp;atilde;nh liệt nhất của ch&amp;oacute; diễn ra trước khi ch&amp;oacute; được 6 th&amp;aacute;ng tuổi. Chiều cao v&amp;acirc;y tăng từ 87,5- 108% khi ch&amp;oacute; được 12 th&amp;aacute;ng tuổi, từ 120 -180 ng&amp;agrave;y tuổi chỉ tăng 3,5-7%, từ 180-210 ng&amp;agrave;y tuổi tăng 7,1-8,3%, từ 6-12 th&amp;aacute;ng tuổi ch&amp;oacute; lớn l&amp;ecirc;n rất &amp;iacute;t, đến khi được 2,5 tuổi ch&amp;oacute; ngừng lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bạn cần nắm được đặc điểm sinh l&amp;yacute; n&amp;agrave;y của ch&amp;oacute; để nu&amp;ocirc;i dưỡng ch&amp;oacute; hợp l&amp;yacute;, cho ch&amp;oacute; ăn đảm bảo khẩu phần từ khi ch&amp;oacute; mới sinh ra cho đến khi ch&amp;oacute; được 210 ng&amp;agrave;y mới c&amp;oacute; t&amp;iacute;nh quyết định trong nghề nu&amp;ocirc;i ch&amp;oacute; sinh sản (kinh doanh) hoặc nu&amp;ocirc;i ch&amp;oacute; d&amp;ugrave;ng v&amp;agrave;o mục đ&amp;iacute;ch nghiệp vụ.&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-29T03:11:04.619Z</createdDate>
+	<createdDate_dt>2020-07-31T07:55:04.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:25:30.125Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:25:30.125Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

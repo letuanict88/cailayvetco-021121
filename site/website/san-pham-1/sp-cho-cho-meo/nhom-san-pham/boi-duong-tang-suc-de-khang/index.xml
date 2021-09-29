@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>25ff</objectGroupId>
+	<objectId>25ffa04b-609f-c345-e750-28019bf343cc</objectId>
+	<internal-name>Nhóm Bồi dưỡng, tăng sức đề kháng </internal-name>
+	<navLabel>Nhóm Bồi dưỡng, tăng sức đề kháng </navLabel>
+	<title_s>Nhóm Bồi dưỡng, tăng sức đề kháng </title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>boi-duong-tang-suc-de-khang</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>831ab378-9023-e042-bcfc-901d3c50761f</key>
+	<value>Slide</value>
+<component id="831ab378-9023-e042-bcfc-901d3c50761f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>831a</objectGroupId>
+	<objectId>831ab378-9023-e042-bcfc-901d3c50761f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>831ab378-9023-e042-bcfc-901d3c50761f.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T08:26:27.894Z</createdDate>
+	<createdDate_dt>2020-08-03T08:26:27.894Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:26:27.894Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:26:27.894Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/59cde870-12b9-f948-2507-30437ea5f72b.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/59cde870-12b9-f948-2507-30437ea5f72b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<createdDate>2020-08-03T08:23:53.964Z</createdDate>
+	<createdDate_dt>2020-08-03T08:23:53.964Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:23:53.964Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:23:53.964Z</lastModifiedDate_dt>
+</page>

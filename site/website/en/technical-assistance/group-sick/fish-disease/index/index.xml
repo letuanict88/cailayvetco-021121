@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ae96</objectGroupId>
+	<objectId>ae96d501-bf7b-14d2-c3f2-c0cfd105d211</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<internal-name>Index</internal-name>
+	<navLabel>Fish disease</navLabel>
+	<t_s>Fish disease</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>ac2daec3-b2f1-1cfc-02a0-2c230a2d8ca3</key>
+	<value>Slide</value>
+<component id="ac2daec3-b2f1-1cfc-02a0-2c230a2d8ca3">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ac2d</objectGroupId>
+	<objectId>ac2daec3-b2f1-1cfc-02a0-2c230a2d8ca3</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>ac2daec3-b2f1-1cfc-02a0-2c230a2d8ca3.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-17T08:05:36.827Z</createdDate>
+	<createdDate_dt>2020-07-17T08:05:36.827Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:05:36.827Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:05:36.827Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>f7adf46d-3d8d-0a65-147a-755e3383645f</key>
+	<value>Fish disease</value>
+<component id="f7adf46d-3d8d-0a65-147a-755e3383645f">
+	<content-type>/component/listsurportEn</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f7ad</objectGroupId>
+	<objectId>f7adf46d-3d8d-0a65-147a-755e3383645f</objectId>
+	<file-name>f7adf46d-3d8d-0a65-147a-755e3383645f.xml</file-name>
+	<internal-name>Fish disease</internal-name>
+	<title_s>Fish disease</title_s>
+	<technicalAssistanceType_s>benh-thuy-san</technicalAssistanceType_s>
+	<createdDate>2020-07-17T08:06:28.843Z</createdDate>
+	<createdDate_dt>2020-07-17T08:06:28.843Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:06:28.843Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:06:28.843Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-17T08:05:12.687Z</createdDate>
+	<createdDate_dt>2020-07-17T08:05:12.687Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:05:12.687Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:05:12.687Z</lastModifiedDate_dt>
+</page>

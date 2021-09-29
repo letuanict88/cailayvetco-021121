@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5138</objectGroupId>
+	<objectId>5138eef5-650a-90f1-a647-387e48d93c5c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>che-do-dai-ngo</folder-name>
+	<internal-name>Chế độ đãi ngộ, phúc lợi</internal-name>
+	<navLabel>Chế độ đãi ngộ, phúc lợi</navLabel>
+	<title_s>Chế độ đãi ngộ, phúc lợi</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Chế độ đãi ngộ, phúc lợi của Mekovet</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</key>
+	<value>Header - Chế độ đãi ngộ, phúc lợi</value>
+	<include>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>53572fa0-a235-ff76-3560-8f4edd1ee3a2</key>
+	<value>Content - Chế độ đãi ngộ, phúc lợi</value>
+<component id="53572fa0-a235-ff76-3560-8f4edd1ee3a2">
+	<content-type>/component/policy</content-type>
+	<display-template>/templates/web/policies.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5357</objectGroupId>
+	<objectId>53572fa0-a235-ff76-3560-8f4edd1ee3a2</objectId>
+	<file-name>53572fa0-a235-ff76-3560-8f4edd1ee3a2.xml</file-name>
+	<internal-name>Content - Chế độ đãi ngộ, phúc lợi</internal-name>
+	<title_s>Chế độ đãi ngộ, phúc lợi</title_s>
+	<image_s>/static-assets/images/policies/Layer 202.png</image_s>
+	<content_html>&lt;p&gt;Khi tham gia v&amp;agrave;o đại gia đ&amp;igrave;nh Mekovet, mỗi c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n sẽ được hưởng những đ&amp;atilde;i ngộ xứng đ&amp;aacute;ng với đ&amp;oacute;ng g&amp;oacute;p của m&amp;igrave;nh cho sự ph&amp;aacute;t triển của C&amp;ocirc;ng ty. C&amp;aacute;c ch&amp;iacute;nh s&amp;aacute;ch d&amp;agrave;nh cho người lao động của MKV gồm:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Tạo m&amp;ocirc;i trường l&amp;agrave;m việc chuy&amp;ecirc;n nghiệp với trang thiết bị hiện đại, đảm bảo điều kiện vệ sinh nơi l&amp;agrave;m việc, chế độ an to&amp;agrave;n cho người lao động.&lt;/p&gt;
+&lt;p&gt;- Chế độ lương thưởng cạnh tranh&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Ch&amp;iacute;nh s&amp;aacute;ch phụ cấp gồm: phụ cấp thu h&amp;uacute;t, phụ cấp ki&amp;ecirc;m nhiệm, phụ cấp tr&amp;aacute;ch nhiệm, phụ cấp lưu động, phụ cấp điện thoại&amp;hellip; C&amp;aacute;c khoản phụ cấp n&amp;agrave;y l&amp;agrave; phần cộng th&amp;ecirc;m thu nhập h&amp;agrave;ng th&amp;aacute;ng, gi&amp;uacute;p người lao động y&amp;ecirc;n t&amp;acirc;m l&amp;agrave;m việc.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Ch&amp;iacute;nh s&amp;aacute;ch chăm s&amp;oacute;c sức khoẻ cho c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n: Ch&amp;iacute;nh s&amp;aacute;ch chăm s&amp;oacute;c sức khỏe được thiết kế đặc biệt để c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n lu&amp;ocirc;n c&amp;oacute; được thể trạng tốt nhất từ đ&amp;oacute; ph&amp;aacute;t huy t&amp;iacute;nh s&amp;aacute;ng tạo, n&amp;acirc;ng cao hiệu quả c&amp;ocirc;ng việc gồm: Chương tr&amp;igrave;nh bảo hiểm ph&amp;uacute;c lợi cho c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; người th&amp;acirc;n nhằm giảm bớt &amp;aacute;p lực về kinh tế v&amp;agrave; được sử dụng c&amp;aacute;c dịch vụ y tế chất lượng cao khi người lao động gặp rủi ro do tai nạn, ốm đau, bệnh tật.&lt;/p&gt;
+&lt;p&gt;- Chế độ BHXH: Chế độ bảo hiểm x&amp;atilde; hội, bảo hiểm y tế v&amp;agrave; bảo hiểm thất nghiệp được thực hiện theo đ&amp;uacute;ng qui định ph&amp;aacute;p luật v&amp;agrave; đảm bảo to&amp;agrave;n thể c&amp;aacute;n bộ c&amp;ocirc;ng nh&amp;acirc;n vi&amp;ecirc;n đều được hưởng đầy đủ c&amp;aacute;c chế độ bảo hiểm.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;uacute;c lợi x&amp;atilde; hội kh&amp;aacute;c: thưởng v&amp;agrave;o c&amp;aacute;c ng&amp;agrave;y Lễ lớn (Tết Dương lịch, Tết &amp;Acirc;m lịch, Giải ph&amp;oacute;ng Miền Nam 30/4 v&amp;agrave; Quốc tế lao động 01/5, Ng&amp;agrave;y Quốc kh&amp;aacute;nh 2/9, nghỉ m&amp;aacute;t h&amp;agrave;ng năm, may đồng phục, chế độ cho c&amp;aacute;c chị em phụ nữ nh&amp;acirc;n ng&amp;agrave;y 08/3; 20/10&amp;hellip;&lt;/p&gt;
+&lt;p&gt;- C&amp;aacute;c hoạt động văn h&amp;oacute;a, thể thao, x&amp;atilde; hội d&amp;agrave;nh cho người lao động: Với mục ti&amp;ecirc;u x&amp;acirc;y dựng một m&amp;ocirc;i trường l&amp;agrave;m việc th&amp;acirc;n &amp;aacute;i, đo&amp;agrave;n kết, sẻ chia, Mavin thường xuy&amp;ecirc;n tổ chức c&amp;aacute;c hoạt động văn h&amp;oacute;a, thể thao x&amp;atilde; hội như: Tặng qu&amp;agrave;, chăm s&amp;oacute;c chị em phụ nữ nh&amp;acirc;n dịp 8/3 v&amp;agrave; 20/10; Tặng qu&amp;agrave; v&amp;agrave; tổ chức chương tr&amp;igrave;nh Trung thu cho con em c&amp;aacute;n bộ, tặng qu&amp;agrave; c&amp;aacute;c ch&amp;aacute;u c&amp;oacute; th&amp;agrave;nh t&amp;iacute;ch học tập tốt, tặng qu&amp;agrave; nh&amp;acirc;n dịp quốc tế thiếu nhi 1/6; Thăm hỏi, tặng qu&amp;agrave;, ủng hộ gia đ&amp;igrave;nh c&amp;aacute;n bộ c&amp;oacute; ho&amp;agrave;n cảnh đặc biệt&amp;hellip;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-25T03:07:46.687Z</createdDate>
+	<createdDate_dt>2020-06-25T03:07:46.687Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:05:31.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:05:31.442Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-25T02:28:21.271Z</createdDate>
+	<createdDate_dt>2020-06-25T02:28:21.271Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:05:04.511Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:05:04.511Z</lastModifiedDate_dt>
+</page>

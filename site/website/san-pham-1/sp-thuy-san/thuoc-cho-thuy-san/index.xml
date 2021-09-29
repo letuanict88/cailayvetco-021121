@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>324e</objectGroupId>
+	<objectId>324e8257-f5c3-cf9f-08da-277a048ed911</objectId>
+	<internal-name>Các Nhóm Sản phẩm dành cho thủy sản</internal-name>
+	<navLabel>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</navLabel>
+	<t_s>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-cho-thuy-san</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e5be34f4-c9d7-a162-8251-86a3c77dc46e</key>
+	<value>Slide</value>
+<component id="e5be34f4-c9d7-a162-8251-86a3c77dc46e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e5be</objectGroupId>
+	<objectId>e5be34f4-c9d7-a162-8251-86a3c77dc46e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>e5be34f4-c9d7-a162-8251-86a3c77dc46e.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-03T07:38:19.445Z</createdDate>
+	<createdDate_dt>2020-07-03T07:38:19.445Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T07:38:19.445Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T07:38:19.445Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>1642ed79-6a42-ec43-dd10-2d2787347bf4</key>
+	<value>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</value>
+<component id="1642ed79-6a42-ec43-dd10-2d2787347bf4">
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1642</objectGroupId>
+	<objectId>1642ed79-6a42-ec43-dd10-2d2787347bf4</objectId>
+	<file-name>1642ed79-6a42-ec43-dd10-2d2787347bf4.xml</file-name>
+	<internal-name>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</internal-name>
+	<title_s>Sản phẩm cho thủy sản(Tôm,cá, ếch, lươn... )</title_s>
+	<groupProductImg1_s>/static-assets/images/products/thuy-san-left.png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Thuy san NHOM).png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm Dinh dưỡng, khoáng, tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Thuy san 1).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/nhom-dinh-duong-khoang-tang-suc-de-khang</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm Thuốc  Phòng, trị bệnh</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Thuy san 2).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/thuoc-phong-tri-benh</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm Xử lý nước, cải tạo môi trường</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Thuy san 3).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/nhom-san-pham/xu-ly-nuoc-cai-tao-moi-truong</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-07-03T07:39:27.319Z</createdDate>
+	<createdDate_dt>2020-07-03T07:39:27.319Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T10:05:44.788Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:05:44.788Z</lastModifiedDate_dt>
+	<rightTitle_s>MKV-GROWTH</rightTitle_s>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-03T07:36:52.516Z</createdDate>
+	<createdDate_dt>2020-07-03T07:36:52.516Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T10:05:39.301Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:05:39.301Z</lastModifiedDate_dt>
+</page>

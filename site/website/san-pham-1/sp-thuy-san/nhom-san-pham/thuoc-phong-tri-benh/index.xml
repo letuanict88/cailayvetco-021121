@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>841a</objectGroupId>
+	<objectId>841a8198-ec5a-2e5d-008a-4f390a6d90aa</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-phong-tri-benh</folder-name>
+	<internal-name>Nhóm Thuốc phòng, trị bệnh</internal-name>
+	<navLabel>Nhóm Thuốc phòng, trị bệnh</navLabel>
+	<title_s>Nhóm Thuốc phòng, trị bệnh</title_s>
+	<rightTitle_s>MEKO-ERY 30</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/MEKO-ERY 30 (MAT TRUOC).png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>48439363-eec8-e41b-7dc5-27efa20d109f</key>
+	<value>Slide</value>
+<component id="48439363-eec8-e41b-7dc5-27efa20d109f">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4843</objectGroupId>
+	<objectId>48439363-eec8-e41b-7dc5-27efa20d109f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>48439363-eec8-e41b-7dc5-27efa20d109f.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T07:11:02.541Z</createdDate>
+	<createdDate_dt>2020-08-03T07:11:02.541Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T07:11:02.541Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T07:11:02.541Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/9d3e2060-0f14-210d-d8c8-da65a1520e7a.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/9d3e2060-0f14-210d-d8c8-da65a1520e7a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T07:09:40.836Z</createdDate>
+	<createdDate_dt>2020-08-03T07:09:40.836Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:46:53.497Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:46:53.497Z</lastModifiedDate_dt>
+</page>

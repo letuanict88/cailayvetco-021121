@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>018a</objectGroupId>
+	<objectId>018a5cfa-f675-3b81-57d6-0234f17ae049</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>home</folder-name>
+	<internal-name>Home Page</internal-name>
+	<navLabel>CAI LAY VETERINARY JOINT STOCK COMPANY</navLabel>
+	<title_s>CAI LAY VETERINARY JOINT STOCK COMPANY</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>CAI LAY VETERINARY JOINT STOCK COMPANY</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</key>
+	<value>Header - Home Page</value>
+	<include>/site/items/slides/8961e493-40d5-5d76-b18a-44e653876aab.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>6144f401-5e6b-c204-a9fc-1bc302f35f0d</key>
+	<value>List of products</value>
+<component id="6144f401-5e6b-c204-a9fc-1bc302f35f0d">
+	<content-type>/component/enproductinhome</content-type>
+	<display-template>/templates/web/enproductinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6144</objectGroupId>
+	<objectId>6144f401-5e6b-c204-a9fc-1bc302f35f0d</objectId>
+	<file-name>6144f401-5e6b-c204-a9fc-1bc302f35f0d.xml</file-name>
+	<internal-name>List of products</internal-name>
+	<title_s>products</title_s>
+	<groupProduct_o item-list="true">	<item>	<groupProductName_s>Products for cattle</groupProductName_s>
+	<groupChildProductURL_s>/en/product/products-for-cattle/list</groupChildProductURL_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	</item>	<item>	<groupProductName_s>Products for swine</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-swine/index</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Products for Poultry</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-poultry/list</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Products for pet</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-pet/list</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Product for fish</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/product-for-fish/list</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>Product for other animals</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/en/product/products-for-other-animal/list</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<createdDate>2020-07-13T11:38:11.028Z</createdDate>
+	<createdDate_dt>2020-07-13T11:38:11.028Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:50:50.589Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:50:50.589Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>d1f59fa4-0444-6716-7621-1e083fc5fa4b</key>
+	<value>News</value>
+<component id="d1f59fa4-0444-6716-7621-1e083fc5fa4b">
+	<content-type>/component/ennewsinhome</content-type>
+	<display-template>/templates/web/ennewsinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d1f5</objectGroupId>
+	<objectId>d1f59fa4-0444-6716-7621-1e083fc5fa4b</objectId>
+	<newscategory_s>internalnews</newscategory_s>
+	<file-name>d1f59fa4-0444-6716-7621-1e083fc5fa4b.xml</file-name>
+	<internal-name>News</internal-name>
+	<videoURL_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL_s>
+	<createdDate>2020-07-13T09:29:23.498Z</createdDate>
+	<createdDate_dt>2020-07-13T09:29:23.498Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:48:40.384Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:48:40.384Z</lastModifiedDate_dt>
+	<videoBanner_s>/static-assets/images/libraries/MKV.jpg</videoBanner_s>
+	<photoAvatar_s>/static-assets/images/libraries/thu_tuong_tham_gian_hang_cl crop_.jpg</photoAvatar_s>
+	<documentAvatar_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar_s>
+	<videoAvatar_s>/static-assets/images/libraries/photos/photo2.png</videoAvatar_s>
+	<titleBanner_s>Mekovet Introduction film</titleBanner_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>47cc037b-a914-16cc-b822-05712b69a838</key>
+	<value>Disease &amp;amp; Treatment</value>
+<component id="47cc037b-a914-16cc-b822-05712b69a838">
+	<content-type>/component/entechinhome</content-type>
+	<display-template>/templates/web/entechinhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>47cc</objectGroupId>
+	<objectId>47cc037b-a914-16cc-b822-05712b69a838</objectId>
+	<file-name>47cc037b-a914-16cc-b822-05712b69a838.xml</file-name>
+	<internal-name>Disease &amp; Treatment</internal-name>
+	<title_s>Prevention of heat stress in chickens</title_s>
+	<image_s>/static-assets/images/techsupport/services_img.png</image_s>
+	<description_html>&lt;p&gt;Chicken and poultry in general are not like other warm-blooded animals, chickens do not have sweat glands to release body temperature, but often radiate in the following ways: heat radiation, convection heat, evaporation. water, heat transfer.&lt;/p&gt;</description_html>
+	<createdDate>2020-07-13T10:01:29.354Z</createdDate>
+	<createdDate_dt>2020-07-13T10:01:29.354Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:47:09.430Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:47:09.430Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-13T03:21:01.634Z</createdDate>
+	<createdDate_dt>2020-07-13T03:21:01.634Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:47:02.642Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:47:02.642Z</lastModifiedDate_dt>
+</page>

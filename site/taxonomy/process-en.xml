@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cefa</objectGroupId>
+	<objectId>cefad2ab-08ff-0719-5feb-3778c67d06e4</objectId>
+	<items item-list="true">	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value> Breeding - Taking Care of Cattle - Poultry diseases</value>
+	</item>	<item>	<key>banh-thuy-san</key>
+	<value> Breeding - Taking Care of Seafood Diseases</value>
+	</item>	<item>	<key>benh-thu-cung</key>
+	<value> Breeding - Taking Care of Pet Diseases</value>
+	</item></items>
+	<internal-name>Process-Care</internal-name>
+	<file-name>process-en.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-07-29T03:25:42.845Z</createdDate>
+	<createdDate_dt>2020-07-29T03:25:42.845Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:25:42.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:25:42.845Z</lastModifiedDate_dt>
+</component>

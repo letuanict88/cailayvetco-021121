@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/quanhecodongdetail</content-type>
+	<display-template>/templates/web/investorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bd63fccf</objectGroupId>
+	<objectId>bd63fccf-7ddc-4f2b-96ca-89b5bfb7be89</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-nghi--quyet-4</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Nghị Quyết Hội đồng quản trị về việc tổ chức Đại hội đồng cổ đông thường niên năm 2020</internal-name>
+	<navLabel>Nghị Quyết Hội đồng quản trị về việc tổ chức Đại h</navLabel>
+	<title_s>Nghị Quyết Hội đồng quản trị về việc tổ chức Đại hội đồng cổ đông thường niên năm 2020</title_s>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
+	<value>Header - Đại hội đồng cổ đông </value>
+	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;&lt;a href="http://cailayvetco.com/FileUpload/Documents/NQ%20HDQT%20to%20chuc%20dai%20hoi%20dong%20co%20dong%202020.pdf"&gt;Nghị Quyết Hội đồng quản trị về việc tổ chức Đại hội đồng cổ đ&amp;ocirc;ng thường ni&amp;ecirc;n năm 2020&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T09:11:08.129Z</createdDate>
+	<createdDate_dt>2020-07-31T09:11:08.129Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T01:32:07.406Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T01:32:07.406Z</lastModifiedDate_dt>
+	<date_dt>2020-02-20T09:11:08.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

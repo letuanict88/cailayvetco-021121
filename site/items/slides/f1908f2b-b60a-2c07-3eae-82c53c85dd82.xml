@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f190</objectGroupId>
+	<objectId>f1908f2b-b60a-2c07-3eae-82c53c85dd82</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>f1908f2b-b60a-2c07-3eae-82c53c85dd82.xml</file-name>
+	<internal-name>Header - Sứ mệnh tầm nhìn</internal-name>
+	<createdDate>2020-06-24T08:28:54.142Z</createdDate>
+	<createdDate_dt>2020-06-24T08:28:54.142Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T08:28:50.753Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T08:28:50.753Z</lastModifiedDate_dt>
+</component>

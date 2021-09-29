@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9e52</objectGroupId>
+	<objectId>9e5263a2-f260-2d40-ddf8-6bd1fbb853e8</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/lich-su-hinh-thannh.png</image_s>
+	</item></slide_o>
+	<file-name>9e5263a2-f260-2d40-ddf8-6bd1fbb853e8.xml</file-name>
+	<internal-name>Header - Lịch sử hình thành</internal-name>
+	<createdDate>2020-06-24T08:32:01.294Z</createdDate>
+	<createdDate_dt>2020-06-24T08:32:01.294Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T08:35:40.443Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T08:35:40.443Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/photos</content-type>
+	<display-template>/templates/web/page/photo-libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6dbd189d</objectGroupId>
+	<objectId>6dbd189d-5052-4cdc-b90b-a4788695cb27</objectId>
+	<listphoto_o item-list="true">	<item>	<photoName_s>Đêm Gala dinner</photoName_s>
+	<photoImage_s>/static-assets/images/libraries/photos/3.jpg</photoImage_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/6.jpg</photoImage_s>
+	<photoName_s>Team building trên bãi biển</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/cat chu.jpg</photoImage_s>
+	<photoName_s>Team building trên bãi biển</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/ngậm kẹo.jpg</photoImage_s>
+	<photoName_s>Team building trên bãi biển</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/4.jpg</photoImage_s>
+	<photoName_s>Team building trên bãi biển</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/z2146957338242_ee9126ab11c947717825343c1faad686.jpg</photoImage_s>
+	<photoName_s>Team building trên bãi biển</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/diem keo.jpg</photoImage_s>
+	<photoName_s>Team building trên bãi biển</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/2.jpg</photoImage_s>
+	<photoName_s>Đêm Gala dinner</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/1 (2).jpg</photoImage_s>
+	<photoName_s>Đêm Gala dinner</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/nhau.jpg</photoImage_s>
+	<photoName_s>Đêm Gala dinner</photoName_s>
+	</item></listphoto_o>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien-anh-du-lich</folder-name>
+	<internal-name>Thư viện ảnh du lịch</internal-name>
+	<title_s>Thư viện ảnh du lịch</title_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-07T02:23:27.255Z</createdDate>
+	<createdDate_dt>2020-07-07T02:23:27.255Z</createdDate_dt>
+	<lastModifiedDate>2020-10-28T04:20:32.980Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-10-28T04:20:32.980Z</lastModifiedDate_dt>
+</page>

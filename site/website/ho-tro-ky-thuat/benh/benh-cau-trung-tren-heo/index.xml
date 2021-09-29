@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4ba6</objectGroupId>
+	<objectId>4ba689e5-c508-b49e-c165-6428c8999a05</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-cau-trung-tren-heo</folder-name>
+	<section_o item-list="true"/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Bệnh cầu trùng trên heo</internal-name>
+	<navLabel>Bệnh cầu trùng trên heo</navLabel>
+	<diseaseName_s>Bệnh cầu trùng trên heo</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;Bệnh cầu tr&amp;ugrave;ng heo do k&amp;yacute; sinh tr&amp;ugrave;ng Isospora suis, bệnh xảy ra cho heo mọi lứa tuổi nhưng thường gặp nhất ở heo con theo mẹ, tập trung ở heo dưới 2 tuần tuổi. Bệnh kh&amp;aacute; phổ biến ở những nơi nu&amp;ocirc;i heo với mật độ cao, điều kiện vệ sinh k&amp;eacute;m. C&amp;oacute; t&amp;aacute;m lo&amp;agrave;i thuộc Eimeria v&amp;agrave; một lo&amp;agrave;i thuộc Isospora g&amp;acirc;y bệnh cầu tr&amp;ugrave;ng cho heo tại Bắc Mỹ. Heo con 5-15 ng&amp;agrave;y tuổi thường bị nhiễm cầu tr&amp;ugrave;ng đặc trưng bởi lo&amp;agrave;i I. suis g&amp;acirc;y vi&amp;ecirc;m ruột v&amp;agrave; ti&amp;ecirc;u chảy.Cầu tr&amp;ugrave;ng g&amp;acirc;y bệnh phổ biến tr&amp;ecirc;n heo con sơ sinh. Bệnh c&amp;oacute; triệu chứng đặc trưng l&amp;agrave; ti&amp;ecirc;u chảy dạng lỏng hoặc sệt, thường c&amp;oacute; m&amp;agrave;u trắng sữa rồi chuyển sang v&amp;agrave;ng v&amp;agrave; c&amp;oacute; m&amp;ugrave;i h&amp;ocirc;i.&amp;nbsp; Heo con c&amp;oacute; thể xuất hiện c&amp;aacute;c triệu chứng như yếu, mất nước v&amp;agrave; c&amp;ograve;i cọc; giảm tăng trọng v&amp;agrave; heo con c&amp;oacute; thể chết. Một yếu tố g&amp;oacute;p phần l&amp;agrave;m tăng tỷ lệ tỷ vong ở heo con l&amp;agrave; do heo con lu&amp;ocirc;n bị d&amp;iacute;nh đầy ph&amp;acirc;n do ti&amp;ecirc;u chảy v&amp;agrave; lu&amp;ocirc;n trong t&amp;igrave;nh trạng ẩm ướt.&lt;/p&gt;
+&lt;p&gt;Bệnh cầu tr&amp;ugrave;ng tr&amp;ecirc;n heo&lt;/p&gt;
+&lt;p&gt;No&amp;atilde;n b&amp;agrave;o của cầu tr&amp;ugrave;ng thường được thải ra c&amp;ugrave;ng với ph&amp;acirc;n v&amp;agrave; c&amp;oacute; thể được x&amp;aacute;c định nhờ k&amp;iacute;ch thước, h&amp;igrave;nh dạng v&amp;agrave; đặc điểm đặc trưng b&amp;agrave;o tử của ch&amp;uacute;ng; tuy nhi&amp;ecirc;n, trong chẩn đo&amp;aacute;n, phải dựa tr&amp;ecirc;n việc t&amp;igrave;m ra c&amp;aacute;c giai đoạn k&amp;iacute; sinh th&amp;ocirc;ng qua kiểm tra phết tế b&amp;agrave;o hoặc kiểm tra m&amp;ocirc; học ở ruột non, v&amp;igrave; heo con c&amp;oacute; thể chết trước khi h&amp;igrave;nh th&amp;agrave;nh no&amp;atilde;n b&amp;agrave;o.&lt;/p&gt;
+&lt;p&gt;Ở những con bị nhiễm nặng, c&amp;aacute;c tổn thương m&amp;ocirc; học xảy ra ở kh&amp;ocirc;ng tr&amp;agrave;ng v&amp;agrave; hồi tr&amp;agrave;ng đặc trưng qua bệnh t&amp;iacute;ch như teo, l&amp;agrave;m m&amp;ograve;n nhung mao ruột, xuất huyết v&amp;agrave; vi&amp;ecirc;m ruột k&amp;egrave;m theo fibrin t&amp;ugrave;y c&amp;aacute;c giai đoạn k&amp;iacute; sinh trong tế b&amp;agrave;o biểu m&amp;ocirc;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Việc kiểm so&amp;aacute;t v&amp;agrave; ph&amp;ograve;ng bệnh bằng c&amp;aacute;ch sử dụng thuốc chống cầu tr&amp;ugrave;ng cho heo n&amp;aacute;i từ 2 tuần trước khi đẻ cho tới l&amp;uacute;c nu&amp;ocirc;i con hoặc cho heo con từ l&amp;uacute;c mới sinh đến khi cai sữa đ&amp;atilde; được b&amp;aacute;o c&amp;aacute;o; tuy nhi&amp;ecirc;n, hiệu quả ở c&amp;aacute;c giai đoạn sau vẫn chưa được x&amp;aacute;c định. Mặc d&amp;ugrave; heo n&amp;aacute;i được xem l&amp;agrave; nguồn l&amp;acirc;y nhiễm cho heo con nhưng điều n&amp;agrave;y vẫn chưa được chứng minh r&amp;otilde;. Dọn dẹp sạch sẽ ph&amp;acirc;n v&amp;agrave; khử tr&amp;ugrave;ng thường xuy&amp;ecirc;n chuồng trại v&amp;agrave; c&amp;aacute;c vật dụng chăn nu&amp;ocirc;i giữa c&amp;aacute;c lứa đẻ l&amp;agrave;m giảm đ&amp;aacute;ng kể tỷ lệ nhiễm cầu tr&amp;ugrave;ng. Heo con phục hồi sai khi nhiễm cầu tr&amp;ugrave;ng c&amp;oacute; khả năng kh&amp;aacute;ng t&amp;aacute;i nhiễm cao.&lt;/p&gt;
+&lt;p&gt;Mặc d&amp;ugrave; &amp;iacute;t li&amp;ecirc;n quan đến bệnh cầu tr&amp;ugrave;ng l&amp;acirc;m s&amp;agrave;ng nhưng c&amp;aacute;c lo&amp;agrave;i E debliecki, E neodebliecki, E scabra, v&amp;agrave; E spinosa đ&amp;atilde; được t&amp;igrave;m thấy ở heo 1-3 th&amp;aacute;ng tuổi tuổi bị ti&amp;ecirc;u chảy. Bệnh c&amp;oacute; thể k&amp;eacute;o d&amp;agrave;i 7-10 ng&amp;agrave;y đối với những con heo c&amp;ograve;n sống.&lt;/p&gt;
+&lt;p&gt;C&amp;oacute; thể sử dụng sulfamethazine trong nước uống để điều trị cầu tr&amp;ugrave;ng. Kiểm so&amp;aacute;t cầu tr&amp;ugrave;ng ở heo con sơ sinh bị nhiễm I. suis l&amp;agrave; rất kh&amp;oacute; khăn. Việc sử dụng thuốc chống cầu tr&amp;ugrave;ng coccidiostats trong thức ăn của heo n&amp;aacute;i trong v&amp;agrave;i ng&amp;agrave;y hoặc v&amp;agrave;i tuần trước v&amp;agrave; sau đẻ đ&amp;atilde; được khuyến c&amp;aacute;o v&amp;agrave; sử dụng trong thực tế, nhưng kết quả lại kh&amp;ocirc;ng ổn định.&lt;/p&gt;
+&lt;p&gt;Việc sử dụng thuốc Amprolium v&amp;agrave; Monensin kh&amp;ocirc;ng mang lại hiệu quả trong việc ph&amp;ograve;ng ngừa bệnh cầu tr&amp;ugrave;ng tr&amp;ecirc;n heo con trong th&amp;iacute; nghiệm. Một quy tr&amp;igrave;nh kiểm so&amp;aacute;t để l&amp;agrave;m giảm số lượng no&amp;atilde;n nang được khuyến c&amp;aacute;o bao gồm: vệ sinh sạch sẽ, khử tr&amp;ugrave;ng v&amp;agrave; l&amp;agrave;m sạch bằng hơi nước c&amp;aacute;c chuồng đẻ. Bổ sung Amprolium (loại 25% sử dụng trong thức ăn) với liều 10kg/tấn thức ăn, cho heo n&amp;aacute;i ăn thức ăn n&amp;agrave;y một tuần trước khi đẻ v&amp;agrave; k&amp;eacute;o d&amp;agrave;i tới khi heo con được 3 tuần tuổi, nhưng kết quả vẫn kh&amp;ocirc;ng như mong đợi.&lt;/p&gt;
+&lt;p&gt;Sử dụng một liều duy nhất Toltrazuril (20mg/kg, uống) gi&amp;uacute;p giảm b&amp;agrave;i tiết no&amp;atilde;n nang, giảm tỷ lệ mắc bệnh ti&amp;ecirc;u chảy v&amp;agrave; giảm sự suy giảm khối lượng ở những heo con được g&amp;acirc;y nhiễm cầu tr&amp;ugrave;ng thực nghiệm. Dicalazuril (5mg/kg) đang được nghi&amp;ecirc;m cứu dưới dạng thuốc uống chống cầu tr&amp;ugrave;ng ở heo con.&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-08-10T07:34:59.448Z</createdDate>
+	<createdDate_dt>2020-08-10T07:35:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:34:59.448Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:34:59.448Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

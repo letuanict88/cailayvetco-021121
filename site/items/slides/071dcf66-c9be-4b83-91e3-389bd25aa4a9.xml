@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>071d</objectGroupId>
+	<objectId>071dcf66-c9be-4b83-91e3-389bd25aa4a9</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<file-name>071dcf66-c9be-4b83-91e3-389bd25aa4a9.xml</file-name>
+	<internal-name>Header - Test 3</internal-name>
+	<createdDate>2020-07-13T06:44:21.040Z</createdDate>
+	<createdDate_dt>2020-07-13T06:44:21.040Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T06:44:21.040Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T06:44:21.040Z</lastModifiedDate_dt>
+</component>

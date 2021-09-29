@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c66c</objectGroupId>
+	<objectId>c66c17e9-af38-e750-c9dc-0df5eb04b740</objectId>
+	<internal-name>Nhóm thuốc kháng sinh</internal-name>
+	<navLabel>Nhóm thuốc kháng sinh</navLabel>
+	<title_s>Nhóm thuốc kháng sinh</title_s>
+	<rightTitle_s>CATAXIM</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/Cataxim_thay.png</rightimage_s>
+	<file-name>index.xml</file-name>
+	<folder-name>khang-sinh</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>bec5bcc1-8ddf-2774-bdc7-6075ac645e31</key>
+	<value>Slide</value>
+<component id="bec5bcc1-8ddf-2774-bdc7-6075ac645e31">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bec5</objectGroupId>
+	<objectId>bec5bcc1-8ddf-2774-bdc7-6075ac645e31</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>bec5bcc1-8ddf-2774-bdc7-6075ac645e31.xml</file-name>
+	<createdDate>2020-08-03T06:46:13.301Z</createdDate>
+	<createdDate_dt>2020-08-03T06:46:13.301Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T06:46:13.301Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T06:46:13.301Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/f7b20466-0c88-6208-eb69-5eadf62cbd0b.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/f7b20466-0c88-6208-eb69-5eadf62cbd0b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T06:42:02.742Z</createdDate>
+	<createdDate_dt>2020-08-03T06:42:02.742Z</createdDate_dt>
+	<lastModifiedDate>2020-08-29T01:33:48.294Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-29T01:33:48.294Z</lastModifiedDate_dt>
+</page>

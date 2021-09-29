@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3a7e</objectGroupId>
+	<objectId>3a7ec59b-24ee-c931-6d63-1f7c02d416b7</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dao-tao-phat-trien</folder-name>
+	<internal-name>Đào tạo và Phát triển</internal-name>
+	<navLabel>Đào tạo và Phát triển</navLabel>
+	<title_s>Đào tạo và Phát triển</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Đào tạo và Phát triển</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</key>
+	<value>Header - Chế độ đãi ngộ, phúc lợi</value>
+	<include>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>0619cefd-18c3-35b6-88e7-b01a336afbc9</key>
+	<value>Content - Đào tạo và Phát triển</value>
+<component id="0619cefd-18c3-35b6-88e7-b01a336afbc9">
+	<content-type>/component/policy</content-type>
+	<display-template>/templates/web/policies.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0619</objectGroupId>
+	<objectId>0619cefd-18c3-35b6-88e7-b01a336afbc9</objectId>
+	<file-name>0619cefd-18c3-35b6-88e7-b01a336afbc9.xml</file-name>
+	<internal-name>Content - Đào tạo và Phát triển</internal-name>
+	<title_s>Đào tạo và Phát triển</title_s>
+	<image_s>/static-assets/images/policies/Layer 201.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Mekovet đặc biệt ch&amp;uacute; trọng đến c&amp;ocirc;ng t&amp;aacute;c ph&amp;aacute;t triển nguồn nh&amp;acirc;n lực th&amp;ocirc;ng qua việc triển khai hiệu quả ch&amp;iacute;nh s&amp;aacute;ch đ&amp;agrave;o tạo, n&amp;acirc;ng cao hiểu biết, tr&amp;igrave;nh độ nghiệp vụ cho CBNV. Kh&amp;ocirc;ng chỉ được tham gia c&amp;aacute;c kh&amp;oacute;a đ&amp;agrave;o tạo kỹ năng mềm, n&amp;acirc;ng cao tr&amp;igrave;nh độ nghiệp vụ, c&amp;aacute;c c&amp;aacute;n bộ MKV c&amp;ograve;n được tạo điều kiện tiếp x&amp;uacute;c với c&amp;aacute;c chuy&amp;ecirc;n gia h&amp;agrave;ng đầu thế giới trong lĩnh vực n&amp;ocirc;ng nghiệp, thực phẩm để tiếp thu, trao đổi v&amp;agrave; học hỏi kinh nghiệm từ c&amp;aacute;c nền kinh tế ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;agrave;o tạo với Mekovet kh&amp;ocirc;ng chỉ mang &amp;yacute; nghĩa n&amp;acirc;ng cao tr&amp;igrave;nh độ cho C&amp;aacute;n bộ Nh&amp;acirc;n vi&amp;ecirc;n, m&amp;agrave; c&amp;ograve;n g&amp;oacute;p phần v&amp;agrave;o việc n&amp;acirc;ng cao chất lượng nh&amp;acirc;n sự của c&amp;aacute;c doanh nghiệp Việt Nam n&amp;oacute;i chung, đ&amp;oacute;ng g&amp;oacute;p cho ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam những chuy&amp;ecirc;n gia, kỹ sư l&amp;agrave;nh nghề, c&amp;oacute; năng lực cao v&amp;igrave; sự ph&amp;aacute;t triển bền vững của ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam.&lt;/p&gt;</content_html>
+	<createdDate>2020-06-25T03:10:41.335Z</createdDate>
+	<createdDate_dt>2020-06-25T03:10:41.335Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:06:27.359Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:06:27.359Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-25T03:09:47.211Z</createdDate>
+	<createdDate_dt>2020-06-25T03:09:47.211Z</createdDate_dt>
+	<lastModifiedDate>2020-08-10T07:06:13.796Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-10T07:06:13.796Z</lastModifiedDate_dt>
+</page>

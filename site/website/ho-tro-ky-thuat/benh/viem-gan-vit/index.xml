@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cda6</objectGroupId>
+	<objectId>cda65dfd-3fd5-c903-cb66-dcb55d42cdb7</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Bệnh viêm gan (DUCK VIRAL HEPATITIS)</internal-name>
+	<navLabel>Bệnh viêm gan (DUCK VIRAL HEPATITIS)</navLabel>
+	<diseaseName_s>Bệnh viêm gan (DUCK VIRAL HEPATITIS)</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<file-name>index.xml</file-name>
+	<folder-name>viem-gan-vit</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>01718835-30f0-aa67-083b-b148cbc0ce6b</key>
+	<value>slide</value>
+<component id="01718835-30f0-aa67-083b-b148cbc0ce6b">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0171</objectGroupId>
+	<objectId>01718835-30f0-aa67-083b-b148cbc0ce6b</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg-gioithieuchung.png</image_s>
+	</item></slide_o>
+	<file-name>01718835-30f0-aa67-083b-b148cbc0ce6b.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-31T10:08:31.981Z</createdDate>
+	<createdDate_dt>2020-07-31T10:08:31.981Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:08:31.981Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:08:31.981Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;I. TỔNG QUAN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh thường xảy ra ở vịt &lt; 6 tuần tuổi, đặc biệt l&amp;agrave; vịt 1 - 3 tuần tuổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tỷ lệ chết cao v&amp;agrave; l&amp;acirc;y lan rất nhanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh g&amp;acirc;y ra bởi DHV (duck hepatis virus); l&amp;agrave; một Enterovirus thuộc nh&amp;oacute;m Picornaviridae&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;ograve;n thấy bệnh tr&amp;ecirc;n c&amp;aacute;c thủy cầm kh&amp;aacute;c: ngan, ngỗng &amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;II. L&amp;Acirc;Y TRUYỀN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Vịt, ngan&amp;nbsp; nhiễm virus qua nhiều con đường:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đường ti&amp;ecirc;u h&amp;oacute;a, h&amp;ocirc; hấp: theo thức ăn, nước uống, kh&amp;ocirc;ng kh&amp;iacute; v&amp;agrave; qua vết thương tr&amp;ecirc;n da.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vịt bệnh b&amp;agrave;i xuất virus ra ngo&amp;agrave;i theo ph&amp;acirc;n, nước mũi v&amp;agrave; rơi v&amp;agrave;o&amp;nbsp; thức ăn, nước uống, chất độn chuồng, nước ao nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dụng cụ v&amp;agrave; kh&amp;ocirc;ng kh&amp;iacute; trong chuồng bị &amp;ocirc; nhiễm, quần &amp;aacute;o dầy d&amp;eacute;p, người chăn nu&amp;ocirc;i bị vịt vấy nhiễm l&amp;agrave; điều kiện l&amp;acirc;y lan bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vịt mẹ nhiễm bệnh truyền virus v&amp;agrave;o trứng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Triệu chứng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh xảy ra đột ngột, bệnh l&amp;acirc;y lan nhanh, vịt chết tập trung v&amp;agrave;o ng&amp;agrave;y thứ 2- 4 sau khi mắc bệnh, tỷ lệ chết rất cao c&amp;oacute; khi l&amp;ecirc;n tới 100% ở vịt con.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đặc trưng của bệnh l&amp;agrave; vịt bị yếu dần v&amp;agrave; rối loạn vận động. Vịt bệnh mất thăng bằng, nằm nghi&amp;ecirc;ng về một ph&amp;iacute;a của cơ thể v&amp;agrave; ch&amp;acirc;n đạp trước khi chết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi chết, vịt nằm ở tư thế đầu quay ngược về ph&amp;iacute;a sau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Diễn biến của bệnh xảy ra nhanh khoảng 1 đến 2 giờ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;III. BỆNH L&amp;Yacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Bệnh t&amp;iacute;ch&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dấu hiệu thần kinh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tư thế đặc trưng khi chết&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chủ yếu tập trung ở gan,&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gan sưng, nhũn, dễ bị n&amp;aacute;t khi ấn nhẹ. Bề mặt gan loang lổ c&amp;oacute; nhiều điểm xuất huyết lan rộng kh&amp;ocirc;ng ranh giới (sự xuất huyết kh&amp;ocirc;ng phải ở tất cả c&amp;aacute;c vịt con bị chết do vi&amp;ecirc;m gan). Nếu c&amp;oacute; điểm hoại tử trắng l&amp;agrave; do gh&amp;eacute;p với bệnh ph&amp;oacute; thương h&amp;agrave;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cơ tim bị nhợt nhạt (giống như bị luộc ch&amp;iacute;n), m&amp;agrave;ng bao tim v&amp;agrave; t&amp;uacute;i kh&amp;iacute; bị vi&amp;ecirc;m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- L&amp;aacute;ch sưng to v&amp;agrave; thận sưng lồi, tụ huyết tại c&amp;aacute;c mạch m&amp;aacute;u của thận&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;IV. GIẢI PH&amp;Aacute;P&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Điều trị&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Do bệnh tiến triển nhanh n&amp;ecirc;n việc điều trị &amp;iacute;t mang lại kết quả mong muốn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;ocirc;ng cho vịt xuống nước&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;m KTV - Hanvet (kh&amp;aacute;ng thể chống vi&amp;ecirc;m gan vịt) ngay khi đ&amp;atilde; chẩn đo&amp;aacute;n được bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng MKV-MEKOVIT + MEKOSAL pha v&amp;agrave;o nước cho vịt uống ng&amp;agrave;y li&amp;ecirc;n tục (nếu c&amp;oacute; phụ nhiễm cho uống th&amp;ecirc;m CL-AMOXCOLI)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kế đ&amp;oacute; d&amp;ugrave;ng CL-SORBITOL+B12 cho uống li&amp;ecirc;n tục 3 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sau khi bệnh thuy&amp;ecirc;n giảm d&amp;ugrave;ng&amp;nbsp; VIMILAC &amp;ndash; PLUS 2&amp;nbsp; trộn v&amp;agrave;o thức ăn 1 tuần gi&amp;uacute;p vịt mau hồi phục&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- S&amp;aacute;t tr&amp;ugrave;ng chuồng trại&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Ph&amp;ograve;ng bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng vaccine ph&amp;ograve;ng bệnh vi&amp;ecirc;m gan cho vịt (do VETVACO sản xuất)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Với vịt bố mẹ, ti&amp;ecirc;m v&amp;agrave;o l&amp;uacute;c 2 tuần trước khi v&amp;agrave;o v&amp;agrave;o đẻ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Với vịt con&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Nếu vịt bố mẹ đ&amp;atilde; được chủng ngừa: ti&amp;ecirc;m vaccine dưới da cho vịt con l&amp;uacute;c được 20 ng&amp;agrave;y tuổi&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Nếu vịt bố mẹ chưa chủng ngừa, hoặc vịt bố mẹ đ&amp;atilde; được chủng ngừa nhưng vịt con đang nu&amp;ocirc;i ở v&amp;ugrave;ng c&amp;oacute; &amp;aacute;p lực dịch bệnh cao: d&amp;ugrave;ng vaccine n&amp;agrave;y ngay ở ng&amp;agrave;y tuổi thứ nhất bằng c&amp;aacute;ch nhỏ mắt mũi v&amp;agrave; lặp lại l&amp;uacute;c 7 ng&amp;agrave;y tuổi bằng c&amp;aacute;ch ti&amp;ecirc;m dưới da.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<createdDate>2020-07-31T10:07:48.216Z</createdDate>
+	<createdDate_dt>2020-07-31T10:07:48.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:07:48.216Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:07:48.216Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

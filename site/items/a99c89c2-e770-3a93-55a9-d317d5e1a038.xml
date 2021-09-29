@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a99c</objectGroupId>
+	<objectId>a99c89c2-e770-3a93-55a9-d317d5e1a038</objectId>
+	<file-name>a99c89c2-e770-3a93-55a9-d317d5e1a038.xml</file-name>
+	<internal-name>Product for fish</internal-name>
+	<productgrouplevel1_s>thuoc-cho-tom-ca</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-dinh-duong-khoang-tang-suc-de-khang</productgrouplevel2_s>
+	<createdDate>2020-08-05T04:54:31.617Z</createdDate>
+	<createdDate_dt>2020-08-05T04:54:31.617Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:55:49.729Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:55:49.729Z</lastModifiedDate_dt>
+</component>

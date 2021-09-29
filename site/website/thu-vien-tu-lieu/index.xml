@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e8e5</objectGroupId>
+	<objectId>e8e520cb-8cd4-f2d7-d551-4fd8df3cbde1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien-tu-lieu</folder-name>
+	<internal-name>Thư viện tư liệu</internal-name>
+	<navLabel>Thư viện tư liệu</navLabel>
+	<t_s>Thư viện tư liệu</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>9331f1a2-5cc8-9062-8663-5a086620d454</key>
+	<value>Thư viện tư liệu slide</value>
+<component id="9331f1a2-5cc8-9062-8663-5a086620d454">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9331</objectGroupId>
+	<objectId>9331f1a2-5cc8-9062-8663-5a086620d454</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>9331f1a2-5cc8-9062-8663-5a086620d454.xml</file-name>
+	<internal-name>Thư viện tư liệu slide</internal-name>
+	<createdDate>2020-07-06T08:24:01.441Z</createdDate>
+	<createdDate_dt>2020-07-06T08:24:01.441Z</createdDate_dt>
+	<lastModifiedDate>2020-07-06T08:24:01.441Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-06T08:24:01.441Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>e34f6839-ebac-4975-f3fe-aa95ed777646</key>
+	<value>Thư viện tư liệu</value>
+<component id="e34f6839-ebac-4975-f3fe-aa95ed777646">
+	<content-type>/component/library</content-type>
+	<display-template>/templates/web/component/libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e34f</objectGroupId>
+	<objectId>e34f6839-ebac-4975-f3fe-aa95ed777646</objectId>
+	<file-name>e34f6839-ebac-4975-f3fe-aa95ed777646.xml</file-name>
+	<internal-name>Thư viện tư liệu</internal-name>
+	<photoTitle_s>Thư viện ảnh</photoTitle_s>
+	<photoURL_s>/thu-vien/thu-vien-anh</photoURL_s>
+	<videoTitle_s>Thư viện video</videoTitle_s>
+	<namesVideo1_s>Phim giới thiệu công ty thú...</namesVideo1_s>
+	<namesVideo2_s>Phim giới thiệu công ty thú...</namesVideo2_s>
+	<videoURL_s>/thu-vien/thu-vien-video</videoURL_s>
+	<documentTitle_s>Thư viện tài liệu</documentTitle_s>
+	<documentURL_s>/thu-vien/thu-vien-tai-lieu</documentURL_s>
+	<photoAvatar1_s>/static-assets/images/libraries/photos/DSC_1647a.jpg</photoAvatar1_s>
+	<photoAvatar2_s>/static-assets/images/libraries/photos/photo2.png</photoAvatar2_s>
+	<documentAvatar1_s>/static-assets/images/libraries/documents/doc1.png</documentAvatar1_s>
+	<createdDate>2020-07-06T08:24:37.440Z</createdDate>
+	<createdDate_dt>2020-07-06T08:24:37.440Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T06:39:54.523Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T06:39:54.523Z</lastModifiedDate_dt>
+	<documentAvatar2_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar2_s>
+	<title_s>Thư viện tư liệu</title_s>
+	<videoURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL1_s>
+	<videoURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL2_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/Anh Thu vien Tu lieu.jpg</videoBanner_s>
+	<videoBanner2_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner2_s>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-06T08:23:25.674Z</createdDate>
+	<createdDate_dt>2020-07-06T08:23:25.674Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T06:39:48.009Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T06:39:48.009Z</lastModifiedDate_dt>
+</page>

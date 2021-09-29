@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a478</objectGroupId>
+	<objectId>a478d8ac-b2ed-f7e7-0aec-79bdc7888d25</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chao-mung-ky-niem-ngay-quoc-te-phu-nu</folder-name>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<internal-name>Chào mừng kỷ niệm ngày Quốc tế Phụ nữ 8/3</internal-name>
+	<navLabel>Chào mừng kỷ niệm ngày Quốc tế Phụ nữ 8/3</navLabel>
+	<title_s>Chào mừng kỷ niệm ngày Quốc tế Phụ nữ 8/3</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/news/30_5.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Tổ chức kỷ niệm ng&amp;agrave;y Quốc tế Phụ nữ 8/3 l&amp;agrave; hoạt động thường ni&amp;ecirc;n lu&amp;ocirc;n được ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy hưởng ứng nhằm thể hiện sự quan t&amp;acirc;m của Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty đối với chị em phụ nữ đồng thời t&amp;ocirc;n vinh người phụ nữ Việt Nam v&amp;agrave; phụ nữ tr&amp;ecirc;n to&amp;agrave;n thế giới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, niềm vui ng&amp;agrave;y kỷ niệm 8/3 c&amp;ograve;n được nh&amp;acirc;n l&amp;ecirc;n khi C&amp;ocirc;ng ty tổ chức mừng sinh nhật tập thể CB-CNV c&amp;oacute; sinh nhật trong Qu&amp;yacute; 1 năm 2018.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nh&amp;acirc;n kỷ niệm ng&amp;agrave;y 8/3, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy ch&amp;uacute;c cho tất cả c&amp;aacute;c chị em phụ nữ lu&amp;ocirc;n lu&amp;ocirc;n vui tươi, khoẻ mạnh, hạnh ph&amp;uacute;c. Đặc biệt, ch&amp;uacute;c cho chị em phụ nữ CAILAYVETCO lu&amp;ocirc;n kh&amp;ocirc;ng ngừng lao động, s&amp;aacute;ng tạo, g&amp;oacute;p phần đ&amp;aacute;ng kể v&amp;agrave;o sự ph&amp;aacute;t triển của c&amp;ocirc;ng ty, xứng đ&amp;aacute;ng với danh hiệu &amp;ldquo;Giỏi việc nước, đảm việc nh&amp;agrave;&amp;rdquo;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:47:38.632Z</createdDate>
+	<createdDate_dt>2020-07-31T05:47:38.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:47:38.632Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:47:38.632Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

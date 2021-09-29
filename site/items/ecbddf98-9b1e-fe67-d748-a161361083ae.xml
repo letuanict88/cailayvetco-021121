@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/techsupportcomponent</content-type>
+	<display-template>/templates/web/component/group-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ecbd</objectGroupId>
+	<objectId>ecbddf98-9b1e-fe67-d748-a161361083ae</objectId>
+	<internal-name>Bệnh thú cưng</internal-name>
+	<title_s>Bệnh thú cưng</title_s>
+	<file-name>ecbddf98-9b1e-fe67-d748-a161361083ae.xml</file-name>
+	<avatar_s>/static-assets/images/techsupport/logo-2.png</avatar_s>
+	<supportTech_s>benh-thu-cung</supportTech_s>
+	<createdDate>2020-06-26T07:56:10.620Z</createdDate>
+	<createdDate_dt>2020-06-26T07:56:10.620Z</createdDate_dt>
+	<lastModifiedDate>2020-07-15T09:49:30.920Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-15T09:49:30.920Z</lastModifiedDate_dt>
+	<listURL_s>/ho-tro-ky-thuat/nhom/benh-thu-cung</listURL_s>
+</component>

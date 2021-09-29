@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2147257e</objectGroupId>
+	<objectId>2147257e-d824-46b6-a4bd-eea6f7bdc54f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dieu-tri-benh-ghe-o-cho-meo-fe412565</folder-name>
+	<internal-name>Các bệnh thường gặp ở chó nhỏ </internal-name>
+	<navLabel>Các bệnh thường gặp ở chó nhỏ </navLabel>
+	<diseaseName_s>Các bệnh thường gặp ở chó nhỏ ai nuôi cũng phải biết</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e206b39c-05cd-a3f2-db51-d2e24be92146</key>
+	<value>Slide</value>
+<component id="e206b39c-05cd-a3f2-db51-d2e24be92146">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e206</objectGroupId>
+	<objectId>e206b39c-05cd-a3f2-db51-d2e24be92146</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>e206b39c-05cd-a3f2-db51-d2e24be92146.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-17T04:08:18.634Z</createdDate>
+	<createdDate_dt>2020-07-17T04:08:18.634Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T04:08:18.634Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T04:08:18.634Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Bệnh thú cưng</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;C&amp;aacute;c lo&amp;agrave;i ch&amp;oacute; nhỏ như chihuahua, phốc, ch&amp;oacute; Nhật... rất dễ mắc một số bệnh, v&amp;igrave; vậy khi nu&amp;ocirc;i ch&amp;oacute; nhỏ nếu bạn kh&amp;ocirc;ng biết chăm s&amp;oacute;c đ&amp;uacute;ng c&amp;aacute;ch th&amp;igrave; sức khỏe của ch&amp;uacute;ng rất dễ bị ảnh hưởng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những ai y&amp;ecirc;u động vật, th&amp;uacute; cưng chắc chắn đều muốn nu&amp;ocirc;i những ch&amp;uacute; ch&amp;oacute; cảnh trong nh&amp;agrave;. Cũng giống như tất cả c&amp;aacute;c lo&amp;agrave;i vật nu&amp;ocirc;i trong nh&amp;agrave; kh&amp;aacute;c ch&amp;oacute; cảnh cũng rất dễ mắc nhiều loại bệnh, nhất l&amp;agrave; những lo&amp;agrave;i ch&amp;oacute; nhỏ như chihuahua, ch&amp;oacute; Nhật hay ch&amp;oacute; Bắc kinh. Vậy l&amp;agrave;m sao để biết những ch&amp;uacute; c&amp;uacute;n cưng của m&amp;igrave;nh đ&amp;atilde; mắc bệnh v&amp;agrave; c&amp;aacute;ch chăm s&amp;oacute;c, chữa trị c&amp;aacute;c bệnh thường gặp ở ch&amp;oacute; nhỏ như thế n&amp;agrave;o? C&amp;ugrave;ng tham khảo những th&amp;ocirc;ng tin trong b&amp;agrave;i viết n&amp;agrave;y để c&amp;oacute; th&amp;ecirc;m kinh nghiệm nh&amp;eacute;!&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c vấn đề về tim mạch&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tim mạch l&amp;agrave; một vấn đề sức khỏe thường hay gặp phải của c&amp;aacute;c giống ch&amp;oacute; nhỏ. Do hệ thống tuần ho&amp;agrave;n m&amp;aacute;u v&amp;agrave; tim mạch lu&amp;ocirc;n phải vận động nhanh n&amp;ecirc;n bạn cần phải đặc biệt ch&amp;uacute; &amp;yacute; đến việc ăn uống v&amp;agrave; chế độ dinh dưỡng của ch&amp;oacute;. Kh&amp;ocirc;ng n&amp;ecirc;n cho ch&amp;oacute; ăn c&amp;aacute;c loại thức ăn chứa nhiều dầu mỡ để giảm bớt lượng cholesterol trong m&amp;aacute;u, gi&amp;uacute;p tim khỏe mạnh hơn. Ngo&amp;agrave;i ra, hằng ng&amp;agrave;y bạn cũng cần cho ch&amp;oacute; tập thể dục c&amp;ugrave;ng m&amp;igrave;nh để cải thiện sức khỏe nh&amp;eacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c bệnh về xương khớp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhiều loại ch&amp;oacute; nhỏ như phốc, chihuahua&amp;hellip; hay mắc những bệnh về xương, khớp. V&amp;igrave; vậy bạn n&amp;ecirc;n ch&amp;uacute; &amp;yacute; bổ sung canxi v&amp;agrave;o khẩu phần ăn cho ch&amp;oacute;, hạn chế c&amp;aacute;c loại thức ăn chứa axit b&amp;eacute;o c&amp;oacute; thể l&amp;agrave;m xương bị xốp, bị thấp khớp v&amp;agrave; dễ gẫy xương nếu vận động nhanh. Ngo&amp;agrave;i ra bạn n&amp;ecirc;n cho ch&amp;oacute; thường xuy&amp;ecirc;n đi dạo v&amp;agrave; vận động.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; dễ bị mắc c&amp;aacute;c chứng bệnh b&amp;eacute;o ph&amp;igrave;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; c&amp;oacute; k&amp;iacute;ch thước nhỏ lại kh&amp;aacute; lười vận động n&amp;ecirc;n bạn cần ch&amp;uacute; &amp;yacute; đến chế độ ăn uống v&amp;agrave; dinh dưỡng v&amp;igrave; ch&amp;oacute; cũng dễ mắc bệnh b&amp;eacute;o ph&amp;igrave; đấy. Bạn n&amp;ecirc;n hạn chế c&amp;aacute;c thức ăn chứa nhiều chất b&amp;eacute;o, kh&amp;ocirc;ng cho ch&amp;uacute;ng ăn qu&amp;aacute; nhiều. Nếu để t&amp;igrave;nh trạng b&amp;eacute;o ph&amp;igrave; k&amp;eacute;o d&amp;agrave;i sẽ rất nguy hại đến sức khỏe của ch&amp;uacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c bệnh về răng miệng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng giống những loại ch&amp;oacute; to, những ch&amp;uacute; ch&amp;oacute; nhỏ nhắn thường c&amp;oacute; h&amp;agrave;m răng kh&amp;ocirc;ng được thực sự chắc khỏe. V&amp;igrave; vậy bạn cần chăm ch&amp;uacute;t cẩn thận hơn, đừng để ch&amp;oacute; nhỏ gặm xương, răng ch&amp;uacute;ng c&amp;oacute; thể bị hỏng v&amp;agrave; cũng rất dễ bị h&amp;oacute;c xương đấy.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;oacute; dễ mắc c&amp;aacute;c bệnh về h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Khả năng chịu lạnh của c&amp;aacute;c giống ch&amp;oacute; con thường kh&amp;aacute; k&amp;eacute;m, v&amp;igrave; vậy ch&amp;uacute;ng rất dễ mắc c&amp;aacute;c bệnh về đường h&amp;ocirc; hấp như vi&amp;ecirc;m phổi, vi&amp;ecirc;m phế quản, ho cũi ch&amp;oacute;&amp;hellip; Nếu ch&amp;oacute; con thường vận động nhanh, thở kh&amp;ograve; kh&amp;egrave; th&amp;igrave; bạn cần thường xuy&amp;ecirc;n vệ sinh mũi, mắt cho c&amp;uacute;n thật sạch sẽ nh&amp;eacute;.&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-17T04:07:14.806Z</createdDate>
+	<createdDate_dt>2020-07-17T04:07:14.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T10:22:16.280Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T10:22:16.280Z</lastModifiedDate_dt>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-thu-cung</parentURL_s>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

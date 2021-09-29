@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/header</content-type>
+	<display-template>/templates/web/component/header.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b5e</objectGroupId>
+	<objectId>5b5e52bf-6158-d346-aebf-f57d0d76873f</objectId>
+	<file-name>5b5e52bf-6158-d346-aebf-f57d0d76873f.xml</file-name>
+	<logo_s>/static-assets/images/logos/logo.png</logo_s>
+	<internal-name>Header</internal-name>
+	<createdDate>2020-06-29T10:20:02.351Z</createdDate>
+	<createdDate_dt>2020-06-29T10:20:02.351Z</createdDate_dt>
+	<lastModifiedDate>2020-06-29T10:26:52.018Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-29T10:26:52.018Z</lastModifiedDate_dt>
+</component>

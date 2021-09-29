@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/ennewsdetail</content-type>
+	<display-template>/templates/web/ennewsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6b9d</objectGroupId>
+	<objectId>6b9d412b-1865-eb94-da62-d3d2eb316b54</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-4</folder-name>
+	<internal-name>Mavin supports livelihoods for the poor in Nhu Xuan - Thanh Hoa</internal-name>
+	<navLabel>Mavin supports livelihoods for the poor in Nhu Xua</navLabel>
+	<title_s>Mavin supports livelihoods for the poor in Nhu Xuan - Thanh Hoa</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/Tang ga Nhu Xuan Thanh Hoa (13).jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;On July 9, 2020 -&amp;nbsp; Mavin Group cooperated with the World Vision Vietnam to donate 15,000 chicks (Mavin 233) and animal feed, veterinary medicine for poor households of Nhu Xuan district, Thanh Hoa province.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;75 households in 5 communes of Hoa Quy, Thanh Lam, Binh Luong, Thuong Ninh and Yen Cat town received chicks with animal feed directly from Mavin, and also attended a technical training program on animal breeding knowledge and disease prevention taught by technical staff of Mavin Group. The breeding process will be monitored by Mavin to ensure the weight and quality of output. Mavin also commits to support the consumption of outputs for the farmers. The total donation value of the program is up to USD 30,000.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;According to the World Vision, the households are carefully selected according to many criteria such as: poor / near-poor households, having difficult children, having labor and hygienic breeding facilities ... With the technical assistance and supervision from Mavin, in the next 4 -5 months, each family is estimated to have a revenue from selling chickens from 30-40 million VND/household.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The program is under the framework of the cooperation between Mavin and World Vision since 2018. Accordingly, with the goal of sustainable agricultural development and improvement of living standards of Vietnamese farmers, especially children in rural and mountainous areas, Mavin and World Vision have been cooperating to implement many social responsibility programs, supporting livelihood development for the poor in provinces and cities across the country.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The program has been successfully implemented in Thanh Hoa province in 2019 with the provision of breeding pigs and animal feed to dozens of poor households in Nhu Xuan, contributing to improving the poor&amp;rsquo;s lives and bringing good incomes for participating households.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sharing the vision and ideas of the Program, Mr. David John Whitehead, Chairman of Mavin Group said: &amp;ldquo;Instead of providing financial support to poor people to overcome the immediate difficulties, helping them know and master a career can generate stable income and thereby get rich. That is the key idea of Mavin Group's social responsibility projects. In this way, we both help farmers escape poverty and help them access effective ways of raising animals with food safety and hygiene products, while also contributing to the sustainable development of Vietnam's agriculture".&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T11:05:36.033Z</createdDate>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:15:22.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:15:22.845Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

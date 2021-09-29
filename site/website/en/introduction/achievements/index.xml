@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>53df</objectGroupId>
+	<objectId>53dfcc43-e4fc-c397-e807-8b9d2b64e636</objectId>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/4258ffe4-8f8e-d8a3-7642-d7a8aca6c885.xml</key>
+	<value>Header - Achievements</value>
+	<include>/site/items/slides/4258ffe4-8f8e-d8a3-7642-d7a8aca6c885.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>247d3271-553f-13a4-d0bb-27a2c3168a97</key>
+	<value>Content - Achievements</value>
+<component id="247d3271-553f-13a4-d0bb-27a2c3168a97">
+	<content-type>/component/enintroduction</content-type>
+	<display-template>/templates/web/enintroduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>247d</objectGroupId>
+	<objectId>247d3271-553f-13a4-d0bb-27a2c3168a97</objectId>
+	<file-name>247d3271-553f-13a4-d0bb-27a2c3168a97.xml</file-name>
+	<internal-name>Content - Achievements</internal-name>
+	<title_s>Achievements</title_s>
+	<image_s>/static-assets/images/introduction/Layer 187.png</image_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm 0cm 10pt; line-height: 16.8667px; text-align: justify;"&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;Cai Lay Veterinary Pharmaceutical Joint Stock Company &amp;ndash; Mekovet was granted ISO 9001:2008 Cetificate by Det Norske Veritas in 2002. The Company was also rewarded with:&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm 0cm 10pt; line-height: 16.8667px; text-align: justify;"&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;&amp;bull;&amp;nbsp; &amp;nbsp;Award &amp;ldquo;Vietnamese High Quality Goods 1998&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm 0cm 10pt; line-height: 16.8667px; text-align: justify;"&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;&amp;bull;&amp;nbsp; &amp;nbsp;Awards &amp;ldquo;Good Business of Mekong Delta in the years 1998 -1999-2000&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm 0cm 10pt; line-height: 16.8667px; text-align: justify;"&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;&amp;bull;&amp;nbsp; &amp;nbsp;Award &amp;ldquo; Golden Cup of Trademark and Brand in 2005&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm 0cm 10pt; line-height: 16.8667px; text-align: justify;"&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;&amp;bull;&amp;nbsp; &amp;nbsp;Awards &amp;ldquo;Vietnamese High Quality Goods in the years 2005 -2006 -2007-2008-2009-2010-2011-2012&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm 0cm 10pt; line-height: 16.8667px; text-align: justify;"&gt;&lt;span style="font-family: Calibri, sans-serif;"&gt;&amp;bull;&amp;nbsp; &amp;nbsp;Award &amp;ldquo;Golden Rice &amp;ndash; Golden Brand 2007&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T07:41:06.733Z</createdDate>
+	<createdDate_dt>2020-07-13T07:41:06.733Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:44:47.850Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:44:47.850Z</lastModifiedDate_dt>
+	<button1_s>About Makovet</button1_s>
+	<url1_s>/en/introduction/about-makovet</url1_s>
+	<button2_s>History</button2_s>
+	<url2_s>/en/introduction/history</url2_s>
+	<button3_s>Mision - Vision</button3_s>
+	<url3_s>/en/introduction/vision</url3_s>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>achievements</folder-name>
+	<internal-name>Achievements</internal-name>
+	<navLabel>Achievements</navLabel>
+	<title_s>Achievements</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Achievements</description_t>
+	<createdDate>2020-07-13T07:35:28.149Z</createdDate>
+	<createdDate_dt>2020-07-13T07:35:28.149Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:44:42.629Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:44:42.629Z</lastModifiedDate_dt>
+</page>

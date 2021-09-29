@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d09e3459</objectGroupId>
+	<objectId>d09e3459-66da-42a4-9fb5-4a754ee576f1</objectId>
+	<internal-name>7 cách giúp cún con của bạn luôn khỏe mạnh</internal-name>
+	<navLabel>7 cách giúp cún con của bạn luôn khỏe mạnh</navLabel>
+	<processName_s>7 cách giúp cún con của bạn luôn khỏe mạnh</processName_s>
+	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-thuy-san</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>f51ae207-6d30-88d4-6c78-889a78074430</key>
+	<value>Slide</value>
+<component id="f51ae207-6d30-88d4-6c78-889a78074430">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f51a</objectGroupId>
+	<objectId>f51ae207-6d30-88d4-6c78-889a78074430</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>index.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T03:11:52.133Z</createdDate>
+	<createdDate_dt>2020-07-29T03:11:52.133Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:11:52.133Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:11:52.133Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-trinh-cham-soc-cho-ngao-tay-tang-01e16159</folder-name>
+	<processType_o>	<item>	<key>benh-thu-cung</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Thú cưng</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;Bạn l&amp;agrave; người y&amp;ecirc;u th&amp;iacute;ch động vật l&amp;agrave;m sao để ch&amp;uacute; c&amp;uacute;n con của bạn lu&amp;ocirc;n được khỏe mạnh. Dưới đ&amp;acirc;y l&amp;agrave; 7 c&amp;aacute;ch gi&amp;uacute;p c&amp;uacute;n y&amp;ecirc;u lu&amp;ocirc;n được khỏe mạnh m&amp;agrave; bạn n&amp;ecirc;n tham khảo.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;​Ch&amp;oacute; l&amp;agrave; một trong những lo&amp;agrave;i động vật được con người y&amp;ecirc;u th&amp;iacute;ch nhiều nhất. Đồng thời n&amp;oacute; cũng l&amp;agrave; lo&amp;agrave;i động vật trung th&amp;agrave;nh với chủ nhất v&amp;igrave; vậy bạn n&amp;ecirc;n c&amp;oacute; tr&amp;aacute;ch nhiệm chăm s&amp;oacute;c v&amp;agrave; nu&amp;ocirc;i dưỡng ch&amp;uacute;ng. Dưới đ&amp;acirc;y l&amp;agrave; một số c&amp;aacute;ch gi&amp;uacute;p cho c&amp;uacute;n y&amp;ecirc;u lu&amp;ocirc;n được khỏe mạnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. Chăm s&amp;oacute;c răng của n&amp;oacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cũng giống như con người việc đ&amp;aacute;nh răng cho ch&amp;oacute; l&amp;agrave; rất quan trọng. Bạn c&amp;oacute; thể sử dụng kem đ&amp;aacute;nh răng d&amp;agrave;nh cho ch&amp;oacute; để bảo vệ răng v&amp;agrave; nướu của ch&amp;uacute;ng. Điều n&amp;agrave;y gi&amp;uacute;p ngăn chặn sự h&amp;igrave;nh th&amp;agrave;nh v&amp;agrave; x&amp;acirc;y dựng c&amp;aacute;c cao răng v&amp;agrave; khiến nướu của ch&amp;uacute;ng đau đớn, nhiễm tr&amp;ugrave;ng. Ngo&amp;agrave;i ra ch&amp;oacute; l&amp;agrave; lo&amp;agrave;i ăn tạp nhiều n&amp;ecirc;n đ&amp;aacute;nh răng gi&amp;uacute;p ch&amp;uacute;ng bớt h&amp;ocirc;i miệng hơn nhiều.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. Chăm s&amp;oacute;c l&amp;ocirc;ng cho ch&amp;uacute;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để ch&amp;oacute; y&amp;ecirc;u nh&amp;agrave; bạn lu&amp;ocirc;n sạch sẽ bạn h&amp;atilde;y chăm s&amp;oacute;c thường xuy&amp;ecirc;n bộ l&amp;ocirc;ng cho ch&amp;uacute;ng. Bạn c&amp;oacute; thể đ&amp;aacute;nh l&amp;ocirc;ng &amp;iacute;t nhất khoảng 2-3 lần một ng&amp;agrave;y gi&amp;uacute;p loại bỏ những sợi l&amp;ocirc;ng thiếu sức sống. Bạn chải l&amp;ocirc;ng ch&amp;uacute;ng thường xuy&amp;ecirc;n gi&amp;uacute;p cải thiện lưu th&amp;ocirc;ng m&amp;aacute;y v&amp;agrave; gi&amp;uacute;p l&amp;ocirc;ng của ch&amp;uacute;ng s&amp;aacute;ng b&amp;oacute;ng hơn nhiều.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. Chế độ dinh dưỡng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bạn h&amp;atilde;y chắc chắn rằng bạn đ&amp;atilde; cung cấp cho ch&amp;uacute;ng một chế độ ăn uống dinh dưỡng c&amp;acirc;n bằng v&amp;agrave; hợp l&amp;yacute;. Bạn n&amp;ecirc;n sử dụng c&amp;aacute;c loại thực phẩm chứa &amp;iacute;t calo. Nếu bạn cho ch&amp;uacute;ng ăn qu&amp;aacute; nhiều socola, nho kh&amp;ocirc;, bơ...sẽ c&amp;oacute; thể g&amp;acirc;y rối loạn ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; khiến ch&amp;uacute;ng b&amp;eacute;o l&amp;ecirc;n đấy. Điều n&amp;agrave;y c&amp;oacute; thể ảnh hưởng đến hệ thống ti&amp;ecirc;u h&amp;oacute;a của ch&amp;uacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. H&amp;atilde;y cho ch&amp;uacute;ng đi c&amp;ocirc;ng vi&amp;ecirc;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đa phần c&amp;aacute;c ch&amp;uacute; ch&amp;oacute; đều rất th&amp;iacute;ch đi chạy nhảy trong c&amp;ocirc;ng vi&amp;ecirc;n. Mỗi ng&amp;agrave;y bạn c&amp;oacute; thể cho ch&amp;uacute;ng đi dạo 10-15 ph&amp;uacute;t. Điều n&amp;agrave;y gi&amp;uacute;p x&amp;acirc;y dựng cơ bắp của ch&amp;uacute;ng được săn chắc v&amp;agrave; cung cấp hệ xương mạnh mẽ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. Cắt m&amp;oacute;ng cho ch&amp;oacute; v&amp;agrave; l&amp;agrave;m sạch đ&amp;ocirc;i tai của n&amp;oacute;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc cắt m&amp;oacute;ng cho ch&amp;oacute; l&amp;agrave; điều rất kh&amp;oacute; khăn. Bạn chỉ cần cắt bớt đi một phần m&amp;agrave;u trắng kh&amp;ocirc;ng cắt qu&amp;aacute; s&amp;acirc;u v&amp;agrave;o b&amp;agrave;n ch&amp;acirc;n của n&amp;oacute; v&amp;igrave; c&amp;oacute; thể khiến ch&amp;uacute;ng bị chảy m&amp;aacute;u. Đồng thời bạn lu&amp;ocirc;n giữ cho đ&amp;ocirc;i tai của ch&amp;uacute;ng sạch sẽ bằng c&amp;aacute;ch d&amp;ugrave;ng khăn ẩm lau tai cho ch&amp;uacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6. Tr&amp;aacute;nh tiếp x&amp;uacute;c qu&amp;aacute; nhiều &amp;aacute;nh nắng mặt trời&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Aacute;nh nắng mặt trời c&amp;oacute; thể g&amp;acirc;y t&amp;igrave;nh trạng mất nước thậm ch&amp;iacute; c&amp;oacute; thể dẫn tới ch&amp;uacute;ng bị ch&amp;aacute;y nắng. Do vậy h&amp;atilde;y bảo vệ vật nu&amp;ocirc;i của bạn từ c&amp;aacute;c bằng c&amp;aacute;ch giảm tiếp x&amp;uacute;c của n&amp;oacute; với tia nắng mặt trời. Dưới &amp;aacute;nh nắng mặt trời v&amp;agrave; dưới sức nhựa đường c&amp;oacute; thể khiến b&amp;agrave;n ch&amp;acirc;n của ch&amp;uacute;ng sưng tấy l&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;7. H&amp;atilde;y cho ch&amp;oacute; đi ti&amp;ecirc;m chủng đ&amp;uacute;ng thời hạn&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; một trong những c&amp;aacute;ch quan trọng nhất gi&amp;uacute;p cho ch&amp;uacute; ch&amp;oacute; của bạn khỏe mạnh. Bạn phải đảm bảo rằng n&amp;oacute; được vắc-xin đầu ti&amp;ecirc;n của m&amp;igrave;nh v&amp;agrave;o đ&amp;uacute;ng thời điểm. Ti&amp;ecirc;m chủng tiếp theo n&amp;ecirc;n được theo d&amp;otilde;i thường xuy&amp;ecirc;n theo hướng dẫn của b&amp;aacute;c sĩ th&amp;uacute; y của bạn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nguồn: Tạp ch&amp;iacute; Người chăn nu&amp;ocirc;i&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-29T03:11:04.619Z</createdDate>
+	<createdDate_dt>2020-07-31T07:55:04.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T07:54:59.590Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T07:54:59.590Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

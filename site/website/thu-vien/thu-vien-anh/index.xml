@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/photos</content-type>
+	<display-template>/templates/web/page/photo-libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5791</objectGroupId>
+	<objectId>5791f280-7ed9-c513-5c44-9c62735633cf</objectId>
+	<listphoto_o item-list="true">	<item>	<photoName_s>Đại sứ Quán Úc tham quan Nhà máy</photoName_s>
+	<photoImage_s>/static-assets/images/libraries/photos/Dai su quan Uc 62019 (8).jpg</photoImage_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/Dai su quan Uc 62019 (9).jpg</photoImage_s>
+	<photoName_s>Đại sứ Quán Úc tham quan Nhà máy</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/thu_tuong_tham_gian_hang_cl_.jpg</photoImage_s>
+	<photoName_s>Thú tướng tham quan gian hàng của Mekovet </photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/z1075802233539_67f93c8da2a95de2de1e9c82b460c963.jpg</photoImage_s>
+	<photoName_s>Gian hàng của Mekovet tại Triển lãm Tiền Giang</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo2.png</photoImage_s>
+	<photoName_s>Nhà máy Mekovet</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo3.png</photoImage_s>
+	<photoName_s>Công nghệ sản xuất</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/photo1.png</photoImage_s>
+	<photoName_s>Nhà máy Mekovet</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/IMG_E5111.JPG</photoImage_s>
+	<photoName_s>Hội nghị Người Lao động</photoName_s>
+	</item>	<item>	<photoImage_s>/static-assets/images/libraries/photos/z1257709307846_79418f0e2b829e2af2f803323f8a8329.jpg</photoImage_s>
+	<photoName_s>Hội nghị người lao động 2019</photoName_s>
+	</item></listphoto_o>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien-anh</folder-name>
+	<internal-name>Thư viện ảnh</internal-name>
+	<title_s>Thư viện ảnh</title_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/d07ff13f-1c6f-8781-42f8-47daff4a6bad.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-07T02:23:27.255Z</createdDate>
+	<createdDate_dt>2020-07-07T02:23:27.255Z</createdDate_dt>
+	<lastModifiedDate>2020-08-01T01:57:44.126Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-01T01:57:44.126Z</lastModifiedDate_dt>
+</page>

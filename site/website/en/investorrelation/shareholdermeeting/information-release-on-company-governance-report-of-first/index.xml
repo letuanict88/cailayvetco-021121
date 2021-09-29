@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/eninvestorrelations</content-type>
+	<display-template>/templates/web/eninvestorrelations.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c991</objectGroupId>
+	<objectId>c9915625-c76a-34ea-d0e2-da535a274c8a</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Information Release on Company Governance Report of first half 2020</internal-name>
+	<navLabel>Information Release on Company Governance Report o</navLabel>
+	<title_s>Information Release on Company Governance Report of first half 2020</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>information-release-on-company-governance-report-of-first</folder-name>
+	<slideImage_o item-list="true">	<item datasource="slideDatasource">	<key>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</key>
+	<value>Header - Detail Quan hệ cổ đông</value>
+	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<categories_o>	<item>	<key>shareholders</key>
+	<value_smv>Đại hội đồng cổ đông</value_smv>
+	</item></categories_o>
+	<content_html>&lt;p&gt;Information Release on Company Governance Report of first half 2020&lt;/p&gt;</content_html>
+	<createdDate>2020-08-04T08:55:47.615Z</createdDate>
+	<createdDate_dt>2020-08-04T08:55:47.615Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T08:55:47.615Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T08:55:47.615Z</lastModifiedDate_dt>
+	<date_dt>2020-08-04T08:55:49.000Z</date_dt>
+	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
+</page>

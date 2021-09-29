@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fa24</objectGroupId>
+	<objectId>fa249ec2-3939-7ea9-8369-868670e7aea1</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<file-name>fa249ec2-3939-7ea9-8369-868670e7aea1.xml</file-name>
+	<internal-name>Header - Test 2</internal-name>
+	<createdDate>2020-07-13T04:58:58.420Z</createdDate>
+	<createdDate_dt>2020-07-13T04:58:58.420Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T04:58:58.420Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T04:58:58.420Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c8547c4c</objectGroupId>
+	<objectId>c8547c4c-e0fb-4896-9079-c74b4b1ef27b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-104-424c8aa5-ef6c6b36-8668dbfb-6fe823e6</folder-name>
+	<internal-name>CL-ORESOL</internal-name>
+	<navLabel>CL-ORESOL</navLabel>
+	<productName_s>CL-ORESOL</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Nhóm thuốc bồi dưỡng tăng sức đề kháng</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/71 CL-ORESOL 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Chỉ ti&amp;ecirc;u chất lượng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất ch&amp;iacute;nh:&lt;/p&gt;
+&lt;p&gt;Sodium (min-max) 4,2-5,2g&lt;/p&gt;
+&lt;p&gt;Dihydrophosphate (min-max) 3,2-4g&lt;/p&gt;
+&lt;p&gt;Potassium (min-max) 1,7-2,5g&lt;/p&gt;
+&lt;p&gt;Chloride (min-max) 7,2-8,2g&lt;/p&gt;
+&lt;p&gt;Citric acid (min) 1,2g&lt;/p&gt;
+&lt;p&gt;* C&amp;aacute;c chất kh&amp;aacute;c:&lt;/p&gt;
+&lt;p&gt;Citrate (min-max) 150-300mg&lt;/p&gt;
+&lt;p&gt;Chất mang (dextrose) vđ 100g&lt;/p&gt;
+&lt;p&gt;Chất cấm kh&amp;ocirc;ng c&amp;oacute;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.08472%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.2836%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Cung cấp nước, c&amp;acirc;n bằng chất điện giải trong c&amp;aacute;c trường hợp ti&amp;ecirc;u chảy, n&amp;ocirc;n mửa, mất m&amp;aacute;u, sốt cao, tiết nhiều mồ h&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;- Giải độc nhanh trong c&amp;aacute;c trường hợp bị ngộ độc do thức&amp;nbsp;ăn hoặc do trực khuẩn E.coli.&lt;/p&gt;
+&lt;p&gt;- Cung cấp năng lượng, gi&amp;uacute;p cơ thể th&amp;iacute;ch nghi với stress khi thời tiết thay đổi, ti&amp;ecirc;m ph&amp;ograve;ng, chuyển chuồng hay thay đổi thức ăn, ... ở tr&amp;acirc;u, b&amp;ograve;, heo, d&amp;ecirc;, g&amp;agrave;, vịt, c&amp;uacute;t.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn hay pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;- Liều d&amp;ugrave;ng chung cho c&amp;aacute;c lo&amp;agrave;i:&lt;/p&gt;
+&lt;p&gt;100g/50kg thức ăn hay 100g/80 l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: TCCS 14:2010/CL&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createddate_dt>2020-07-31T09:37:20.000Z</createddate_dt>
+	<createdDate>2020-07-31T08:05:34.241Z</createdDate>
+	<createdDate_dt>2020-07-31T08:05:34.241Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:27:34.237Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:27:34.237Z</lastModifiedDate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0b6ae640</objectGroupId>
+	<objectId>0b6ae640-f727-4711-9f59-4a5bbac954d4</objectId>
+	<internal-name>E.C.P</internal-name>
+	<navLabel>E.C.P</navLabel>
+	<productName_s>E.C.P</productName_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Reproductive Medicine</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/59 E.C.P NewA.png</productImage_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 47.7762%;"&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Estradiol benzoate 7.5mg&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vitamin E 100UI&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Solvents vđ 5ml&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Enhancing fertility: stimulating establishment and ovulation, stimulating oestrus and increasing fertility in cattle.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Use in the following cases: delayed growth, delayed breeding, low ovulation, poor conception, reproductive disorders in buffaloes, cows, goats, pigs, bitches.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.03483%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.1889%;"&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Intramuscular.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Pigs, goats: 3-5ml / pig.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Buffaloes and cows: 5-10ml / head.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Buffalos, cows, pigs and goats: 1/2 dose of buffalos, cows, pigs and goats.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dogs: 0.1-0.5ml / head&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;One injection per genital cycle&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Registration number: CL-09&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<file-name>index.xml</file-name>
+	<folder-name>oxytocin-122b7e65-2994fd0c</folder-name>
+	<createdDate>2020-08-05T08:17:33.137Z</createdDate>
+	<createdDate_dt>2020-08-05T08:17:33.137Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:25:04.900Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:25:04.900Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed34</objectGroupId>
+	<objectId>ed34c5e4-4995-f0d5-da4c-ba9b06d5a04f</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/thanh-tich.png</image_s>
+	</item></slide_o>
+	<file-name>ed34c5e4-4995-f0d5-da4c-ba9b06d5a04f.xml</file-name>
+	<internal-name>Header - Thành tích đạt được</internal-name>
+	<createdDate>2020-06-24T08:25:54.985Z</createdDate>
+	<createdDate_dt>2020-06-24T08:25:54.985Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T08:36:21.386Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T08:36:21.386Z</lastModifiedDate_dt>
+</component>

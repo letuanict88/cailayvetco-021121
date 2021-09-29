@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedailEn</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7b22</objectGroupId>
+	<objectId>7b227e4a-7f76-580e-2538-9d555035358c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>-process-of-taking-care-of-giant-freshwater-shrimp</folder-name>
+	<internal-name> Process of taking care of giant freshwater shrimp</internal-name>
+	<navLabel>Solution for hot season disease in tilapia</navLabel>
+	<processName_s>Solution for hot season disease in tilapia</processName_s>
+	<parentURL_s>/en/technical-assistance/proces-care/fish/index</parentURL_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4a1c82c0-b099-24b5-1121-ffb2b7286bcf</key>
+	<value>Slide</value>
+<component id="4a1c82c0-b099-24b5-1121-ffb2b7286bcf">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4a1c</objectGroupId>
+	<objectId>4a1c82c0-b099-24b5-1121-ffb2b7286bcf</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>4a1c82c0-b099-24b5-1121-ffb2b7286bcf.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T04:01:23.529Z</createdDate>
+	<createdDate_dt>2020-07-29T04:01:23.529Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T04:01:23.529Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T04:01:23.529Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<processType_o>	<item>	<key>banh-thuy-san</key>
+	<value_smv> Breeding - Taking Care of Seafood Diseases</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;Tilapia is one of the two main cultured species in fresh water for the northern region of our country. However, in recent years hemorrhagic disease - bulge caused by streptococcus common in Tilapia in the summer has caused significant losses for tilapia farming in the North, especially the situation. disease outbreaks in the Summer crop of 2019 pushed tilapia production down deeply.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Germs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The causative agent for fish is gram-positive streptococcal streptococci, including two main pathogenic bacteria Streptococcus iniae and Streptococcus agalactiae. The disease has been a threat to many species of fish in different habitats such as marine, brackish and freshwater fish. However, the main threat of this disease in recent years is Tilapia, Red Tilapia rearing in high densities in ponds / cages.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Clinical signs&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Diseased fish due to Streptococcus sp. showing some typical symptoms: initially there is the phenomenon of poor fish eating, refusing to eat, lethargic swimming in the surface or close to the cage. Seriously ill fish with rotational swimming (non-directional swimming due to bacteria attacking the brain), bulging eyes and opaque one or both sides (severe illness can lead to eye rupture), black body, hemorrhage on the skin, gill bone and fin base [figure 1]. Although the most typical symptom of the disease is protruding eyes and hemorrhage, in some cases the fish infected by Streptococcus sp did not show symptoms clearly before death. Diseased fish show only corroded tail, pale gills with spot hemorrhage, in which case the fish usually die at high rate in a short time due to seriously infected fish accompanied by brain damage and Nervous system [figure 2].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Anatomy of the sinus cavity showed that the liver, spleen, kidneys, intestines are organs with many injuries and high rates. In which the liver and kidneys show damage at various levels such as swelling, congestion, haemorrhage and haemorrhage in fish samples with protrusion of eyes and diaphragm. Some seriously ill liver cases are often very swollen [figure 3]. Diseased fish spleen often swollen, congested and change shape normally. Spleen of healthy tilapia is often thin, willow-shaped, but when infected with spleen, swollen, the spleen puffed up and turned into bell-shaped. Diseased fish intestine often hemorrhage or hemorrhage, intestinal mucus, hemorrhagic intestinal mucosa, some areas of the intestinal mucosa also markedly degenerated [Truong Dinh Hoai et al. 2014].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Risk factors for disease occurrence: some causes of stress in diseased fish ponds / cages such as high temperature, pH&gt; 8, low dissolved oxygen, water with high content of ammonia, nitrite, and high density. thick, transportation and fishing are important factors that make the disease worse. Temperatures above 31&amp;ordm;C are an important factor in this outbreak. In the Northern region, the disease usually occurs in June to September, this is the time when the temperature is high and accompanied by showers is a favorable condition for the outbreak of the disease.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Solution for disease prevention&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To prevent fish diseases, farmers should implement integrated disease prevention. In particular, it is necessary to thoroughly perform the following tasks:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Maintain a depth of pond water always greater than 2m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Avoid shocking fish during transportation, fishing, feeding (reduce daily feed intake, cut lunch when water temperature is above 35oC).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Enhance resistance for fish: Supplement with Vitamin C + Synthetic vitamins &amp; Minerals&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(4) Managing the difference in temperature between the surface and the bottom: Turn on the fan from 12pm - 6pm daily; and from 10pm to 5am; Cover the cage with black net.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(5) Using Cash, thrown directly into the pond at 14-16h in hot weather.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(6) Periodically use Probiotics preparations and bottom-processing enzymes to create beneficial microflora and absorb toxic gases at the bottom.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(7) Store emergency oxygen in storage for use in necessary cases.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Handling diseased ponds / cages&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For diseased ponds / cages, a combination of the following measures should be applied:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Immediately remove dead and weak animals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Treating water environment by spraying chemicals into ponds or hanging chemical bags for cage-rafts.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Stop feeding the fish for 1 day.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(4) Submit samples for testing and make antibiotics.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(5) Use antibiotics (based on antibiotic results), vitamin C / immune system booster (Beta-glucan) for continuous feeding 7-10 days.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(6) After the end of antibiotic administration, continue feeding vitamin C and using additional digestive enzymes and liver detoxification for 10 days.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Author: TS. Doan Quoc Khanh - Technical Services Director of Mavin Group&lt;/em&gt;&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-29T04:00:15.688Z</createdDate>
+	<createdDate_dt>2020-07-29T04:00:15.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:50:22.862Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:50:22.862Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

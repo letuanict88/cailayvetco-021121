@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b55ae4d8</objectGroupId>
+	<objectId>b55ae4d8-dd32-459b-98b0-d4b76ee3329a</objectId>
+	<isDisplay_b>false</isDisplay_b>
+	<internal-name>Công bố nghị quyết tạm hoãn chi cổ tức</internal-name>
+	<title_s>Công bố nghị quyết tạm hoãn chi cổ tức</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Tam hoan chi co tuc 2021.pdf</key>
+	<value>/static-assets/images/libraries/Tam hoan chi co tuc 2021.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>955772</fileSize_s>
+	</item></pDFfile_o>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-nghi-quyet-tam-hoan-chi-co-tuc</folder-name>
+	<avatar_s>/static-assets/images/libraries/MKV.jpg</avatar_s>
+	<createdDate>2021-03-24T09:57:28.682Z</createdDate>
+	<createdDate_dt>2021-03-24T09:57:28.682Z</createdDate_dt>
+	<lastModifiedDate>2021-07-29T06:34:35.496Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-29T06:34:35.496Z</lastModifiedDate_dt>
+</page>

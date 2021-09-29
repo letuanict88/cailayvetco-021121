@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetailEn</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e6cb</objectGroupId>
+	<objectId>e6cba7f6-e168-a6f6-6ca7-c8ed46d869b9</objectId>
+	<internal-name>Disease caused by Tembusu virus in Duck</internal-name>
+	<diseaseName_s>Disease caused by Tembusu virus in Duck</diseaseName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>what-is-the-cause-of-bird-flu</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>695cc783-99d3-12f2-d781-b4d78176db2d</key>
+	<value>Slide</value>
+<component id="695cc783-99d3-12f2-d781-b4d78176db2d">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>695c</objectGroupId>
+	<objectId>695cc783-99d3-12f2-d781-b4d78176db2d</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	</item></slide_o>
+	<file-name>695cc783-99d3-12f2-d781-b4d78176db2d.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T08:06:54.669Z</createdDate>
+	<createdDate_dt>2020-07-13T08:06:54.669Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T08:06:54.669Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T08:06:54.669Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;Diseases caused by Tembusu virus The syndrome of reduced fertility in ducks is caused by a new strain of flavivirus, called Tembusu virus. The disease is greatly affecting the duck industry of China and Southeast Asia.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Some information:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tembusu virus can be transmitted by birds and mosquitoes&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Can also be transmitted through faecal pollution, the environment, ...&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Symptom:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ducklings: encephalitis&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Duck laying: reduced egg yield, diarrhea&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Preventive measures:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Strict implementation of vaccination program on laying ducks&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Increasing support and power for ducks&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Preventive treatment of bacterial infections when the weather changes&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Implementing biosecurity in animal husbandry&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Read about the disease details and how to prevent it at the following link: &lt;a href="https://issuu.com/tapdoanmavin/docs/hoi_chung_giam_de_o_vit_update"&gt;Reduced fertility syndrome in ducks - Tembusu virus disease.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Contact us for advice: DVM Nguyen Van Minh - 0975 515 383&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-13T08:06:42.384Z</createdDate>
+	<createdDate_dt>2020-07-13T08:06:42.384Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:06:34.853Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:06:34.853Z</lastModifiedDate_dt>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Poultry disease</value_smv>
+	</item></technicalAssistance_o>
+	<parentURL_s>/en/technical-assistance/group-sick/poultry-disease/index</parentURL_s>
+	<createdDate_dt_dt>2020-08-05T04:06:35.000Z</createdDate_dt_dt>
+	<createdDate_dt_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_dt_tz>
+</page>

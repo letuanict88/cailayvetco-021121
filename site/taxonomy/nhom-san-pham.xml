@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a77</objectGroupId>
+	<objectId>2a77154d-0559-fa1d-5093-e3c3db6d6364</objectId>
+	<items item-list="true">	<item>	<key>thuoc-cho-trau-bo</key>
+	<value>Sản phẩm cho trâu - bò</value>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value>Sản phẩm cho heo</value>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value>Sản phẩm cho Gà - Vịt</value>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value>Sản phẩm cho chó - mèo</value>
+	</item>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value>Sản phẩm cho tôm - cá</value>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value>Sản phẩm cho loài vật khác</value>
+	</item></items>
+	<internal-name>Nhóm sản phẩm</internal-name>
+	<file-name>nhom-san-pham.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-06-22T04:58:33.718Z</createdDate>
+	<createdDate_dt>2020-06-22T04:58:33.718Z</createdDate_dt>
+	<lastModifiedDate>2020-07-28T08:22:45.808Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T08:22:45.808Z</lastModifiedDate_dt>
+</component>

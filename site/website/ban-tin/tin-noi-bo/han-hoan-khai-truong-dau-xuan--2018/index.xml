@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2ac2</objectGroupId>
+	<objectId>2ac2144f-0c2f-fa1d-81ef-9a896c3e60ff</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>han-hoan-khai-truong-dau-xuan--2018</folder-name>
+	<internal-name>Hân hoan khai trương đầu xuân 2018</internal-name>
+	<navLabel>Hân hoan khai trương đầu xuân 2018</navLabel>
+	<title_s>Hân hoan khai trương đầu xuân 2018</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/xuan__.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;S&amp;aacute;ng m&amp;ugrave;ng 6 tết Mậu Tuất (21/02/2018), C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy - CAILAYVETCO đ&amp;atilde; h&amp;acirc;n hoan khai trương v&amp;agrave; bắt đầu ng&amp;agrave;y l&amp;agrave;m việc đầu ti&amp;ecirc;n của năm mới, sau những ng&amp;agrave;y vui chơi đ&amp;oacute;n Tết cổ truyền của d&amp;acirc;n tộc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;ldquo;H&amp;aacute;i lộc đầu xu&amp;acirc;n&amp;rdquo; l&amp;agrave; hoạt động truyền thống, một n&amp;eacute;t đẹp văn h&amp;oacute;a của C&amp;ocirc;ng ty như mang theo th&amp;ocirc;ng điệp may mắn sẽ gặt h&amp;aacute;i được những th&amp;agrave;nh c&amp;ocirc;ng trong năm mới. Lộc xu&amp;acirc;n đầu năm cũng l&amp;agrave; nguồn động vi&amp;ecirc;n để gia đ&amp;igrave;nh CAILAYVETCO nỗ lực phấn đấu vượt qua c&amp;aacute;c chỉ ti&amp;ecirc;u đ&amp;atilde; đề ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nh&amp;acirc;n dịp đầu xu&amp;acirc;n mới, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy ch&amp;acirc;n th&amp;agrave;nh cảm ơn qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng đ&amp;atilde; đồng h&amp;agrave;nh c&amp;ugrave;ng C&amp;ocirc;ng ty trong suốt thời gian qua v&amp;agrave; xin ch&amp;uacute;c Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng một năm mới đầy thắng lợi c&amp;ugrave;ng CAILAYVETCO.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T05:53:48.148Z</createdDate>
+	<createdDate_dt>2020-07-31T05:53:49.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T05:53:48.148Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T05:53:48.148Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

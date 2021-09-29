@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4c60</objectGroupId>
+	<objectId>4c604ad7-afd0-f671-d440-76529fbf88de</objectId>
+	<description_t>Bản tin Mekovet</description_t>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-tuc</folder-name>
+	<internal-name>Tin Tức</internal-name>
+	<navLabel>Tin Tức</navLabel>
+	<title_s>Bản tin Mekovet</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>6788c47d-da10-0014-cf09-1f6013805445</key>
+	<value>Nội dung - Tin tức</value>
+<component id="6788c47d-da10-0014-cf09-1f6013805445">
+	<content-type>/component/news</content-type>
+	<display-template>/templates/web/news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6788</objectGroupId>
+	<objectId>6788c47d-da10-0014-cf09-1f6013805445</objectId>
+	<file-name>6788c47d-da10-0014-cf09-1f6013805445.xml</file-name>
+	<internal-name>Nội dung - Tin tức</internal-name>
+	<title_s>Nội dung</title_s>
+	<createdDate>2020-06-23T08:21:16.497Z</createdDate>
+	<createdDate_dt>2020-06-23T08:21:16.497Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T08:21:16.497Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T08:21:16.497Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-23T07:54:26.522Z</createdDate>
+	<createdDate_dt>2020-06-23T07:54:26.522Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T06:38:42.756Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T06:38:42.756Z</lastModifiedDate_dt>
+</page>

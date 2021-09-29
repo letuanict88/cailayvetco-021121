@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>59d6</objectGroupId>
+	<objectId>59d678fe-2118-cd16-99bc-33d0aa8e5cd4</objectId>
+	<internal-name>MỠ GHẺ VÀNG</internal-name>
+	<navLabel>MỠ GHẺ VÀNG</navLabel>
+	<productName_s>MỠ GHẺ VÀNG</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mo-ghe-vang</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>true</isHot_b>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Sản phẩm cho chó - mèo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-sat-trung-thuoc-dung-ngoai</key>
+	<value_smv>Nhóm thuốc sát trùng thuốc dùng ngoài</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/109 MO GHE VANGA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0792%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deltamethrin 12,5mg&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 25g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trị c&amp;aacute;c bệnh ngo&amp;agrave;i da ở heo, ch&amp;oacute;, m&amp;egrave;o, d&amp;ecirc;, ngựa như:&amp;nbsp;x&amp;agrave; m&amp;acirc;u, ghẻ, rận, rệp, ch&amp;iacute;, &amp;hellip; rất &amp;iacute;t độc với động vật&amp;nbsp;m&amp;aacute;u n&amp;oacute;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.91337%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.0073%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chỉ được d&amp;ugrave;ng ngo&amp;agrave;i da.&lt;/p&gt;
+&lt;p&gt;Thoa l&amp;ecirc;n nơi da bị bệnh ng&amp;agrave;y 1-2 lần sau khi vệ sinh&amp;nbsp;sạch sẽ.&lt;/p&gt;
+&lt;p&gt;Ch&amp;uacute; &amp;yacute;: Sản phẩm c&amp;oacute; đặc điểm dao động mức độ&amp;nbsp;đ&amp;ocirc;ng đặc khi thay đổi thời tiết.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-142&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T08:49:29.906Z</createdDate>
+	<createdDate_dt>2020-08-03T08:49:29.906Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T02:33:59.447Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T02:33:59.447Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T08:49:30.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

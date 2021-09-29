@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>49f8</objectGroupId>
+	<objectId>49f80226-26e6-097b-ecef-56b45a797e57</objectId>
+	<internal-name> Training and developing</internal-name>
+	<navLabel> Training and developing</navLabel>
+	<title_s> Training and developing</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>training-and-developing</folder-name>
+	<description_t>
+Training and developing</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</key>
+	<value>Header - Chế độ đãi ngộ, phúc lợi</value>
+	<include>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>07ed7352-19a6-9f04-a0cc-e505132a32d8</key>
+	<value>Content - Training and Development</value>
+<component id="07ed7352-19a6-9f04-a0cc-e505132a32d8">
+	<content-type>/component/policy</content-type>
+	<display-template>/templates/web/policies.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>07ed</objectGroupId>
+	<objectId>07ed7352-19a6-9f04-a0cc-e505132a32d8</objectId>
+	<file-name>07ed7352-19a6-9f04-a0cc-e505132a32d8.xml</file-name>
+	<internal-name>Content - Training and Development</internal-name>
+	<title_s>Content - Training and Development</title_s>
+	<image_s>/static-assets/images/policies/Layer 201.png</image_s>
+	<content_html>&lt;p&gt;MKV pays special attention to the development of human resources through the effective implementation of training policies, improving knowledge and professional qualifications for employees. Not only participating in soft skills training courses, improving professional qualifications, MKV staff also facilitated contact with the world's leading experts in the field of agriculture and food to acquire. , exchange and learn from experience in developed economies.&lt;/p&gt;
+&lt;p&gt;Training with MKV is not only meant to improve the qualifications of employees, but also contributed to improving the quality of personnel of Vietnamese enterprises in general, contributing to Vietnam's agriculture industry with experts and technicians. Skilled and highly qualified engineers for the sustainable development of Vietnam's agricultural sector.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T09:24:42.630Z</createdDate>
+	<createdDate_dt>2020-07-13T09:24:42.630Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T09:24:42.630Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:24:42.630Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-13T09:23:50.919Z</createdDate>
+	<createdDate_dt>2020-07-13T09:23:50.919Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T09:23:50.919Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:23:50.919Z</lastModifiedDate_dt>
+</page>

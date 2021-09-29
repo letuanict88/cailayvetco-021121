@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4271</objectGroupId>
+	<objectId>4271761f-932b-aee0-5589-f5b0b2e5cfa6</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<internal-name>Index</internal-name>
+	<navLabel>Poultry disease</navLabel>
+	<t_s>Poultry disease</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>8575c9bc-429a-5249-688f-4a278fab7fd6</key>
+	<value>Slide</value>
+<component id="8575c9bc-429a-5249-688f-4a278fab7fd6">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8575</objectGroupId>
+	<objectId>8575c9bc-429a-5249-688f-4a278fab7fd6</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg3.png</image_s>
+	</item></slide_o>
+	<file-name>8575c9bc-429a-5249-688f-4a278fab7fd6.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-17T08:19:53.562Z</createdDate>
+	<createdDate_dt>2020-07-17T08:19:53.562Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:19:53.562Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:19:53.562Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>40b50137-79c4-0405-cf66-c07912784aa3</key>
+	<value>Poultry disease</value>
+<component id="40b50137-79c4-0405-cf66-c07912784aa3">
+	<content-type>/component/listsurportEn</content-type>
+	<display-template>/templates/web/component/list-sick.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>40b5</objectGroupId>
+	<objectId>40b50137-79c4-0405-cf66-c07912784aa3</objectId>
+	<file-name>40b50137-79c4-0405-cf66-c07912784aa3.xml</file-name>
+	<internal-name>Poultry disease</internal-name>
+	<title_s>Poultry disease</title_s>
+	<technicalAssistanceType_s>benh-gia-suc-gia-cam</technicalAssistanceType_s>
+	<createdDate>2020-07-17T08:20:23.833Z</createdDate>
+	<createdDate_dt>2020-07-17T08:20:23.833Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:20:23.833Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:20:23.833Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-17T08:19:32.576Z</createdDate>
+	<createdDate_dt>2020-07-17T08:19:32.576Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:29:28.326Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:29:28.326Z</lastModifiedDate_dt>
+</page>

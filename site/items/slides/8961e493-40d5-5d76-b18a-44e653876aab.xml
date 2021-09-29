@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8961</objectGroupId>
+	<objectId>8961e493-40d5-5d76-b18a-44e653876aab</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/nhiem-doc-do-ecoli-slide-title.png</image_s>
+	</item></slide_o>
+	<file-name>8961e493-40d5-5d76-b18a-44e653876aab.xml</file-name>
+	<internal-name>Header - Home Page</internal-name>
+	<createdDate>2020-07-13T03:22:56.719Z</createdDate>
+	<createdDate_dt>2020-07-13T03:22:56.719Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T03:22:56.719Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T03:22:56.719Z</lastModifiedDate_dt>
+</component>

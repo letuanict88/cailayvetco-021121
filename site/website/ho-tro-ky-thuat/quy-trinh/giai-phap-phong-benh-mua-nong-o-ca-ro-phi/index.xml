@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>76b9</objectGroupId>
+	<objectId>76b916d9-c34c-087c-c098-44080336005a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>giai-phap-phong-benh-mua-nong-o-ca-ro-phi</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Giải pháp phòng bệnh mùa nóng ở cá rô phi</internal-name>
+	<navLabel>Giải pháp phòng bệnh mùa nóng ở cá rô phi</navLabel>
+	<processName_s>Giải pháp phòng bệnh mùa nóng ở cá rô phi</processName_s>
+	<parentURL_s/>
+	<processType_o>	<item>	<key>banh-thuy-san</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Thủy sản</value_smv>
+	</item></processType_o>
+	<section_o item-list="true"/>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bệnh xuất huyết lồi mắt do li&amp;ecirc;n cầu khuẩn Streptococcus sp&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute; R&amp;ocirc; phi l&amp;agrave; một trong hai đối tượng nu&amp;ocirc;i chủ lực ở nước ngọt đối với khu vực miền Bắc nước ta. Tuy nhi&amp;ecirc;n, trong những năm gần đ&amp;acirc;y dịch bệnh xuất huyết - lồi mắt do li&amp;ecirc;n cầu khuẩn thường xảy ra ở c&amp;aacute; R&amp;ocirc; phi v&amp;agrave;o m&amp;ugrave;a h&amp;egrave; đ&amp;atilde; g&amp;acirc;y tổn thất kh&amp;ocirc;ng nhỏ cho nghề nu&amp;ocirc;i c&amp;aacute; R&amp;ocirc; phi tại miền Bắc, đặc biệt l&amp;agrave; t&amp;igrave;nh h&amp;igrave;nh dịch bệnh xảy ra trong vụ H&amp;egrave; năm 2019 đ&amp;atilde; đẩy sản lượng c&amp;aacute; R&amp;ocirc; phi giảm s&amp;acirc;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mầm bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;aacute;c nh&amp;acirc;n g&amp;acirc;y bệnh cho c&amp;aacute; l&amp;agrave; li&amp;ecirc;n cầu khuẩn gram dương, gồm 2 lo&amp;agrave;i vi khuẩn g&amp;acirc;y bệnh ch&amp;iacute;nh l&amp;agrave; Streptococcus iniae v&amp;agrave; Streptococcus agalactiae. Bệnh đ&amp;atilde; v&amp;agrave; đang l&amp;agrave; mối đe dọa cho nhiều lo&amp;agrave;i c&amp;aacute; ở c&amp;aacute;c m&amp;ocirc;i trường sống kh&amp;aacute;c nhau như c&amp;aacute; biển, c&amp;aacute; nước lợ v&amp;agrave; c&amp;aacute; nước ngọt. Tuy nhi&amp;ecirc;n, mối đe dọa ch&amp;iacute;nh của bệnh n&amp;agrave;y trong những năm gần đ&amp;acirc;y l&amp;agrave; c&amp;aacute; R&amp;ocirc; phi, Đi&amp;ecirc;u hồng nu&amp;ocirc;i mật độ cao trong ao/lồng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dấu hiệu l&amp;acirc;m s&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute; bị bệnh do Streptococcus sp. thể hiện một số triệu chứng điển h&amp;igrave;nh: ban đầu c&amp;oacute; hiện tượng c&amp;aacute; k&amp;eacute;m ăn, bỏ ăn, bơi lờ đờ ở tầng mặt hoặc s&amp;aacute;t th&amp;agrave;nh lồng. Những c&amp;aacute; bệnh nặng c&amp;oacute; hiện tượng bơi xoay v&amp;ograve;ng (bơi kh&amp;ocirc;ng định hướng do vi khuẩn tấn c&amp;ocirc;ng v&amp;agrave;o n&amp;atilde;o bộ), mắt lồi v&amp;agrave; mờ đục một hoặc hai b&amp;ecirc;n (bệnh nặng c&amp;oacute; thể dẫn đến hiện tượng vỡ mắt), đen th&amp;acirc;n, c&amp;oacute; hiện tượng xuất huyết tr&amp;ecirc;n da, xương nắp mang v&amp;agrave; gốc v&amp;acirc;y [h&amp;igrave;nh 1]. Mặc d&amp;ugrave; triệu chứng điển h&amp;igrave;nh nhất của bệnh l&amp;agrave; hiện tượng mắt lồi v&amp;agrave; xuất huyết, trong một số trường hợp c&amp;aacute; nhiễm bệnh do Streptococcus sp nhưng kh&amp;ocirc;ng biểu hiện r&amp;otilde; triệu chứng trước khi chết. C&amp;aacute; bệnh chỉ xuất hiện hiện tượng đu&amp;ocirc;i bị ăn m&amp;ograve;n, mang nhợt nhạt c&amp;oacute; hiện tượng xuất huyết dạng điểm, trong trường hợp n&amp;agrave;y c&amp;aacute; thường chết với tỷ lệ cao trong thời gian ngắn l&amp;agrave; do c&amp;aacute; nhiễm bệnh nặng k&amp;egrave;m theo tổn thương n&amp;atilde;o v&amp;agrave; hệ thống thần kinh [h&amp;igrave;nh 2].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giải phẫu xoang bụng cho thấy gan, l&amp;aacute;ch, thận, ruột l&amp;agrave; c&amp;aacute;c cơ quan c&amp;oacute; nhiều tổn thương v&amp;agrave; chiếm tỷ lệ cao. Trong đ&amp;oacute; gan v&amp;agrave; thận thể hiện sự tổn thương ở nhiều mức độ kh&amp;aacute;c nhau như sưng, xung huyết, xuất huyết v&amp;agrave; tụ huyết ở những mẫu c&amp;aacute; c&amp;oacute; biểu hiện lồi mắt v&amp;agrave; k&amp;eacute;o m&amp;agrave;ng. Một số con bị bệnh nặng gan thường bị sưng rất to [h&amp;igrave;nh 3]. L&amp;aacute;ch c&amp;aacute; bệnh thường bị sưng, tụ huyết v&amp;agrave; thay đổi h&amp;igrave;nh dạng b&amp;igrave;nh thường. L&amp;aacute;ch của c&amp;aacute; r&amp;ocirc; phi khỏe mạnh thường mỏng dẹt, c&amp;oacute; h&amp;igrave;nh l&amp;aacute; liễu, tuy nhi&amp;ecirc;n khi mắc bệnh l&amp;aacute;ch tụ m&amp;aacute;u, sưng to, những con bị nặng l&amp;aacute;ch căng phồng l&amp;ecirc;n v&amp;agrave; chuyển sang dạng h&amp;igrave;nh chu&amp;ocirc;ng. Ruột c&amp;aacute; bệnh thường xung huyết hoặc xuất huyết, ruột chứa nhiều chất nhầy, ni&amp;ecirc;m mạc ruột xuất huyết, một số v&amp;ugrave;ng của ni&amp;ecirc;m mạc ruột c&amp;ograve;n bị tho&amp;aacute;i h&amp;oacute;a r&amp;otilde; rệt [Trương Đ&amp;igrave;nh Ho&amp;agrave;i v&amp;agrave; cs. 2014].&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Yếu tố rủi ro xuất hiện bệnh: một số nguy&amp;ecirc;n nh&amp;acirc;n g&amp;acirc;y stress trong ao/lồng nu&amp;ocirc;i của c&amp;aacute; bị bệnh như nhiệt độ cao, pH&gt;8, oxy h&amp;ograve;a tan thấp, nước c&amp;oacute; h&amp;agrave;m lượng amonia, nitrite cao, nu&amp;ocirc;i với mật độ d&amp;agrave;y, qu&amp;aacute; tr&amp;igrave;nh vận chuyển v&amp;agrave; đ&amp;aacute;nh bắt c&amp;aacute; l&amp;agrave; những yếu tố quan trọng l&amp;agrave;m cho dịch bệnh th&amp;ecirc;m trầm trọng. Nhiệt độ cao tr&amp;ecirc;n 31&amp;ordm;C l&amp;agrave; một yếu tố quan trọng l&amp;agrave;m b&amp;ugrave;ng ph&amp;aacute;t dịch bệnh n&amp;agrave;y. Đối với khu vực ph&amp;iacute;a Bắc, bệnh thường xẩy ra v&amp;agrave;o th&amp;aacute;ng s&amp;aacute;u đến th&amp;aacute;ng ch&amp;iacute;n, đ&amp;acirc;y l&amp;agrave; thời điểm c&amp;oacute; nền nhiệt độ cao v&amp;agrave; đi k&amp;egrave;m với những trận mưa r&amp;agrave;o l&amp;agrave; điệu kiện thuận lợi cho việc b&amp;ugrave;ng ph&amp;aacute;t bệnh n&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Giải ph&amp;aacute;p ph&amp;ograve;ng bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để ph&amp;ograve;ng bệnh cho c&amp;aacute;, người nu&amp;ocirc;i n&amp;ecirc;n thực hiện biện ph&amp;aacute;p ph&amp;ograve;ng bệnh tổng hợp. Đặc biệt, cần thực hiện triệt để một số c&amp;ocirc;ng việc sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Duy tr&amp;igrave; độ s&amp;acirc;u mực nước ao lu&amp;ocirc;n lớn hơn 2m.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Tr&amp;aacute;nh g&amp;acirc;y sốc cho c&amp;aacute; trong vận chuyển, đ&amp;aacute;nh bắt, cho ăn (giảm lượng cho ăn tr&amp;ecirc;n ng&amp;agrave;y, cắt bữa ăn trưa khi nhiệt độ nước tr&amp;ecirc;n 35oC).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Tăng cường sức đề kh&amp;aacute;ng cho c&amp;aacute;: Bổ sung Vitamin C + Vitamin tổng hợp &amp; Kho&amp;aacute;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(4) Quản l&amp;yacute; ch&amp;ecirc;nh lệch nhiệt độ giữa tầng mặt v&amp;agrave; tầng đ&amp;aacute;y: Bật m&amp;aacute;y quạt nước từ 12h &amp;ndash; 18h h&amp;agrave;ng ng&amp;agrave;y; v&amp;agrave; từ 22h đ&amp;ecirc;m đến 5h sang; D&amp;ugrave;ng lưới đen che mặt lồng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(5) Sử dụng C tạt, tạt trực tiếp xuống ao nu&amp;ocirc;i v&amp;agrave;o l&amp;uacute;c 14-16h trong những ng&amp;agrave;y thời tiết nắng gắt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(6) Định kỳ sử dụng chế phẩm Probiotics v&amp;agrave; men xử l&amp;yacute; đ&amp;aacute;y để tạo hệ vi sinh c&amp;oacute; lợi v&amp;agrave; hấp thu kh&amp;iacute; độc ở tầng đ&amp;aacute;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(7) Dự trữ Oxy cấp cứu trong kho để sử dụng trong c&amp;aacute;c trường hợp cần thiết.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Xử l&amp;yacute; ao/lồng bị bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với ao/lồng bị bệnh, cần &amp;aacute;p dụng tổng hợp c&amp;aacute;c biện ph&amp;aacute;p sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(1) Loại bỏ ngay những con chết v&amp;agrave; yếu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(2) Xử l&amp;yacute; m&amp;ocirc;i trường nước bằng phương ph&amp;aacute;p phun h&amp;oacute;a chất xuống ao nu&amp;ocirc;i hoặc treo t&amp;uacute;i h&amp;oacute;a chất đối với khu lồng-b&amp;egrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(3) Dừng cho c&amp;aacute; ăn 01 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(4) Gửi mẫu x&amp;eacute;t nghiệm v&amp;agrave; l&amp;agrave;m kh&amp;aacute;ng sinh đồ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(5) Sử dụng kh&amp;aacute;ng sinh (dựa tr&amp;ecirc;n kết quả kh&amp;aacute;ng sinh đồ), vitamin C/chất tăng cường hệ miễn dịch (Beta-glucan) cho ăn li&amp;ecirc;n tục 7-10 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(6) Sau khi kết th&amp;uacute;c dung kh&amp;aacute;ng sinh, tiếp tục cho ăn vitamin C v&amp;agrave; sử dụng th&amp;ecirc;m men ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; giải độc gan trong v&amp;ograve;ng 10 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;T&amp;aacute;c giả: TS. Đo&amp;agrave;n Quốc Kh&amp;aacute;nh - GĐ DVKTTS Tập đo&amp;agrave;n Mavin&lt;/em&gt;&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-31T04:39:36.458Z</createdDate>
+	<createdDate_dt>2020-07-31T07:56:07.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T07:56:01.831Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T07:56:01.831Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9702</objectGroupId>
+	<objectId>970200b6-5761-98cc-da32-545b87995693</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ky-sinh-trung-nam-cau-trung</folder-name>
+	<internal-name>Nhóm Thuốc Ký sinh trùng, nấm, cầu trùng</internal-name>
+	<navLabel>Nhóm Thuốc Ký sinh trùng, nấm, cầu trùng</navLabel>
+	<title_s>Nhóm Thuốc Ký sinh trùng, nấm, cầu trùng</title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>be4b6701-7c11-3b80-8ca5-422d58607bce</key>
+	<value>Slide</value>
+<component id="be4b6701-7c11-3b80-8ca5-422d58607bce">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>be4b</objectGroupId>
+	<objectId>be4b6701-7c11-3b80-8ca5-422d58607bce</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>be4b6701-7c11-3b80-8ca5-422d58607bce.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T09:02:02.722Z</createdDate>
+	<createdDate_dt>2020-08-03T09:02:02.722Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:02:02.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:02:02.722Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/4b25f498-ba44-1234-baac-46b144b7d804.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/4b25f498-ba44-1234-baac-46b144b7d804.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<createdDate>2020-08-03T09:00:30.893Z</createdDate>
+	<createdDate_dt>2020-08-03T09:00:30.893Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:00:30.893Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:00:30.893Z</lastModifiedDate_dt>
+</page>

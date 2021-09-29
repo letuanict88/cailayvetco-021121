@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c82a</objectGroupId>
+	<objectId>c82a9b99-4bb4-d89a-d9cf-a17d8c083ec8</objectId>
+	<internal-name>FLUXIN</internal-name>
+	<navLabel>FLUXIN</navLabel>
+	<productName_s>FLUXIN</productName_s>
+	<file-name>index.xml</file-name>
+	<folder-name>fluxin</folder-name>
+	<isHot_b>false</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Sản phẩm cho loài vật khác</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-giam-dau-ha-sot-khang-viem</key>
+	<value_smv>Nhóm thuốc giảm đau hạ sốt, kháng viêm</value_smv>
+	</item></productgrouplv2_o>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.6316%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Flunixin meglumine 5g&lt;/p&gt;
+&lt;p&gt;Dung m&amp;ocirc;i vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kh&amp;aacute;ng vi&amp;ecirc;m, hạ sốt, giảm đau trong c&amp;aacute;c trường hợp:&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: vi&amp;ecirc;m cấp t&amp;iacute;nh li&amp;ecirc;n quan đến bệnh đường h&amp;ocirc;&amp;nbsp;hấp, bệnh vi&amp;ecirc;m v&amp;uacute;, vi&amp;ecirc;m tử cung.&lt;/p&gt;
+&lt;p&gt;- Ngựa: vi&amp;ecirc;m v&amp;agrave; đau do rối loạn cơ xương v&amp;agrave; đường ti&amp;ecirc;u&amp;nbsp;h&amp;oacute;a bị tổn thương.&lt;/p&gt;
+&lt;p&gt;- Heo: kết hợp trong điều trị MMA, c&amp;aacute;c trường hợp vi&amp;ecirc;m&amp;nbsp;phổi, sốt kh&amp;ocirc;ng r&amp;otilde; nguy&amp;ecirc;n nh&amp;acirc;n.&lt;/p&gt;
+&lt;p&gt;* Kết hợp với kh&amp;aacute;ng sinh trong điều trị c&amp;aacute;c bệnh vi&amp;ecirc;m&amp;nbsp;nhiễm rất hiệu quả.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.36097%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.0073%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ti&amp;ecirc;m bắp, ti&amp;ecirc;m tĩnh mạch.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;acirc;u, b&amp;ograve;: 2ml/45kg thể trọng&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Ngựa: 1ml/45kg thể trọng&lt;/p&gt;
+&lt;p&gt;- Heo: 2ml/45kg thể trọng&lt;/p&gt;
+&lt;p&gt;Lặp lại sau 8-10h nếu cần thiết. D&amp;ugrave;ng li&amp;ecirc;n tục 2-3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-309&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<productImage_s>/static-assets/images/products/Meko Fluxin.png</productImage_s>
+	<createdDate>2020-08-03T06:21:07.463Z</createdDate>
+	<createdDate_dt>2020-08-03T06:21:07.463Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:42:32.377Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:42:32.377Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T06:21:07.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2588</objectGroupId>
+	<objectId>258840c1-71c5-1685-750d-2fc5ec103262</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thanh-tich-dat-duoc</folder-name>
+	<internal-name>Thành tích đạt được</internal-name>
+	<navLabel>Thành tích đạt được</navLabel>
+	<title_s>Thành tích đạt được</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Thành tích đạt được</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/ed34c5e4-4995-f0d5-da4c-ba9b06d5a04f.xml</key>
+	<value>Header - Thành tích đạt được</value>
+	<include>/site/items/slides/ed34c5e4-4995-f0d5-da4c-ba9b06d5a04f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>546b7a34-4355-4ec3-acde-464278e594e3</key>
+	<value>Content - Thành tích đạt được</value>
+<component id="546b7a34-4355-4ec3-acde-464278e594e3">
+	<content-type>/component/introduction</content-type>
+	<display-template>/templates/web/introduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>546b</objectGroupId>
+	<objectId>546b7a34-4355-4ec3-acde-464278e594e3</objectId>
+	<file-name>546b7a34-4355-4ec3-acde-464278e594e3.xml</file-name>
+	<internal-name>Content - Thành tích đạt được</internal-name>
+	<title_s>THÀNH TÍCH ĐẠT ĐƯỢC </title_s>
+	<image_s>/static-assets/images/introduction/Layer 187.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Trong những năm qua, b&amp;ecirc;n cạnh Chứng chỉ &amp;ldquo;ISO 9001:2008&amp;rdquo; do Tổ chức Det Norske Veritas cấp từ năm 2002, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy lu&amp;ocirc;n nhận được sự đ&amp;aacute;nh gi&amp;aacute; cao của kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; nhiều năm liền nhận được chứng nhận, c&amp;uacute;p, bằng khen của c&amp;aacute;c tổ chức trong nước v&amp;agrave; quốc tế. Cụ thể l&amp;agrave; c&amp;aacute;c giải thưởng:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Doanh nghiệp l&amp;agrave;m ăn hiệu quả Đồng bằng S&amp;ocirc;ng Cửu Long năm 1997&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giải thưởng &amp;ldquo;C&amp;uacute;p Bạc Chất lượng Việt Nam năm 1998&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Doanh nghiệp l&amp;agrave;m ăn hiệu quả Đồng bằng S&amp;ocirc;ng Cửu Long năm 1998&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Doanh nghiệp l&amp;agrave;m ăn hiệu quả Đồng bằng S&amp;ocirc;ng Cửu Long năm 1998&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Doanh nghiệp l&amp;agrave;m ăn hiệu quả Đồng bằng S&amp;ocirc;ng Cửu Long năm 1999&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Doanh nghiệp l&amp;agrave;m ăn hiệu quả Đồng bằng S&amp;ocirc;ng Cửu Long năm 2000&amp;rdquo;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giải thưởng &amp;ldquo;C&amp;uacute;p v&amp;agrave;ng Thương hiệu v&amp;agrave; Nh&amp;atilde;n hiệu năm 2005&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Chất lượng V&amp;agrave;ng Hội chợ th&amp;agrave;nh tựu Kinh tế - Thương mại - Du lịch Tiền Giang 2005&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;Chất lượng v&amp;agrave;ng Hội chợ th&amp;agrave;nh tựu Kinh tế - Thương mại - Du lich Tiền Giang năm 2005&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2005&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2006&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2007&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giải thưởng &amp;ldquo;Quả Cầu V&amp;agrave;ng chất lượng cao ph&amp;ugrave; hợp ti&amp;ecirc;u chuẩn năm 2007&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giải thưởng &amp;ldquo;B&amp;ocirc;ng l&amp;uacute;a v&amp;agrave;ng - Thương hiệu v&amp;agrave;ng chất lượng năm 2007&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2008&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2009&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2010&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2011&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2012&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2014&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2015&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2017&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2018&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2019&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chứng nhận &amp;ldquo;H&amp;agrave;ng Việt Nam Chất lượng cao năm 2020&amp;rdquo;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, trong c&amp;aacute;c năm từ 1993-2006, C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy c&amp;ograve;n nhận được 09 Huy chương V&amp;agrave;ng, 03 giải thưởng B&amp;ocirc;ng l&amp;uacute;a v&amp;agrave;ng v&amp;agrave; nhiều bằng khen ở c&amp;aacute;c kỳ Hội chợ N&amp;ocirc;ng nghiệp tổ chức tại Cần Thơ.&lt;/p&gt;</content_html>
+	<createdDate>2020-06-24T08:26:55.253Z</createdDate>
+	<createdDate_dt>2020-06-24T08:26:55.253Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T03:07:30.615Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T03:07:30.615Z</lastModifiedDate_dt>
+	<button1_s>Giới thiệu chung</button1_s>
+	<url1_s>/gioi-thieu-chung</url1_s>
+	<button2_s>Lịch sử hình thành</button2_s>
+	<url2_s>/gioi-thieu-chung/lich-su-hinh-thanh</url2_s>
+	<button3_s>Tầm nhìn - Sứ mệnh</button3_s>
+	<url3_s>/gioi-thieu-chung/su-menh</url3_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-24T08:24:31.664Z</createdDate>
+	<createdDate_dt>2020-06-24T08:24:31.664Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T03:07:25.062Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T03:07:25.062Z</lastModifiedDate_dt>
+</page>

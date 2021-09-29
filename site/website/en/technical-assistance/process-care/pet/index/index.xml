@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>de6b</objectGroupId>
+	<objectId>de6bf1ce-3702-956c-e198-fb367b2734e1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<internal-name>PET CARE</internal-name>
+	<navLabel>PET CARE</navLabel>
+	<t_s>PET CARE</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>af5db376-c99d-4ffd-7e63-254739e4c585</key>
+	<value>Slide</value>
+<component id="af5db376-c99d-4ffd-7e63-254739e4c585">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>af5d</objectGroupId>
+	<objectId>af5db376-c99d-4ffd-7e63-254739e4c585</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>af5db376-c99d-4ffd-7e63-254739e4c585.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-29T03:54:51.526Z</createdDate>
+	<createdDate_dt>2020-07-29T03:54:51.526Z</createdDate_dt>
+	<lastModifiedDate>2020-07-29T03:54:51.526Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-29T03:54:51.526Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>fe39c18d-6632-2a2c-cb1b-20f0e5000e4f</key>
+	<value>PET CARE</value>
+<component id="fe39c18d-6632-2a2c-cb1b-20f0e5000e4f">
+	<content-type>/component/listprocessEn</content-type>
+	<display-template>/templates/web/component/list-process.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fe39</objectGroupId>
+	<objectId>fe39c18d-6632-2a2c-cb1b-20f0e5000e4f</objectId>
+	<file-name>fe39c18d-6632-2a2c-cb1b-20f0e5000e4f.xml</file-name>
+	<processType_s>benh-thu-cung</processType_s>
+	<internal-name>PET CARE</internal-name>
+	<title_s>PET CARE</title_s>
+	<createdDate>2020-07-29T03:54:36.208Z</createdDate>
+	<createdDate_dt>2020-07-29T03:54:36.208Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:50:02.776Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:50:02.776Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-07-29T03:53:45.767Z</createdDate>
+	<createdDate_dt>2020-07-29T03:53:45.767Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:49:50.153Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:49:50.153Z</lastModifiedDate_dt>
+</page>

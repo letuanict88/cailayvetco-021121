@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9a05</objectGroupId>
+	<objectId>9a050d85-ebcf-da24-fd2a-d3031a2cc900</objectId>
+	<internal-name>Tổ chức chương trình “Vui hội trăng rằm"</internal-name>
+	<navLabel>Tổ chức chương trình “Vui hội trăng rằm"</navLabel>
+	<title_s>Tổ chức chương trình “Vui hội trăng rằm"</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>to-chuc-chuong-trinh-vui-hoi-trang-ram</folder-name>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/news/trung_thu___1.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vui Tết Trung thu l&amp;agrave; một n&amp;eacute;t đẹp truyền thống của d&amp;acirc;n tộc ta nhằm x&amp;acirc;y dựng s&amp;acirc;n chơi văn h&amp;oacute;a, văn nghệ l&amp;agrave;nh mạnh thiết thực, kh&amp;ocirc;ng chỉ đem lại niềm vui, tiếng cười cho c&amp;aacute;c em thiếu nhi m&amp;agrave; c&amp;ograve;n mang t&amp;iacute;nh gi&amp;aacute;o dục, động vi&amp;ecirc;n c&amp;aacute;c em chăm ngoan, học giỏi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Được sự quan t&amp;acirc;m từ Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty, ng&amp;agrave;y 20/9/2018 C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy &amp;ndash; Cailayvetco đ&amp;atilde; tổ chức Chương tr&amp;igrave;nh &amp;ldquo;Vui hội trăng rằm&amp;rdquo; cho c&amp;aacute;c ch&amp;aacute;u thiếu nhi l&amp;agrave; con em đo&amp;agrave;n vi&amp;ecirc;n, người lao động của c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;ecirc;m hội đ&amp;atilde; diễn ra hết sức s&amp;ocirc;i động, n&amp;aacute;o nhiệt đặc sắc với c&amp;aacute;c tiết mục M&amp;uacute;a l&amp;acirc;n mang đậm n&amp;eacute;t văn h&amp;oacute;a truyền thống Tết trung thu cổ truyền.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hấp dẫn, vui nhộn nhất vẫn l&amp;agrave; tiết mục đố vui, văn nghệ khi rất nhiều ch&amp;aacute;u hồn nhi&amp;ecirc;n d&amp;agrave;nh nhau trả lời c&amp;aacute;c c&amp;acirc;u hỏi, tham gia m&amp;uacute;a h&amp;aacute;t văn nghệ để nhận c&amp;aacute;c phần qu&amp;agrave; &amp;yacute; nghĩa từ ch&amp;uacute; Cuội, chị Hằng. Nhiều ch&amp;aacute;u sau khi trả lời sai hay hồi hộp qu&amp;ecirc;n lời h&amp;aacute;t vẫn được Ban tổ chức kh&amp;iacute;ch lệ tặng qu&amp;agrave; để kh&amp;ocirc;ng phải tiếc nuối v&amp;igrave; &amp;ldquo;hụt&amp;rdquo; qu&amp;agrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;ldquo;Vui hội trăng rằm&amp;rdquo; kết th&amp;uacute;c với tiệc ph&amp;aacute; cỗ Trung thu, chia b&amp;aacute;nh kẹo, tr&amp;aacute;i c&amp;acirc;y cho tất cả c&amp;aacute;c ch&amp;aacute;u thiếu nhi đến dự khiến ch&amp;aacute;u n&amp;agrave;o cũng h&amp;aacute;o hức, vui tươi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chương tr&amp;igrave;nh &amp;ldquo;Vui hội trăng rằm&amp;rdquo; như đ&amp;atilde; minh chứng cho việc Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty kh&amp;ocirc;ng những quan t&amp;acirc;m chăm lo cho đời sống vật chất, tinh thần của CB-CNV C&amp;ocirc;ng ty m&amp;agrave; c&amp;ograve;n đặc biệt quan t&amp;acirc;m đến c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong gia đ&amp;igrave;nh của họ. Điều đ&amp;oacute;, g&amp;oacute;p quần quan trọng trong việc động vi&amp;ecirc;n cha, mẹ c&amp;aacute;c ch&amp;aacute;u l&amp;agrave; c&amp;aacute;n bộ, c&amp;ocirc;ng nh&amp;acirc;n vi&amp;ecirc;n C&amp;ocirc;ng ty phấn khởi, hăng say lao động sản xuất gi&amp;uacute;p C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy &amp;ndash; Cailayvetco ng&amp;agrave;y c&amp;agrave;ng ph&amp;aacute;t triển.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T06:13:19.818Z</createdDate>
+	<createdDate_dt>2020-07-31T06:13:20.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T06:13:19.818Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T06:13:19.818Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

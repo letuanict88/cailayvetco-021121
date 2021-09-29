@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b06f6ea3</objectGroupId>
+	<objectId>b06f6ea3-fa4b-4ae1-b30f-1724ed091160</objectId>
+	<internal-name>MEKOCANXI</internal-name>
+	<navLabel>MEKOCANXI</navLabel>
+	<productName_s>MEKOCANXI</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ampicolistin-c299da04-c8d603f3</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/245852d2-bebb-574b-c3e3-eb533742b888.xml</key>
+	<value>Slide</value>
+	<include>/site/items/245852d2-bebb-574b-c3e3-eb533742b888.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Products for Poultry</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-boi-duong-tang-suc-de-khang</key>
+	<value_smv>Group of fostering drugs increases resistance</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Mekocanxi.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.8766%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Calcium gluconate 40g&lt;/p&gt;
+&lt;p&gt;Butaphosphane 2g&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Provides high levels of Ca &amp; P in organic form&lt;/p&gt;
+&lt;p&gt;Prevent and treat paralysis due to lack of calcium before, during, after or&amp;nbsp;during lactation.&lt;/p&gt;
+&lt;p&gt;Preventing and treating rickets&amp;nbsp;soft bones, spongy bones, spasticity, convulsions, milk fever, palsy&lt;/p&gt;
+&lt;p&gt;Unexplained paralysis, stunted in pigs, buffaloes, cows, goats, sheep.&lt;/p&gt;
+&lt;p&gt;Very good medicine for dairy cattle and sows when lacking calcium.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.86015%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.2631%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cattle: intramuscularly, subcutaneously.&lt;/p&gt;
+&lt;p&gt;- Piglets can inject abdominal sinus.&lt;/p&gt;
+&lt;p&gt;Poultry: mix with water to drink.&lt;/p&gt;
+&lt;p&gt;- Buffalos, cows and horses (up to 500kg): 20-50ml / head&lt;/p&gt;
+&lt;p&gt;- Pigs, calves, goats, sheep (50-100kg): 10-15ml / head&lt;/p&gt;
+&lt;p&gt;- Piglets follow mothers: 2-3ml / pig&lt;/p&gt;
+&lt;p&gt;- Poultry: 1-2ml / 5kg B.W&lt;/p&gt;
+&lt;p&gt;Use continuously for 3-5 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-300&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-07-13T07:04:20.649Z</createdDate>
+	<createdDate_dt>2020-07-13T07:04:20.649Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T06:58:26.456Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T06:58:26.456Z</lastModifiedDate_dt>
+	<createddate_dt>2020-07-13T04:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>EST5EDT</createddate_dt_tz>
+	<isHot_b>true</isHot_b>
+</page>

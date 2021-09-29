@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>62d0</objectGroupId>
+	<objectId>62d04869-89f6-78d2-ffa0-a594fc66ca1e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<file-name>62d04869-89f6-78d2-ffa0-a594fc66ca1e.xml</file-name>
+	<internal-name>Header - En News</internal-name>
+	<createdDate>2020-07-13T04:51:49.554Z</createdDate>
+	<createdDate_dt>2020-07-13T04:51:49.554Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T04:51:49.554Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T04:51:49.554Z</lastModifiedDate_dt>
+</component>

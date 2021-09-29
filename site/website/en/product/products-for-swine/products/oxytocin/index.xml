@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e732</objectGroupId>
+	<objectId>e7324a88-a875-0884-98a1-afe4ae00cfe4</objectId>
+	<internal-name>OXYTOCIN</internal-name>
+	<navLabel>OXYTOCIN</navLabel>
+	<productName_s>OXYTOCIN</productName_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-cho-meo</key>
+	<value_smv>Products for pet</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Reproductive Medicine</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/Oxytocin 2ml.png</productImage_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.5644%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oxytocin 1,000UI&lt;/p&gt;
+&lt;p&gt;Solvents vđ 100ml&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enhancing uterine smooth muscle tone: inducing labor, stimulating early placenta, stimulating lactation, strengthening contraction, pushing impurities or foci of intrauterine inflammation out of cattle, goats, sheep , pigs, dogs, cats.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 2.93439%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.5011%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intramuscular. Intravenous use when young animals are low in milk and lose milk.&lt;/p&gt;
+&lt;p&gt;- Cattle: 2-6ml / head&lt;/p&gt;
+&lt;p&gt;- Pig: 1-2ml / pig&lt;/p&gt;
+&lt;p&gt;- Goats and sheep: 0.3-2ml / head&lt;/p&gt;
+&lt;p&gt;- Dogs and cats: 0.2-1ml / head&lt;/p&gt;
+&lt;p&gt;No more than 4 injections / day&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-69&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<file-name>index.xml</file-name>
+	<folder-name>oxytocin</folder-name>
+	<createdDate>2020-08-05T08:17:33.137Z</createdDate>
+	<createdDate_dt>2020-08-05T08:17:33.137Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:21:14.747Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:21:14.747Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

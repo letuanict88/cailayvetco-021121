@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>39c2</objectGroupId>
+	<objectId>39c26cc8-4710-6c69-7a3a-29bf673dcfc9</objectId>
+	<internal-name>Sản phẩm dành cho chó - mèo</internal-name>
+	<navLabel>Sản phẩm dành cho chó - mèo</navLabel>
+	<t_s>Sản phẩm dành cho chó - mèo</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>9acd6225-0809-f117-914a-38489868ab17</key>
+	<value>Slide</value>
+<component id="9acd6225-0809-f117-914a-38489868ab17">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9acd</objectGroupId>
+	<objectId>9acd6225-0809-f117-914a-38489868ab17</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>9acd6225-0809-f117-914a-38489868ab17.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T09:21:21.970Z</createdDate>
+	<createdDate_dt>2020-08-03T09:21:21.970Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:21:21.970Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:21:21.970Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>aab6915a-5608-e215-073d-cfbadd7bcebd</key>
+	<value>Sản phẩm dành cho chó - mèo</value>
+<component id="aab6915a-5608-e215-073d-cfbadd7bcebd">
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aab6</objectGroupId>
+	<objectId>aab6915a-5608-e215-073d-cfbadd7bcebd</objectId>
+	<file-name>aab6915a-5608-e215-073d-cfbadd7bcebd.xml</file-name>
+	<internal-name>Sản phẩm dành cho chó - mèo</internal-name>
+	<title_s>Sản phẩm dành cho chó - mèo</title_s>
+	<rightTitle_s>D.M.C</rightTitle_s>
+	<groupProductImg1_s>/static-assets/images/products/left-img.png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Cho meo NHOM).png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 1).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 2).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/khang-sinh</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 3).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 4).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/thuốc dùng ngoài</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 5).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ sinh sản/và hỗ trợ khác</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Cho meo 6).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-08-03T09:21:53.761Z</createdDate>
+	<createdDate_dt>2020-08-03T09:21:53.761Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T10:07:57.693Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:07:57.693Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-cho-meo</folder-name>
+	<createdDate>2020-08-03T09:20:15.906Z</createdDate>
+	<createdDate_dt>2020-08-03T09:20:15.906Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T10:07:48.919Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T10:07:48.919Z</lastModifiedDate_dt>
+</page>

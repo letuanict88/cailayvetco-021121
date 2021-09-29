@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproductEn</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>186d</objectGroupId>
+	<objectId>186db874-0ab1-ce4b-5755-798e83129315</objectId>
+	<file-name>186db874-0ab1-ce4b-5755-798e83129315.xml</file-name>
+	<internal-name>Parasitic Medicine, fungi, coccidiosis</internal-name>
+	<productgrouplevel1_s>thuoc-cho-cho-meo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-thuoc-sat-trung-nam-cau-trung</productgrouplevel2_s>
+	<createdDate>2020-08-05T07:04:27.359Z</createdDate>
+	<createdDate_dt>2020-08-05T07:04:27.359Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T07:04:27.359Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T07:04:27.359Z</lastModifiedDate_dt>
+</component>

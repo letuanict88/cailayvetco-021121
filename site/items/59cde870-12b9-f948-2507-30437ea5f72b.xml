@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/component/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>59cd</objectGroupId>
+	<objectId>59cde870-12b9-f948-2507-30437ea5f72b</objectId>
+	<file-name>59cde870-12b9-f948-2507-30437ea5f72b.xml</file-name>
+	<internal-name>Danh sách sản phẩm</internal-name>
+	<productgrouplevel1_s>thuoc-cho-cho-meo</productgrouplevel1_s>
+	<productgrouplevel2_s>nhom-boi-duong-tang-suc-de-khang</productgrouplevel2_s>
+	<createdDate>2020-08-03T08:27:12.215Z</createdDate>
+	<createdDate_dt>2020-08-03T08:27:12.215Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:27:12.215Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:27:12.215Z</lastModifiedDate_dt>
+</component>

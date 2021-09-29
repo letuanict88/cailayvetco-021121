@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>49d3</objectGroupId>
+	<objectId>49d3c115-6985-a06a-7488-1abd1a4e2191</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Nhóm Thuốc kháng sinh</internal-name>
+	<navLabel>Nhóm Thuốc kháng sinh</navLabel>
+	<title_s>Nhóm Thuốc kháng </title_s>
+	<rightTitle_s>B. Complex</rightTitle_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4f351d59-a8c6-d7f9-6715-2905e8b40ce8</key>
+	<value>Slide</value>
+<component id="4f351d59-a8c6-d7f9-6715-2905e8b40ce8">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4f35</objectGroupId>
+	<objectId>4f351d59-a8c6-d7f9-6715-2905e8b40ce8</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>4f351d59-a8c6-d7f9-6715-2905e8b40ce8.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T08:52:25.173Z</createdDate>
+	<createdDate_dt>2020-08-03T08:52:25.173Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:52:25.173Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:52:25.173Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/97840cc7-e0ec-1d29-dca3-d58f39321c51.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/97840cc7-e0ec-1d29-dca3-d58f39321c51.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>khang-sinh</folder-name>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/1 B.Complex 3A.png</rightimage_s>
+	<createdDate>2020-08-03T08:50:25.774Z</createdDate>
+	<createdDate_dt>2020-08-03T08:50:25.774Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:50:25.774Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:50:25.774Z</lastModifiedDate_dt>
+</page>

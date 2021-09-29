@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e44d</objectGroupId>
+	<objectId>e44d8a04-2c55-61d3-02e8-0f7d8d621fd4</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>enrocin</folder-name>
+	<internal-name>ENROCIN</internal-name>
+	<navLabel>ENROCIN</navLabel>
+	<productName_s>ENROCIN</productName_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<isHot_b>false</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Sản phẩm cho trâu - bò</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Sản phẩm cho heo</value_smv>
+	</item>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/92 ENROCIN 100gA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.0792%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enrofloxacin HCl 20g&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- B&amp;ecirc;, ngh&amp;eacute;, heo: đặc trị c&amp;aacute;c bệnh đường h&amp;ocirc; hấp v&amp;agrave; đường&amp;nbsp;ruột như: vi&amp;ecirc;m phổi, tụ huyết tr&amp;ugrave;ng, ph&amp;oacute; thương h&amp;agrave;n, ti&amp;ecirc;u&amp;nbsp;chảy, nhiễm tr&amp;ugrave;ng huyết do E.coli, tả cấp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- G&amp;agrave;, vịt, g&amp;agrave; t&amp;acirc;y, c&amp;uacute;t: vi&amp;ecirc;m xoang mũi, ti&amp;ecirc;u chảy, tụ huyết&amp;nbsp;tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.18961%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.7311%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn hay pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;- B&amp;ecirc;, ngh&amp;eacute;, heo: 1g/40kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;- G&amp;agrave;, vịt, g&amp;agrave; t&amp;acirc;y, c&amp;uacute;t: 1g/20kg thể trọng/ng&amp;agrave;y&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-253&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-03T04:05:12.798Z</createdDate>
+	<createdDate_dt>2020-08-03T04:05:12.798Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T03:37:44.760Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T03:37:44.760Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:05:13.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

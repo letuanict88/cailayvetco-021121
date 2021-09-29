@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemo</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>82d2d95f</objectGroupId>
+	<objectId>82d2d95f-da16-441c-bdd1-31692c806448</objectId>
+	<internal-name>Báo cáo tình hình QT cong ty 6 tháng đầu năm 2021</internal-name>
+	<title_s>Báo cáo tình hình QT cong ty 6 tháng đàu năm 2021</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>bao-cao-tinh-hinh-qt-6-thang-dau-nam-2021</folder-name>
+	<avatar_s>/static-assets/images/libraries/Anh Thu vien Tu lieu.jpg</avatar_s>
+	<isDisplay_b>false</isDisplay_b>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Bao cao tinh hinh quan tri cong ty 6 thang dau năm 2021.pdf</key>
+	<value>/static-assets/images/libraries/Bao cao tinh hinh quan tri cong ty 6 thang dau năm 2021.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>7964456</fileSize_s>
+	</item></pDFfile_o>
+	<createdDate>2020-08-14T03:45:18.837Z</createdDate>
+	<createdDate_dt>2020-08-14T03:45:18.837Z</createdDate_dt>
+	<lastModifiedDate>2021-07-07T10:47:58.768Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-07T10:47:58.768Z</lastModifiedDate_dt>
+</page>

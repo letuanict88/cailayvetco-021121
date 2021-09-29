@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0fe0</objectGroupId>
+	<objectId>0fe075c4-6e4d-62d5-d08c-73f85a43d3d7</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>document-library</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>7b4f9e7c-cc2c-830f-1a41-e8421ee7b3d4</key>
+	<value>Thư viện tư liệu slide</value>
+<component id="7b4f9e7c-cc2c-830f-1a41-e8421ee7b3d4">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7b4f</objectGroupId>
+	<objectId>7b4f9e7c-cc2c-830f-1a41-e8421ee7b3d4</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Thư viện tư liệu slide</internal-name>
+	<file-name>7b4f9e7c-cc2c-830f-1a41-e8421ee7b3d4.xml</file-name>
+	<createdDate>2020-07-13T10:10:26.496Z</createdDate>
+	<createdDate_dt>2020-07-13T10:10:26.496Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T10:10:26.496Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T10:10:26.496Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>8981d7a0-e6ea-d186-1353-7036a9062091</key>
+	<value>Document library</value>
+<component id="8981d7a0-e6ea-d186-1353-7036a9062091">
+	<content-type>/component/libraryEn</content-type>
+	<display-template>/templates/web/component/libraries.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8981</objectGroupId>
+	<objectId>8981d7a0-e6ea-d186-1353-7036a9062091</objectId>
+	<file-name>8981d7a0-e6ea-d186-1353-7036a9062091.xml</file-name>
+	<internal-name>Document library</internal-name>
+	<title_s>Document library</title_s>
+	<photoTitle_s> Photo library</photoTitle_s>
+	<photoURL_s>/en/library/photo-library</photoURL_s>
+	<videoTitle_s> Video library</videoTitle_s>
+	<namesVideo1_s>Company introduction film ...</namesVideo1_s>
+	<namesVideo2_s>Company introduction film ...</namesVideo2_s>
+	<videoURL_s>/en/library/video-libary</videoURL_s>
+	<documentTitle_s>Catalog             library</documentTitle_s>
+	<documentURL_s>/en/library/catalog-library</documentURL_s>
+	<photoAvatar1_s>/static-assets/images/libraries/photos/photo1.png</photoAvatar1_s>
+	<photoAvatar2_s>/static-assets/images/libraries/photos/photo2.png</photoAvatar2_s>
+	<videoBanner2_s>/static-assets/images/libraries/videos/img__41.jpg</videoBanner2_s>
+	<documentAvatar1_s>/static-assets/images/libraries/documents/doc1.png</documentAvatar1_s>
+	<documentAvatar2_s>/static-assets/images/libraries/documents/doc2.png</documentAvatar2_s>
+	<createdDate>2020-07-13T10:12:33.087Z</createdDate>
+	<createdDate_dt>2020-07-13T10:12:33.087Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:44:48.615Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:44:48.615Z</lastModifiedDate_dt>
+	<videoURL1_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL1_s>
+	<videoURL2_s>https://www.youtube.com/watch?v=vwSV_4ABbMA</videoURL2_s>
+	<videoBanner_s>/static-assets/images/libraries/videos/MKV.jpg</videoBanner_s>
+</component>
+	</item></section_o>
+	<internal-name>Document library</internal-name>
+	<navLabel>Document library</navLabel>
+	<t_s>Document library</t_s>
+	<createdDate>2020-07-13T10:09:41.315Z</createdDate>
+	<createdDate_dt>2020-07-13T10:09:41.315Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:44:41.694Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:44:41.694Z</lastModifiedDate_dt>
+</page>

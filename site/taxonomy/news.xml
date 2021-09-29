@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>655d</objectGroupId>
+	<objectId>655dadab-cef4-2f0a-2b15-3d2350afd874</objectId>
+	<items item-list="true">	<item>	<key>internalnews</key>
+	<value>Tin nội bộ</value>
+	</item>	<item>	<key>industrynews</key>
+	<value> Tin ngành</value>
+	</item></items>
+	<file-name>news.xml</file-name>
+	<folder-name/>
+	<internal-name>Tin tức</internal-name>
+	<createdDate>2020-06-23T02:45:35.658Z</createdDate>
+	<createdDate_dt>2020-06-23T02:45:35.658Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T03:50:11.867Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T03:50:11.867Z</lastModifiedDate_dt>
+</component>

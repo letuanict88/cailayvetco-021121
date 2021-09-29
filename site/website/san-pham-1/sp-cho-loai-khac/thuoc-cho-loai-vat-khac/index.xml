@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ca9b</objectGroupId>
+	<objectId>ca9bd8d3-5771-7442-c5ff-1c4684a44712</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-cho-loai-vat-khac</folder-name>
+	<internal-name>Sản phẩm dành cho loài vật khác</internal-name>
+	<navLabel>Sản phẩm dành cho loài vật khác</navLabel>
+	<t_s>Sản phẩm dành cho loài vật khác(dê, cừu, ngựa)</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e0386870-4d95-5de9-566b-5cefa020e90c</key>
+	<value>Slide</value>
+<component id="e0386870-4d95-5de9-566b-5cefa020e90c">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e038</objectGroupId>
+	<objectId>e0386870-4d95-5de9-566b-5cefa020e90c</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>e0386870-4d95-5de9-566b-5cefa020e90c.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T09:34:02.868Z</createdDate>
+	<createdDate_dt>2020-08-03T09:34:02.868Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:34:02.868Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:34:02.868Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>c56bb2c6-fcd6-67ad-aaa2-c2088866e666</key>
+	<value>Sản phẩm dành cho loài vật khác (dê, cừu, ngựa)</value>
+<component id="c56bb2c6-fcd6-67ad-aaa2-c2088866e666">
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c56b</objectGroupId>
+	<objectId>c56bb2c6-fcd6-67ad-aaa2-c2088866e666</objectId>
+	<file-name>c56bb2c6-fcd6-67ad-aaa2-c2088866e666.xml</file-name>
+	<internal-name>Sản phẩm dành cho loài vật khác (dê, cừu, ngựa)</internal-name>
+	<title_s>Sản phẩm dành cho loài vật khác (dê, cừu, ngựa)</title_s>
+	<rightTitle_s>Sản phẩm cho loài vật khác</rightTitle_s>
+	<groupProductImg1_s>/static-assets/images/products/San pham (cho Loai vat khac ANH).jpg</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Loai vat khac NHOM).png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Loai vat khac 1).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Loai vat khac 2).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/khang-sinh</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Loai vat khac 3).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Loai vat khac 4).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/thuốc dùng ngoài</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Loai vat khac 5).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ/sinh sản và hỗ trợ khác</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Loai vat khac 6).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-08-03T09:34:43.408Z</createdDate>
+	<createdDate_dt>2020-08-03T09:34:43.408Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T07:46:26.285Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T07:46:26.285Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-08-03T09:32:16.112Z</createdDate>
+	<createdDate_dt>2020-08-03T09:32:16.112Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T07:46:20.549Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T07:46:20.549Z</lastModifiedDate_dt>
+</page>

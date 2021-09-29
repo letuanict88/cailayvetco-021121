@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b3ae</objectGroupId>
+	<objectId>b3ae4178-5a4f-8d09-ec6c-266592d0047c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-tai-xanh-co-dieu-tri-duoc-khong</folder-name>
+	<internal-name>Viêm phổi trên heo (Pneumonia in pig)</internal-name>
+	<navLabel>Viêm phổi trên heo (Pneumonia in pig)</navLabel>
+	<diseaseName_s>Viêm phổi trên heo (Pneumonia in pig)</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n heo, vi&amp;ecirc;m phổi l&amp;agrave; một t&amp;igrave;nh trạng phức hợp (PRDC = porcine respiratory disease complex), l&amp;agrave; dấu hiệu hay hậu quả của nhiều bệnh kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;NGUY&amp;Ecirc;N NH&amp;Acirc;N:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhiều loại mầm bệnh kh&amp;aacute;c nhau c&amp;oacute; năng lực tạo ra hiện tượng vi&amp;ecirc;m phổi, c&amp;aacute;c mầm bệnh n&amp;agrave;y c&amp;oacute; thể hoạt động đơn độc hay kết hợp với nhau. B&amp;ecirc;n cạnh đ&amp;oacute; t&amp;igrave;nh trạng bệnh c&amp;ograve;n chịu ảnh hưởng của yếu tố m&amp;ocirc;i trường như ẩm độ, nhiệt độ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số loại virus g&amp;acirc;y bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Virus bệnh tai xanh (PRRSV &amp;ndash; porcine reproductive &amp; respiratory syndrome virus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Circovirus g&amp;acirc;y hội chứng c&amp;ograve;i cọc sau cai sữa (PMWS - Virus c&amp;uacute;m (SIV &amp;ndash; swine influenza virus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Corona virus (PRCV &amp;ndash; porcine respiratory coronavirus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Virus giả dại (Pseudorabies virus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số loại vi khuẩn g&amp;acirc;y bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mycoplasma hyopneumoniae&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Actinobacillus pleuropneumoniae&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Pasteurella multocida&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bordetella bronchiseptica&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Salmonella choleraesuis&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Streptococcus suis&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Haemophilus parasuis &amp;hellip;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DẤU HIỆU BỆNH L&amp;Yacute;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh diễn ra chủ yếu l&amp;agrave; h&amp;igrave;nh thức m&amp;atilde;n t&amp;iacute;nh, trong những t&amp;igrave;nh huống cụ thể mới c&amp;oacute; những cơn cấp:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sốt kh&amp;ocirc;ng điển h&amp;igrave;nh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thở kh&amp;oacute;, thở thể bụng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ho từng cơn, ho khan, về sau ho c&amp;oacute; đ&amp;agrave;m&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- &amp;Acirc;m đục v&amp;ugrave;ng phổi ng&amp;agrave;y c&amp;agrave;ng lan rộng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tim đập mạnh, nhanh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- K&amp;eacute;m ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gầy, c&amp;ograve;i, chậm lớn, l&amp;ocirc;ng d&amp;agrave;i v&amp;agrave; xơ x&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;GIẢI PH&amp;Aacute;P TRỊ LIỆU:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chọn lựa thuốc kh&amp;aacute;ng khuẩn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hạ sốt&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thuốc kh&amp;aacute;ng vi&amp;ecirc;m (corticoids hoặc NSAI)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thuốc long đờm &amp; trợ h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bồi dưỡng cơ thể&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc lựa chọn c&amp;aacute;c sản phẩm n&amp;agrave;o ph&amp;ugrave; hợp v&amp;agrave; đặc trị về bệnh h&amp;ocirc; hấp ở heo tr&amp;ecirc;n thị trường l&amp;agrave; c&amp;ocirc;ng việc kh&amp;oacute; khăn. Để n&amp;acirc;ng cao hiệu quả, chủ động trong việc điều trị bệnh vi&amp;ecirc;m phổi tr&amp;ecirc;n heo.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy cung cấp c&amp;aacute;c sản phẩm d&amp;ugrave;ng trong điều trị bệnh h&amp;ocirc; hấp tr&amp;ecirc;n heo như sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hạ sốt: ti&amp;ecirc;m ANALGIN C FORT (1 lần/ng&amp;agrave;y) v&amp;agrave; d&amp;ugrave;ng pracetamol + CEVIMIX 10% pha v&amp;agrave;o nước uống suốt ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lựa chọn thuốc kh&amp;aacute;ng khuẩn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng cho heo đang c&amp;oacute; dấu hiệu bệnh l&amp;yacute;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng một trong c&amp;aacute;c loại thuốc sau đ&amp;acirc;y để ti&amp;ecirc;m:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. TYLO CD, GENTA-TYLO, THIAM-TYLO&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. CL-SPECLINJECT&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. SPIRAMYCIN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. CL- ENRO 50, MEKOSONE&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. MARLOX, CL-FLOR 30, CL-FLORDEXTRA&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6. DANOFLOX&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;ecirc;n chọn theo thứ tự từ tr&amp;ecirc;n xuống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ưu ti&amp;ecirc;n chỉ định:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nếu cơ sở chăn nu&amp;ocirc;i c&amp;oacute; sự hiện diện của bệnh tai xanh (PRRS) th&amp;igrave; n&amp;ecirc;n chọn CL-SPECLINJIECT.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi đ&amp;atilde; d&amp;ugrave;ng qua nhiều loại kh&amp;aacute;ng sinh th&amp;igrave; n&amp;ecirc;n chuyển sang d&amp;ugrave;ng DANOFLOX&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;igrave;nh ảnh 1 số loại sản phẩm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng cho cả đ&amp;agrave;n heo c&amp;oacute; bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chọn d&amp;ugrave;ng một trong c&amp;aacute;c chế phẩm sau để trộn v&amp;agrave;o thức ăn trong v&amp;agrave; cho ăn trong &amp;iacute;t nhất 1 tuần: Bye-Cilox, Enromin 400, Cl-Doxy 20%&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bản inEmail&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n heo, vi&amp;ecirc;m phổi l&amp;agrave; một t&amp;igrave;nh trạng phức hợp (PRDC = porcine respiratory disease complex), l&amp;agrave; dấu hiệu hay hậu quả của nhiều bệnh kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;NGUY&amp;Ecirc;N NH&amp;Acirc;N:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhiều loại mầm bệnh kh&amp;aacute;c nhau c&amp;oacute; năng lực tạo ra hiện tượng vi&amp;ecirc;m phổi, c&amp;aacute;c mầm bệnh n&amp;agrave;y c&amp;oacute; thể hoạt động đơn độc hay kết hợp với nhau. B&amp;ecirc;n cạnh đ&amp;oacute; t&amp;igrave;nh trạng bệnh c&amp;ograve;n chịu ảnh hưởng của yếu tố m&amp;ocirc;i trường như ẩm độ, nhiệt độ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số loại virus g&amp;acirc;y bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Virus bệnh tai xanh (PRRSV &amp;ndash; porcine reproductive &amp; respiratory syndrome virus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Circovirus g&amp;acirc;y hội chứng c&amp;ograve;i cọc sau cai sữa (PMWS - Virus c&amp;uacute;m (SIV &amp;ndash; swine influenza virus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Corona virus (PRCV &amp;ndash; porcine respiratory coronavirus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Virus giả dại (Pseudorabies virus)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số loại vi khuẩn g&amp;acirc;y bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mycoplasma hyopneumoniae&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Actinobacillus pleuropneumoniae&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Pasteurella multocida&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bordetella bronchiseptica&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Salmonella choleraesuis&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Streptococcus suis&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Haemophilus parasuis &amp;hellip;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;DẤU HIỆU BỆNH L&amp;Yacute;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh diễn ra chủ yếu l&amp;agrave; h&amp;igrave;nh thức m&amp;atilde;n t&amp;iacute;nh, trong những t&amp;igrave;nh huống cụ thể mới c&amp;oacute; những cơn cấp:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sốt kh&amp;ocirc;ng điển h&amp;igrave;nh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thở kh&amp;oacute;, thở thể bụng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ho từng cơn, ho khan, về sau ho c&amp;oacute; đ&amp;agrave;m&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- &amp;Acirc;m đục v&amp;ugrave;ng phổi ng&amp;agrave;y c&amp;agrave;ng lan rộng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tim đập mạnh, nhanh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- K&amp;eacute;m ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gầy, c&amp;ograve;i, chậm lớn, l&amp;ocirc;ng d&amp;agrave;i v&amp;agrave; xơ x&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;GIẢI PH&amp;Aacute;P TRỊ LIỆU:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chọn lựa thuốc kh&amp;aacute;ng khuẩn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hạ sốt&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thuốc kh&amp;aacute;ng vi&amp;ecirc;m (corticoids hoặc NSAI)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thuốc long đờm &amp; trợ h&amp;ocirc; hấp&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bồi dưỡng cơ thể&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc lựa chọn c&amp;aacute;c sản phẩm n&amp;agrave;o ph&amp;ugrave; hợp v&amp;agrave; đặc trị về bệnh h&amp;ocirc; hấp ở heo tr&amp;ecirc;n thị trường l&amp;agrave; c&amp;ocirc;ng việc kh&amp;oacute; khăn. Để n&amp;acirc;ng cao hiệu quả, chủ động trong việc điều trị bệnh vi&amp;ecirc;m phổi tr&amp;ecirc;n heo.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy cung cấp c&amp;aacute;c sản phẩm d&amp;ugrave;ng trong điều trị bệnh h&amp;ocirc; hấp tr&amp;ecirc;n heo như sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hạ sốt: ti&amp;ecirc;m ANALGIN C FORT (1 lần/ng&amp;agrave;y) v&amp;agrave; d&amp;ugrave;ng pracetamol + CEVIMIX 10% pha v&amp;agrave;o nước uống suốt ng&amp;agrave;y.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;aacute;ng vi&amp;ecirc;m: d&amp;ugrave;ng DEXASONE.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lựa chọn thuốc kh&amp;aacute;ng khuẩn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng cho heo đang c&amp;oacute; dấu hiệu bệnh l&amp;yacute;:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng một trong c&amp;aacute;c loại thuốc sau đ&amp;acirc;y để ti&amp;ecirc;m:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;1. TYLO CD, GENTA-TYLO, THIAM-TYLO&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;2. CL-SPECLINJECT&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;3. SPIRAMYCIN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;4. CL- ENRO 50, MEKOSONE&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;5. MARLOX, CL-FLOR 30, CL-FLORDEXTRA&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6. DANOFLOX&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;N&amp;ecirc;n chọn theo thứ tự từ tr&amp;ecirc;n xuống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ưu ti&amp;ecirc;n chỉ định:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nếu cơ sở chăn nu&amp;ocirc;i c&amp;oacute; sự hiện diện của bệnh tai xanh (PRRS) th&amp;igrave; n&amp;ecirc;n chọn CL-SPECLINJIECT.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi đ&amp;atilde; d&amp;ugrave;ng qua nhiều loại kh&amp;aacute;ng sinh th&amp;igrave; n&amp;ecirc;n chuyển sang d&amp;ugrave;ng DANOFLOX&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng cho cả đ&amp;agrave;n heo c&amp;oacute; bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chọn d&amp;ugrave;ng một trong c&amp;aacute;c chế phẩm sau để trộn v&amp;agrave;o thức ăn trong v&amp;agrave; cho ăn trong &amp;iacute;t nhất 1 tuần: Bye-Cilox, Enromin 400, Cl-Doxy 20%&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hỗ trợ cơ thể:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ Ti&amp;ecirc;m B.MOVIT SUPER hay B.COMPLEX SUPER.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;+ D&amp;ugrave;ng MKV- MEKOVIT trộn v&amp;agrave;o thức ăn (khi heo c&amp;ograve;n ăn).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi bệnh thuy&amp;ecirc;n giảm: d&amp;ugrave;ng MKV- GROWTH NEW + MKV- MEKOVIT&amp;nbsp; trộn v&amp;agrave;o thức ăn:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;KIỂM SO&amp;Aacute;T BỆNH&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- &amp;Aacute;p dụng biện ph&amp;aacute;p c&amp;ugrave;ng đầy c&amp;ugrave;ng trống (all in &amp;ndash; all out). C&amp;ocirc; lập khu vực chăn nu&amp;ocirc;i; &amp;aacute;p dụng triệt để biện ph&amp;aacute;p ti&amp;ecirc;u độc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;ugrave;y theo từng v&amp;ugrave;ng, miền, từng cơ sở chăn nu&amp;ocirc;i cụ thể m&amp;agrave; đặt ra qui tr&amp;igrave;nh ti&amp;ecirc;m ph&amp;ograve;ng với c&amp;aacute;c bệnh như: tai xanh (PRRS), hội chứng c&amp;ograve;i cọc sau cai sữa (PMWS &amp;ndash; với Cricovirus), ph&amp;oacute; thương h&amp;agrave;n, bệnh do Mycoplsma v&amp;agrave; Actinobacillus. Khi chủng ngừa cần theo đ&amp;uacute;ng hướng dẫn của nh&amp;agrave; sản xuất ra những loại vaccine đ&amp;oacute; về thời gian v&amp;agrave; liều d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trong cơ sở khi đ&amp;atilde; c&amp;oacute; hiện tượng heo bị ho th&amp;igrave; n&amp;ecirc;n d&amp;ugrave;ng CL-DOXY 20% + MKV- GROWTH NEW + MKV- MEKOVIT&amp;nbsp; như l&amp;agrave; một hỗn hợp premix trộn v&amp;agrave;o thức ăn cho heo trong suốt qu&amp;aacute; tr&amp;igrave;nh nu&amp;ocirc;i (2 đến 5 th&amp;aacute;ng tuổi)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-06-26T03:16:49.531Z</createdDate>
+	<createdDate_dt>2020-06-26T03:16:49.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T08:21:44.136Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T08:21:44.136Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>3704b055-b942-6675-04cb-19120d98246c</key>
+	<value>Header Ho tro ky thuat</value>
+<component id="3704b055-b942-6675-04cb-19120d98246c">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3704</objectGroupId>
+	<objectId>3704b055-b942-6675-04cb-19120d98246c</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 193.png</image_s>
+	</item></slide_o>
+	<file-name>3704b055-b942-6675-04cb-19120d98246c.xml</file-name>
+	<internal-name>Header Ho tro ky thuat</internal-name>
+	<createdDate>2020-06-26T03:34:39.480Z</createdDate>
+	<createdDate_dt>2020-06-26T03:34:39.480Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:34:39.480Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:34:39.480Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

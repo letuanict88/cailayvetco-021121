@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enhome</content-type>
+	<display-template>/templates/web/enhome.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e580</objectGroupId>
+	<objectId>e5804b60-1c99-90bd-84fb-a8ed72cfbf03</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>history</folder-name>
+	<internal-name>History</internal-name>
+	<navLabel>history</navLabel>
+	<title_s>History</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>History</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/cdac0347-3945-7949-8b08-4b4b7ea1daae.xml</key>
+	<value>Header - History</value>
+	<include>/site/items/slides/cdac0347-3945-7949-8b08-4b4b7ea1daae.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>18edf64f-ff4f-2c75-ba2f-94a6449dc74e</key>
+	<value>Content - History</value>
+<component id="18edf64f-ff4f-2c75-ba2f-94a6449dc74e">
+	<content-type>/component/enintroduction</content-type>
+	<display-template>/templates/web/enintroduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>18ed</objectGroupId>
+	<objectId>18edf64f-ff4f-2c75-ba2f-94a6449dc74e</objectId>
+	<file-name>18edf64f-ff4f-2c75-ba2f-94a6449dc74e.xml</file-name>
+	<internal-name>Content - History</internal-name>
+	<title_s>History</title_s>
+	<image_s>/static-assets/images/introduction/Layer 191.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;24 June 1998: Cai Lay Livestock Enterprise merged with Tien Giang Veterinary Pharmacy Enterprise under Decision No. 1703/1998 QĐ-UB, issued by the Tien Giang People&amp;rsquo;s Committee;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;25 August 1998: Tien Giang Veterinary Pharmacy Enterprise was re-named Cai Lay Livestock and Veterinary Pharmacy Company under the Decision No. 2290/QĐ-UB, issued by Tien Giang People&amp;rsquo;s Committee;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;11 November 2002: The equitization of Cai Lay Livestock and Veterinary Pharmacy Company was approved under Decision No. 4630/QĐ-UB, issued by Tien Giang People&amp;rsquo;s Committee;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;28 January 2003: Officially operated as a Joint Stock Company;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;23 July 2008: Submited the listing application at Hanoi Stock Exchange Center;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;21 November 2008: Officially listed on Hanoi Stock Exchange Board (HNX);&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;7 October 2012: Signed Strategic Cooperation Agreement with Austfeed Vietnam Corporation;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;18 April 2013: Annual General Meeting approved Austfeed Vietnam Corporation to become the strategic shareholder;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;10 October 2013: Official opening of the WHO GMP Plant at Cai Lay.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T07:58:16.123Z</createdDate>
+	<createdDate_dt>2020-07-13T07:58:16.123Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:45:33.201Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:45:33.201Z</lastModifiedDate_dt>
+	<button1_s>About Makovet</button1_s>
+	<url1_s>/en/introduction/about-makovet</url1_s>
+	<button2_s>Achievements</button2_s>
+	<url2_s>/en/introduction/achievements</url2_s>
+	<button3_s>Mision - Vision</button3_s>
+	<url3_s>/en/introduction/vision</url3_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-13T07:54:40.104Z</createdDate>
+	<createdDate_dt>2020-07-13T07:54:40.104Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:45:27.954Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:45:27.954Z</lastModifiedDate_dt>
+</page>

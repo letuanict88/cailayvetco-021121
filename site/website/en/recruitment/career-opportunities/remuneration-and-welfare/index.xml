@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9236</objectGroupId>
+	<objectId>9236de54-9a7d-9d39-b98f-94b3ce3b04b5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>remuneration-and-welfare</folder-name>
+	<internal-name> Remuneration and welfare</internal-name>
+	<navLabel> Remuneration and welfare</navLabel>
+	<title_s> Remuneration and welfare</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Makovet's Remuneration and welfare</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</key>
+	<value>Header - Chế độ đãi ngộ, phúc lợi</value>
+	<include>/site/items/slides/55eeda0c-9ba1-6e37-3420-18d9af967938.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>9a036321-fd6f-ad30-9a00-7c3c44f77538</key>
+	<value>Content - Remuneration, benefits</value>
+<component id="9a036321-fd6f-ad30-9a00-7c3c44f77538">
+	<content-type>/component/policy</content-type>
+	<display-template>/templates/web/policies.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9a03</objectGroupId>
+	<objectId>9a036321-fd6f-ad30-9a00-7c3c44f77538</objectId>
+	<file-name>9a036321-fd6f-ad30-9a00-7c3c44f77538.xml</file-name>
+	<internal-name>Content - Remuneration, benefits</internal-name>
+	<title_s> Remuneration and welfare</title_s>
+	<image_s>/static-assets/images/policies/Layer 202.png</image_s>
+	<content_html>&lt;p&gt;When participating in the Mavin family, each employee will receive the privileges that are worthy of his or her contribution to the development of Mavin. Policies for Mavin employees include:&lt;/p&gt;
+&lt;p&gt;- Create a professional working environment with modern equipment, ensure workplace hygiene and safety regime for employees.&lt;/p&gt;
+&lt;p&gt;- Competitive remuneration&lt;/p&gt;
+&lt;p&gt;- Allowance policy includes: attractive allowance, part-time allowance, responsibility allowance, mobile allowance, phone allowance ... These allowances are a part of monthly income, helping employees. Work peace of mind.&lt;/p&gt;
+&lt;p&gt;- Health care policy for staff members: The health care policy is specially designed so that employees always get the best condition from which to promote creativity, improve work efficiency. including: Welfare programs for employees and their relatives to reduce economic pressure and access to high quality health services when workers are at risk of accidents, illness, diseases.&lt;/p&gt;
+&lt;p&gt;- Social insurance: Social insurance, health insurance and unemployment insurance are implemented in accordance with the law and ensure all employees are fully entitled to the insurance regime. .&lt;/p&gt;
+&lt;p&gt;- Other social welfare: bonus on major holidays (New Year, Lunar New Year, Southern Liberation of 30/4 and International Labor Day 01/5, Independence Day 2/9, annual vacation, sewing uniforms, regimes for women on March 8, October 20 ...&lt;/p&gt;
+&lt;p&gt;- Cultural, sports and social activities for employees: With the goal of building a friendly, solidarity and sharing working environment, Mavin regularly organizes cultural and sport activities. society such as giving gifts, taking care of women on the occasion of March 8 and October 20; Giving gifts and organizing Mid-Autumn Festival program for children of cadres, giving gifts for children with good academic achievements, gifts for international children 1/6; Visiting, giving gifts, supporting families of officials in special circumstances ...&lt;/p&gt;</content_html>
+	<createdDate>2020-07-13T09:19:16.199Z</createdDate>
+	<createdDate_dt>2020-07-13T09:19:16.199Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T09:19:16.199Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:19:16.199Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-07-13T09:18:14.199Z</createdDate>
+	<createdDate_dt>2020-07-13T09:18:14.199Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T09:18:14.199Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:18:14.199Z</lastModifiedDate_dt>
+</page>

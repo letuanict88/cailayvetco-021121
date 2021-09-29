@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/processdedail</content-type>
+	<display-template>/templates/web/page/process-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>53eb</objectGroupId>
+	<objectId>53eb9603-d20c-41c2-8bd8-c1286279eb09</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-trinh-cham-soc-tai-xanh</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>6993f6b9-3eb6-6b27-e29e-fb48f417c357</key>
+	<value>Slide</value>
+<component id="6993f6b9-3eb6-6b27-e29e-fb48f417c357">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6993</objectGroupId>
+	<objectId>6993f6b9-3eb6-6b27-e29e-fb48f417c357</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item></slide_o>
+	<file-name>6993f6b9-3eb6-6b27-e29e-fb48f417c357.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-28T11:30:05.923Z</createdDate>
+	<createdDate_dt>2020-07-28T11:30:05.923Z</createdDate_dt>
+	<lastModifiedDate>2020-07-28T11:30:05.923Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-28T11:30:05.923Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>Phòng chống stress nhiệt trên gà</internal-name>
+	<navLabel>Phòng chống stress nhiệt trên gà</navLabel>
+	<processName_s>Phòng chống stress nhiệt trên gà</processName_s>
+	<parentURL_s>/ho-tro-ky-thuat/quy-trinh/nhom/chan-nuoi-cham-soc-phong-benh-gia-suc-gia-cam</parentURL_s>
+	<processType_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Chăn nuôi - Chăm sóc Phòng bệnh Gia súc - Gia cầm</value_smv>
+	</item></processType_o>
+	<processContent_html>&lt;p style="text-align: justify;"&gt;G&amp;agrave; v&amp;agrave; gia cầm n&amp;oacute;i chung kh&amp;ocirc;ng giống như c&amp;aacute;c lo&amp;agrave;i động vật m&amp;aacute;u n&amp;oacute;ng kh&amp;aacute;c, g&amp;agrave; kh&amp;ocirc;ng c&amp;oacute; tuyến mồ h&amp;ocirc;i để giải ph&amp;oacute;ng nhiệt độ cơ thể, m&amp;agrave; thường tỏa nhiệt theo c&amp;aacute;c c&amp;aacute;ch sau: bức xạ nhiệt, đối lưu nhiệt, bốc hơi nước, truyền dẫn nhiệt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nhiệt độ l&amp;yacute; tưởng cho sự ph&amp;aacute;t triển của gia cầm l&amp;agrave; từ 18 &amp;ndash; 24 độ C, ẩm độ %RH nhỏ hơn 50%. Khi nhiệt độ tăng cao, sẽ ảnh hưởng tới sức khỏe v&amp;agrave; năng suất của gia cầm: từ 24 &amp;ndash; 30 độ C, g&amp;agrave; giảm săn, giảm tỷ lệ đẻ, tr&amp;ecirc;n 30 độ C: g&amp;agrave; giảm tăng trọng, giảm đẻ, chất lượng trứng giảm.&amp;nbsp; Ảnh hưởng của stress nhiệt đối với g&amp;agrave; thịt, g&amp;agrave; đẻ như: giảm năng suất, tăng tỷ lệ chết, tăng chi ph&amp;iacute; đầu tư, giảm khả năng sinh sản, tăng rối loạn chuyển h&amp;oacute;a, giảm sức đề kh&amp;aacute;ng&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Một số Giải ph&amp;aacute;p ph&amp;ograve;ng chống stress nhiệt:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nu&amp;ocirc;i dưỡng: mật độ vừa phải (g&amp;agrave; thịt 8-10 con/m2, g&amp;agrave; giống 4-5 con/m2), thời tiết qu&amp;aacute; n&amp;oacute;ng c&amp;oacute; thể thả g&amp;agrave; ra vườn, gốc c&amp;acirc;y quanh chuồng hoặc s&amp;acirc;n chơi c&amp;oacute; m&amp;aacute;i che m&amp;aacute;t, nếu nhiệt độ tăng hơn 25 độ c&amp;oacute; thể phun nước l&amp;ecirc;n m&amp;aacute;i, tr&amp;aacute;nh vận chuyển gia cầm trong thời điểm từ 10h-15h, khi cần vận chuyển gia cầm m&amp;ugrave;a n&amp;oacute;ng cần bổ sung Vitamin C v&amp;agrave;o nước uống&amp;hellip;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chuồng trại: d&amp;agrave;n m&amp;aacute;t bố tr&amp;iacute; m&amp;aacute;i che c&amp;oacute; thể k&amp;eacute;o xuống v&amp;agrave;o ban ng&amp;agrave;y, k&amp;eacute;o l&amp;ecirc;n v&amp;agrave;o ban đ&amp;ecirc;m cho gi&amp;oacute; m&amp;aacute;t v&amp;agrave;o, nền chuồng sạch sẽ, chất độn chuồng vừa phải, định kỳ thay chất độn chuồng dảm bảo kh&amp;ocirc; r&amp;aacute;o, sạch mầm bệnh, m&amp;aacute;i nh&amp;agrave; sử dụng tấm c&amp;aacute;ch nhiệt c&amp;oacute; thể phản xạ 98% nhiệt bức xạ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nước uống: cung cấp nước sạch v&amp;agrave; m&amp;aacute;t, tr&amp;aacute;nh bơm v&amp;agrave; phơi bể nước v&amp;agrave;o ng&amp;agrave;y nắng n&amp;oacute;ng. Tăng nước v&amp;agrave; bổ sung m&amp;aacute;ng uống, đường ống dẫn nước hoặc bể nước c&amp;oacute; thể x&amp;acirc;y ngầm hoặc m&amp;aacute;i c&amp;aacute;ch nhiệt để giữ nước m&amp;aacute;t, bổ sung Vitamin C, đường, điện giải gi&amp;uacute;p g&amp;agrave; giải nhiệt v&amp;agrave; tăng sức đề kh&amp;aacute;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dinh dưỡng: hợp l&amp;yacute;, tăng số bữa ăn trong ng&amp;agrave;y v&amp;agrave; v&amp;agrave;o thời điểm m&amp;aacute;t mẻ (6h s&amp;aacute;ng, 6h chiều v&amp;agrave; 22h tối), bổ sung canxi, tăng m&amp;aacute;ng ăn, bổ sung axit amin D, L &amp;ndash; methionine gi&amp;uacute;p tăng khả năng ti&amp;ecirc;u h&amp;oacute;a v&amp;agrave; hấp thụ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;T&amp;agrave;i liệu hướng dẫn chi tiết về ph&amp;ograve;ng tr&amp;aacute;nh stress nhi&amp;ecirc;t tr&amp;ecirc;n g&amp;agrave; do chuy&amp;ecirc;n gia Th&amp;uacute; y Tập đo&amp;agrave;n Mavin bi&amp;ecirc;n soạn - click &lt;em&gt;&lt;strong&gt;&lt;a href="https://issuu.com/tapdoanmavin/docs/stress_nhiet_tren_gia_cam"&gt;TẠI Đ&amp;Acirc;Y&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; để xem chi tiết:&lt;/p&gt;</processContent_html>
+	<createdDate>2020-07-28T11:29:42.003Z</createdDate>
+	<createdDate_dt>2020-07-31T07:56:31.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T07:56:29.494Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T07:56:29.494Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

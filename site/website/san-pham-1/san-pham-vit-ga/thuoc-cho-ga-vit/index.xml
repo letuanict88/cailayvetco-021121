@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>28a0</objectGroupId>
+	<objectId>28a0934f-9be0-9119-b0d8-09e2ad4cd54c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thuoc-cho-ga-vit</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d7106bb8-7cca-f3a7-35c2-f449e3ce0150</key>
+	<value>Slide</value>
+<component id="d7106bb8-7cca-f3a7-35c2-f449e3ce0150">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d710</objectGroupId>
+	<objectId>d7106bb8-7cca-f3a7-35c2-f449e3ce0150</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>d7106bb8-7cca-f3a7-35c2-f449e3ce0150.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T09:10:49.493Z</createdDate>
+	<createdDate_dt>2020-08-03T09:10:49.493Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:10:49.493Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:10:49.493Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>017da3c7-5b9e-e196-cda2-9aa1b7888ef2</key>
+	<value>Sản phẩm dành gà vịt</value>
+<component id="017da3c7-5b9e-e196-cda2-9aa1b7888ef2">
+	<content-type>/component/nhomsanphamcon</content-type>
+	<display-template>/templates/web/component/group-child-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>017d</objectGroupId>
+	<objectId>017da3c7-5b9e-e196-cda2-9aa1b7888ef2</objectId>
+	<file-name>017da3c7-5b9e-e196-cda2-9aa1b7888ef2.xml</file-name>
+	<internal-name>Sản phẩm dành gà vịt</internal-name>
+	<title_s>Sản phẩm dành cho gà - vịt</title_s>
+	<rightTitle_s>CL.NEOTESUL</rightTitle_s>
+	<groupProductImg1_s>/static-assets/images/products/San pham (cho Ga - Vit ANH).png</groupProductImg1_s>
+	<groupProductImg2_s>/static-assets/images/products/San pham (cho Ga - Vit NHOM).png</groupProductImg2_s>
+	<groupproductchild_o item-list="true">	<item>	<groupChildProductName_s>Nhóm thuốc bồi dưỡng/tăng sức đề kháng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 1).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/boi-duong-tang-suc-de-khang</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc/kháng sinh</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 2).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/khang-sinh</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc giảm đau/Hạ sốt, kháng viêm</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 3).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/giam-dau-ha-sot-khang-viem</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc ký sinh trùng/nấm, cầu trùng</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 4).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/ky-sinh-trung-nam-cau-trung</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc sát trùng/thuốc dùng ngoài</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 5).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/sat-trung-dung-ngoai</groupChildProductURL_s>
+	</item>	<item>	<groupChildProductName_s>Nhóm thuốc hỗ trợ/sinh sản và hỗ trợ khác</groupChildProductName_s>
+	<groupChildProductImage_s>/static-assets/images/products/icons/San pham (cho Ga - Vit 6).png</groupChildProductImage_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/nhom-san-pham/ho-tro-sinh-san-ho-tro-khac</groupChildProductURL_s>
+	</item></groupproductchild_o>
+	<createdDate>2020-08-03T09:11:27.536Z</createdDate>
+	<createdDate_dt>2020-08-03T09:11:27.536Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T09:57:31.464Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T09:57:31.464Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>Các Nhóm Sản phẩm dành cho gà vịt</internal-name>
+	<navLabel>Các Nhóm Sản phẩm dành cho gà vịt</navLabel>
+	<t_s>Sản phẩm dành cho gà - vịt</t_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-08-03T09:09:27.088Z</createdDate>
+	<createdDate_dt>2020-08-03T09:09:27.088Z</createdDate_dt>
+	<lastModifiedDate>2020-08-26T09:57:25.461Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-26T09:57:25.461Z</lastModifiedDate_dt>
+</page>

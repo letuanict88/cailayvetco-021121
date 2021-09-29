@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>eda2</objectGroupId>
+	<objectId>eda27ece-67dd-7898-ed0c-0e72715b1aee</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide_home.png</image_s>
+	</item></slide_o>
+	<file-name>eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</file-name>
+	<internal-name> Header - Tin tức</internal-name>
+	<createdDate>2020-06-23T07:55:32.642Z</createdDate>
+	<createdDate_dt>2020-06-23T07:55:32.642Z</createdDate_dt>
+	<lastModifiedDate>2020-07-16T04:37:54.542Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-16T04:37:54.542Z</lastModifiedDate_dt>
+</component>

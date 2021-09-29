@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>110b</objectGroupId>
+	<objectId>110bc91a-785d-6165-e2f6-105ec79d34b3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-chet-som-tren-tom</folder-name>
+	<internal-name>Bệnh chết sớm trên tôm </internal-name>
+	<navLabel>Bệnh chết sớm trên tôm</navLabel>
+	<diseaseName_s>Bệnh chết sớm trên tôm</diseaseName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>d39abc96-d634-ddf2-e82a-48301ca9c4f8</key>
+	<value>Slide </value>
+<component id="d39abc96-d634-ddf2-e82a-48301ca9c4f8">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d39a</objectGroupId>
+	<objectId>d39abc96-d634-ddf2-e82a-48301ca9c4f8</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-tom-title.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide </internal-name>
+	<file-name>d39abc96-d634-ddf2-e82a-48301ca9c4f8.xml</file-name>
+	<createdDate>2020-06-26T08:04:59.728Z</createdDate>
+	<createdDate_dt>2020-06-26T08:04:59.728Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:04:12.520Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:04:12.520Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistance_o>	<item>	<key>benh-thuy-san</key>
+	<value_smv>Bệnh thủy sản</value_smv>
+	</item></technicalAssistance_o>
+	<diseaseContent_html>&lt;p&gt;TỔNG QUAN&lt;/p&gt;
+&lt;p&gt;Bệnh t&amp;ocirc;m chết sớm (Early Mortality Syndrome - EMS) cũng&amp;nbsp; c&amp;ograve;n&amp;nbsp; gọi&amp;nbsp; l&amp;agrave;&amp;nbsp; chứng&amp;nbsp; hoại&amp;nbsp; tử&amp;nbsp; gan - tụy cấp (Acute Hepatopancreatic Necrosis Syndrome &amp;ndash; AHPNS) l&amp;agrave; bệnh thiệt hại nghi&amp;ecirc;m trọng cho t&amp;ocirc;m nu&amp;ocirc;i tại Việt Nam (cả t&amp;ocirc;m thẻ ch&amp;acirc;n trắng lẩn t&amp;ocirc;m s&amp;uacute;) d&amp;ugrave; l&amp;agrave; nu&amp;ocirc;i th&amp;acirc;m canh hoặc b&amp;aacute;n th&amp;acirc;m canh.&lt;/p&gt;
+&lt;p&gt;Bệnh được ghi nhận lần đầu ti&amp;ecirc;n ở Trung Quốc năm 2009, tại Việt Nam năm 2010, ở Malaysia v&amp;agrave; Th&amp;aacute;i Lan năm 2011 v&amp;agrave; ở Mexico năm 2013.&lt;/p&gt;
+&lt;p&gt;Năm 2010, Ph&amp;ograve;ng nghi&amp;ecirc;n cứu Bệnh học Thuỷ sản, Trường Đại học Arizona (Ph&amp;ograve;ng nghi&amp;ecirc;n cứu của GS. Donald Lightner - UAZ-AP) nghi&amp;ecirc;n cứu v&amp;agrave; chỉ r&amp;otilde;&amp;nbsp; nguy&amp;ecirc;n nh&amp;acirc;n g&amp;acirc;y bệnh.&lt;/p&gt;
+&lt;p&gt;NGUY&amp;Ecirc;N NH&amp;Acirc;N&lt;/p&gt;
+&lt;p&gt;Được cho l&amp;agrave; do vi khuẩn Vibrio parahaemolyticus cư tr&amp;uacute; trong đường ti&amp;ecirc;u h&amp;oacute;a của t&amp;ocirc;m g&amp;acirc;y ra, nhưng theo một cơ chế kh&amp;aacute; phức tạp.&lt;/p&gt;
+&lt;p&gt;H&amp;igrave;nh th&amp;aacute;i vi khuẩn Vibrio parahaemolyticus&lt;/p&gt;
+&lt;p&gt;Vibrio parahaemolyticus được cho l&amp;agrave; k&amp;yacute; sinh tr&amp;ecirc;n rất nhiều đối tượng thủy sinh vật như cua, t&amp;ocirc;m, h&amp;agrave;u, ốc, kể cả k&amp;yacute; sinh tr&amp;ugrave;ng...ch&amp;uacute;ng cũng b&amp;ugrave;ng ph&amp;aacute;t theo c&amp;aacute;c điều kiện sau:&lt;/p&gt;
+&lt;p&gt;+ Khi tảo t&amp;agrave;n (v&amp;igrave; tảo chết l&amp;agrave; nguồn hữu cơ tốt cho vi khuẩn n&amp;agrave;y).&lt;/p&gt;
+&lt;p&gt;+ Khi nguồn hữu cơ trong ao cao.&lt;/p&gt;
+&lt;p&gt;+ Khi độ mặn cao.&lt;/p&gt;
+&lt;p&gt;+ Khi pH cao.&lt;/p&gt;
+&lt;p&gt;+ Khi nhiệt độ cao.&lt;/p&gt;
+&lt;p&gt;+ Khi ao nu&amp;ocirc;i c&amp;oacute; nhiều ốc, h&amp;agrave;u v&amp;agrave; k&amp;yacute; sinh tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;Theo t&amp;agrave;i liệu của FAO (2011) th&amp;igrave; lo&amp;agrave;i Vibrio parahaemolyticus c&amp;oacute; c&amp;aacute;c khoảng chịu đựng cũng như c&amp;aacute;c khoảng tối ưu cho sự ph&amp;aacute;t triển như sau:&lt;/p&gt;
+&lt;p&gt;Noriaki Akazawa đ&amp;atilde; thống k&amp;ecirc; 80 ao nu&amp;ocirc;i nhiễm v&amp;agrave; kh&amp;ocirc;ng nhiễm EMS trong c&amp;ugrave;ng thời điểm nu&amp;ocirc;i cho thấy chất lượng nước kh&amp;aacute;c nhau c&amp;oacute; li&amp;ecirc;n quan đến EMS. T&amp;aacute;c giả sau đ&amp;oacute; thực hiện th&amp;iacute; nghiệm trong c&amp;aacute;c bể k&amp;iacute;nh c&amp;oacute; kiểm so&amp;aacute;t c&amp;aacute;c yếu kh&amp;aacute;c nhau chất lượng nước với kết quả cho thấy ở pH thấp (về gần 7) c&amp;oacute; tốc độ l&amp;acirc;y nhiễm EMS chậm hơn so với ở pH cao (8,5 đến 8,8).&lt;/p&gt;
+&lt;p&gt;Cơ chế g&amp;acirc;y bệnh EMS&lt;/p&gt;
+&lt;p&gt;Trong cơ chế n&amp;agrave;y Vibrio parahaemolyticus chỉ thực sự c&amp;oacute; được độc lực khi:&lt;/p&gt;
+&lt;p&gt;- T&amp;iacute;ch hợp được với phage tương th&amp;iacute;ch.&lt;/p&gt;
+&lt;p&gt;- Tạo được c&amp;aacute;c colonies c&amp;oacute; lớp biofilm bao bọc v&amp;agrave; v&amp;agrave; sinh được độc tố (toxine).&lt;/p&gt;
+&lt;p&gt;V&amp;agrave; cuối c&amp;ugrave;ng t&amp;ocirc;m chết l&amp;agrave; do độc tố vi khuẩn Vibrio parahaemolyticus tiết ra l&amp;agrave;m rối loạn chức năng gan tụy v&amp;agrave; hoại tử m&amp;ocirc; gan tụy.&lt;/p&gt;
+&lt;p&gt;Ch&amp;iacute;nh cơ chế n&amp;agrave;y giải th&amp;iacute;ch l&amp;yacute; do tại sao kh&amp;oacute; ph&amp;ograve;ng bệnh v&amp;agrave; việc điều trị bằng kh&amp;aacute;ng sinh kh&amp;ocirc;ng mang lại hiệu quả mong muốn.&lt;/p&gt;
+&lt;p&gt;DẤU HIỆU BỆNH&lt;/p&gt;
+&lt;p&gt;Tr&amp;ecirc;n cả đ&amp;agrave;n t&amp;ocirc;m&lt;/p&gt;
+&lt;p&gt;- Giai đoạn đầu c&amp;aacute;c triệu chứng bệnh thường kh&amp;ocirc;ng r&amp;otilde; r&amp;agrave;ng.&lt;/p&gt;
+&lt;p&gt;- T&amp;ocirc;m chậm lớn v&amp;agrave; chết ở đ&amp;aacute;y ao.&lt;/p&gt;
+&lt;p&gt;- Tiếp theo t&amp;ocirc;m bệnh c&amp;oacute; hiện tượng vỏ mềm v&amp;agrave; biến m&amp;agrave;u.&lt;/p&gt;
+&lt;p&gt;- T&amp;ocirc;m bị bệnh thường lờ đờ, nơi tấp m&amp;eacute;, quay đảo tr&amp;ecirc;n mặt nước, giảm ăn v&amp;agrave; chết sau đ&amp;oacute;.&lt;/p&gt;
+&lt;p&gt;- T&amp;ocirc;m c&amp;oacute; thể chết rất nhanh sau khi ph&amp;aacute;t hiện bệnh 2-3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Nhiều trường hợp ghi nhận t&amp;ocirc;m ngưng chết khi ngưng cho ăn v&amp;agrave; sau đ&amp;oacute; chết rất nhanh khi cho ăn trở lại&lt;/p&gt;
+&lt;p&gt;Tr&amp;ecirc;n c&amp;aacute; thể t&amp;ocirc;m bệnh&lt;/p&gt;
+&lt;p&gt;- Gan t&amp;ocirc;m bệnh thường gặp c&amp;oacute; nhiều trạng th&amp;aacute;i kh&amp;aacute;c nhau như:&lt;/p&gt;
+&lt;p&gt;+ Sưng to, mềm nhũn.&lt;/p&gt;
+&lt;p&gt;+ Biến m&amp;agrave;u.&lt;/p&gt;
+&lt;p&gt;+ Nhiều trường hợp gan bị teo nhỏ v&amp;agrave; dai.&lt;/p&gt;
+&lt;p&gt;+ Vỏ mềm, đục cơ.&lt;/p&gt;
+&lt;p&gt;- Giải phẩu m&amp;ocirc; học thường ph&amp;aacute;t hiện:&lt;/p&gt;
+&lt;p&gt;+ Đốm đen tr&amp;ecirc;n gan.&lt;/p&gt;
+&lt;p&gt;+ Tế b&amp;agrave;o gan bị hoại tử.&lt;/p&gt;
+&lt;p&gt;+ Lượng chất b&amp;eacute;o dự trữ trong gan hầu như kh&amp;ocirc;ng c&amp;ograve;n.&lt;/p&gt;
+&lt;p&gt;+ Mẫu gan tụy bị bội nhiễm ở c&amp;aacute;c mức độ kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p&gt;+ Kiểm tra PCR&amp;nbsp; kh&amp;ocirc;ng thấy virus.&lt;/p&gt;
+&lt;p&gt;Gan tụy đục, chết nhiều, c&amp;oacute; thể ph&amp;aacute;t s&amp;aacute;ng&lt;/p&gt;
+&lt;p&gt;Đục cơ do thiếu oxy&lt;/p&gt;
+&lt;p&gt;T&amp;ocirc;m chết sớm v&amp;agrave; nhiều&lt;/p&gt;
+&lt;p&gt;Khối gan tụy nhạt m&amp;agrave;u, nhỏ&lt;/p&gt;
+&lt;p&gt;So s&amp;aacute;nh gan tụy v&amp;agrave; ruột&amp;nbsp; giữa t&amp;ocirc;m khỏe (A) v&amp;agrave; t&amp;ocirc;m bệnh (B)&lt;/p&gt;
+&lt;p&gt;Cả 2 mẫu t&amp;ocirc;m thẻ ch&amp;acirc;n trắng bị nhiễm EMS với cơ quan gan tụy bị teo&lt;/p&gt;
+&lt;p&gt;Hiện tượng t&amp;ocirc;m tre&lt;/p&gt;
+&lt;p&gt;GIẢI PH&amp;Aacute;P&lt;/p&gt;
+&lt;p&gt;Biện ph&amp;aacute;p chung: RẤT KH&amp;Oacute; TRỊ BỆNH V&amp;Igrave; T&amp;Ocirc;M CHẾT DO ĐỘC TỐ.&lt;/p&gt;
+&lt;p&gt;- Điều chỉnh m&amp;ocirc;i trường nu&amp;ocirc;i: pH: 7.5, kiềm: 100, tăng oxy.&lt;/p&gt;
+&lt;p&gt;- Xử l&amp;yacute; m&amp;ocirc;i trường nu&amp;ocirc;i: MEKODINE-FORT 300.&lt;/p&gt;
+&lt;p&gt;- Giảm lượng thức ăn: bỏ đ&amp;oacute;i 2 ng&amp;agrave;y, tăng lượng thức ăn dần l&amp;ecirc;n cho dạt 80% sau 10 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;- Th&amp;ecirc;m v&amp;agrave;o thức ăn MKV-NEW GRO SHRIMP + VIMILAC.&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng&amp;nbsp; IMMUNOSAFE + kh&amp;aacute;ng sinh để thanh to&amp;aacute;n mầm bệnh.&lt;/p&gt;
+&lt;p&gt;- Phục hồi ngay trạng th&amp;aacute;i ao nu&amp;ocirc;i với vi sinh vật c&amp;oacute; lợi.&lt;/p&gt;
+&lt;p&gt;- T&amp;ocirc;m đ&amp;atilde; giảm bệnh n&amp;ecirc;n cho th&amp;ecirc;m CALCIMIX.&lt;/p&gt;
+&lt;p&gt;Cơ sở thanh to&amp;aacute;n mầm bệnh&lt;/p&gt;
+&lt;p&gt;PH&amp;Ograve;NG BỆNH&lt;/p&gt;
+&lt;p&gt;- N&amp;ecirc;n nu&amp;ocirc;i t&amp;ocirc;m tr&amp;ecirc;n bạt.&lt;/p&gt;
+&lt;p&gt;- Tr&amp;aacute;nh lấy nước biển trực tiếp v&amp;agrave;o ao nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p&gt;- Điều chỉnh c&amp;aacute;c th&amp;ocirc;ng số m&amp;ocirc;i trường nu&amp;ocirc;i cho th&amp;iacute;ch hợp.&lt;/p&gt;
+&lt;p&gt;- Giảm mật số vi tr&amp;ugrave;ng Vibrio v&amp;agrave; phage trong đường ti&amp;ecirc;u h&amp;oacute;a của t&amp;ocirc;m: d&amp;ugrave;ng IMMUNOSAFE + AMPICILLINE cho ăn suốt 10 ng&amp;agrave;y đầu ti&amp;ecirc;n sau khi thả; lập lại với IMMUNOSAFE + DOXYCYCLINE 2 ng&amp;agrave;y/ tuần cho đến khi t&amp;ocirc;m được 1,5 th&amp;aacute;ng.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng vi sinh vật c&amp;oacute; lợi cho m&amp;ocirc;i trường nu&amp;ocirc;i (chế phẩm c&amp;oacute; chứa Bacillus polymyxa, Bacillus licheniformis).&lt;/p&gt;
+&lt;p&gt;Thức ăn t&amp;ocirc;m n&amp;ecirc;n trộn th&amp;ecirc;m MKV-NEW GRO SHRIMP + VIMILAC.&lt;/p&gt;
+&lt;p&gt;MỘT SỐ THUỐC D&amp;Ugrave;NG TRONG BỆNH T&amp;Ocirc;M CHẾT SỚM&lt;/p&gt;
+&lt;p&gt;IMMUNOSAFE&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng: Trộn v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng tr&amp;ecirc;n T&amp;Ocirc;M CON : 2 - 4 ml / kg thức ăn.&lt;/p&gt;
+&lt;p&gt;- D&amp;ugrave;ng tr&amp;ecirc;n T&amp;Ocirc;M LỚN:&amp;nbsp; 1 - 2 ml / kg thức ăn&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng IMMUNOSAFE định k&amp;igrave; 3 ng&amp;agrave;y li&amp;ecirc;n tục/ tuần, sử dụng lập lại mỗi&amp;nbsp; tuần cho tất cả c&amp;aacute;c giai đoạn để tăng khả năng miễn dịch cho t&amp;ocirc;m.&lt;/p&gt;
+&lt;p&gt;Lưu &amp;yacute; khi sử dụng: C&amp;oacute; thể kết hợp với kh&amp;aacute;ng sinh để tăng hiệu quả điều trị.&lt;/p&gt;
+&lt;p&gt;CL-DOXY 20% (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm Vibrio tr&amp;ecirc;n t&amp;ocirc;m.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng: trộn v&amp;agrave;o thức ăn cho t&amp;ocirc;m theo liều 1g/kg thức ăn.&lt;/p&gt;
+&lt;p&gt;TERRAMYCIN 500 (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;Chỉ định điều trị nhiễm Vibrio tr&amp;ecirc;n t&amp;ocirc;m.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng: trộn v&amp;agrave;o thức ăn cho t&amp;ocirc;m theo liều 10g/kg thức ăn.&lt;/p&gt;
+&lt;p&gt;DEXASONE (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn k&amp;egrave;m với kh&amp;aacute;ng sinh.&lt;/p&gt;
+&lt;p&gt;Liều d&amp;ugrave;ng 5ml/kg thức ăn.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;MKV-NEW GRO SHRIM (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;- Cung cấp đầy đủ nhu cầu vitamin, acid amin v&amp;agrave; kho&amp;aacute;ng chất thiết yếu gi&amp;uacute;p t&amp;ocirc;m sinh trướng tốt, tăng trọng nhanh.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh thiếu vitamin v&amp;agrave; kho&amp;aacute;ng cho t&amp;ocirc;m. Tăng cường sức đề kh&amp;aacute;ng gi&amp;uacute;p t&amp;ocirc;m khỏe mạnh, đạt tỉ lệ sống cao.&lt;/p&gt;
+&lt;p&gt;- Sử dụng sản phẩm thường xuy&amp;ecirc;n giảm hệ số thức ăn (FCR), r&amp;uacute;t ngắn thời gian nu&amp;ocirc;i v&amp;agrave; đạt thuận lợi cao.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng v&amp;agrave; liều d&amp;ugrave;ng:&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn: 1kg/200-300 kg thức ăn (3-5g/kg thức ăn) hoặc 1kg thuốc cho 8-10 tấn t&amp;ocirc;m, d&amp;ugrave;ng li&amp;ecirc;n tục từ l&amp;uacute;c thả nu&amp;ocirc;i đến khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;VIMILAC (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;- Cung cấp đầy đủ nhu cầu vitamin, acid amin v&amp;agrave; kho&amp;aacute;ng chất thiết yếu gi&amp;uacute;p t&amp;ocirc;m sinh trướng tốt, tăng trọng nhanh.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng v&amp;agrave; trị c&amp;aacute;c bệnh thiếu vitamin v&amp;agrave; kho&amp;aacute;ng cho t&amp;ocirc;m. Tăng cường sức đề kh&amp;aacute;ng gi&amp;uacute;p t&amp;ocirc;m khỏe mạnh, đạt tỉ lệ sống cao.&lt;/p&gt;
+&lt;p&gt;- Sử dụng sản phẩm thường xuy&amp;ecirc;n giảm hệ số thức ăn (FCR), r&amp;uacute;t ngắn thời gian nu&amp;ocirc;i v&amp;agrave; đạt thuận lợi cao.&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng v&amp;agrave; liều d&amp;ugrave;ng:&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn: 1kg/200-300 kg thức ăn (3-5g/kg thức ăn) hoặc 1kg thuốc cho 8-10 tấn t&amp;ocirc;m, d&amp;ugrave;ng li&amp;ecirc;n tục từ l&amp;uacute;c thả nu&amp;ocirc;i đến khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;MEKODINE-FORT 300 (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;MEKOBENXIDE 80 (Th&amp;ocirc;ng tin chi tiết)&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;ch d&amp;ugrave;ng: H&amp;ograve;a tan 1 l&amp;iacute;t thuốc với 20-30 l&amp;iacute;t nước, t&amp;aacute;t đều xuống ao, mở m&amp;aacute;y quạt nước.&lt;/p&gt;
+&lt;p&gt;Liều d&amp;ugrave;ng:&lt;/p&gt;
+&lt;p&gt;- Vệ sinh dụng cụ, bể ương nu&amp;ocirc;i: 3-5ml/1m3 nước, ng&amp;acirc;m từ 10-12 giờ xả sạch.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;ograve;ng bệnh cho t&amp;ocirc;m: 1l&amp;iacute;t/1.500m3 nước, 2 tuần xử l&amp;yacute; 1 lần.&lt;/p&gt;
+&lt;p&gt;- Diệt mầm bệnh l&amp;uacute;c chuẩn bị ao: 1l&amp;iacute;t/1.000m3 nước, để y&amp;ecirc;n 4-5 ng&amp;agrave;y trước khi thả nu&amp;ocirc;i. Diệt mầm bệnh l&amp;uacute;c t&amp;ocirc;m mắc bệnh: 1l&amp;iacute;t/1.200m3 nước, 3 ng&amp;agrave;y xử l&amp;yacute; 1 lần. Diệt bớt c&amp;aacute;c lo&amp;agrave;i tảo, gi&amp;uacute;p ổn định độ trong: 1l&amp;iacute;t/2.000m3 nước, l&amp;uacute;c trời nắng.&lt;/p&gt;
+&lt;p&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-06-26T08:04:17.634Z</createdDate>
+	<createdDate_dt>2020-07-31T07:05:21.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:04:54.271Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:04:54.271Z</lastModifiedDate_dt>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-thuy-san</parentURL_s>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

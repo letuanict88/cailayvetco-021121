@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupportdetail</content-type>
+	<display-template>/templates/web/page/technical-assis-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f234</objectGroupId>
+	<objectId>f2341a32-445b-8528-d901-5ed4fa91f92e</objectId>
+	<internal-name>Bệnh bại huyết trên vịt</internal-name>
+	<navLabel>Bệnh bại huyết trên vịt</navLabel>
+	<diseaseName_s>Bệnh bại huyết trên vịt</diseaseName_s>
+	<parentURL_s>/ho-tro-ky-thuat/nhom/benh-g-i-suc-gia-cam</parentURL_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-bai-huyet-tren-vit</folder-name>
+	<technicalAssistance_o>	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value_smv>Bệnh gia súc - gia cầm</value_smv>
+	</item></technicalAssistance_o>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>a4df0321-f7d2-990d-74de-6dccf4c121f5</key>
+	<value>slide</value>
+<component id="a4df0321-f7d2-990d-74de-6dccf4c121f5">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a4df</objectGroupId>
+	<objectId>a4df0321-f7d2-990d-74de-6dccf4c121f5</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<file-name>a4df0321-f7d2-990d-74de-6dccf4c121f5.xml</file-name>
+	<internal-name>slide</internal-name>
+	<createdDate>2020-07-31T09:30:22.848Z</createdDate>
+	<createdDate_dt>2020-07-31T09:30:22.848Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:30:22.848Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:30:22.848Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<diseaseContent_html>&lt;p style="text-align: justify;"&gt;I. TỔNG QUAN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh thấy tr&amp;ecirc;n mọi hạng tuổi của vịt&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vịt con dễ nhiễm hơn vịt lớn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vịt c&amp;agrave;ng lớn tỉ lệ chết v&amp;igrave; bệnh c&amp;agrave;ng cao&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;ocirc;i khi cũng gặp ở gia cầm kh&amp;aacute;c (ngỗng, g&amp;agrave; t&amp;acirc;y)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đ&amp;acirc;y l&amp;agrave; bệnh nhiễm tr&amp;ugrave;ng huyết cấp, vi&amp;ecirc;m thanh dịch&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;II. NGUY&amp;Ecirc;N NH&amp;Acirc;N&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh do vi khuẩn Riemerella anatipestifer g&amp;acirc;y ra. Đ&amp;acirc;y l&amp;agrave; một vi khuẩn gram &amp;acirc;m&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh c&amp;oacute; l&amp;acirc;y trực tiếp hoặc gi&amp;aacute;n tiếp; nhất l&amp;agrave; tr&amp;ecirc;n vịt c&amp;oacute; nhiều tổn thương tr&amp;ecirc;n da, bộ l&amp;ocirc;ng hư hỏng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh thường xuất hiện sau ng&amp;agrave;y mưa k&amp;eacute;o d&amp;agrave;i, thời tiết ẩm ướt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;III. TRIỆU CHỨNG&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* THỂ CẤP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khẹc nhẹ v&amp;agrave; hắt hơi, mắt v&amp;agrave; ni&amp;ecirc;m mạc mũi tiết dịch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- K&amp;eacute;m ăn, ti&amp;ecirc;u chảy ph&amp;acirc;n xanh dẫn đến gầy, yếu n&amp;ecirc;n lu&amp;ocirc;n tụt lại sau đ&amp;agrave;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Nếu bị k&amp;iacute;ch động ch&amp;uacute;ng chạy loạng choạng một đoạn rồi ng&amp;atilde; nh&amp;agrave;o v&amp;agrave; nằm ngửa ra.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bơi th&amp;agrave;nh v&amp;ograve;ng tr&amp;ograve;n tr&amp;ecirc;n mặt nước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi đi đầu lắc lư, ch&amp;acirc;n khập khiễng, x&amp;atilde; c&amp;aacute;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* THỂ QU&amp;Aacute; CẤP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vịt chết đột ngột kh&amp;ocirc;ng c&amp;oacute; dấu hiệu r&amp;otilde;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;III. BỆNH T&amp;Iacute;CH&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* THỂ QU&amp;Aacute; CẤP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- M&amp;agrave;ng tim bị vi&amp;ecirc;m c&amp;oacute; dịch v&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- M&amp;agrave;ng gan bị vi&amp;ecirc;m c&amp;oacute; lớp dịch dịch đục.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;uacute;i kh&amp;iacute; thường hơi đục hoặc d&amp;agrave;y l&amp;ecirc;n ở một số điểm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* THỂ CẤP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bề mặt gan phủ một lớp fibrin d&amp;agrave;y đục&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;uacute;i kh&amp;iacute; vi&amp;ecirc;m nặng v&amp;agrave; dai, chắc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thận t&amp;iacute;ch urate.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ở xoang mắt đ&amp;ocirc;i khi cũng c&amp;oacute; chất b&amp;atilde; đậu trắng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vi&amp;ecirc;m m&amp;agrave;ng n&amp;atilde;o&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;IV. CHẨN ĐO&amp;Aacute;N&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bệnh bại huyết tr&amp;ecirc;n vịt rất dể lầm với c&amp;aacute;c bệnh:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh vi&amp;ecirc;m gan do virus&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh c&amp;uacute;m&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bệnh tụ huyết tr&amp;ugrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;aacute;c trường hợp bội nhiễm bởi&amp;nbsp; E.coli&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V. GIẢI PH&amp;Aacute;P&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chuyển đ&amp;agrave;n vịt l&amp;ecirc;n cạn v&amp;agrave; cố định chỗ nhốt&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;ocirc;ng để đ&amp;agrave;n vịt kh&amp;aacute;c đến gần đ&amp;agrave;n vịt c&amp;oacute; bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- T&amp;aacute;ch ri&amp;ecirc;ng vịt c&amp;oacute; triệu chứng bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tạo điều kiện cho đ&amp;agrave;n vịt ăn uống tr&amp;ecirc;n cạn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;u độc chỗ nhốt vịt h&amp;agrave;ng ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ti&amp;ecirc;u hủy vịt chết&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cấp thuốc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Với số vịt c&amp;oacute; triệu chứng bệnh: chọn 1 trong 2 ph&amp;aacute;c đồ sau để ti&amp;ecirc;m li&amp;ecirc;n tục 3 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- AMPICILLIN + GENTAMYCIN + B.COMPLEX SUPER&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- CATAXIM + B.COMPLEX SUPER&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Với cả đ&amp;agrave;n vịt c&amp;oacute; bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- CL-AMOXCOLI + MEKOSAL + BAN N&amp;Oacute;NG GIA S&amp;Uacute;C pha v&amp;agrave;o nước uống li&amp;ecirc;n tục trong 5 ng&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Khi t&amp;igrave;nh trạng bệnh thuy&amp;ecirc;n giảm d&amp;ugrave;ng MKV-GROWTH NEW + VIMILAC PLUS 2&amp;nbsp; trộn v&amp;agrave;o thức ăn khoảng 1 tuần cho vịt mau hồi phục&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;* Ph&amp;ograve;ng bệnh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điều trị dự ph&amp;ograve;ng với CL-AMOXCOLI trộn v&amp;agrave;o thức ăn khi c&amp;oacute; thay đổi thời tiết, stress.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Vaccine chưa phổ biến ở Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo V&amp;otilde; Văn Ngầu (MEKOVET)&lt;/p&gt;</diseaseContent_html>
+	<createdDate>2020-07-31T09:28:28.524Z</createdDate>
+	<createdDate_dt>2020-07-31T09:28:29.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T09:28:28.524Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T09:28:28.524Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/page/landing-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a9e1</objectGroupId>
+	<objectId>a9e1c2ef-f754-fde9-fba5-c88a66e09caf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>san-pham</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Sản phẩm</internal-name>
+	<navLabel>Sản phẩm</navLabel>
+	<t_s>Sản phẩm</t_s>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>b6c89187-a8da-02aa-bdd5-fdf71d48283e</key>
+	<value>Slide</value>
+<component id="b6c89187-a8da-02aa-bdd5-fdf71d48283e">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b6c8</objectGroupId>
+	<objectId>b6c89187-a8da-02aa-bdd5-fdf71d48283e</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/product-slide-txt.png</image_s>
+	</item></slide_o>
+	<file-name>b6c89187-a8da-02aa-bdd5-fdf71d48283e.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-06-29T10:38:11.397Z</createdDate>
+	<createdDate_dt>2020-06-29T10:38:11.397Z</createdDate_dt>
+	<lastModifiedDate>2020-07-20T02:14:10.082Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T02:14:10.082Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="section" inline="true">	<key>4e9c6067-52f1-9da5-5530-87813985969d</key>
+	<value>Nhóm sản phẩm cha</value>
+<component id="4e9c6067-52f1-9da5-5530-87813985969d">
+	<content-type>/component/nhomsanphamcha</content-type>
+	<display-template>/templates/web/component/group-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e9c</objectGroupId>
+	<objectId>4e9c6067-52f1-9da5-5530-87813985969d</objectId>
+	<groupProduct_o item-list="true">	<item>	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-trau-bo.png</groupProductIcon_s>
+	<groupProductName_s>SẢN PHẨM CHO TRÂU - BÒ</groupProductName_s>
+	<groupChildProductURL_s>/san-pham-1/sp-trau-bo/thuoc-cho-trau-bo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO HEO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/Thiết kế không tên.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-heo/thuoc-cho-heo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO GÀ - VỊT</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/a-vit.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/san-pham-vit-ga/thuoc-cho-ga-vit</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO CHÓ - MÈO</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/cho-meo.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-cho-meo/thuoc-cho-meo</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO TÔM - CÁ</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/ca-tom.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-thuy-san/thuoc-cho-thuy-san</groupChildProductURL_s>
+	</item>	<item>	<groupProductName_s>SẢN PHẨM CHO LOÀI VẬT KHÁC</groupProductName_s>
+	<groupProductIcon_s>/static-assets/images/products/icons/thuoc-loai-vat-khac.png</groupProductIcon_s>
+	<groupChildProductURL_s>/san-pham-1/sp-cho-loai-khac/thuoc-cho-loai-vat-khac</groupChildProductURL_s>
+	</item></groupProduct_o>
+	<file-name>4e9c6067-52f1-9da5-5530-87813985969d.xml</file-name>
+	<internal-name>Nhóm sản phẩm cha</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<createdDate>2020-06-23T03:39:50.888Z</createdDate>
+	<createdDate_dt>2020-06-23T03:39:50.888Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:51:39.270Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:51:39.270Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2020-06-23T03:28:29.300Z</createdDate>
+	<createdDate_dt>2020-06-23T03:28:29.300Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T09:51:32.516Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T09:51:32.516Z</lastModifiedDate_dt>
+</page>

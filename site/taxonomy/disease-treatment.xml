@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>be18</objectGroupId>
+	<objectId>be18efaf-6a60-7f58-290c-345475198270</objectId>
+	<items item-list="true">	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value>Poultry disease</value>
+	</item>	<item>	<key>benh-thuy-san</key>
+	<value>Fish disease</value>
+	</item>	<item>	<key>benh-thu-cung</key>
+	<value>Pet disease</value>
+	</item></items>
+	<file-name>disease-treatment.xml</file-name>
+	<folder-name/>
+	<internal-name>Disease &amp; Treatment</internal-name>
+	<createdDate>2020-07-13T03:21:29.159Z</createdDate>
+	<createdDate_dt>2020-07-13T03:21:29.159Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T03:21:29.159Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T03:21:29.159Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>874d</objectGroupId>
+	<objectId>874d7f84-d465-b56d-c18a-71c3c75bfb46</objectId>
+	<description_t>Quan hệ cổ đông</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/f325bd65-0b15-3b5c-c990-62026748e3eb.xml</key>
+	<value>Header - Quan hệ cổ đông </value>
+	<include>/site/items/slides/f325bd65-0b15-3b5c-c990-62026748e3eb.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>137e05f7-bcd6-d1f9-2469-5baebe81ebbd</key>
+	<value>Content - Quan he co dong</value>
+<component id="137e05f7-bcd6-d1f9-2469-5baebe81ebbd">
+	<content-type>/component/quanhecodong</content-type>
+	<display-template>/templates/web/quanhecodong.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>137e</objectGroupId>
+	<objectId>137e05f7-bcd6-d1f9-2469-5baebe81ebbd</objectId>
+	<file-name>137e05f7-bcd6-d1f9-2469-5baebe81ebbd.xml</file-name>
+	<internal-name>Content - Quan he co dong</internal-name>
+	<createdDate>2020-07-07T07:46:51.759Z</createdDate>
+	<createdDate_dt>2020-07-07T07:46:51.759Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T07:46:51.759Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T07:46:51.759Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>quan-he-co-dong</folder-name>
+	<internal-name>Quan hệ cổ đông</internal-name>
+	<navLabel>Quan hệ cổ đông</navLabel>
+	<title_s>Quan hệ cổ đông</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-07-07T07:16:21.363Z</createdDate>
+	<createdDate_dt>2020-07-07T07:16:21.363Z</createdDate_dt>
+	<lastModifiedDate>2020-07-07T07:46:44.648Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-07T07:46:44.648Z</lastModifiedDate_dt>
+</page>

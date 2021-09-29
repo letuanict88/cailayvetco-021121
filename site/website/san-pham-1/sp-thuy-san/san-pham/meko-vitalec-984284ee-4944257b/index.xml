@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>57154571</objectGroupId>
+	<objectId>57154571-2115-4bc2-9836-3fcc4fb8d164</objectId>
+	<isHot_b>false</isHot_b>
+	<internal-name>MEKO-SULFAN (TÔM)</internal-name>
+	<navLabel>MEKO-SULFAN (TÔM)</navLabel>
+	<productName_s>MEKO-SULFAN (TÔM)</productName_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>meko-vitalec-984284ee-4944257b</folder-name>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-tom-ca</key>
+	<value_smv>Sản phẩm cho tôm - cá</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-phong-tri-benh</key>
+	<value_smv>Nhóm thuốc Phòng, trị bệnh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/MEKO-SYLFAN TOM 100g (MAT TRUOC).png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 47.7961%;"&gt;
+&lt;p&gt;&lt;strong&gt;TH&amp;Agrave;NH PHẦN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sulfamethoxazol 100g&lt;/p&gt;
+&lt;p&gt;Trimethoprim&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;20g&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 500&lt;/p&gt;
+&lt;p&gt;C&amp;Ocirc;NG DỤNG&lt;/p&gt;
+&lt;p&gt;Trị c&amp;aacute;c bệnh ph&amp;aacute;t s&amp;aacute;ng do vi khuẩn Vibrio tr&amp;ecirc;n t&amp;ocirc;m. Đặc biệt thuốc được sản xuất bằng c&amp;ocirc;ng nghệ vi bọc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LIỀU LƯỢNG SỬ DỤNG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn đều v&amp;agrave;o thức ăn.&lt;/p&gt;
+&lt;p&gt;Ng&amp;agrave;y cho ăn 2 lần, n&amp;ecirc;n sử dụng li&amp;ecirc;n tục trong suốt qu&amp;aacute; tr&amp;igrave;nh nu&amp;ocirc;i.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 4.13221%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 48.0716%;"&gt;
+&lt;p&gt;- Liều ph&amp;ograve;ng: 1g/10kg t&amp;ocirc;m&lt;/p&gt;
+&lt;p&gt;- Liều trị: 1g/5kg t&amp;ocirc;m&lt;/p&gt;
+&lt;p&gt;C&amp;oacute; thể phối hợp kh&amp;aacute;ng sinh kh&amp;aacute;c để tăng hiệu quả điều trị bệnh nhiễm tr&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;Ngưng sử dụng thuốc 4 tuần trước khi thu hoạch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BẢO QUẢN&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nơi kh&amp;ocirc; m&amp;aacute;t v&amp;agrave; tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<createdDate>2020-08-04T04:37:20.369Z</createdDate>
+	<createdDate_dt>2020-08-04T04:37:20.369Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T06:57:58.789Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T06:57:58.789Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T04:37:20.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

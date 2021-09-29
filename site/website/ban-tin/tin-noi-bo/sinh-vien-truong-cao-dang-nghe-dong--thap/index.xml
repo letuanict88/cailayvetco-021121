@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5263</objectGroupId>
+	<objectId>5263ea21-34dc-bf8d-c9f9-e89ad9775b8f</objectId>
+	<internal-name>Sinh viên Trường Cao đẳng nghề Đồng Tháp đến tham quan thực tế Công ty</internal-name>
+	<navLabel>Sinh viên Trường Cao đẳng nghề Đồng Tháp đến tham </navLabel>
+	<title_s>Sinh viên Trường Cao đẳng nghề Đồng Tháp đến tham quan thực tế Công ty</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>sinh-vien-truong-cao-dang-nghe-dong--thap</folder-name>
+	<categories_o>	<item>	<key>internalnews</key>
+	<value_smv>Tin nội bộ</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/cailayvetco_30.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Tham quan doanh nghiệp l&amp;agrave; cơ hội tốt để sinh vi&amp;ecirc;n tiếp cận thực tế, dễ d&amp;agrave;ng gi&amp;uacute;p HSSV h&amp;igrave;nh dung b&amp;agrave;i học l&amp;yacute; thuyết ở trường 1 c&amp;aacute;ch hiệu quả. Đồng thời, sự trải nghiệm n&amp;agrave;y kh&amp;ocirc;ng chỉ đơn thuần gi&amp;uacute;p sinh vi&amp;ecirc;n t&amp;igrave;m hiểu quy tr&amp;igrave;nh hoạt động, sản xuất, kinh doanh m&amp;agrave; c&amp;ograve;n mang đến cơ hội t&amp;igrave;m kiếm việc l&amp;agrave;m tốt v&amp;agrave; ph&amp;ugrave; hợp cho HSSV trong tương lai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;CAILAYVETCO hiểu rất r&amp;otilde; điều đ&amp;oacute;. Ch&amp;iacute;nh v&amp;igrave; thế, ng&amp;agrave;y 06/6/2018 Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty đ&amp;atilde; tạo mọi điều kiện d&amp;agrave;nh cho c&amp;aacute;c HSSV Trường CĐ Nghề Đồng Th&amp;aacute;p buổi tham quan thực tế C&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;TP.Nghi&amp;ecirc;n cứu &amp; Ph&amp;aacute;t triển &amp;ndash; B&amp;agrave; Nguyễn Thị Phượng giới thiệu t&amp;oacute;m tắt về lịch sử h&amp;igrave;nh th&amp;agrave;nh v&amp;agrave; ph&amp;aacute;t triển của C&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;HSSV chăm ch&amp;uacute; lắng nghe quy tr&amp;igrave;nh hoạt động của C&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;HSSV được t&amp;igrave;m hiểu quy tr&amp;igrave;nh hoạt động, sản xuất, kinh doanh trước khi được tham quan thực tế&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Gi&amp;aacute;m đốc nh&amp;agrave; m&amp;aacute;y &amp;Ocirc;ng Đỗ Văn T&amp;agrave;i v&amp;agrave; TP. Sản xuất &amp;Ocirc;ng Th&amp;acirc;n Văn Dũng đang tr&amp;ograve; chuyện với GV Trường CĐ nghề Đồng Th&amp;aacute;p.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ban l&amp;atilde;nh đạo C&amp;ocirc;ng ty Cổ phần Dược Th&amp;uacute; y Cai Lậy - CAILAYVETCO lu&amp;ocirc;n quan t&amp;acirc;m v&amp;agrave; tạo mọi điều kiện gi&amp;uacute;p đỡ c&amp;aacute;c trường ĐH-CĐ trong khu vực trong việc đ&amp;agrave;o tạo, tuyển dụng nh&amp;acirc;n vi&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c thầy c&amp;ocirc; c&amp;ugrave;ng c&amp;aacute;c em HSSV đ&amp;atilde; được đi thăm khu kiểm nghiệm, hệ thống khu phụ trợ: sản xuất khi n&amp;eacute;n, kh&amp;iacute; Ni-tơ, nước RO, hệ thống xử l&amp;yacute; nước thải, khu kỹ thuật cơ điện,&amp;hellip; Đặc biệt, nh&amp;agrave; m&amp;aacute;y sản xuất Beta-lactam v&amp;agrave; Non-Betalactam với hệ thống sản xuất v&amp;agrave; đ&amp;oacute;ng g&amp;oacute;i kh&amp;eacute;p k&amp;iacute;n rất chuy&amp;ecirc;n nghiệp v&amp;agrave; hiện đại của c&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Qua đ&amp;oacute;, c&amp;aacute;c em sinh vi&amp;ecirc;n đ&amp;atilde; được biết th&amp;ecirc;m nhiều điều về m&amp;ocirc;i trường l&amp;agrave;m việc, quy tr&amp;igrave;nh sản xuất, c&amp;aacute;c sản phẩm ti&amp;ecirc;u biểu,&amp;hellip; theo ti&amp;ecirc;u chuẩn quốc tế WHO-GMP điều n&amp;agrave;y đ&amp;atilde; l&amp;agrave;m cho c&amp;aacute;c em HSSV rất th&amp;iacute;ch th&amp;uacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đo&amp;agrave;n tham quan chụp ảnh lưu niệm tại C&amp;ocirc;ng ty CAILAYVETCO&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Buổi tham quan đ&amp;atilde; kh&amp;eacute;p lại với những trải nghiệm th&amp;uacute; vị v&amp;agrave; trang bị th&amp;ecirc;m nhiều kiến thức v&amp;ocirc; c&amp;ugrave;ng bổ &amp;iacute;ch cho HSSV.&lt;/p&gt;</content_html>
+	<createdDate>2020-07-31T06:04:04.316Z</createdDate>
+	<createdDate_dt>2020-07-31T06:04:04.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T06:04:04.316Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T06:04:04.316Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

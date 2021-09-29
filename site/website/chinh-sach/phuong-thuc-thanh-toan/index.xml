@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsach</content-type>
+	<display-template>/templates/web/page/chinhsach.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2e1c033f</objectGroupId>
+	<objectId>2e1c033f-5d02-4580-ac31-7810dc7b4501</objectId>
+	<internal-name>Phương thức thanh toán</internal-name>
+	<navLabel>Phương thức thanh toán</navLabel>
+	<title_s>Phương thức thanh toán</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>phuong-thuc-thanh-toan</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<imageBanner_s>/static-assets/images/news/img-chinh-sach.jpg</imageBanner_s>
+	<content_html>&lt;p&gt;&lt;strong&gt;&lt;span style="text-align: justify; text-indent: -24px;"&gt;1. Kh&amp;aacute;ch h&amp;agrave;ng đại l&amp;yacute;: Thanh to&amp;aacute;n bằng tiền mặt khi nhận h&amp;agrave;ng hoặc chuyển khoản v&amp;agrave;o t&amp;agrave;i khoản c&amp;ocirc;ng ty theo th&amp;ocirc;ng tin:&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;Ocirc;NG TY CỔ PHẦN DƯỢC TH&amp;Uacute; Y CAI LẬY&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trụ sở ch&amp;iacute;nh: Khu phố 1, phường 5, thị x&amp;atilde; Cai Lậy, tỉnh Tiền Giang&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điện thoại: (0273) 3826462 - 3710769 - Fax: (0273) 3826363&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Số t&amp;agrave;i khoản: 0071000867079&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại ng&amp;acirc;n h&amp;agrave;ng: Ng&amp;acirc;n H&amp;agrave;ng Thương Mại Cổ Phần Ngoại Thương Việt Nam - CN.TP.HCM&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Đối với kh&amp;aacute;ch h&amp;agrave;ng c&amp;aacute; nh&amp;acirc;n c&amp;oacute; nhu cầu mua số lượng lớn để kinh doanh hoặc b&amp;aacute;n bu&amp;ocirc;n:&lt;/strong&gt; vui l&amp;ograve;ng li&amp;ecirc;n hệ trực tiếp với ch&amp;uacute;ng t&amp;ocirc;i để c&amp;oacute; ch&amp;iacute;nh s&amp;aacute;ch gi&amp;aacute; cả hợp l&amp;yacute;. V&amp;agrave; việc thanh to&amp;aacute;n sẽ được thực hiện theo hợp đồng.&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2020-08-04T09:05:19.209Z</createdDate>
+	<createdDate_dt>2020-08-04T09:05:19.209Z</createdDate_dt>
+	<lastModifiedDate>2020-09-24T02:57:51.653Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-24T02:57:51.653Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>973a85f5-2cc7-77ec-0870-b31e0631e669</key>
+	<value>Slide</value>
+<component id="973a85f5-2cc7-77ec-0870-b31e0631e669">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>973a</objectGroupId>
+	<objectId>973a85f5-2cc7-77ec-0870-b31e0631e669</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg2.png</image_s>
+	</item></slide_o>
+	<internal-name>Slide</internal-name>
+	<file-name>973a85f5-2cc7-77ec-0870-b31e0631e669.xml</file-name>
+	<createdDate>2020-08-04T09:06:47.487Z</createdDate>
+	<createdDate_dt>2020-08-04T09:06:47.487Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T09:06:47.487Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T09:06:47.487Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+</page>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>deb9</objectGroupId>
+	<objectId>deb9ecc5-2ccc-b613-582e-b3cf5b4c43cf</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<header_o item-list="true">	<item datasource="headerEn">	<key>/site/items/enheader/ed6251d9-6967-3a41-5447-d7f633002186.xml</key>
+	<value>Logo</value>
+	<include>/site/items/enheader/ed6251d9-6967-3a41-5447-d7f633002186.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<slideLogo_o item-list="true">	<item datasource="slideLogoDatasource">	<key>/site/items/carousel/6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</key>
+	<value>Carousel Logo thành viên</value>
+	<include>/site/items/carousel/6f4b9de8-c742-d2a9-9d42-024c5a739f7e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideLogo_o>
+	<footer_o item-list="true">	<item datasource="footerEn">	<key>/site/items/enfooter/958698d8-2ab0-e0a7-6bf7-21dbebe56e1c.xml</key>
+	<value>Footer</value>
+	<include>/site/items/enfooter/958698d8-2ab0-e0a7-6bf7-21dbebe56e1c.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<createdDate>2020-07-13T03:04:33.046Z</createdDate>
+	<createdDate_dt>2020-07-13T03:04:33.046Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:44:38.027Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:44:38.027Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enproductdetail</content-type>
+	<display-template>/templates/web/enproductdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e314a39e</objectGroupId>
+	<objectId>e314a39e-ce66-4a65-b5b5-a38a7fbda945</objectId>
+	<internal-name>ADE SUPER POWDER</internal-name>
+	<navLabel>ADE SUPER POWDER</navLabel>
+	<productName_s>ADE SUPER POWDER</productName_s>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-trau-bo</key>
+	<value_smv>Products for cattle</value_smv>
+	</item>	<item>	<key>thuoc-cho-heo</key>
+	<value_smv>Products for swine</value_smv>
+	</item>	<item>	<key>thuoc-cho-loai-vat-khac</key>
+	<value_smv>Product for other animals</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-ho-tro-sinh-san-va-ho-tro-khac</key>
+	<value_smv>Reproductive Medicine</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/ADE Super Powder.png</productImage_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 49.8395%;"&gt;
+&lt;p&gt;&lt;strong&gt;Ingredient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vitamin A 4,000,000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 800,000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E 5g&lt;/p&gt;
+&lt;p&gt;Excipients vđ 1kg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Preventing and treating vitamin ADE deficiency in cattle and poultry.&lt;/p&gt;
+&lt;p&gt;- Strengthen resistance, reduce stress, help healthy cattle and poultry gain weight fast and use feed effectively.&lt;/p&gt;
+&lt;p&gt;- Increase conception rate in pigs, increase egg production and hatching rate in poultry.&lt;/p&gt;
+&lt;p&gt;- Increase the quality of meat.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.34704%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 46.8134%;"&gt;
+&lt;p&gt;&lt;strong&gt;How to use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mix well into food.&lt;/p&gt;
+&lt;p&gt;- Sows, Venom: mix 100g with 100-150kg of feed.&lt;/p&gt;
+&lt;p&gt;- Cows, goats and sheep: 100g mixed with 100kg of feed&lt;/p&gt;
+&lt;p&gt;- Pork meat and poultry: mix 100g with 150-200kg of feed.&lt;/p&gt;
+&lt;p&gt;Continuous feeding during feeding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Registration number: CL-324&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<file-name>index.xml</file-name>
+	<folder-name>oxytocin-122b7e65</folder-name>
+	<createdDate>2020-08-05T08:17:33.137Z</createdDate>
+	<createdDate_dt>2020-08-05T08:17:33.137Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T08:21:50.285Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T08:21:50.285Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-04T17:00:00.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

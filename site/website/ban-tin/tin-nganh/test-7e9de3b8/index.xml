@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1c73deee</objectGroupId>
+	<objectId>1c73deee-f1f5-4748-aba5-2faf5f37cd37</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-7e9de3b8</folder-name>
+	<internal-name>test132312 7e9de3b8</internal-name>
+	<navLabel>teset</navLabel>
+	<title_s>test1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>industrynews</key>
+	<value_smv> Tin ngành</value_smv>
+	</item></categories_o>
+	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</key>
+	<value> Header - Tin tức</value>
+	<include>/site/items/slides/eda27ece-67dd-7898-ed0c-0e72715b1aee.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slideImage_o>
+	<image_s>/static-assets/images/news/1 (2).jpg</image_s>
+	<content_html>&lt;p&gt;teset1&lt;/p&gt;</content_html>
+	<createdDate>2021-07-08T06:45:12.725Z</createdDate>
+	<createdDate_dt>2021-07-08T06:45:14.000Z</createdDate_dt>
+	<lastModifiedDate>2021-07-08T07:00:26.740Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-08T07:00:26.740Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>Asia/Ho_Chi_Minh</createdDate_dt_tz>
+</page>

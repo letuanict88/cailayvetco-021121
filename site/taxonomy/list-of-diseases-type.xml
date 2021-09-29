@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6bc5</objectGroupId>
+	<objectId>6bc551df-42ce-d880-3cfb-f78a97b0e3b9</objectId>
+	<items item-list="true">	<item>	<key>benh-gia-suc-gia-cam</key>
+	<value>Bệnh gia súc - gia cầm</value>
+	</item>	<item>	<key>benh-thuy-san</key>
+	<value>Bệnh thủy sản</value>
+	</item>	<item>	<key>benh-thu-cung</key>
+	<value>Bệnh thú cưng</value>
+	</item></items>
+	<file-name>list-of-diseases-type.xml</file-name>
+	<folder-name/>
+	<internal-name>Danh sách các loại bệnh</internal-name>
+	<createdDate>2020-06-26T03:12:18.115Z</createdDate>
+	<createdDate_dt>2020-06-26T03:12:18.115Z</createdDate_dt>
+	<lastModifiedDate>2020-06-26T03:12:18.115Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-26T03:12:18.115Z</lastModifiedDate_dt>
+</component>

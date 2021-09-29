@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/page/productdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>59ef</objectGroupId>
+	<objectId>59ef30e5-838d-6c36-86f1-247ef7c5c0e5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tetra-trung-gc</folder-name>
+	<isHot_b>false</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>TETRA TRỨNG GC</internal-name>
+	<navLabel>TETRA TRỨNG GC</navLabel>
+	<productName_s>TETRA TRỨNG GC</productName_s>
+	<productgrouplv1_o>	<item>	<key>thuoc-cho-ga-vit</key>
+	<value_smv>Sản phẩm cho Gà - Vịt</value_smv>
+	</item></productgrouplv1_o>
+	<productgrouplv2_o>	<item>	<key>nhom-thuoc-khang-sinh</key>
+	<value_smv>Nhóm thuốc kháng sinh</value_smv>
+	</item></productgrouplv2_o>
+	<productImage_s>/static-assets/images/products/76 TETRA TRUNG GC LonA.png</productImage_s>
+	<productDescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 48.941%;"&gt;
+&lt;p&gt;&lt;strong&gt;Th&amp;agrave;nh phần&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oxytetracycline HCl 2g&lt;/p&gt;
+&lt;p&gt;L-Lysine HCl 4g&lt;/p&gt;
+&lt;p&gt;DL-Methionine 2g&lt;/p&gt;
+&lt;p&gt;Vitamin A 200.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin D3 150.000UI&lt;/p&gt;
+&lt;p&gt;Vitamin E 60mg&lt;/p&gt;
+&lt;p&gt;T&amp;aacute; dược vđ 100g&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Bổ sung vitamin v&amp;agrave; acid amin gi&amp;uacute;p g&amp;agrave;, vịt, c&amp;uacute;t tăng&amp;nbsp;trọng nhanh, tăng sản lượng trứng.&lt;/p&gt;
+&lt;p&gt;- Ngừa c&amp;aacute;c bệnh suy dinh dưỡng, nhiễm tr&amp;ugrave;ng đường&amp;nbsp;ruột v&amp;agrave; h&amp;ocirc; hấp, ph&amp;ograve;ng dịch bệnh cho g&amp;agrave;, vịt, c&amp;uacute;t đẻ.&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 3.6372%;"&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 47.4217%;"&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;aacute;ch d&amp;ugrave;ng&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trộn v&amp;agrave;o thức ăn hoặc pha nước cho uống.&lt;/p&gt;
+&lt;p&gt;G&amp;agrave;, vịt, c&amp;uacute;t: 1g/1kg thể trọng/ng&amp;agrave;y hay 5g/3-5 l&amp;iacute;t nước uống.&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng li&amp;ecirc;n tục 5-7 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;Ph&amp;ograve;ng bệnh d&amp;ugrave;ng 1/2 liều tr&amp;ecirc;n&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Số đăng k&amp;yacute;: CL-160&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productDescription_html>
+	<section_o item-list="true">	<item datasource="section">	<key>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</key>
+	<value>Header Slide</value>
+	<include>/site/items/1b5ec5f2-073f-9574-8a1b-206ad4223375.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<createdDate>2020-08-03T04:34:44.563Z</createdDate>
+	<createdDate_dt>2020-08-03T04:34:44.563Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T04:23:42.732Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T04:23:42.732Z</lastModifiedDate_dt>
+	<createddate_dt>2020-08-03T04:34:45.000Z</createddate_dt>
+	<createddate_dt_tz>Asia/Ho_Chi_Minh</createddate_dt_tz>
+</page>

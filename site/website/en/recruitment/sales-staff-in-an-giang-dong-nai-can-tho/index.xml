@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enjobdetail</content-type>
+	<display-template>/templates/web/page/job-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fbf3</objectGroupId>
+	<objectId>fbf3a92f-4810-eb51-c906-67f7bfa696d9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>sales-staff-in-an-giang-dong-nai-can-tho</folder-name>
+	<internal-name> Sales staff in the South</internal-name>
+	<navLabel> Sales staff in the South</navLabel>
+	<jobTitle_s> Sales staff in the South</jobTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>6c859fd6-c4be-0eea-85ba-f4c535305054</key>
+	<value>Slide</value>
+<component id="6c859fd6-c4be-0eea-85ba-f4c535305054">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6c85</objectGroupId>
+	<objectId>6c859fd6-c4be-0eea-85ba-f4c535305054</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-job-title.png</image_s>
+	</item></slide_o>
+	<file-name>6c859fd6-c4be-0eea-85ba-f4c535305054.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-07-13T09:02:32.975Z</createdDate>
+	<createdDate_dt>2020-07-13T09:02:32.975Z</createdDate_dt>
+	<lastModifiedDate>2020-07-13T09:02:32.975Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-13T09:02:32.975Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<jobContent_html>&lt;p&gt;&lt;strong&gt;Number of recruitment: 4 people&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job description:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Manage and develop the customer system in the assigned area&lt;/p&gt;
+&lt;p&gt;- Approach, consult solutions to propose signing contracts with customers&lt;/p&gt;
+&lt;p&gt;- Take care and create sustainable cooperation relationships with customers&lt;/p&gt;
+&lt;p&gt;- Maintain customer relationships; established a sales system and well implemented business in the region&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Gender: Male&lt;/p&gt;
+&lt;p&gt;- Graduated high school / college / university major in Veterinary Medicine / Animal husbandry / fisheries&lt;/p&gt;
+&lt;p&gt;- Having sales experience of 01 year or more&lt;/p&gt;
+&lt;p&gt;- Communicate and present effectively&lt;/p&gt;
+&lt;p&gt;- Building sustainable cooperation relationships with customers&lt;/p&gt;
+&lt;p&gt;- Negotiate and solve problems well&lt;/p&gt;
+&lt;p&gt;- Ability to work independently, in groups&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Income from 10 to 30 million / month&lt;/p&gt;
+&lt;p&gt;- Enjoy all the benefits of social insurance, YT, TN, public holidays, New Year in accordance with the current law.&lt;/p&gt;
+&lt;p&gt;- The company participates in unemployment insurance 24/24&lt;/p&gt;
+&lt;p&gt;- Join and enjoy the rights of a union.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Profile request:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Job application, certificate of conduct, health certificate (within 6 months).&lt;/p&gt;
+&lt;p&gt;- Identity card, household registration book (copy).&lt;/p&gt;
+&lt;p&gt;- Relevant diplomas and certificates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Apply directly at the company.&lt;/p&gt;
+&lt;p&gt;- Candidates applying by email please scan diplomas, certificates, transcripts, CV and relevant documents sent to the Company Email: tuyendung@cailayvetco.com&lt;/p&gt;</jobContent_html>
+	<createdDate>2020-07-13T09:01:44.311Z</createdDate>
+	<createdDate_dt>2020-07-13T09:01:44.311Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:39:49.365Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:39:49.365Z</lastModifiedDate_dt>
+	<jobDuration_dt>2020-07-31T07:57:49.000Z</jobDuration_dt>
+	<jobDuration_dt_tz>Asia/Ho_Chi_Minh</jobDuration_dt_tz>
+</page>

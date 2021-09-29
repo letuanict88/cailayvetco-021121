@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b9a5</objectGroupId>
+	<objectId>b9a5dc89-dee2-1ac8-9f71-22eb8d9350ab</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>su-menh</folder-name>
+	<internal-name>Sứ mệnh tầm nhìn</internal-name>
+	<navLabel>Sứ mệnh tầm nhìn</navLabel>
+	<title_s>Sứ mệnh tầm nhìn</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Sứ mệnh tầm nhìn</description_t>
+	<sections_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/f1908f2b-b60a-2c07-3eae-82c53c85dd82.xml</key>
+	<value>Header - Sứ mệnh tầm nhìn</value>
+	<include>/site/items/slides/f1908f2b-b60a-2c07-3eae-82c53c85dd82.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>7fa81ee1-05fc-35a1-0a31-82bebfe49bf6</key>
+	<value>Content - Sứ mệnh tầm nhìn</value>
+<component id="7fa81ee1-05fc-35a1-0a31-82bebfe49bf6">
+	<content-type>/component/introduction</content-type>
+	<display-template>/templates/web/introduction.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7fa8</objectGroupId>
+	<objectId>7fa81ee1-05fc-35a1-0a31-82bebfe49bf6</objectId>
+	<file-name>7fa81ee1-05fc-35a1-0a31-82bebfe49bf6.xml</file-name>
+	<internal-name>Content - Sứ mệnh tầm nhìn</internal-name>
+	<title_s>SỨ MỆNH TẦM NHÌN</title_s>
+	<image_s>/static-assets/images/introduction/Layer 191.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;SỨ MỆNH&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trở th&amp;agrave;nh Nh&amp;agrave; cung cấp c&amp;aacute;c giải ph&amp;aacute;p to&amp;agrave;n diện về thực phẩm an to&amp;agrave;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;TẦM NH&amp;Igrave;N&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trở th&amp;agrave;nh doanh nghiệp h&amp;agrave;ng đầu cung cấp c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ về n&amp;ocirc;ng nghiệp hiệu quả v&amp;agrave; chuy&amp;ecirc;n nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tạo ra c&amp;aacute;c sản phẩm dịch vụ ưu việt th&amp;ocirc;ng qua c&amp;ocirc;ng t&amp;aacute;c nghi&amp;ecirc;n cứu ph&amp;aacute;t triển li&amp;ecirc;n tục.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;aacute;t triển v&amp;agrave; ứng dụng hệ thống sản xuất th&amp;acirc;n thiện với m&amp;ocirc;i trường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Cung cấp lợi &amp;iacute;ch bền vững cho kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c, nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; cổ đ&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;GI&amp;Aacute; TRỊ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Người ti&amp;ecirc;u d&amp;ugrave;ng - Trở th&amp;agrave;nh thương hiệu đạt kỳ vọng v&amp;agrave; sự tin cậy của người ti&amp;ecirc;u d&amp;ugrave;ng về chất lượng, an to&amp;agrave;n v&amp;agrave; tiện lợi.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Kh&amp;aacute;ch h&amp;agrave;ng&amp;nbsp; - Trở th&amp;agrave;nh đối t&amp;aacute;c tin cậy nhất, cung cấp c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ ti&amp;ecirc;n tiến.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Cộng đồng - Trở th&amp;agrave;nh doanh nghiệp tin cậy, t&amp;iacute;ch cực bảo vệ m&amp;ocirc;i trường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Nh&amp;acirc;n vi&amp;ecirc;n - Trở th&amp;agrave;nh nơi an to&amp;agrave;n, th&amp;acirc;n thiện v&amp;agrave; l&amp;agrave;nh mạnh, nơi mọi người mong muốn l&amp;agrave;m việc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Đối t&amp;aacute;c - Cung cấp đầu ra ổn định, hướng dẫn hiệu quả, ph&amp;ograve;ng ngừa rủi ro, bảo vệ m&amp;ocirc;i trường v&amp;agrave; chăn nu&amp;ocirc;i an to&amp;agrave;n cho hệ thống đối t&amp;aacute;c gia c&amp;ocirc;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với Cổ đ&amp;ocirc;ng - Tạo lợi nhuận bền vững v&amp;agrave; t&amp;agrave;i ch&amp;iacute;nh l&amp;agrave;nh mạnh theo định hướng Tầm nh&amp;igrave;n v&amp;agrave; c&amp;aacute;c Gi&amp;aacute; trị của C&amp;ocirc;ng ty.&lt;/p&gt;</content_html>
+	<createdDate>2020-06-24T08:29:43.034Z</createdDate>
+	<createdDate_dt>2020-06-24T08:29:43.034Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T03:06:31.621Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T03:06:31.621Z</lastModifiedDate_dt>
+	<button1_s>Giới thiệu chung</button1_s>
+	<url1_s>/gioi-thieu-chung</url1_s>
+	<button2_s>Lịch sử hình thành</button2_s>
+	<url2_s>/gioi-thieu-chung/lich-su-hinh-thanh</url2_s>
+	<button3_s>Giải thưởng - Thành tích</button3_s>
+	<url3_s>/gioi-thieu-chung/thanh-tich-dat-duoc</url3_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-24T08:28:37.312Z</createdDate>
+	<createdDate_dt>2020-06-24T08:28:37.312Z</createdDate_dt>
+	<lastModifiedDate>2020-07-31T03:06:25.083Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-31T03:06:25.083Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/techsupport</content-type>
+	<display-template>/templates/web/page/technical-assis-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>11e2</objectGroupId>
+	<objectId>11e25503-7e13-65e3-24af-f8aea8b46dbc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>benh-va-dieu-tri</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>4994717c-b8ce-e289-159d-f097435237d1</key>
+	<value>Silde Bệnh và điều trị</value>
+<component id="4994717c-b8ce-e289-159d-f097435237d1">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4994</objectGroupId>
+	<objectId>4994717c-b8ce-e289-159d-f097435237d1</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-benh-dieu-tri-title.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/slide-thuy-san.png</image_s>
+	</item></slide_o>
+	<file-name>4994717c-b8ce-e289-159d-f097435237d1.xml</file-name>
+	<internal-name>Silde Bệnh và điều trị</internal-name>
+	<createdDate>2020-06-26T04:17:50.478Z</createdDate>
+	<createdDate_dt>2020-06-26T04:17:50.478Z</createdDate_dt>
+	<lastModifiedDate>2020-07-03T02:14:04.060Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-03T02:14:04.060Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<technicalAssistanceCompoent_o item-list="true">	<item datasource="technicalAssistanceComponent">	<key>/site/items/4587f2c7-c92f-dff7-1be2-de40cf838f9a.xml</key>
+	<value>Bệnh gia súc - gia cầm</value>
+	<include>/site/items/4587f2c7-c92f-dff7-1be2-de40cf838f9a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="technicalAssistanceComponent">	<key>/site/items/3f22a296-340f-5779-79b5-390796fcf644.xml</key>
+	<value>Bệnh thủy sản</value>
+	<include>/site/items/3f22a296-340f-5779-79b5-390796fcf644.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="technicalAssistanceComponent">	<key>/site/items/ecbddf98-9b1e-fe67-d748-a161361083ae.xml</key>
+	<value>Bệnh thú cưng</value>
+	<include>/site/items/ecbddf98-9b1e-fe67-d748-a161361083ae.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></technicalAssistanceCompoent_o>
+	<internal-name>Bệnh và điều trị</internal-name>
+	<navLabel>Bệnh và điều trị</navLabel>
+	<title_s>Bệnh và điều trị</title_s>
+	<phoneNumber_s>(0273) 38226462</phoneNumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<supportCustomerImage_s>/static-assets/images/techsupport/ho-tro-kh.png</supportCustomerImage_s>
+	<supportCustomerContent_html>&lt;p style="text-align: justify;"&gt;Với đội ngũ kỹ thuật vi&amp;ecirc;n c&amp;oacute; tr&amp;aacute;ch nhiệm, gi&amp;agrave;u kinh nghiệm, đội ngũ chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng nhiệt t&amp;igrave;nh... MEKOVET lu&amp;ocirc;n mong muốn nhận được những &amp;yacute; kiến đ&amp;oacute;ng g&amp;oacute;p, chia sẻ từ Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng, Nh&amp;agrave; chăn nu&amp;ocirc;i để g&amp;oacute;p phần cải thiện c&amp;aacute;c sản phẩm của C&amp;ocirc;ng ty ng&amp;agrave;y một ho&amp;agrave;n thiện hơn. Ch&amp;uacute;ng t&amp;ocirc;i mong muốn MEKOVET sẽ l&amp;agrave; đối t&amp;aacute;c tin cậy, sẵn s&amp;agrave;ng chia sẻ, giải đ&amp;aacute;p những kh&amp;oacute; khăn vướng mắc của Nh&amp;agrave; chăn nu&amp;ocirc;i, phục vụ tốt nhất kh&amp;aacute;ch h&amp;agrave;ng th&amp;ocirc;ng qua những sản phẩm dược th&amp;uacute; y chất lượng cao v&amp;igrave; mục ti&amp;ecirc;u &lt;strong&gt;&amp;ldquo;Chung tay ph&amp;aacute;t triển bền vững ng&amp;agrave;nh N&amp;ocirc;ng nghiệp Việt Nam&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;H&amp;atilde;y li&amp;ecirc;n hệ với ch&amp;uacute;ng t&amp;ocirc;i để nhận được sự tư vấn, hỗ trợ kịp thời!&lt;/p&gt;</supportCustomerContent_html>
+	<createdDate>2020-06-26T04:17:04.077Z</createdDate>
+	<createdDate_dt>2020-06-26T04:17:04.077Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T04:39:35.471Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T04:39:35.471Z</lastModifiedDate_dt>
+	<processtitle_s>QUY TRÌNH CHĂN NUÔI - CHĂM SÓC - PHÒNG BỆNH</processtitle_s>
+	<processComponent_o item-list="true">	<item datasource="processComponent">	<key>/site/items/6f431038-f6f7-d220-978a-54a2929cb97f.xml</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH GIA SÚC - GIA CẦM</value>
+	<include>/site/items/6f431038-f6f7-d220-978a-54a2929cb97f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="processComponent">	<key>/site/items/a6256b39-7de8-7a07-55ab-8985fed7c875.xml</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THỦY SẢN</value>
+	<include>/site/items/a6256b39-7de8-7a07-55ab-8985fed7c875.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="processComponent">	<key>/site/items/6e5ff3f7-2539-81e0-5e5f-5329956e88c3.xml</key>
+	<value>CHĂN NUÔI - CHĂM SÓC PHÒNG BỆNH THÚ CƯNG</value>
+	<include>/site/items/6e5ff3f7-2539-81e0-5e5f-5329956e88c3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></processComponent_o>
+</page>

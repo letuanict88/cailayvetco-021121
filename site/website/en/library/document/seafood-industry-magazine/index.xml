@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemoEn</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d69c</objectGroupId>
+	<objectId>d69c27f9-2dce-d4fe-797e-12551176bcef</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>seafood-industry-magazine</folder-name>
+	<internal-name>Animal veterinary Catalog</internal-name>
+	<title_s>Animal veterinary Catalog</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<avatar_s>/static-assets/images/libraries/Bia catalog thu y.jpg</avatar_s>
+	<pDFfile_o item-list="true">	<item datasource="fileExisting">	<key>/static-assets/images/libraries/Catalogue Thuoc Thu y IN.pdf</key>
+	<value>/static-assets/images/libraries/Catalogue Thuoc Thu y IN.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	</item></pDFfile_o>
+	<createdDate>2020-07-13T10:50:37.660Z</createdDate>
+	<createdDate_dt>2020-07-13T10:50:37.660Z</createdDate_dt>
+	<lastModifiedDate>2020-08-05T03:18:28.440Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-05T03:18:28.440Z</lastModifiedDate_dt>
+</page>

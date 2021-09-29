@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/page/group-child-product-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ea83</objectGroupId>
+	<objectId>ea83e1fc-8b83-cd43-3146-a9244bcaecbf</objectId>
+	<internal-name>Nhóm Thuốc kháng sinh</internal-name>
+	<navLabel>Nhóm Thuốc kháng sinh</navLabel>
+	<title_s>Nhóm Thuốc kháng sinh</title_s>
+	<rightTitle_s>AMPICILLIN</rightTitle_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>khang-sinh</folder-name>
+	<section_o item-list="true">	<item datasource="section" inline="true">	<key>e53efc6e-a17f-b162-0435-907d5db2feec</key>
+	<value>Slide</value>
+<component id="e53efc6e-a17f-b162-0435-907d5db2feec">
+	<content-type>/component/headerslide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e53e</objectGroupId>
+	<objectId>e53efc6e-a17f-b162-0435-907d5db2feec</objectId>
+	<slide_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg.png</image_s>
+	</item></slide_o>
+	<file-name>e53efc6e-a17f-b162-0435-907d5db2feec.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-08-03T08:08:44.140Z</createdDate>
+	<createdDate_dt>2020-08-03T08:08:44.140Z</createdDate_dt>
+	<lastModifiedDate>2020-08-03T08:08:44.140Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-03T08:08:44.140Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<productChildgroup_o item-list="true">	<item datasource="productchildgroup">	<key>/site/items/d0f9572e-d6be-cb0e-d07c-6396bae238a0.xml</key>
+	<value>Danh sách sản phẩm</value>
+	<include>/site/items/d0f9572e-d6be-cb0e-d07c-6396bae238a0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></productChildgroup_o>
+	<leftImage_s>/static-assets/images/products/left-img.png</leftImage_s>
+	<rightimage_s>/static-assets/images/products/14 AMPICILLIN 3A.png</rightimage_s>
+	<createdDate>2020-08-03T08:07:11.199Z</createdDate>
+	<createdDate_dt>2020-08-03T08:07:11.199Z</createdDate_dt>
+	<lastModifiedDate>2020-08-04T07:07:09.686Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-04T07:07:09.686Z</lastModifiedDate_dt>
+</page>
