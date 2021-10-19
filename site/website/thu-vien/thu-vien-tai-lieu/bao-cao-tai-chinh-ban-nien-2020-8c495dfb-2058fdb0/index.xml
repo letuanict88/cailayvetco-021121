@@ -6,21 +6,21 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>245c2dbf</objectGroupId>
 	<objectId>245c2dbf-3f2c-4cbf-9623-085009eddb15</objectId>
-	<internal-name>Báo cáo tài chính 6 tháng cuối năm 2020 8c495dfb 2058fdb0</internal-name>
-	<title_s>Báo cáo tài chính 6 tháng cuối năm 2020</title_s>
+	<internal-name>Nghị quyết HĐQT chấp thuận thê chấp QSD đất</internal-name>
+	<title_s>Nghị quyết HĐQT chấp thuận thê chấp QSD đất</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-tai-chinh-ban-nien-2020-8c495dfb-2058fdb0</folder-name>
+	<folder-name>nghi-quyet-hdqt-the-chap-quyen-su-dung-dat</folder-name>
 	<avatar_s>/static-assets/images/libraries/6.-cham-soc-KH.jpg</avatar_s>
 	<isDisplay_b>false</isDisplay_b>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/2. Thong tin ung vien A.doc</key>
-	<value>/static-assets/images/libraries/2. Thong tin ung vien A.doc</value>
-	<fileType_mvs>doc</fileType_mvs>
-	<fileSize_s>279552</fileSize_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/MKV-NQ2021 12.10.2021.pdf</key>
+	<value>/static-assets/images/libraries/MKV-NQ2021 12.10.2021.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>422206</fileSize_s>
 	</item></pDFfile_o>
 	<createdDate>2020-08-14T03:45:18.837Z</createdDate>
 	<createdDate_dt>2020-08-14T03:45:18.837Z</createdDate_dt>
-	<lastModifiedDate>2020-10-16T06:52:28.123Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-10-16T06:52:28.123Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-19T09:56:14.892Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-19T09:56:14.892Z</lastModifiedDate_dt>
 </page>
