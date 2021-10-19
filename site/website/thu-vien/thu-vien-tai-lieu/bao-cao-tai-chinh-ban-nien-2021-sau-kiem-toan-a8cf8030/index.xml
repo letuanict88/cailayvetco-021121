@@ -7,20 +7,20 @@
 	<objectGroupId>5361a8f9</objectGroupId>
 	<objectId>5361a8f9-476d-4426-ab3c-1a97370fb56b</objectId>
 	<isDisplay_b>false</isDisplay_b>
-	<internal-name>Công bố báo cáo tài chính bán niên năm 2021 a8cf8030</internal-name>
-	<title_s>Công bố báo cáo tài chính bán niên năm 2021</title_s>
+	<internal-name>Công bố báo cáo tài chính quý 3 năm 2021</internal-name>
+	<title_s>Công bố báo cáo tài chính quý 3 năm 2021</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/BCTC ban nien 2021 sau kiem toan.pdf</key>
-	<value>/static-assets/images/libraries/BCTC ban nien 2021 sau kiem toan.pdf</value>
+	<orderDefault_f>-1</orderDefault_f>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Bao cao tai chinh quy 3.2021.pdf</key>
+	<value>/static-assets/images/libraries/Bao cao tai chinh quy 3.2021.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>8646506</fileSize_s>
+	<fileSize_s>7601286</fileSize_s>
 	</item></pDFfile_o>
 	<file-name>index.xml</file-name>
-	<folder-name>bao-cao-tai-chinh-ban-nien-2021-sau-kiem-toan-a8cf8030</folder-name>
+	<folder-name>bao-cao-tai-chinh-quy-3-nam-2021</folder-name>
 	<avatar_s>/static-assets/images/libraries/MKV.jpg</avatar_s>
 	<createdDate>2021-03-24T09:57:28.682Z</createdDate>
 	<createdDate_dt>2021-03-24T09:57:28.682Z</createdDate_dt>
-	<lastModifiedDate>2021-08-13T12:24:10.336Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-08-13T12:24:10.336Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-19T06:48:43.540Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-19T06:48:43.540Z</lastModifiedDate_dt>
 </page>
